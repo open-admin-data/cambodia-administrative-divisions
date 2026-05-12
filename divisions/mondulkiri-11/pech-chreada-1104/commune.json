@@ -1,0 +1,226 @@
+[
+  {
+    "id": "110404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៊ូស្រា",
+      "en": "Bu Sra",
+      "slug": "bu-sra-110404"
+    },
+    "code": {
+      "id": "110404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "local": "ពេជ្រាដា",
+        "en": "Pech Chreada",
+        "slug": "pech-chreada-1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1104",
+        "level": 2,
+        "name": {
+          "local": "ពេជ្រាដា",
+          "en": "Pech Chreada",
+          "slug": "pech-chreada-1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110404"
+    ],
+    "geo": {
+      "lat": "12.553798",
+      "lon": "107.4667454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រង់តេះ",
+      "en": "Krang Teh",
+      "slug": "krang-teh-110401"
+    },
+    "code": {
+      "id": "110401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "local": "ពេជ្រាដា",
+        "en": "Pech Chreada",
+        "slug": "pech-chreada-1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1104",
+        "level": 2,
+        "name": {
+          "local": "ពេជ្រាដា",
+          "en": "Pech Chreada",
+          "slug": "pech-chreada-1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110401"
+    ],
+    "geo": {
+      "lat": "12.7214636",
+      "lon": "107.4321975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពូជ្រៃ",
+      "en": "Pu Chrey",
+      "slug": "pu-chrey-110402"
+    },
+    "code": {
+      "id": "110402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "local": "ពេជ្រាដា",
+        "en": "Pech Chreada",
+        "slug": "pech-chreada-1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1104",
+        "level": 2,
+        "name": {
+          "local": "ពេជ្រាដា",
+          "en": "Pech Chreada",
+          "slug": "pech-chreada-1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110402"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែអំពូម",
+      "en": "Srae Ampum",
+      "slug": "srae-ampum-110403"
+    },
+    "code": {
+      "id": "110403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "local": "ពេជ្រាដា",
+        "en": "Pech Chreada",
+        "slug": "pech-chreada-1104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1104",
+        "level": 2,
+        "name": {
+          "local": "ពេជ្រាដា",
+          "en": "Pech Chreada",
+          "slug": "pech-chreada-1104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110403"
+    ],
+    "geo": {
+      "lat": "12.5471483",
+      "lon": "107.3404258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

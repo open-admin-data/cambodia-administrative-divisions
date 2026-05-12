@@ -1,0 +1,47 @@
+{
+  "id": "0806",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ល្វាឯម",
+    "en": "Lvea Aem",
+    "slug": "lvea-aem-0806"
+  },
+  "code": {
+    "id": "0806",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5430427",
+    "lon": "105.0485316"
+  },
+  "metadata": {},
+  "source": {}
+}

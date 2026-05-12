@@ -1,0 +1,30 @@
+{
+  "id": "03",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "កំពង់ចាម",
+    "en": "Kampong Cham",
+    "slug": "kampong-cham-03"
+  },
+  "code": {
+    "id": "03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10,
+    "commune": 109
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.1174857",
+    "lon": "105.20800220742942"
+  },
+  "metadata": {},
+  "source": {}
+}

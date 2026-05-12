@@ -1,0 +1,842 @@
+[
+  {
+    "id": "210201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំបក់",
+      "en": "Chambak",
+      "slug": "chambak-210201"
+    },
+    "code": {
+      "id": "210201",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050501"
+    ],
+    "geo": {
+      "lat": "11.2373661",
+      "lon": "104.8097933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំប៉ី",
+      "en": "Champei",
+      "slug": "champei-210202"
+    },
+    "code": {
+      "id": "210202",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210802"
+    ],
+    "geo": {
+      "lat": "11.2718935",
+      "lon": "104.8702384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូង",
+      "en": "Doung",
+      "slug": "doung-210203"
+    },
+    "code": {
+      "id": "210203",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060301"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដឹង",
+      "en": "Kandoeng",
+      "slug": "kandoeng-210204"
+    },
+    "code": {
+      "id": "210204",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210804"
+    ],
+    "geo": {
+      "lat": "11.2844924",
+      "lon": "104.8398157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កុមាររាជា",
+      "en": "Komar Reachea",
+      "slug": "komar-reachea-210205"
+    },
+    "code": {
+      "id": "210205",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210805"
+    ],
+    "geo": {
+      "lat": "11.2638718",
+      "lon": "104.7398177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងលាវ",
+      "en": "Krang Leav",
+      "slug": "krang-leav-210206"
+    },
+    "code": {
+      "id": "210206",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040706"
+    ],
+    "geo": {
+      "lat": "11.2278127",
+      "lon": "104.7327937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងធ្នង់",
+      "en": "Krang Thnong",
+      "slug": "krang-thnong-210207"
+    },
+    "code": {
+      "id": "210207",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120804"
+    ],
+    "geo": {
+      "lat": "11.332521",
+      "lon": "104.8420139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លំពង់",
+      "en": "Lumpong",
+      "slug": "lumpong-210208"
+    },
+    "code": {
+      "id": "210208",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210808"
+    ],
+    "geo": {
+      "lat": "11.3141446",
+      "lon": "104.764363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពារាម",
+      "en": "Pea Ream",
+      "slug": "pea-ream-210209"
+    },
+    "code": {
+      "id": "210209",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210809"
+    ],
+    "geo": {
+      "lat": "11.2382977",
+      "lon": "104.84617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពត់សរ",
+      "en": "Pot Sar",
+      "slug": "pot-sar-210210"
+    },
+    "code": {
+      "id": "210210",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210810"
+    ],
+    "geo": {
+      "lat": "11.3281258",
+      "lon": "104.9004929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សូរភី",
+      "en": "Sour Phi",
+      "slug": "sour-phi-210211"
+    },
+    "code": {
+      "id": "210211",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210811"
+    ],
+    "geo": {
+      "lat": "11.2874239",
+      "lon": "104.7074123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210212",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងដូង",
+      "en": "Tang Doung",
+      "slug": "tang-doung-210212"
+    },
+    "code": {
+      "id": "210212",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210812"
+    ],
+    "geo": {
+      "lat": "11.3104027",
+      "lon": "104.7359026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210213",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្នោត",
+      "en": "Tnaot",
+      "slug": "tnaot-210213"
+    },
+    "code": {
+      "id": "210213",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140108"
+    ],
+    "geo": {
+      "lat": "11.2149572",
+      "lon": "104.8703112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210214",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងក្រសាំង",
+      "en": "Trapeang Krasang",
+      "slug": "trapeang-krasang-210214"
+    },
+    "code": {
+      "id": "210214",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120902"
+    ],
+    "geo": {
+      "lat": "11.2254172",
+      "lon": "104.7643989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210215",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងសាប",
+      "en": "Trapeang Sab",
+      "slug": "trapeang-sab-210215"
+    },
+    "code": {
+      "id": "210215",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "បាទី",
+        "en": "Bati",
+        "slug": "bati-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "បាទី",
+          "en": "Bati",
+          "slug": "bati-2102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210815"
+    ],
+    "geo": {
+      "lat": "11.26544",
+      "lon": "104.8258041"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

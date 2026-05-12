@@ -1,0 +1,47 @@
+{
+  "id": "0702",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បន្ទាយមាស",
+    "en": "Banteay Meas",
+    "slug": "banteay-meas-0702"
+  },
+  "code": {
+    "id": "0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "07",
+    "level": 1,
+    "name": {
+      "local": "កំពត",
+      "en": "Kampot",
+      "slug": "kampot-07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "កំពត",
+        "en": "Kampot",
+        "slug": "kampot-07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.6731987",
+    "lon": "104.5571703"
+  },
+  "metadata": {},
+  "source": {}
+}

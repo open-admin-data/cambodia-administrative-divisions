@@ -1,0 +1,338 @@
+[
+  {
+    "id": "021306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឆ្នាល់មាន់",
+      "en": "Chhnal Moan",
+      "slug": "chhnal-moan-021306"
+    },
+    "code": {
+      "id": "021306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0213",
+      "level": 2,
+      "name": {
+        "local": "គាស់ក្រឡ",
+        "en": "Koas Krala",
+        "slug": "koas-krala-0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0213",
+        "level": 2,
+        "name": {
+          "local": "គាស់ក្រឡ",
+          "en": "Koas Krala",
+          "slug": "koas-krala-0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021206"
+    ],
+    "geo": {
+      "lat": "12.6648303",
+      "lon": "103.1395589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូនបា",
+      "en": "Doun Ba",
+      "slug": "doun-ba-021305"
+    },
+    "code": {
+      "id": "021305",
+      "iso": null
+    },
+    "parent": {
+      "id": "0213",
+      "level": 2,
+      "name": {
+        "local": "គាស់ក្រឡ",
+        "en": "Koas Krala",
+        "slug": "koas-krala-0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0213",
+        "level": 2,
+        "name": {
+          "local": "គាស់ក្រឡ",
+          "en": "Koas Krala",
+          "slug": "koas-krala-0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021205"
+    ],
+    "geo": {
+      "lat": "12.7757525",
+      "lon": "103.1435407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ហប់",
+      "en": "Hab",
+      "slug": "hab-021303"
+    },
+    "code": {
+      "id": "021303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0213",
+      "level": 2,
+      "name": {
+        "local": "គាស់ក្រឡ",
+        "en": "Koas Krala",
+        "slug": "koas-krala-0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0213",
+        "level": 2,
+        "name": {
+          "local": "គាស់ក្រឡ",
+          "en": "Koas Krala",
+          "slug": "koas-krala-0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021203"
+    ],
+    "geo": {
+      "lat": "12.7959285",
+      "lon": "103.3000794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គាស់ក្រឡ",
+      "en": "Kaos Krala",
+      "slug": "kaos-krala-021302"
+    },
+    "code": {
+      "id": "021302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0213",
+      "level": 2,
+      "name": {
+        "local": "គាស់ក្រឡ",
+        "en": "Koas Krala",
+        "slug": "koas-krala-0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0213",
+        "level": 2,
+        "name": {
+          "local": "គាស់ក្រឡ",
+          "en": "Koas Krala",
+          "slug": "koas-krala-0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះផុស",
+      "en": "Preah Phos",
+      "slug": "preah-phos-021304"
+    },
+    "code": {
+      "id": "021304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0213",
+      "level": 2,
+      "name": {
+        "local": "គាស់ក្រឡ",
+        "en": "Koas Krala",
+        "slug": "koas-krala-0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0213",
+        "level": 2,
+        "name": {
+          "local": "គាស់ក្រឡ",
+          "en": "Koas Krala",
+          "slug": "koas-krala-0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021204"
+    ],
+    "geo": {
+      "lat": "12.6568435",
+      "lon": "103.2579666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធិបតី",
+      "en": "Thipakdei",
+      "slug": "thipakdei-021301"
+    },
+    "code": {
+      "id": "021301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0213",
+      "level": 2,
+      "name": {
+        "local": "គាស់ក្រឡ",
+        "en": "Koas Krala",
+        "slug": "koas-krala-0213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0213",
+        "level": 2,
+        "name": {
+          "local": "គាស់ក្រឡ",
+          "en": "Koas Krala",
+          "slug": "koas-krala-0213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21301"
+    ],
+    "geo": {
+      "lat": "12.8639161",
+      "lon": "103.2849151"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

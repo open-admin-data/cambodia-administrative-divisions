@@ -1,0 +1,506 @@
+[
+  {
+    "id": "040401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រណូក",
+      "en": "Chranouk",
+      "slug": "chranouk-040401"
+    },
+    "code": {
+      "id": "040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040601"
+    ],
+    "geo": {
+      "lat": "12.4150306",
+      "lon": "104.7500912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដារ",
+      "en": "Dar",
+      "slug": "dar-040402"
+    },
+    "code": {
+      "id": "040402",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040602"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ហៅ",
+      "en": "Kampong Hau",
+      "slug": "kampong-hau-040403"
+    },
+    "code": {
+      "id": "040403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040603"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្លូវទូក",
+      "en": "Phlov Tuk",
+      "slug": "phlov-tuk-040404"
+    },
+    "code": {
+      "id": "040404",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040604"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍",
+      "en": "Pou",
+      "slug": "pou-040405"
+    },
+    "code": {
+      "id": "040405",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040605"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រឡាយមាស",
+      "en": "Pralay Meas",
+      "slug": "pralay-meas-040406"
+    },
+    "code": {
+      "id": "040406",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040606"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោងសែន",
+      "en": "Samraong Saen",
+      "slug": "samraong-saen-040407"
+    },
+    "code": {
+      "id": "040407",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040607"
+    ],
+    "geo": {
+      "lat": "12.3442536",
+      "lon": "104.8466726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយរំពារ",
+      "en": "Svay Rumpear",
+      "slug": "svay-rumpear-040408"
+    },
+    "code": {
+      "id": "040408",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050214"
+    ],
+    "geo": {
+      "lat": "12.3270806",
+      "lon": "104.7907344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040409",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រងិល",
+      "en": "Trangel",
+      "slug": "trangel-040409"
+    },
+    "code": {
+      "id": "040409",
+      "iso": null
+    },
+    "parent": {
+      "id": "0404",
+      "level": 2,
+      "name": {
+        "local": "កំពង់លែង",
+        "en": "Kampong Leaeng",
+        "slug": "kampong-leaeng-0404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0404",
+        "level": 2,
+        "name": {
+          "local": "កំពង់លែង",
+          "en": "Kampong Leaeng",
+          "slug": "kampong-leaeng-0404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040609"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

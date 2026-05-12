@@ -1,0 +1,378 @@
+[
+  {
+    "id": "1301",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ជ័យសែន",
+      "en": "Chey Saen",
+      "slug": "chey-saen-1301"
+    },
+    "code": {
+      "id": "1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.6510167",
+      "lon": "105.2588244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1302",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ឆែប",
+      "en": "Chhaeb",
+      "slug": "chhaeb-1302"
+    },
+    "code": {
+      "id": "1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8833353",
+      "lon": "105.3308329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ជាំក្សាន្ដ",
+      "en": "Choam Ksant",
+      "slug": "choam-ksant-1303"
+    },
+    "code": {
+      "id": "1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.2172713",
+      "lon": "104.9430841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1304",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "គូលែន",
+      "en": "Kuleaen",
+      "slug": "kuleaen-1304"
+    },
+    "code": {
+      "id": "1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.818762",
+      "lon": "104.6996781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1308",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ព្រះវិហារ",
+      "en": "Preah Vihear",
+      "slug": "preah-vihear-1308"
+    },
+    "code": {
+      "id": "1308",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8012643",
+      "lon": "104.9742871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1305",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "រវៀង",
+      "en": "Rovieng",
+      "slug": "rovieng-1305"
+    },
+    "code": {
+      "id": "1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.3488486",
+      "lon": "105.1084435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សង្គមថ្មី",
+      "en": "Sangkum Thmei",
+      "slug": "sangkum-thmei-1306"
+    },
+    "code": {
+      "id": "1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5817856",
+      "lon": "104.9046589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ត្បែងមានជ័យ",
+      "en": "Tbaeng Mean Chey",
+      "slug": "tbaeng-mean-chey-1307"
+    },
+    "code": {
+      "id": "1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8569139",
+      "lon": "105.0217438"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

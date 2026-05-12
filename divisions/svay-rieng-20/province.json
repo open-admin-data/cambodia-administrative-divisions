@@ -1,0 +1,30 @@
+{
+  "id": "20",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ស្វាយរៀង",
+    "en": "Svay Rieng",
+    "slug": "svay-rieng-20"
+  },
+  "code": {
+    "id": "20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8,
+    "commune": 80
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.1942275",
+    "lon": "105.7973275083619"
+  },
+  "metadata": {},
+  "source": {}
+}

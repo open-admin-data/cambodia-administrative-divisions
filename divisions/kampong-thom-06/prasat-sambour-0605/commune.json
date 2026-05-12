@@ -1,0 +1,282 @@
+[
+  {
+    "id": "060501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈូក",
+      "en": "Chhuk",
+      "slug": "chhuk-060501"
+    },
+    "code": {
+      "id": "060501",
+      "iso": null
+    },
+    "parent": {
+      "id": "0605",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទសំបូរ",
+        "en": "Prasat Sambour",
+        "slug": "prasat-sambour-0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0605",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទសំបូរ",
+          "en": "Prasat Sambour",
+          "slug": "prasat-sambour-0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោល",
+      "en": "Koul",
+      "slug": "koul-060502"
+    },
+    "code": {
+      "id": "060502",
+      "iso": null
+    },
+    "parent": {
+      "id": "0605",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទសំបូរ",
+        "en": "Prasat Sambour",
+        "slug": "prasat-sambour-0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0605",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទសំបូរ",
+          "en": "Prasat Sambour",
+          "slug": "prasat-sambour-0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171104"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបូរណ៍",
+      "en": "Sambour",
+      "slug": "sambour-060503"
+    },
+    "code": {
+      "id": "060503",
+      "iso": null
+    },
+    "parent": {
+      "id": "0605",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទសំបូរ",
+        "en": "Prasat Sambour",
+        "slug": "prasat-sambour-0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0605",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទសំបូរ",
+          "en": "Prasat Sambour",
+          "slug": "prasat-sambour-0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030107"
+    ],
+    "geo": {
+      "lat": "12.8867418",
+      "lon": "105.0684199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រើង",
+      "en": "Sraeung",
+      "slug": "sraeung-060504"
+    },
+    "code": {
+      "id": "060504",
+      "iso": null
+    },
+    "parent": {
+      "id": "0605",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទសំបូរ",
+        "en": "Prasat Sambour",
+        "slug": "prasat-sambour-0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0605",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទសំបូរ",
+          "en": "Prasat Sambour",
+          "slug": "prasat-sambour-0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060404"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងក្រសៅ",
+      "en": "Tang Krasau",
+      "slug": "tang-krasau-060505"
+    },
+    "code": {
+      "id": "060505",
+      "iso": null
+    },
+    "parent": {
+      "id": "0605",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទសំបូរ",
+        "en": "Prasat Sambour",
+        "slug": "prasat-sambour-0605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0605",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទសំបូរ",
+          "en": "Prasat Sambour",
+          "slug": "prasat-sambour-0605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060405"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

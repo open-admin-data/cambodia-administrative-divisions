@@ -1,0 +1,114 @@
+[
+  {
+    "id": "110301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដាក់ដាំ",
+      "en": "Dak Dam",
+      "slug": "dak-dam-110301"
+    },
+    "code": {
+      "id": "110301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "អូររាំង",
+        "en": "Ou Reang",
+        "slug": "ou-reang-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "អូររាំង",
+          "en": "Ou Reang",
+          "slug": "ou-reang-1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110301"
+    ],
+    "geo": {
+      "lat": "12.4245047",
+      "lon": "107.2961572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សែនមនោរម្យ",
+      "en": "Saen Monourom",
+      "slug": "saen-monourom-110302"
+    },
+    "code": {
+      "id": "110302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "អូររាំង",
+        "en": "Ou Reang",
+        "slug": "ou-reang-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "អូររាំង",
+          "en": "Ou Reang",
+          "slug": "ou-reang-1103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110302"
+    ],
+    "geo": {
+      "lat": "12.3212265",
+      "lon": "107.0981646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "020205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្លង់រុន",
+      "en": "Anlong Run",
+      "slug": "anlong-run-020205"
+    },
+    "code": {
+      "id": "020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020205"
+    ],
+    "geo": {
+      "lat": "13.1599631",
+      "lon": "102.989521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្សាយត្រែង",
+      "en": "Bansay Traeng",
+      "slug": "bansay-traeng-020209"
+    },
+    "code": {
+      "id": "020209",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020209"
+    ],
+    "geo": {
+      "lat": "13.2462594",
+      "lon": "103.0217393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងព្រីង",
+      "en": "Boeng Pring",
+      "slug": "boeng-pring-020207"
+    },
+    "code": {
+      "id": "020207",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020207"
+    ],
+    "geo": {
+      "lat": "13.3829668",
+      "lon": "103.0725515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃ",
+      "en": "Chrey",
+      "slug": "chrey-020204"
+    },
+    "code": {
+      "id": "020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020204"
+    ],
+    "geo": {
+      "lat": "13.1147228",
+      "lon": "103.106508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រោយស្ដៅ",
+      "en": "Chrouy Sdau",
+      "slug": "chrouy-sdau-020206"
+    },
+    "code": {
+      "id": "020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកឃ្មុំ",
+      "en": "Kouk Khmum",
+      "slug": "kouk-khmum-020208"
+    },
+    "code": {
+      "id": "020208",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020208"
+    ],
+    "geo": {
+      "lat": "13.2488094",
+      "lon": "103.0675146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរតាគី",
+      "en": "Ou Ta Ki",
+      "slug": "ou-ta-ki-020203"
+    },
+    "code": {
+      "id": "020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020203"
+    ],
+    "geo": {
+      "lat": "13.1824567",
+      "lon": "103.1159897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រូងជ្រៃ",
+      "en": "Rung Chrey",
+      "slug": "rung-chrey-020210"
+    },
+    "code": {
+      "id": "020210",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020210"
+    ],
+    "geo": {
+      "lat": "13.2716429",
+      "lon": "102.9859483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាម៉ឺន",
+      "en": "Ta Meun",
+      "slug": "ta-meun-020202"
+    },
+    "code": {
+      "id": "020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020202"
+    ],
+    "geo": {
+      "lat": "13.3071533",
+      "lon": "103.1472193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាពូង",
+      "en": "Ta Pung",
+      "slug": "ta-pung-020201"
+    },
+    "code": {
+      "id": "020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0202",
+      "level": 2,
+      "name": {
+        "local": "ថ្មគោល",
+        "en": "Thma Koul",
+        "slug": "thma-koul-0202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0202",
+        "level": 2,
+        "name": {
+          "local": "ថ្មគោល",
+          "en": "Thma Koul",
+          "slug": "thma-koul-0202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020201"
+    ],
+    "geo": {
+      "lat": "13.2580689",
+      "lon": "103.1661427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

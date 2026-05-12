@@ -1,0 +1,47 @@
+{
+  "id": "1102",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កោះញែក",
+    "en": "Kaoh Nheaek",
+    "slug": "kaoh-nheaek-1102"
+  },
+  "code": {
+    "id": "1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "មណ្ឌលគិរី",
+      "en": "Mondulkiri",
+      "slug": "mondulkiri-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "មណ្ឌលគិរី",
+        "en": "Mondulkiri",
+        "slug": "mondulkiri-11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.0803581",
+    "lon": "107.0451837"
+  },
+  "metadata": {},
+  "source": {}
+}

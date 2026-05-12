@@ -1,0 +1,674 @@
+[
+  {
+    "id": "120515",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងឯក",
+      "en": "Cheung Aek",
+      "slug": "cheung-aek-120515"
+    },
+    "code": {
+      "id": "120515",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120508"
+    ],
+    "geo": {
+      "lat": "11.4882678",
+      "lon": "104.9036406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដង្កោ",
+      "en": "Dangkao",
+      "slug": "dangkao-120501"
+    },
+    "code": {
+      "id": "120501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120501"
+    ],
+    "geo": {
+      "lat": "11.4960888",
+      "lon": "104.8863087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120516",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គងនយ",
+      "en": "Kong Noy",
+      "slug": "kong-noy-120516"
+    },
+    "code": {
+      "id": "120516",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120509"
+    ],
+    "geo": {
+      "lat": "11.4381788",
+      "lon": "104.8400571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120512",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងពង្រ",
+      "en": "Krang Pongro",
+      "slug": "krang-pongro-120512"
+    },
+    "code": {
+      "id": "120512",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120505"
+    ],
+    "geo": {
+      "lat": "11.4467139",
+      "lon": "104.8042486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពងទឹក",
+      "en": "Pong Tuek",
+      "slug": "pong-tuek-120507"
+    },
+    "code": {
+      "id": "120507",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120502"
+    ],
+    "geo": {
+      "lat": "11.476319",
+      "lon": "104.8236934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120517",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកកំពឹស",
+      "en": "Preaek Kampues",
+      "slug": "preaek-kampues-120517"
+    },
+    "code": {
+      "id": "120517",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120510"
+    ],
+    "geo": {
+      "lat": "11.4462201",
+      "lon": "104.9022203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120510",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃស",
+      "en": "Prey Sa",
+      "slug": "prey-sa-120510"
+    },
+    "code": {
+      "id": "120510",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120504"
+    ],
+    "geo": {
+      "lat": "11.4964374",
+      "lon": "104.8618029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120508",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃវែង",
+      "en": "Prey Veaeng",
+      "slug": "prey-veaeng-120508"
+    },
+    "code": {
+      "id": "120508",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120503"
+    ],
+    "geo": {
+      "lat": "11.475629",
+      "lon": "104.8397681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120518",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រលួស",
+      "en": "Roluos",
+      "slug": "roluos-120518"
+    },
+    "code": {
+      "id": "120518",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120511"
+    ],
+    "geo": {
+      "lat": "11.4357024",
+      "lon": "104.8727746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120514",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សាក់សំពៅ",
+      "en": "Sak Sampov",
+      "slug": "sak-sampov-120514"
+    },
+    "code": {
+      "id": "120514",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120507"
+    ],
+    "geo": {
+      "lat": "11.4445966",
+      "lon": "104.8348848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120519",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ពានថ្ម",
+      "en": "Spean Thma",
+      "slug": "spean-thma-120519"
+    },
+    "code": {
+      "id": "120519",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120512"
+    ],
+    "geo": {
+      "lat": "11.4628105",
+      "lon": "104.874518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120520",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទៀន",
+      "en": "Tien",
+      "slug": "tien-120520"
+    },
+    "code": {
+      "id": "120520",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "ដង្កោ",
+        "en": "Dangkao",
+        "slug": "dangkao-1205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "ដង្កោ",
+          "en": "Dangkao",
+          "slug": "dangkao-1205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120513"
+    ],
+    "geo": {
+      "lat": "11.4392438",
+      "lon": "104.8567289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

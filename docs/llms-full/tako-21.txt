@@ -1,0 +1,459 @@
+# Takéo — Cambodia Administrative Divisions
+
+> 10 districts, 100 communes
+> Code: 21
+> Coordinates: 10.93539205, 104.78988300047047
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### អង្គរបូរី (Angkor Borei)
+
+Code: 2101, Coordinates: 10.9958363, 104.9753308
+Communes: 6
+
+#### អង្គរបូរី (Angkor Borei)
+
+Code: 210101, Postal: 210901, Coordinates: 11.0141589, 104.9627905
+
+#### បាស្រែ (Ba Srae)
+
+Code: 210102, Postal: 210902, Coordinates: 11.0452825, 104.9515047
+
+#### គោកធ្លក (Kouk Thlok)
+
+Code: 210103, Postal: 210903, Coordinates: 10.9222454, 105.0121524
+
+#### ពន្លៃ (Ponley)
+
+Code: 210104, Postal: 010203, Coordinates: 11.0447848, 104.8817688
+
+#### ព្រែកផ្ទោល (Preaek Phtoul)
+
+Code: 210105, Postal: 210905, Coordinates: 10.9816885, 104.9872704
+
+#### ព្រៃផ្គាំ (Prey Phkoam)
+
+Code: 210106, Postal: 210906, Coordinates: 11.0212453, 104.9115514
+
+### បាទី (Bati)
+
+Code: 2102, Coordinates: 11.2407943, 104.8119577
+Communes: 15
+
+#### ចំបក់ (Chambak)
+
+Code: 210201, Postal: 050501, Coordinates: 11.2373661, 104.8097933
+
+#### ចំប៉ី (Champei)
+
+Code: 210202, Postal: 210802, Coordinates: 11.2718935, 104.8702384
+
+#### ដូង (Doung)
+
+Code: 210203, Postal: 060301
+
+#### កណ្ដឹង (Kandoeng)
+
+Code: 210204, Postal: 210804, Coordinates: 11.2844924, 104.8398157
+
+#### កុមាររាជា (Komar Reachea)
+
+Code: 210205, Postal: 210805, Coordinates: 11.2638718, 104.7398177
+
+#### ក្រាំងលាវ (Krang Leav)
+
+Code: 210206, Postal: 040706, Coordinates: 11.2278127, 104.7327937
+
+#### ក្រាំងធ្នង់ (Krang Thnong)
+
+Code: 210207, Postal: 120804, Coordinates: 11.332521, 104.8420139
+
+#### លំពង់ (Lumpong)
+
+Code: 210208, Postal: 210808, Coordinates: 11.3141446, 104.764363
+
+#### ពារាម (Pea Ream)
+
+Code: 210209, Postal: 210809, Coordinates: 11.2382977, 104.84617
+
+#### ពត់សរ (Pot Sar)
+
+Code: 210210, Postal: 210810, Coordinates: 11.3281258, 104.9004929
+
+#### សូរភី (Sour Phi)
+
+Code: 210211, Postal: 210811, Coordinates: 11.2874239, 104.7074123
+
+#### តាំងដូង (Tang Doung)
+
+Code: 210212, Postal: 210812, Coordinates: 11.3104027, 104.7359026
+
+#### ត្នោត (Tnaot)
+
+Code: 210213, Postal: 140108, Coordinates: 11.2149572, 104.8703112
+
+#### ត្រពាំងក្រសាំង (Trapeang Krasang)
+
+Code: 210214, Postal: 120902, Coordinates: 11.2254172, 104.7643989
+
+#### ត្រពាំងសាប (Trapeang Sab)
+
+Code: 210215, Postal: 210815, Coordinates: 11.26544, 104.8258041
+
+### បូរីជលសារ (Borei Cholsar)
+
+Code: 2103, Coordinates: 10.8340452, 105.0179878
+Communes: 5
+
+#### បូរីជលសារ (Borei Cholsar)
+
+Code: 210301, Postal: 210701, Coordinates: 10.8484133, 104.9845274
+
+#### ជ័យជោគ (Chey Chouk)
+
+Code: 210302, Postal: 210702
+
+#### ដូងខ្ពស់ (Doung Khpos)
+
+Code: 210303, Postal: 210703
+
+#### កំពង់ក្រសាំង (Kampong Krasang)
+
+Code: 210304, Postal: 210704, Coordinates: 10.7555135, 105.0439887
+
+#### គោកពោធិ៍ (Kouk Pou)
+
+Code: 210305, Postal: 210705
+
+### ដូនកែវ (Doun Kaev)
+
+Code: 2108, Coordinates: 10.9875805, 104.7830181
+Communes: 3
+
+#### បារាយណ៍ (Baray)
+
+Code: 210801, Postal: 030801
+
+#### រកាក្នុង (Roka Knong)
+
+Code: 210802, Postal: 211002, Coordinates: 10.9885202, 104.7826548
+
+#### រកាក្រៅ (Roka Krau)
+
+Code: 210803, Postal: 211003, Coordinates: 10.9795822, 104.7770238
+
+### កោះអណ្ដែត (Kaoh Andaet)
+
+Code: 2105, Coordinates: 10.7965352, 104.9482522
+Communes: 6
+
+#### ក្រពុំឈូក (Krapum Chhuk)
+
+Code: 210501, Postal: 210501, Coordinates: 10.7067716, 104.9206951
+
+#### ពេជសារ (Pech Sar)
+
+Code: 210502, Postal: 210502, Coordinates: 10.731645, 104.8467995
+
+#### ព្រៃខ្លា (Prey Khla)
+
+Code: 210503, Postal: 140808, Coordinates: 10.7648816, 104.9171354
+
+#### ព្រៃយុថ្កា (Prey Yuthka)
+
+Code: 210504, Postal: 210504, Coordinates: 10.6777881, 104.9604338
+
+#### រមេញ (Romenh)
+
+Code: 210505, Postal: 210505, Coordinates: 10.7955358, 104.9485846
+
+#### ធ្លាប្រជុំ (Thlea Prachum)
+
+Code: 210506, Postal: 210506, Coordinates: 10.7972805, 104.8792098
+
+### គីរីវង់ (Kiri Vong)
+
+Code: 2104, Coordinates: 10.6400179, 104.8767691
+Communes: 12
+
+#### អង្គប្រាសាទ (Angk Prasat)
+
+Code: 210401, Postal: 210601
+
+#### កំណប់ (Kamnab)
+
+Code: 210403, Postal: 210603
+
+#### កំពែង (Kampeaeng)
+
+Code: 210404, Postal: 210405
+
+#### គីរីចុងកោះ (Kiri Chong Kaoh)
+
+Code: 210405, Postal: 210605
+
+#### គោកព្រេច (Kouk Prech)
+
+Code: 210406, Postal: 210606
+
+#### ភ្នំដិន (Phnum Den)
+
+Code: 210407, Postal: 210607
+
+#### ព្រះបាទជាន់ជុំ (Preah Bat Choan Chum)
+
+Code: 210402, Postal: 210602
+
+#### ព្រៃអំពក (Prey Ampok)
+
+Code: 210408, Postal: 210608
+
+#### ព្រៃរំដេង (Prey Rumdeng)
+
+Code: 210409, Postal: 141005
+
+#### រាមអណ្ដើក (Ream Andaeuk)
+
+Code: 210410, Postal: 210610
+
+#### សោម (Saom)
+
+Code: 210411, Postal: 210611
+
+#### តាអូរ (Ta Ou)
+
+Code: 210412, Postal: 210612
+
+### ព្រៃកប្បាស (Prey Kabbas)
+
+Code: 2106, Coordinates: 11.1556469, 104.9528949
+Communes: 13
+
+#### អង្កាញ់ (Angkanh)
+
+Code: 210601, Postal: 210101, Coordinates: 10.8865424, 104.8322133
+
+#### បានកាម (Ban Kam)
+
+Code: 210602, Postal: 210402, Coordinates: 11.1395167, 104.939078
+
+#### ចំប៉ា (Champa)
+
+Code: 210603, Postal: 210403, Coordinates: 11.1481076, 104.9054944
+
+#### ចារ (Char)
+
+Code: 210604, Postal: 210404, Coordinates: 11.1993554, 104.9176615
+
+#### កំពែង (Kampeaeng)
+
+Code: 210605, Postal: 210405, Coordinates: 11.0961138, 104.8768861
+
+#### កំពង់រាប (Kampong Reab)
+
+Code: 210606, Postal: 030701, Coordinates: 11.1471187, 105.0016469
+
+#### ក្ដាញ់ (Kdanh)
+
+Code: 210607, Postal: 210407, Coordinates: 11.2007118, 104.8852528
+
+#### ពោធិ៍រំចាក (Pou Rumchak)
+
+Code: 210608, Postal: 210408, Coordinates: 11.1206882, 104.9412519
+
+#### ព្រៃកប្បាស (Prey Kabbas)
+
+Code: 210609, Postal: 210409, Coordinates: 11.09663, 104.9464702
+
+#### ព្រៃល្វា (Prey Lvea)
+
+Code: 210610, Postal: 210410, Coordinates: 11.1624021, 104.9587343
+
+#### ព្រៃផ្ដៅ (Prey Phdau)
+
+Code: 210611, Postal: 210411, Coordinates: 11.16143, 104.8748645
+
+#### ស្នោ (Snao)
+
+Code: 210612, Postal: 210412, Coordinates: 11.183963, 104.9403755
+
+#### តាំងយ៉ាប (Tang Yab)
+
+Code: 210613, Postal: 210413, Coordinates: 11.1882245, 104.8587941
+
+### សំរោង (Samraong)
+
+Code: 2107, Coordinates: 11.1420911, 104.8012079
+Communes: 11
+
+#### បឹងត្រាញ់ខាងជើង (Boeng Tranh Khang Cheung)
+
+Code: 210701, Postal: 210301, Coordinates: 11.1275263, 104.7172203
+
+#### បឹងត្រាញ់ខាងត្បូង (Boeng Tranh Khang Tboung)
+
+Code: 210702, Postal: 210302, Coordinates: 11.0908263, 104.7113716
+
+#### ជើងគួន (Cheung Kuon)
+
+Code: 210703, Postal: 210303, Coordinates: 11.123253, 104.8279512
+
+#### ជំរះពេន (Chumreah Pen)
+
+Code: 210704, Postal: 210304, Coordinates: 11.147652, 104.7414078
+
+#### ខ្វាវ (Khvav)
+
+Code: 210705, Postal: 170804, Coordinates: 11.1808176, 104.722856
+
+#### លំចង់ (Lumchang)
+
+Code: 210706, Postal: 210306, Coordinates: 11.0589835, 104.7640961
+
+#### រវៀង (Rovieng)
+
+Code: 210707, Postal: 210307, Coordinates: 11.1853892, 104.7984073
+
+#### សំរោង (Samraong)
+
+Code: 210708, Postal: 010404, Coordinates: 10.8004948, 104.8364855
+
+#### ស្លា (Sla)
+
+Code: 210710, Postal: 210310, Coordinates: 11.1722471, 104.8187093
+
+#### សឹង្ហ (Soengh)
+
+Code: 210709, Postal: 010406, Coordinates: 11.1138124, 104.7753673
+
+#### ទ្រា (Trea)
+
+Code: 210711, Postal: 060713, Coordinates: 11.0895447, 104.8195345
+
+### ត្រាំកក់ (Tram Kak)
+
+Code: 2109, Coordinates: 11.0065848, 104.6649599
+Communes: 15
+
+#### អង្គតាសោម (Angk Ta Saom)
+
+Code: 210901, Postal: 210201, Coordinates: 11.0130714, 104.6732034
+
+#### ជាងទង (Cheang Tong)
+
+Code: 210902, Postal: 210202, Coordinates: 11.0332676, 104.5977964
+
+#### គុស (Kus)
+
+Code: 210903, Postal: 210203, Coordinates: 10.9593513, 104.5819848
+
+#### លាយបូរ (Leay Bour)
+
+Code: 210904, Postal: 210204, Coordinates: 11.0045196, 104.7223472
+
+#### ញ៉ែងញ៉ង (Nhaeng Nhang)
+
+Code: 210905, Postal: 210205, Coordinates: 10.9227934, 104.652952
+
+#### ឧត្ដមសុរិយា (Otdam Soriya)
+
+Code: 210908, Postal: 210908, Coordinates: 11.0631023, 104.7018363
+
+#### អូរសារាយ (Ou Saray)
+
+Code: 210906, Postal: 210206, Coordinates: 11.0754078, 104.4971997
+
+#### ពពេល (Popel)
+
+Code: 210909, Postal: 040409, Coordinates: 11.069952, 104.6669084
+
+#### សំរោង (Samraong)
+
+Code: 210910, Postal: 010404, Coordinates: 10.8004948, 104.8364855
+
+#### ស្រែរនោង (Srae Ronoung)
+
+Code: 210911, Postal: 210211, Coordinates: 10.9479035, 104.697411
+
+#### តាភេម (Ta Phem)
+
+Code: 210912, Postal: 210212, Coordinates: 11.0193217, 104.6311929
+
+#### ត្រាំកក់ (Tram Kak)
+
+Code: 210913, Postal: 210213, Coordinates: 10.9116171, 104.5896684
+
+#### ត្រពាំងក្រញូង (Trapeang Kranhoung)
+
+Code: 210907, Postal: 210207, Coordinates: 11.0917569, 104.4653914
+
+#### ត្រពាំងធំខាងជើង (Trapeang Thum Khang Cheung)
+
+Code: 210914, Postal: 210214, Coordinates: 11.0512407, 104.5688112
+
+#### ត្រពាំងធំខាងត្បូង (Trapeang Thum Khang Tboung)
+
+Code: 210915, Postal: 210215, Coordinates: 11.0230447, 104.5721934
+
+### ទ្រាំង (Treang)
+
+Code: 2110, Coordinates: 10.9067461, 104.7770461
+Communes: 14
+
+#### អង្គកែវ (Angk Kaev)
+
+Code: 211006, Postal: 210106, Coordinates: 10.8609481, 104.7408709
+
+#### អង្គខ្នុរ (Angk Khnor)
+
+Code: 211002, Postal: 210102, Coordinates: 10.8576098, 104.8309913
+
+#### អង្កាញ់ (Angkanh)
+
+Code: 211001, Postal: 210101, Coordinates: 10.8865424, 104.8322133
+
+#### ជីខ្មា (Chi Khma)
+
+Code: 211003, Postal: 210103, Coordinates: 10.8059315, 104.7983052
+
+#### ខ្វាវ (Khvav)
+
+Code: 211004, Postal: 170804, Coordinates: 10.9087922, 104.732526
+
+#### ប្រាំបីមុំ (Prambei Mum)
+
+Code: 211005, Postal: 050603, Coordinates: 10.8426624, 104.7824997
+
+#### ព្រៃស្លឹក (Prey Sloek)
+
+Code: 211007, Postal: 210107, Coordinates: 10.8941031, 104.7802661
+
+#### រនាម (Roneam)
+
+Code: 211008, Postal: 210108, Coordinates: 10.9333266, 104.7506177
+
+#### សំបួរ (Sambuor)
+
+Code: 211009, Postal: 010110, Coordinates: 10.9372704, 104.8856448
+
+#### សន្លុង (Sanlung)
+
+Code: 211010, Postal: 080213, Coordinates: 10.7978826, 104.7513378
+
+#### ស្មោង (Smaong)
+
+Code: 211011, Postal: 210111, Coordinates: 10.8004948, 104.8364855
+
+#### ស្រង៉ែ (Srangae)
+
+Code: 211012, Postal: 171210, Coordinates: 10.8004948, 104.8364855
+
+#### ធ្លក (Thlok)
+
+Code: 211013, Postal: 200516, Coordinates: 10.9097849, 104.810425
+
+#### ត្រឡាច (Tralach)
+
+Code: 211014, Postal: 210114, Coordinates: 10.829381, 104.8368503
+

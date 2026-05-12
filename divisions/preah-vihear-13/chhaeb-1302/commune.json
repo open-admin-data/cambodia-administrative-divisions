@@ -1,0 +1,450 @@
+[
+  {
+    "id": "130201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឆែបមួយ",
+      "en": "Chhaeb Muoy",
+      "slug": "chhaeb-muoy-130201"
+    },
+    "code": {
+      "id": "130201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "ឆែប",
+        "en": "Chhaeb",
+        "slug": "chhaeb-1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "ឆែប",
+          "en": "Chhaeb",
+          "slug": "chhaeb-1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130201"
+    ],
+    "geo": {
+      "lat": "13.7657394",
+      "lon": "105.4037674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឆែបពីរ",
+      "en": "Chhaeb Pir",
+      "slug": "chhaeb-pir-130202"
+    },
+    "code": {
+      "id": "130202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "ឆែប",
+        "en": "Chhaeb",
+        "slug": "chhaeb-1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "ឆែប",
+          "en": "Chhaeb",
+          "slug": "chhaeb-1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130202"
+    ],
+    "geo": {
+      "lat": "13.9024485",
+      "lon": "105.4569353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ស្រឡៅមួយ",
+      "en": "Kampong Sralau Muoy",
+      "slug": "kampong-sralau-muoy-130207"
+    },
+    "code": {
+      "id": "130207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "ឆែប",
+        "en": "Chhaeb",
+        "slug": "chhaeb-1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "ឆែប",
+          "en": "Chhaeb",
+          "slug": "chhaeb-1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130207"
+    ],
+    "geo": {
+      "lat": "14.0765231",
+      "lon": "105.7699321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ស្រឡៅពីរ",
+      "en": "Kampong Sralau Pir",
+      "slug": "kampong-sralau-pir-130208"
+    },
+    "code": {
+      "id": "130208",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "ឆែប",
+        "en": "Chhaeb",
+        "slug": "chhaeb-1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "ឆែប",
+          "en": "Chhaeb",
+          "slug": "chhaeb-1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130208"
+    ],
+    "geo": {
+      "lat": "13.9697345",
+      "lon": "105.844854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម្លូព្រៃមួយ",
+      "en": "Mlu Prey Muoy",
+      "slug": "mlu-prey-muoy-130205"
+    },
+    "code": {
+      "id": "130205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "ឆែប",
+        "en": "Chhaeb",
+        "slug": "chhaeb-1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "ឆែប",
+          "en": "Chhaeb",
+          "slug": "chhaeb-1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130205"
+    ],
+    "geo": {
+      "lat": "13.8188366",
+      "lon": "105.187162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម្លូព្រៃពីរ",
+      "en": "Mlu Prey Pir",
+      "slug": "mlu-prey-pir-130206"
+    },
+    "code": {
+      "id": "130206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "ឆែប",
+        "en": "Chhaeb",
+        "slug": "chhaeb-1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "ឆែប",
+          "en": "Chhaeb",
+          "slug": "chhaeb-1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130206"
+    ],
+    "geo": {
+      "lat": "13.7520487",
+      "lon": "105.1810141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សង្កែមួយ",
+      "en": "Sangkae Muoy",
+      "slug": "sangkae-muoy-130203"
+    },
+    "code": {
+      "id": "130203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "ឆែប",
+        "en": "Chhaeb",
+        "slug": "chhaeb-1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "ឆែប",
+          "en": "Chhaeb",
+          "slug": "chhaeb-1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130203"
+    ],
+    "geo": {
+      "lat": "13.7793735",
+      "lon": "105.3619337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សង្កែពីរ",
+      "en": "Sangkae Pir",
+      "slug": "sangkae-pir-130204"
+    },
+    "code": {
+      "id": "130204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "ឆែប",
+        "en": "Chhaeb",
+        "slug": "chhaeb-1302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "ឆែប",
+          "en": "Chhaeb",
+          "slug": "chhaeb-1302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130204"
+    ],
+    "geo": {
+      "lat": "13.7594475",
+      "lon": "105.2985978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

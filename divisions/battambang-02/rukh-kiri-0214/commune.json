@@ -1,0 +1,282 @@
+[
+  {
+    "id": "021405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាសាក់",
+      "en": "Basak",
+      "slug": "basak-021405"
+    },
+    "code": {
+      "id": "021405",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "រុក្ខគិរី",
+        "en": "Rukh Kiri",
+        "slug": "rukh-kiri-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "រុក្ខគិរី",
+          "en": "Rukh Kiri",
+          "slug": "rukh-kiri-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020605"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មុខរាហ៍",
+      "en": "Mukh Reah",
+      "slug": "mukh-reah-021403"
+    },
+    "code": {
+      "id": "021403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "រុក្ខគិរី",
+        "en": "Rukh Kiri",
+        "slug": "rukh-kiri-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "រុក្ខគិរី",
+          "en": "Rukh Kiri",
+          "slug": "rukh-kiri-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020603"
+    ],
+    "geo": {
+      "lat": "12.5512046",
+      "lon": "103.5755118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកជីក",
+      "en": "Preaek Chik",
+      "slug": "preaek-chik-021401"
+    },
+    "code": {
+      "id": "021401",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "រុក្ខគិរី",
+        "en": "Rukh Kiri",
+        "slug": "rukh-kiri-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "រុក្ខគិរី",
+          "en": "Rukh Kiri",
+          "slug": "rukh-kiri-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020601"
+    ],
+    "geo": {
+      "lat": "12.6131892",
+      "lon": "103.3551511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃត្រឡាច",
+      "en": "Prey Tralach",
+      "slug": "prey-tralach-021402"
+    },
+    "code": {
+      "id": "021402",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "រុក្ខគិរី",
+        "en": "Rukh Kiri",
+        "slug": "rukh-kiri-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "រុក្ខគិរី",
+          "en": "Rukh Kiri",
+          "slug": "rukh-kiri-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020602"
+    ],
+    "geo": {
+      "lat": "12.5643963",
+      "lon": "103.5215313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្តុកប្រវឹក",
+      "en": "Sdok Pravoek",
+      "slug": "sdok-pravoek-021404"
+    },
+    "code": {
+      "id": "021404",
+      "iso": null
+    },
+    "parent": {
+      "id": "0214",
+      "level": 2,
+      "name": {
+        "local": "រុក្ខគិរី",
+        "en": "Rukh Kiri",
+        "slug": "rukh-kiri-0214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0214",
+        "level": 2,
+        "name": {
+          "local": "រុក្ខគិរី",
+          "en": "Rukh Kiri",
+          "slug": "rukh-kiri-0214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020604"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

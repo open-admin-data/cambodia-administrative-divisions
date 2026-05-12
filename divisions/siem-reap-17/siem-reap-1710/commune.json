@@ -1,0 +1,674 @@
+[
+  {
+    "id": "171007",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចុងឃ្នៀស",
+      "en": "Chong Khnies",
+      "slug": "chong-khnies-171007"
+    },
+    "code": {
+      "id": "171007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171207"
+    ],
+    "geo": {
+      "lat": "13.2568407",
+      "lon": "103.8375389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171006",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រាវ",
+      "en": "Chreav",
+      "slug": "chreav-171006"
+    },
+    "code": {
+      "id": "171006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171003",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកចក",
+      "en": "Kok Chak",
+      "slug": "kok-chak-171003"
+    },
+    "code": {
+      "id": "171003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171203"
+    ],
+    "geo": {
+      "lat": "13.4128035",
+      "lon": "103.8413373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171012",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្របីរៀល",
+      "en": "Krabei Riel",
+      "slug": "krabei-riel-171012"
+    },
+    "code": {
+      "id": "171012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171005",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "នគរធំ",
+      "en": "Nokor Thum",
+      "slug": "nokor-thum-171005"
+    },
+    "code": {
+      "id": "171005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171205"
+    ],
+    "geo": {
+      "lat": "13.3911183",
+      "lon": "103.8798801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171004",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សាលាកំរើក",
+      "en": "Sala Kamreuk",
+      "slug": "sala-kamreuk-171004"
+    },
+    "code": {
+      "id": "171004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171204"
+    ],
+    "geo": {
+      "lat": "13.3496423",
+      "lon": "103.8654797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171009",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-171009"
+    },
+    "code": {
+      "id": "171009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171209"
+    ],
+    "geo": {
+      "lat": "13.3053562",
+      "lon": "103.8390162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171001",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្លក្រាម",
+      "en": "Sla Kram",
+      "slug": "sla-kram-171001"
+    },
+    "code": {
+      "id": "171001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010603"
+    ],
+    "geo": {
+      "lat": "13.374553",
+      "lon": "103.8718539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171008",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរ",
+      "en": "Sngkat Sambuor",
+      "slug": "sngkat-sambuor-171008"
+    },
+    "code": {
+      "id": "171008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010110"
+    ],
+    "geo": {
+      "lat": "13.3358264",
+      "lon": "103.8086745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171010",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រង៉ែ",
+      "en": "Srangae",
+      "slug": "srangae-171010"
+    },
+    "code": {
+      "id": "171010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171210"
+    ],
+    "geo": {
+      "lat": "13.3812298",
+      "lon": "103.8267494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171002",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយដង្គំ",
+      "en": "Svay Dankum",
+      "slug": "svay-dankum-171002"
+    },
+    "code": {
+      "id": "171002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171202"
+    ],
+    "geo": {
+      "lat": "13.3416106",
+      "lon": "103.8333977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171013",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកវិល",
+      "en": "Tuek Vil",
+      "slug": "tuek-vil-171013"
+    },
+    "code": {
+      "id": "171013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1710",
+      "level": 2,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-1710"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1710",
+        "level": 2,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-1710"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080916"
+    ],
+    "geo": {
+      "lat": "13.3978381",
+      "lon": "103.7998392"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

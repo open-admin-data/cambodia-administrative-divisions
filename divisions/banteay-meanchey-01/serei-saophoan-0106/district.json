@@ -1,0 +1,47 @@
+{
+  "id": "0106",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សិរីសោភ័ណ",
+    "en": "Serei Saophoan",
+    "slug": "serei-saophoan-0106"
+  },
+  "code": {
+    "id": "0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "បន្ទាយមានជ័យ",
+      "en": "Banteay Meanchey",
+      "slug": "banteay-meanchey-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.5884004",
+    "lon": "102.9700274"
+  },
+  "metadata": {},
+  "source": {}
+}

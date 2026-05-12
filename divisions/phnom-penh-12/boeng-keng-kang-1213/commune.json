@@ -1,0 +1,394 @@
+[
+  {
+    "id": "121303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងកេងកងទី ៣",
+      "en": "Boeng Keng Kang Ti Bei",
+      "slug": "boeng-keng-kang-ti-bei-121303"
+    },
+    "code": {
+      "id": "121303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "បឹងកេងកង",
+        "en": "Boeng Keng Kang",
+        "slug": "boeng-keng-kang-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "បឹងកេងកង",
+          "en": "Boeng Keng Kang",
+          "slug": "boeng-keng-kang-1213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120104"
+    ],
+    "geo": {
+      "lat": "11.547771",
+      "lon": "104.9178497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងកេងកងទី ១",
+      "en": "Boeng Keng Kang Ti Muoy",
+      "slug": "boeng-keng-kang-ti-muoy-121301"
+    },
+    "code": {
+      "id": "121301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "បឹងកេងកង",
+        "en": "Boeng Keng Kang",
+        "slug": "boeng-keng-kang-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "បឹងកេងកង",
+          "en": "Boeng Keng Kang",
+          "slug": "boeng-keng-kang-1213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120102"
+    ],
+    "geo": {
+      "lat": "11.5504554",
+      "lon": "104.9249988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងកេងកងទី ២",
+      "en": "Boeng Keng Kang Ti Pir",
+      "slug": "boeng-keng-kang-ti-pir-121302"
+    },
+    "code": {
+      "id": "121302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "បឹងកេងកង",
+        "en": "Boeng Keng Kang",
+        "slug": "boeng-keng-kang-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "បឹងកេងកង",
+          "en": "Boeng Keng Kang",
+          "slug": "boeng-keng-kang-1213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120103"
+    ],
+    "geo": {
+      "lat": "11.5529917",
+      "lon": "104.9184799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូឡាំពិក",
+      "en": "Olympic",
+      "slug": "olympic-121304"
+    },
+    "code": {
+      "id": "121304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "បឹងកេងកង",
+        "en": "Boeng Keng Kang",
+        "slug": "boeng-keng-kang-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "បឹងកេងកង",
+          "en": "Boeng Keng Kang",
+          "slug": "boeng-keng-kang-1213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120105"
+    ],
+    "geo": {
+      "lat": "11.5532352",
+      "lon": "104.9133669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទំនប់ទឹក",
+      "en": "Tumnob Tuek",
+      "slug": "tumnob-tuek-121305"
+    },
+    "code": {
+      "id": "121305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "បឹងកេងកង",
+        "en": "Boeng Keng Kang",
+        "slug": "boeng-keng-kang-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "បឹងកេងកង",
+          "en": "Boeng Keng Kang",
+          "slug": "boeng-keng-kang-1213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120108"
+    ],
+    "geo": {
+      "lat": "11.54573",
+      "lon": "104.9049028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលស្វាយព្រៃទី ១",
+      "en": "Tuol Svay Prey Ti Muoy",
+      "slug": "tuol-svay-prey-ti-muoy-121306"
+    },
+    "code": {
+      "id": "121306",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "បឹងកេងកង",
+        "en": "Boeng Keng Kang",
+        "slug": "boeng-keng-kang-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "បឹងកេងកង",
+          "en": "Boeng Keng Kang",
+          "slug": "boeng-keng-kang-1213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120106"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលស្វាយព្រៃទី ២",
+      "en": "Tuol Svay Prey Ti Pir",
+      "slug": "tuol-svay-prey-ti-pir-121307"
+    },
+    "code": {
+      "id": "121307",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "បឹងកេងកង",
+        "en": "Boeng Keng Kang",
+        "slug": "boeng-keng-kang-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "បឹងកេងកង",
+          "en": "Boeng Keng Kang",
+          "slug": "boeng-keng-kang-1213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120107"
+    ],
+    "geo": {
+      "lat": "11.5543617",
+      "lon": "104.9062018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

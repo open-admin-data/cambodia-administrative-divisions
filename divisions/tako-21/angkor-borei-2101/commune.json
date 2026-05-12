@@ -1,0 +1,338 @@
+[
+  {
+    "id": "210101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គរបូរី",
+      "en": "Angkor Borei",
+      "slug": "angkor-borei-210101"
+    },
+    "code": {
+      "id": "210101",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "អង្គរបូរី",
+        "en": "Angkor Borei",
+        "slug": "angkor-borei-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "អង្គរបូរី",
+          "en": "Angkor Borei",
+          "slug": "angkor-borei-2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210901"
+    ],
+    "geo": {
+      "lat": "11.0141589",
+      "lon": "104.9627905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាស្រែ",
+      "en": "Ba Srae",
+      "slug": "ba-srae-210102"
+    },
+    "code": {
+      "id": "210102",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "អង្គរបូរី",
+        "en": "Angkor Borei",
+        "slug": "angkor-borei-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "អង្គរបូរី",
+          "en": "Angkor Borei",
+          "slug": "angkor-borei-2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210902"
+    ],
+    "geo": {
+      "lat": "11.0452825",
+      "lon": "104.9515047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកធ្លក",
+      "en": "Kouk Thlok",
+      "slug": "kouk-thlok-210103"
+    },
+    "code": {
+      "id": "210103",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "អង្គរបូរី",
+        "en": "Angkor Borei",
+        "slug": "angkor-borei-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "អង្គរបូរី",
+          "en": "Angkor Borei",
+          "slug": "angkor-borei-2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210903"
+    ],
+    "geo": {
+      "lat": "10.9222454",
+      "lon": "105.0121524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពន្លៃ",
+      "en": "Ponley",
+      "slug": "ponley-210104"
+    },
+    "code": {
+      "id": "210104",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "អង្គរបូរី",
+        "en": "Angkor Borei",
+        "slug": "angkor-borei-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "អង្គរបូរី",
+          "en": "Angkor Borei",
+          "slug": "angkor-borei-2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010203"
+    ],
+    "geo": {
+      "lat": "11.0447848",
+      "lon": "104.8817688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកផ្ទោល",
+      "en": "Preaek Phtoul",
+      "slug": "preaek-phtoul-210105"
+    },
+    "code": {
+      "id": "210105",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "អង្គរបូរី",
+        "en": "Angkor Borei",
+        "slug": "angkor-borei-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "អង្គរបូរី",
+          "en": "Angkor Borei",
+          "slug": "angkor-borei-2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210905"
+    ],
+    "geo": {
+      "lat": "10.9816885",
+      "lon": "104.9872704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃផ្គាំ",
+      "en": "Prey Phkoam",
+      "slug": "prey-phkoam-210106"
+    },
+    "code": {
+      "id": "210106",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "អង្គរបូរី",
+        "en": "Angkor Borei",
+        "slug": "angkor-borei-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "អង្គរបូរី",
+          "en": "Angkor Borei",
+          "slug": "angkor-borei-2101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210906"
+    ],
+    "geo": {
+      "lat": "11.0212453",
+      "lon": "104.9115514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

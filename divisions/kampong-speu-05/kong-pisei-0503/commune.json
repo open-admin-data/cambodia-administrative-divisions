@@ -1,0 +1,730 @@
+[
+  {
+    "id": "050301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គពពេល",
+      "en": "Angk Popel",
+      "slug": "angk-popel-050301"
+    },
+    "code": {
+      "id": "050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050301"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជង្រុក",
+      "en": "Chongruk",
+      "slug": "chongruk-050302"
+    },
+    "code": {
+      "id": "050302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050302"
+    ],
+    "geo": {
+      "lat": "11.3069976",
+      "lon": "104.6947583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មហាឫស្សី",
+      "en": "Moha Ruessei",
+      "slug": "moha-ruessei-050303"
+    },
+    "code": {
+      "id": "050303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050303"
+    ],
+    "geo": {
+      "lat": "11.2529946",
+      "lon": "104.6670889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពេជ្រមុនី",
+      "en": "Pechr Muni",
+      "slug": "pechr-muni-050304"
+    },
+    "code": {
+      "id": "050304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050304"
+    ],
+    "geo": {
+      "lat": "11.3626686",
+      "lon": "104.6218239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះនិព្វាន",
+      "en": "Preah Nipean",
+      "slug": "preah-nipean-050305"
+    },
+    "code": {
+      "id": "050305",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050305"
+    ],
+    "geo": {
+      "lat": "11.4094579",
+      "lon": "104.7568669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃញាតិ",
+      "en": "Prey Nheat",
+      "slug": "prey-nheat-050306"
+    },
+    "code": {
+      "id": "050306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050306"
+    ],
+    "geo": {
+      "lat": "11.3564991",
+      "lon": "104.6612712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃវិហារ",
+      "en": "Prey Vihear",
+      "slug": "prey-vihear-050307"
+    },
+    "code": {
+      "id": "050307",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050307"
+    ],
+    "geo": {
+      "lat": "11.2218977",
+      "lon": "104.6683202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាកោះ",
+      "en": "Roka Kaoh",
+      "slug": "roka-kaoh-050308"
+    },
+    "code": {
+      "id": "050308",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050308"
+    ],
+    "geo": {
+      "lat": "11.4117453",
+      "lon": "104.6818052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ដុក",
+      "en": "Sdok",
+      "slug": "sdok-050309"
+    },
+    "code": {
+      "id": "050309",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050309"
+    ],
+    "geo": {
+      "lat": "11.2393173",
+      "lon": "104.6054411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្នំក្រពើ",
+      "en": "Snam Krapeu",
+      "slug": "snam-krapeu-050310"
+    },
+    "code": {
+      "id": "050310",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050310"
+    ],
+    "geo": {
+      "lat": "11.2710902",
+      "lon": "104.6426161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050311",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រង់",
+      "en": "Srang",
+      "slug": "srang-050311"
+    },
+    "code": {
+      "id": "050311",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050311"
+    ],
+    "geo": {
+      "lat": "11.3109341",
+      "lon": "104.5966945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050312",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកល្អក់",
+      "en": "Tuek L'ak",
+      "slug": "tuek-lak-050312"
+    },
+    "code": {
+      "id": "050312",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120404"
+    ],
+    "geo": {
+      "lat": "11.3361836",
+      "lon": "104.623732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050313",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាល",
+      "en": "Veal",
+      "slug": "veal-050313"
+    },
+    "code": {
+      "id": "050313",
+      "iso": null
+    },
+    "parent": {
+      "id": "0503",
+      "level": 2,
+      "name": {
+        "local": "គងពិសី",
+        "en": "Kong Pisei",
+        "slug": "kong-pisei-0503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0503",
+        "level": 2,
+        "name": {
+          "local": "គងពិសី",
+          "en": "Kong Pisei",
+          "slug": "kong-pisei-0503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050313"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

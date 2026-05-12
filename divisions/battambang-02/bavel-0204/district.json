@@ -1,0 +1,47 @@
+{
+  "id": "0204",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បវេល",
+    "en": "Bavel",
+    "slug": "bavel-0204"
+  },
+  "code": {
+    "id": "0204",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.216788000000001",
+    "lon": "102.82214789233467"
+  },
+  "metadata": {},
+  "source": {}
+}

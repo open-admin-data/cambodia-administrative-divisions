@@ -1,0 +1,47 @@
+{
+  "id": "1401",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បាភ្នំ",
+    "en": "Ba Phnum",
+    "slug": "ba-phnum-1401"
+  },
+  "code": {
+    "id": "1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "ព្រៃវែង",
+      "en": "Prey Veng",
+      "slug": "prey-veng-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.2580467",
+    "lon": "105.3989267"
+  },
+  "metadata": {},
+  "source": {}
+}

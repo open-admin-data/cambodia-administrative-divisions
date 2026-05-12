@@ -1,0 +1,538 @@
+# Prey Veng — Cambodia Administrative Divisions
+
+> 13 districts, 116 communes
+> Code: 14
+> Coordinates: 11.365959700000001, 105.45572772976189
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### បាភ្នំ (Ba Phnum)
+
+Code: 1401, Coordinates: 11.2580467, 105.3989267
+Communes: 9
+
+#### បឹងព្រះ (Boeng Preah)
+
+Code: 140101, Postal: 140701
+
+#### ជើងភ្នំ (Cheung Phnum)
+
+Code: 140102, Postal: 140702, Coordinates: 11.2368037, 105.3600398
+
+#### ឈើកាច់ (Chheu Kach)
+
+Code: 140103, Postal: 140703, Coordinates: 11.247059, 105.4224517
+
+#### រក្សជ័យ (Reaks Chey)
+
+Code: 140104, Postal: 140704, Coordinates: 11.3177645, 105.3896354
+
+#### រោងដំរី (Roung Damrei)
+
+Code: 140105, Postal: 140705, Coordinates: 11.2954085, 105.3953762
+
+#### ស្ដៅកោង (Sdau Kaong)
+
+Code: 140106, Postal: 140706, Coordinates: 11.2365403, 105.4592249
+
+#### ស្ពឺ  ក (Spueu Ka)
+
+Code: 140107, Postal: 140707, Coordinates: 11.2599407, 105.4632323
+
+#### ស្ពឺ  ខ (Spueu Kha)
+
+Code: 140108, Postal: 140708, Coordinates: 11.2563468, 105.5223697
+
+#### ធាយ (Theay)
+
+Code: 140109, Postal: 140709, Coordinates: 11.3772731, 105.3931407
+
+### កំចាយមារ (Kamchay Mear)
+
+Code: 1402, Coordinates: 11.5744182, 105.662875
+Communes: 8
+
+#### ជាច (Cheach)
+
+Code: 140201, Postal: 140501, Coordinates: 11.6721236, 105.6842241
+
+#### ដូនកឹង (Doun Koeng)
+
+Code: 140202, Postal: 140502, Coordinates: 11.5718537, 105.5792842
+
+#### ក្របៅ (Krabau)
+
+Code: 140204, Postal: 140504, Coordinates: 11.6256863, 105.7576432
+
+#### ក្រញូង (Kranhung)
+
+Code: 140203, Postal: 140503, Coordinates: 11.6135002, 105.6872585
+
+#### ស៊ាងឃ្វាង (Seang Khveang)
+
+Code: 140205, Postal: 140505, Coordinates: 11.653491, 105.5177132
+
+#### ស្មោងខាងជើង (Smaong Khang Cheung)
+
+Code: 140206, Postal: 140506, Coordinates: 11.5559545, 105.6269647
+
+#### ស្មោងខាងត្បូង (Smaong Khang Tboung)
+
+Code: 140207, Postal: 140507, Coordinates: 11.4808305, 105.6384154
+
+#### ត្របែក (Trabaek)
+
+Code: 140208, Postal: 140508, Coordinates: 11.603421, 105.5417421
+
+### កំពង់ត្របែក (Kampong Trabaek)
+
+Code: 1403, Coordinates: 11.1401552, 105.4780783
+Communes: 13
+
+#### អន្សោង (Ansaong)
+
+Code: 140301, Postal: 141101, Coordinates: 11.1266659, 105.5422734
+
+#### ចាម (Cham)
+
+Code: 140302, Postal: 141102, Coordinates: 10.9932037, 105.5536827
+
+#### ជាងដែក (Cheang Daek)
+
+Code: 140303, Postal: 141103, Coordinates: 11.0043601, 105.5267567
+
+#### ជ្រៃ (Chrey)
+
+Code: 140304, Postal: 020204, Coordinates: 11.6582984, 105.1685733
+
+#### កំពង់ត្របែក (Kampong Trabaek)
+
+Code: 140307, Postal: 141107, Coordinates: 11.142877, 105.4807664
+
+#### កន្សោមអក (Kansoam Ak)
+
+Code: 140305, Postal: 141105, Coordinates: 11.1828291, 105.5127682
+
+#### គោខ្ចក (Kou Khchak)
+
+Code: 140306, Postal: 141106, Coordinates: 11.1923893, 105.5495047
+
+#### ពាមមន្ទារ (Peam Montear)
+
+Code: 140308, Postal: 141108, Coordinates: 10.9541121, 105.4981836
+
+#### ប្រាសាទ (Prasat)
+
+Code: 140309, Postal: 010304
+
+#### ប្រធាតុ (Pratheat)
+
+Code: 140310, Postal: 141110, Coordinates: 11.1173063, 105.6131408
+
+#### ព្រៃឈរ (Prey Chhor)
+
+Code: 140311, Postal: 030809, Coordinates: 11.1530235, 105.5960639
+
+#### ព្រៃពោន (Prey Poun)
+
+Code: 140312, Postal: 141112, Coordinates: 11.065567, 105.5552553
+
+#### ថ្កូវ (Thkov)
+
+Code: 140313, Postal: 141113, Coordinates: 11.0994889, 105.5670304
+
+### កញ្ជ្រៀច (Kanhchriech)
+
+Code: 1404, Coordinates: 11.6889825, 105.5581607
+Communes: 8
+
+#### ចុងអំពិល (Chong Ampil)
+
+Code: 140401, Postal: 140101, Coordinates: 11.6638127, 105.4262698
+
+#### កញ្ជ្រៀច (Kanhchriech)
+
+Code: 140402, Postal: 140102, Coordinates: 11.6888346, 105.5520424
+
+#### ក្ដឿងរាយ (Kdoeang Reay)
+
+Code: 140403, Postal: 140103, Coordinates: 11.6895072, 105.4795533
+
+#### គោកគង់កើត (Kouk Kong Kaeut)
+
+Code: 140404, Postal: 140104, Coordinates: 11.7320918, 105.6957506
+
+#### គោកគង់លិច (Kouk Kong Lech)
+
+Code: 140405, Postal: 140105, Coordinates: 11.7298381, 105.5819551
+
+#### ព្រាល (Preal)
+
+Code: 140406, Postal: 140106, Coordinates: 11.6305532, 105.6378462
+
+#### ថ្មពូន (Thma Pun)
+
+Code: 140407, Postal: 030813, Coordinates: 11.6797436, 105.5778685
+
+#### ត្នោត (Tnaot)
+
+Code: 140408, Postal: 140108, Coordinates: 11.7438633, 105.5302729
+
+### មេសាង (Me Sang)
+
+Code: 1405, Coordinates: 11.3247044, 105.5766407
+Communes: 8
+
+#### អង្គរសរ (Angkor Sar)
+
+Code: 140501, Postal: 141001, Coordinates: 11.2510372, 105.6188096
+
+#### ជីផុច (Chi Phoch)
+
+Code: 140503, Postal: 141003, Coordinates: 11.3271375, 105.5463284
+
+#### ច្រេស (Chres)
+
+Code: 140502, Postal: 040203, Coordinates: 11.3412069, 105.6232827
+
+#### ព្រៃឃ្នេស (Prey Khnes)
+
+Code: 140504, Postal: 141004, Coordinates: 11.3671177, 105.4909778
+
+#### ព្រៃរំដេង (Prey Rumdeng)
+
+Code: 140505, Postal: 141005, Coordinates: 11.3074898, 105.6018617
+
+#### ព្រៃទទឹង (Prey Totueng)
+
+Code: 140506, Postal: 141006, Coordinates: 11.4329968, 105.5964958
+
+#### ស្វាយជ្រុំ (Svay Chrum)
+
+Code: 140507, Postal: 040712, Coordinates: 11.4186875, 105.5530924
+
+#### ត្រពាំងស្រែ (Trapeang Srae)
+
+Code: 140508, Postal: 141008, Coordinates: 11.2756564, 105.5508049
+
+### ពារាំង (Pea Reang)
+
+Code: 1408, Coordinates: 11.6633953, 105.2289245
+Communes: 9
+
+#### កំពង់ពពិល (Kampong Popil)
+
+Code: 140801, Postal: 141201, Coordinates: 11.64651, 105.1535142
+
+#### កំពង់ប្រាំង (Kampong Prang)
+
+Code: 140803, Postal: 141203, Coordinates: 11.5882262, 105.1161828
+
+#### កញ្ចំ (Kanhcham)
+
+Code: 140802, Postal: 141202, Coordinates: 11.6921431, 105.3003113
+
+#### មេសរប្រចាន់ (Mesar Prachan)
+
+Code: 140805, Postal: 141204, Coordinates: 11.7415049, 105.170326
+
+#### ព្រៃព្នៅ (Prey Pnov)
+
+Code: 140807, Postal: 141205, Coordinates: 11.6407957, 105.3395129
+
+#### ព្រៃស្នៀត (Prey Sniet)
+
+Code: 140808, Postal: 141206, Coordinates: 11.6347685, 105.2272207
+
+#### ព្រៃស្រឡិត (Prey Sralet)
+
+Code: 140809, Postal: 141207, Coordinates: 11.7393553, 105.2045749
+
+#### រាប (Reab)
+
+Code: 140810, Postal: 141208, Coordinates: 11.6627701, 105.1914469
+
+#### រកា (Roka)
+
+Code: 140811, Postal: 020804, Coordinates: 11.6694027, 105.2617305
+
+### ពាមជរ (Peam Chor)
+
+Code: 1406, Coordinates: 11.1079466, 105.2245017
+Communes: 10
+
+#### អង្គរអង្គ (Angkor Angk)
+
+Code: 140601, Postal: 140201, Coordinates: 11.1625459, 105.29309
+
+#### កំពង់ប្រាសាទ (Kampong Prasat)
+
+Code: 140602, Postal: 140202, Coordinates: 11.0166133, 105.2636074
+
+#### កោះចេក (Kaoh Chek)
+
+Code: 140603, Postal: 140203, Coordinates: 11.0602563, 105.2122743
+
+#### កោះរកា (Kaoh Roka)
+
+Code: 140604, Postal: 030506, Coordinates: 10.9549525, 105.1902271
+
+#### កោះសំពៅ (Kaoh Sampov)
+
+Code: 140605, Postal: 140205, Coordinates: 10.9235224, 105.3072591
+
+#### ក្រាំងតាយ៉ង (Krang Ta Yang)
+
+Code: 140606, Postal: 140206, Coordinates: 11.0471244, 105.2755745
+
+#### ព្រែកក្របៅ (Preaek Krabau)
+
+Code: 140607, Postal: 030606, Coordinates: 11.1950912, 105.2674729
+
+#### ព្រែកសំបួរ (Preaek Sambuor)
+
+Code: 140608, Postal: 140208, Coordinates: 11.0040455, 105.2034364
+
+#### ឫស្សីស្រុក (Ruessei Srok)
+
+Code: 140609, Postal: 034311, Coordinates: 10.983515, 105.2898319
+
+#### ស្វាយភ្លោះ (Svay Phluoh)
+
+Code: 140610, Postal: 140210, Coordinates: 11.1405255, 105.2533273
+
+### ពាមរក៍ (Peam Ro)
+
+Code: 1407, Coordinates: 11.3186652, 105.2809166
+Communes: 8
+
+#### បាបោង (Ba Baong)
+
+Code: 140701, Postal: 140301, Coordinates: 11.3871045, 105.3316875
+
+#### បន្លិចប្រាសាទ (Banlich Prasat)
+
+Code: 140702, Postal: 140302, Coordinates: 11.2835194, 105.3010318
+
+#### អ្នកលឿង (Neak Loeang)
+
+Code: 140703, Postal: 140303, Coordinates: 11.2561869, 105.3070983
+
+#### ពាមមានជ័យ (Peam Mean Chey)
+
+Code: 140704, Postal: 140304, Coordinates: 11.3571226, 105.2687874
+
+#### ពាមរក៍ (Peam Ro)
+
+Code: 140705, Postal: 140305, Coordinates: 11.3262347, 105.3092489
+
+#### ព្រែកខ្សាយ ក (Preaek Khsay Ka)
+
+Code: 140706, Postal: 140306, Coordinates: 11.2793982, 105.2826604
+
+#### ព្រែកខ្សាយ ខ (Preaek Khsay Kha)
+
+Code: 140707, Postal: 140307, Coordinates: 11.2626961, 105.2850733
+
+#### ព្រៃកណ្ដៀង (Prey Kandieng)
+
+Code: 140708, Postal: 140308, Coordinates: 11.4129644, 105.3460581
+
+### ព្រះស្ដេច (Preah Sdach)
+
+Code: 1409, Coordinates: 11.1187656, 105.3769965
+Communes: 11
+
+#### អង្គររាជ្យ (Angkor Reach)
+
+Code: 140901, Postal: 140401, Coordinates: 11.0885772, 105.3854569
+
+#### បន្ទាយចក្រី (Banteay Chakrei)
+
+Code: 140902, Postal: 140402, Coordinates: 10.9664785, 105.4213565
+
+#### បឹងដោល (Boeng Daol)
+
+Code: 140903, Postal: 140403, Coordinates: 11.0847449, 105.3160531
+
+#### ជៃកំពក (Chey Kampok)
+
+Code: 140904, Postal: 140404, Coordinates: 11.1270842, 105.3643322
+
+#### កំពង់សឹង (Kampong Soeng)
+
+Code: 140905, Postal: 140405, Coordinates: 11.2015727, 105.3309332
+
+#### ក្រាំងស្វាយ (Krang Svay)
+
+Code: 140906, Postal: 140406, Coordinates: 11.1595536, 105.440767
+
+#### ល្វា (Lvea)
+
+Code: 140907, Postal: 020303, Coordinates: 11.1707184, 105.3888088
+
+#### ព្រះស្ដេច (Preah Sdach)
+
+Code: 140908, Postal: 140408, Coordinates: 10.9895403, 105.341213
+
+#### រាធរ (Reathor)
+
+Code: 140909, Postal: 140409, Coordinates: 11.1100562, 105.3119555
+
+#### រំចេក (Rumchek)
+
+Code: 140910, Postal: 030512, Coordinates: 11.1976633, 105.3607983
+
+#### សេនារាជឧត្ដម (Sena Reach Otdam)
+
+Code: 140911, Postal: 140411, Coordinates: 11.0934754, 105.4365365
+
+### ព្រៃវែង (Prey Veng)
+
+Code: 1410, Coordinates: 11.4826844, 105.3251212
+Communes: 4
+
+#### បារាយណ៍ (Baray)
+
+Code: 141001, Postal: 030801, Coordinates: 11.4547648, 105.3515059
+
+#### ជើងទឹក (Cheung Tuek)
+
+Code: 141002, Postal: 141302, Coordinates: 11.5124366, 105.3226461
+
+#### កំពង់លាវ (Kampong Leav)
+
+Code: 141003, Postal: 141303, Coordinates: 11.4861526, 105.3250589
+
+#### តាកោ (Ta Kao)
+
+Code: 141004, Postal: 140905
+
+### ពោធិ៍រៀង (Pur Rieng)
+
+Code: 1411, Coordinates: 11.5213787, 105.3571127
+Communes: 6
+
+#### កំពង់ឫស្សី (Kampong Ruessei)
+
+Code: 141106, Postal: 140907, Coordinates: 11.5831546, 105.2148885
+
+#### ពោធិ៍រៀង (Pou Rieng)
+
+Code: 141101, Postal: 140901
+
+#### ព្រែកអន្ទះ (Preaek Anteah)
+
+Code: 141102, Postal: 140902, Coordinates: 11.5109369, 105.2250303
+
+#### ព្រែកជ្រៃ (Preaek Chrey)
+
+Code: 141103, Postal: 080408, Coordinates: 11.4647284, 105.2604399
+
+#### ព្រែកតាសរ (Preaek Ta Sar)
+
+Code: 141107, Postal: 140906, Coordinates: 11.5325064, 105.159132
+
+#### ព្រៃកន្លោង (Prey Kanlaong)
+
+Code: 141104, Postal: 140904, Coordinates: 11.5373159, 105.3143191
+
+### ស៊ីធរកណ្ដាល (Sithor Kandal)
+
+Code: 1412, Coordinates: 11.7740666, 105.380774
+Communes: 11
+
+#### អំពិលក្រៅ (Ampil Krau)
+
+Code: 141201, Postal: 140601, Coordinates: 11.7325493, 105.4650676
+
+#### ជ្រៃឃ្មុំ (Chrey Khmum)
+
+Code: 141202, Postal: 140602, Coordinates: 11.7888851, 105.3051483
+
+#### ល្វេ (Lve)
+
+Code: 141203, Postal: 030703, Coordinates: 11.1707184, 105.3888088
+
+#### ព្នៅទី ១ (Pnov Ti Muoy)
+
+Code: 141204, Postal: 140604, Coordinates: 11.8355579, 105.3037853
+
+#### ព្នៅទី ២ (Pnov Ti Pir)
+
+Code: 141205, Postal: 140605, Coordinates: 11.7930786, 105.2872976
+
+#### ពោធិ៍ទី (Pou Ti)
+
+Code: 141206, Postal: 140606, Coordinates: 11.7071461, 105.3584324
+
+#### ព្រែកចង្ក្រាន (Preaek Changkran)
+
+Code: 141207, Postal: 140607, Coordinates: 11.8529029, 105.340493
+
+#### ព្រៃដើមថ្នឹង (Prey Daeum Thnoeng)
+
+Code: 141208, Postal: 140608, Coordinates: 11.7746585, 105.378556
+
+#### ព្រៃទឹង (Prey Tueng)
+
+Code: 141209, Postal: 140609, Coordinates: 11.7327549, 105.3658658
+
+#### ឫស្សីសាញ់ (Ruessei Sanh)
+
+Code: 141211, Postal: 140611, Coordinates: 11.7393878, 105.4089034
+
+#### រំលេច (Rumlech)
+
+Code: 141210, Postal: 140610
+
+### ស្វាយអន្ទរ (Svay Antor)
+
+Code: 1413, Coordinates: 11.5729124, 105.4252384
+Communes: 11
+
+#### អង្គរទ្រេត (Angkor Tret)
+
+Code: 141301, Postal: 140801, Coordinates: 11.5520565, 105.4551277
+
+#### ជាខ្លាង (Chea Khlang)
+
+Code: 141302, Postal: 140802, Coordinates: 11.5893883, 105.4645228
+
+#### ជ្រៃ (Chrey)
+
+Code: 141303, Postal: 020204, Coordinates: 11.6582984, 105.1685733
+
+#### ដំរីពួន (Damrei Puon)
+
+Code: 141304, Postal: 140804, Coordinates: 11.5062868, 105.4437919
+
+#### មេបុណ្យ (Me Bon)
+
+Code: 141305, Postal: 140805, Coordinates: 11.5469428, 105.390977
+
+#### ពានរោង (Pean Roung)
+
+Code: 141306, Postal: 140806, Coordinates: 11.4640429, 105.5347479
+
+#### ពពឺស (Popueus)
+
+Code: 141307, Postal: 140807, Coordinates: 11.5802122, 105.3551063
+
+#### ព្រៃខ្លា (Prey Khla)
+
+Code: 141308, Postal: 140808, Coordinates: 11.6297517, 105.4257511
+
+#### សំរោង (Samraong)
+
+Code: 141309, Postal: 010404
+
+#### ស្វាយអន្ទរ (Svay Antor)
+
+Code: 141310, Postal: 140810, Coordinates: 11.5696618, 105.4200242
+
+#### ទឹកថ្លា (Tuek Thla)
+
+Code: 141311, Postal: 120802, Coordinates: 11.3820685, 105.4509218
+

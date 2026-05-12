@@ -1,0 +1,30 @@
+{
+  "id": "04",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "កំពង់ឆ្នាំង",
+    "en": "Kampong Chhnang",
+    "slug": "kampong-chhnang-04"
+  },
+  "code": {
+    "id": "04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8,
+    "commune": 71
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.1382025",
+    "lon": "104.3354098"
+  },
+  "metadata": {},
+  "source": {}
+}

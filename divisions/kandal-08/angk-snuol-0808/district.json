@@ -1,0 +1,47 @@
+{
+  "id": "0808",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "អង្គស្នួល",
+    "en": "Angk Snuol",
+    "slug": "angk-snuol-0808"
+  },
+  "code": {
+    "id": "0808",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5078333",
+    "lon": "104.7157787"
+  },
+  "metadata": {},
+  "source": {}
+}

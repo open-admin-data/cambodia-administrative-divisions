@@ -1,0 +1,47 @@
+{
+  "id": "1407",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ពាមរក៍",
+    "en": "Peam Ro",
+    "slug": "peam-ro-1407"
+  },
+  "code": {
+    "id": "1407",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "ព្រៃវែង",
+      "en": "Prey Veng",
+      "slug": "prey-veng-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.3186652",
+    "lon": "105.2809166"
+  },
+  "metadata": {},
+  "source": {}
+}

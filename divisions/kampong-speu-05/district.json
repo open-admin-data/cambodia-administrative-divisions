@@ -1,0 +1,425 @@
+[
+  {
+    "id": "0504",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ឱរ៉ាល់",
+      "en": "Aural",
+      "slug": "aural-0504"
+    },
+    "code": {
+      "id": "0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.777897450000001",
+      "lon": "104.01083834230268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បរសេដ្ឋ",
+      "en": "Basedth",
+      "slug": "basedth-0501"
+    },
+    "code": {
+      "id": "0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.200398",
+      "lon": "104.50433350548424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ច្បារមន",
+      "en": "Chbar Mon",
+      "slug": "chbar-mon-0502"
+    },
+    "code": {
+      "id": "0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.4647156",
+      "lon": "104.5194625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0503",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "គងពិសី",
+      "en": "Kong Pisei",
+      "slug": "kong-pisei-0503"
+    },
+    "code": {
+      "id": "0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.3106024",
+      "lon": "104.62320857080852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ឧដុង្គម៉ែជ័យ",
+      "en": "Odongk Maechay",
+      "slug": "odongk-maechay-0509"
+    },
+    "code": {
+      "id": "0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0506",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ភ្នំស្រួច",
+      "en": "Phnum Sruoch",
+      "slug": "phnum-sruoch-0506"
+    },
+    "code": {
+      "id": "0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.310279900000001",
+      "lon": "104.25317703358202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0510",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សាមគ្គីមុនីជ័យ",
+      "en": "Samkkei Munichay",
+      "slug": "samkkei-munichay-0510"
+    },
+    "code": {
+      "id": "0510",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0507",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សំរោងទង",
+      "en": "Samraong Tong",
+      "slug": "samraong-tong-0507"
+    },
+    "code": {
+      "id": "0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.45044745",
+      "lon": "104.60617304001704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0508",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ថ្ពង",
+      "en": "Thpong",
+      "slug": "thpong-0508"
+    },
+    "code": {
+      "id": "0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.758617300000001",
+      "lon": "104.34032516738003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "1104",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ពេជ្រាដា",
+    "en": "Pech Chreada",
+    "slug": "pech-chreada-1104"
+  },
+  "code": {
+    "id": "1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "មណ្ឌលគិរី",
+      "en": "Mondulkiri",
+      "slug": "mondulkiri-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "មណ្ឌលគិរី",
+        "en": "Mondulkiri",
+        "slug": "mondulkiri-11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.5392225",
+    "lon": "107.427935"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "090705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជីផាត",
+      "en": "Chi Phat",
+      "slug": "chi-phat-090705"
+    },
+    "code": {
+      "id": "090705",
+      "iso": null
+    },
+    "parent": {
+      "id": "0907",
+      "level": 2,
+      "name": {
+        "local": "ថ្មបាំង",
+        "en": "Thma Bang",
+        "slug": "thma-bang-0907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0907",
+        "level": 2,
+        "name": {
+          "local": "ថ្មបាំង",
+          "en": "Thma Bang",
+          "slug": "thma-bang-0907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090605"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជំនាប់",
+      "en": "Chumnoab",
+      "slug": "chumnoab-090703"
+    },
+    "code": {
+      "id": "090703",
+      "iso": null
+    },
+    "parent": {
+      "id": "0907",
+      "level": 2,
+      "name": {
+        "local": "ថ្មបាំង",
+        "en": "Thma Bang",
+        "slug": "thma-bang-0907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0907",
+        "level": 2,
+        "name": {
+          "local": "ថ្មបាំង",
+          "en": "Thma Bang",
+          "slug": "thma-bang-0907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090603"
+    ],
+    "geo": {
+      "lat": "11.6540275",
+      "lon": "103.548067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រឡាយ",
+      "en": "Pralay",
+      "slug": "pralay-090702"
+    },
+    "code": {
+      "id": "090702",
+      "iso": null
+    },
+    "parent": {
+      "id": "0907",
+      "level": 2,
+      "name": {
+        "local": "ថ្មបាំង",
+        "en": "Thma Bang",
+        "slug": "thma-bang-0907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0907",
+        "level": 2,
+        "name": {
+          "local": "ថ្មបាំង",
+          "en": "Thma Bang",
+          "slug": "thma-bang-0907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060709"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីជ្រុំ",
+      "en": "Ruessei Chrum",
+      "slug": "ruessei-chrum-090704"
+    },
+    "code": {
+      "id": "090704",
+      "iso": null
+    },
+    "parent": {
+      "id": "0907",
+      "level": 2,
+      "name": {
+        "local": "ថ្មបាំង",
+        "en": "Thma Bang",
+        "slug": "thma-bang-0907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0907",
+        "level": 2,
+        "name": {
+          "local": "ថ្មបាំង",
+          "en": "Thma Bang",
+          "slug": "thma-bang-0907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090604"
+    ],
+    "geo": {
+      "lat": "11.6835416",
+      "lon": "103.4427791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាទៃលើ",
+      "en": "Ta Tey Leu",
+      "slug": "ta-tey-leu-090701"
+    },
+    "code": {
+      "id": "090701",
+      "iso": null
+    },
+    "parent": {
+      "id": "0907",
+      "level": 2,
+      "name": {
+        "local": "ថ្មបាំង",
+        "en": "Thma Bang",
+        "slug": "thma-bang-0907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0907",
+        "level": 2,
+        "name": {
+          "local": "ថ្មបាំង",
+          "en": "Thma Bang",
+          "slug": "thma-bang-0907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090601"
+    ],
+    "geo": {
+      "lat": "11.8391583",
+      "lon": "103.4511768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មដូនពៅ",
+      "en": "Thma Doun Pov",
+      "slug": "thma-doun-pov-090706"
+    },
+    "code": {
+      "id": "090706",
+      "iso": null
+    },
+    "parent": {
+      "id": "0907",
+      "level": 2,
+      "name": {
+        "local": "ថ្មបាំង",
+        "en": "Thma Bang",
+        "slug": "thma-bang-0907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0907",
+        "level": 2,
+        "name": {
+          "local": "ថ្មបាំង",
+          "en": "Thma Bang",
+          "slug": "thma-bang-0907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090606"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

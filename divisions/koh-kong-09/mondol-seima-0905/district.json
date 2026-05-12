@@ -1,0 +1,47 @@
+{
+  "id": "0905",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "មណ្ឌលសីមា",
+    "en": "Mondol Seima",
+    "slug": "mondol-seima-0905"
+  },
+  "code": {
+    "id": "0905",
+    "iso": null
+  },
+  "parent": {
+    "id": "09",
+    "level": 1,
+    "name": {
+      "local": "កោះកុង",
+      "en": "Koh Kong",
+      "slug": "koh-kong-09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5698303",
+    "lon": "102.9539371"
+  },
+  "metadata": {},
+  "source": {}
+}

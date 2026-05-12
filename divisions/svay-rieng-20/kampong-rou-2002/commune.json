@@ -1,0 +1,618 @@
+[
+  {
+    "id": "200201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្ទាយក្រាំង",
+      "en": "Banteay Krang",
+      "slug": "banteay-krang-200201"
+    },
+    "code": {
+      "id": "200201",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200201"
+    ],
+    "geo": {
+      "lat": "10.9430813",
+      "lon": "105.8701854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្សែត្រ",
+      "en": "Khsaetr",
+      "slug": "khsaetr-200203"
+    },
+    "code": {
+      "id": "200203",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200203"
+    ],
+    "geo": {
+      "lat": "10.9269907",
+      "lon": "105.9854133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ញរ",
+      "en": "Nhor",
+      "slug": "nhor-200202"
+    },
+    "code": {
+      "id": "200202",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200202"
+    ],
+    "geo": {
+      "lat": "10.9199656",
+      "lon": "105.940332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះពន្លា",
+      "en": "Preah Ponlea",
+      "slug": "preah-ponlea-200204"
+    },
+    "code": {
+      "id": "200204",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200204"
+    ],
+    "geo": {
+      "lat": "11.0071492",
+      "lon": "105.8694386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃធំ",
+      "en": "Prey Thum",
+      "slug": "prey-thum-200205"
+    },
+    "code": {
+      "id": "200205",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200205"
+    ],
+    "geo": {
+      "lat": "10.9816936",
+      "lon": "105.8673194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រាជមន្ទីរ",
+      "en": "Reach Montir",
+      "slug": "reach-montir-200206"
+    },
+    "code": {
+      "id": "200206",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200206"
+    ],
+    "geo": {
+      "lat": "10.9193762",
+      "lon": "105.9071224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំឡី",
+      "en": "Samlei",
+      "slug": "samlei-200207"
+    },
+    "code": {
+      "id": "200207",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200207"
+    ],
+    "geo": {
+      "lat": "10.9296964",
+      "lon": "106.0224282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំយ៉ោង",
+      "en": "Samyaong",
+      "slug": "samyaong-200208"
+    },
+    "code": {
+      "id": "200208",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200208"
+    ],
+    "geo": {
+      "lat": "10.9671464",
+      "lon": "105.8431557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយតាយាន",
+      "en": "Svay Ta Yean",
+      "slug": "svay-ta-yean-200209"
+    },
+    "code": {
+      "id": "200209",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200209"
+    ],
+    "geo": {
+      "lat": "11.0132781",
+      "lon": "105.9663807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មី",
+      "en": "Thmei",
+      "slug": "thmei-200211"
+    },
+    "code": {
+      "id": "200211",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010503"
+    ],
+    "geo": {
+      "lat": "10.8767644",
+      "lon": "105.9269965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200212",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្នោត",
+      "en": "Tnaot",
+      "slug": "tnaot-200212"
+    },
+    "code": {
+      "id": "200212",
+      "iso": null
+    },
+    "parent": {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "local": "កំពង់រោទិ៍",
+        "en": "Kampong Rou",
+        "slug": "kampong-rou-2002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "local": "កំពង់រោទិ៍",
+          "en": "Kampong Rou",
+          "slug": "kampong-rou-2002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140108"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "031501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អារក្សត្នោត",
+      "en": "Areaks Tnot",
+      "slug": "areaks-tnot-031501"
+    },
+    "code": {
+      "id": "031501",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031001"
+    ],
+    "geo": {
+      "lat": "12.368098",
+      "lon": "105.6402341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដងក្ដារ",
+      "en": "Dang Kdar",
+      "slug": "dang-kdar-031503"
+    },
+    "code": {
+      "id": "031503",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031002"
+    ],
+    "geo": {
+      "lat": "12.4018096",
+      "lon": "105.435566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្ពបតាងួន",
+      "en": "Khpob Ta Nguon",
+      "slug": "khpob-ta-nguon-031504"
+    },
+    "code": {
+      "id": "031504",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031003"
+    ],
+    "geo": {
+      "lat": "12.3581725",
+      "lon": "105.7152097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេសរជ្រៃ",
+      "en": "Me Sar Chrey",
+      "slug": "me-sar-chrey-031505"
+    },
+    "code": {
+      "id": "031505",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031004"
+    ],
+    "geo": {
+      "lat": "12.2996807",
+      "lon": "105.4127089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរម្លូ",
+      "en": "Ou Mlu",
+      "slug": "ou-mlu-031506"
+    },
+    "code": {
+      "id": "031506",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031005"
+    ],
+    "geo": {
+      "lat": "12.4473057",
+      "lon": "105.5853196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមកោះស្នា",
+      "en": "Peam Kaoh Snar",
+      "slug": "peam-kaoh-snar-031507"
+    },
+    "code": {
+      "id": "031507",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031006"
+    ],
+    "geo": {
+      "lat": "12.3074503",
+      "lon": "105.6504051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031509",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកបាក់",
+      "en": "Preaek Bak",
+      "slug": "preaek-bak-031509"
+    },
+    "code": {
+      "id": "031509",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31509"
+    ],
+    "geo": {
+      "lat": "12.186105",
+      "lon": "105.5204805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031508",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះអណ្ដូង",
+      "en": "Preah Andoung",
+      "slug": "preah-andoung-031508"
+    },
+    "code": {
+      "id": "031508",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031510",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកកក់",
+      "en": "Preak Kak",
+      "slug": "preak-kak-031510"
+    },
+    "code": {
+      "id": "031510",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31510"
+    ],
+    "geo": {
+      "lat": "12.280098",
+      "lon": "105.516005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031512",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សូភាស",
+      "en": "Soupheas",
+      "slug": "soupheas-031512"
+    },
+    "code": {
+      "id": "031512",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031010"
+    ],
+    "geo": {
+      "lat": "12.2713482",
+      "lon": "105.421302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031513",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលព្រះឃ្លាំង",
+      "en": "Tuol Preah Khleang",
+      "slug": "tuol-preah-khleang-031513"
+    },
+    "code": {
+      "id": "031513",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031011"
+    ],
+    "geo": {
+      "lat": "12.2245725",
+      "lon": "105.4653777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031514",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលសំបួរ",
+      "en": "Tuol Sambuor",
+      "slug": "tuol-sambuor-031514"
+    },
+    "code": {
+      "id": "031514",
+      "iso": null
+    },
+    "parent": {
+      "id": "0315",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រង់",
+        "en": "Stueng Trang",
+        "slug": "stueng-trang-0315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0315",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រង់",
+          "en": "Stueng Trang",
+          "slug": "stueng-trang-0315"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "031012"
+    ],
+    "geo": {
+      "lat": "12.4161553",
+      "lon": "105.6748673"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

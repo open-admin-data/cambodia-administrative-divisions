@@ -1,0 +1,47 @@
+{
+  "id": "0102",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "មង្គលបូរី",
+    "en": "Mongkol Borey",
+    "slug": "mongkol-borey-0102"
+  },
+  "code": {
+    "id": "0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "បន្ទាយមានជ័យ",
+      "en": "Banteay Meanchey",
+      "slug": "banteay-meanchey-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.4940861",
+    "lon": "102.9791567"
+  },
+  "metadata": {},
+  "source": {}
+}

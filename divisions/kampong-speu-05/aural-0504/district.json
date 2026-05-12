@@ -1,0 +1,47 @@
+{
+  "id": "0504",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ឱរ៉ាល់",
+    "en": "Aural",
+    "slug": "aural-0504"
+  },
+  "code": {
+    "id": "0504",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ស្ពឺ",
+      "en": "Kampong Speu",
+      "slug": "kampong-speu-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.777897450000001",
+    "lon": "104.01083834230268"
+  },
+  "metadata": {},
+  "source": {}
+}

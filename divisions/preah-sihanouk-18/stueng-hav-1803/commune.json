@@ -1,0 +1,226 @@
+[
+  {
+    "id": "180304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កែវផុស",
+      "en": "Kaev Phos",
+      "slug": "kaev-phos-180304"
+    },
+    "code": {
+      "id": "180304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងហាវ",
+        "en": "Stueng Hav",
+        "slug": "stueng-hav-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងហាវ",
+          "en": "Stueng Hav",
+          "slug": "stueng-hav-1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180204"
+    ],
+    "geo": {
+      "lat": "10.8916702",
+      "lon": "103.7180696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពេញ",
+      "en": "Kampenh",
+      "slug": "kampenh-180301"
+    },
+    "code": {
+      "id": "180301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងហាវ",
+        "en": "Stueng Hav",
+        "slug": "stueng-hav-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងហាវ",
+          "en": "Stueng Hav",
+          "slug": "stueng-hav-1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180201"
+    ],
+    "geo": {
+      "lat": "10.7379303",
+      "lon": "103.6188203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរត្រេះ",
+      "en": "Ou Treh",
+      "slug": "ou-treh-180302"
+    },
+    "code": {
+      "id": "180302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងហាវ",
+        "en": "Stueng Hav",
+        "slug": "stueng-hav-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងហាវ",
+          "en": "Stueng Hav",
+          "slug": "stueng-hav-1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180202"
+    ],
+    "geo": {
+      "lat": "10.7282298",
+      "lon": "103.6259351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទំនប់រលក",
+      "en": "Tumnob Rolok",
+      "slug": "tumnob-rolok-180303"
+    },
+    "code": {
+      "id": "180303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងហាវ",
+        "en": "Stueng Hav",
+        "slug": "stueng-hav-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងហាវ",
+          "en": "Stueng Hav",
+          "slug": "stueng-hav-1803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180203"
+    ],
+    "geo": {
+      "lat": "10.708616",
+      "lon": "103.6797461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

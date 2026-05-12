@@ -1,0 +1,47 @@
+{
+  "id": "2107",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សំរោង",
+    "en": "Samraong",
+    "slug": "samraong-2107"
+  },
+  "code": {
+    "id": "2107",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "តាកែវ",
+      "en": "Takéo",
+      "slug": "tako-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "តាកែវ",
+        "en": "Takéo",
+        "slug": "tako-21"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.1420911",
+    "lon": "104.8012079"
+  },
+  "metadata": {},
+  "source": {}
+}

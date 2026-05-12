@@ -1,0 +1,47 @@
+{
+  "id": "0402",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ជលគីរី",
+    "en": "Chol Kiri",
+    "slug": "chol-kiri-0402"
+  },
+  "code": {
+    "id": "0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ឆ្នាំង",
+      "en": "Kampong Chhnang",
+      "slug": "kampong-chhnang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.1593491",
+    "lon": "104.8815344"
+  },
+  "metadata": {},
+  "source": {}
+}

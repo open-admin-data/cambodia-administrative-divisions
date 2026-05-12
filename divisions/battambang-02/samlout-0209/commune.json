@@ -1,0 +1,394 @@
+[
+  {
+    "id": "020902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ល្ពៅ",
+      "en": "Kampong Lpov",
+      "slug": "kampong-lpov-020902"
+    },
+    "code": {
+      "id": "020902",
+      "iso": null
+    },
+    "parent": {
+      "id": "0209",
+      "level": 2,
+      "name": {
+        "local": "សំឡូត",
+        "en": "Samlout",
+        "slug": "samlout-0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0209",
+        "level": 2,
+        "name": {
+          "local": "សំឡូត",
+          "en": "Samlout",
+          "slug": "samlout-0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020902"
+    ],
+    "geo": {
+      "lat": "12.5783804",
+      "lon": "103.0060372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មានជ័យ",
+      "en": "Mean Chey",
+      "slug": "mean-chey-020906"
+    },
+    "code": {
+      "id": "020906",
+      "iso": null
+    },
+    "parent": {
+      "id": "0209",
+      "level": 2,
+      "name": {
+        "local": "សំឡូត",
+        "en": "Samlout",
+        "slug": "samlout-0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0209",
+        "level": 2,
+        "name": {
+          "local": "សំឡូត",
+          "en": "Samlout",
+          "slug": "samlout-0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020906"
+    ],
+    "geo": {
+      "lat": "12.7097921",
+      "lon": "102.7491049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរសំរិល",
+      "en": "Ou Samril",
+      "slug": "ou-samril-020903"
+    },
+    "code": {
+      "id": "020903",
+      "iso": null
+    },
+    "parent": {
+      "id": "0209",
+      "level": 2,
+      "name": {
+        "local": "សំឡូត",
+        "en": "Samlout",
+        "slug": "samlout-0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0209",
+        "level": 2,
+        "name": {
+          "local": "សំឡូត",
+          "en": "Samlout",
+          "slug": "samlout-0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020903"
+    ],
+    "geo": {
+      "lat": "12.7171626",
+      "lon": "102.9631234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំឡូត",
+      "en": "Samlout",
+      "slug": "samlout-020905"
+    },
+    "code": {
+      "id": "020905",
+      "iso": null
+    },
+    "parent": {
+      "id": "0209",
+      "level": 2,
+      "name": {
+        "local": "សំឡូត",
+        "en": "Samlout",
+        "slug": "samlout-0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0209",
+        "level": 2,
+        "name": {
+          "local": "សំឡូត",
+          "en": "Samlout",
+          "slug": "samlout-0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020905"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស៊ុង",
+      "en": "Sung",
+      "slug": "sung-020904"
+    },
+    "code": {
+      "id": "020904",
+      "iso": null
+    },
+    "parent": {
+      "id": "0209",
+      "level": 2,
+      "name": {
+        "local": "សំឡូត",
+        "en": "Samlout",
+        "slug": "samlout-0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0209",
+        "level": 2,
+        "name": {
+          "local": "សំឡូត",
+          "en": "Samlout",
+          "slug": "samlout-0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020904"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020907",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាសាញ",
+      "en": "Ta Sanh",
+      "slug": "ta-sanh-020907"
+    },
+    "code": {
+      "id": "020907",
+      "iso": null
+    },
+    "parent": {
+      "id": "0209",
+      "level": 2,
+      "name": {
+        "local": "សំឡូត",
+        "en": "Samlout",
+        "slug": "samlout-0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0209",
+        "level": 2,
+        "name": {
+          "local": "សំឡូត",
+          "en": "Samlout",
+          "slug": "samlout-0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020907"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាតោក",
+      "en": "Ta Taok",
+      "slug": "ta-taok-020901"
+    },
+    "code": {
+      "id": "020901",
+      "iso": null
+    },
+    "parent": {
+      "id": "0209",
+      "level": 2,
+      "name": {
+        "local": "សំឡូត",
+        "en": "Samlout",
+        "slug": "samlout-0209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0209",
+        "level": 2,
+        "name": {
+          "local": "សំឡូត",
+          "en": "Samlout",
+          "slug": "samlout-0209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020901"
+    ],
+    "geo": {
+      "lat": "12.4777454",
+      "lon": "102.8226913"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

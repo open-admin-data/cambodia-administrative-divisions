@@ -1,0 +1,30 @@
+{
+  "id": "23",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "កែប",
+    "en": "Kep",
+    "slug": "kep-23"
+  },
+  "code": {
+    "id": "23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.402153949999999",
+    "lon": "104.26506181616313"
+  },
+  "metadata": {},
+  "source": {}
+}

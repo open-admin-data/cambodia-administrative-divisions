@@ -1,0 +1,47 @@
+{
+  "id": "0609",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "តាំងគោក",
+    "en": "Tang Kouk",
+    "slug": "tang-kouk-0609"
+  },
+  "code": {
+    "id": "0609",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ធំ",
+      "en": "Kampong Thom",
+      "slug": "kampong-thom-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

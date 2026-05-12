@@ -1,0 +1,226 @@
+[
+  {
+    "id": "030501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងកុក",
+      "en": "Boeng Kok",
+      "slug": "boeng-kok-030501"
+    },
+    "code": {
+      "id": "030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "0305",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0305",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030401"
+    ],
+    "geo": {
+      "lat": "12.0015043",
+      "lon": "105.4664627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-030502"
+    },
+    "code": {
+      "id": "030502",
+      "iso": null
+    },
+    "parent": {
+      "id": "0305",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0305",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030402"
+    ],
+    "geo": {
+      "lat": "11.9948841",
+      "lon": "105.462139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរមាស",
+      "en": "Sambuor Meas",
+      "slug": "sambuor-meas-030503"
+    },
+    "code": {
+      "id": "030503",
+      "iso": null
+    },
+    "parent": {
+      "id": "0305",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0305",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030403"
+    ],
+    "geo": {
+      "lat": "11.9716229",
+      "lon": "105.4434941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាលវង់",
+      "en": "Veal Vong",
+      "slug": "veal-vong-030504"
+    },
+    "code": {
+      "id": "030504",
+      "iso": null
+    },
+    "parent": {
+      "id": "0305",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-0305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0305",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-0305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120307"
+    ],
+    "geo": {
+      "lat": "11.9871705",
+      "lon": "105.4619756"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

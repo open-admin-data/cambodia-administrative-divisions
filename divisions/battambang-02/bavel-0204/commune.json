@@ -1,0 +1,506 @@
+[
+  {
+    "id": "020405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពិលប្រាំដើម",
+      "en": "Ampil Pram Daeum",
+      "slug": "ampil-pram-daeum-020405"
+    },
+    "code": {
+      "id": "020405",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020305"
+    ],
+    "geo": {
+      "lat": "13.286431",
+      "lon": "102.7468051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បវេល",
+      "en": "Bavel",
+      "slug": "bavel-020401"
+    },
+    "code": {
+      "id": "020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020301"
+    ],
+    "geo": {
+      "lat": "13.2544052",
+      "lon": "102.8773064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងប្រាំ",
+      "en": "Boeung Pram",
+      "slug": "boeung-pram-020408"
+    },
+    "code": {
+      "id": "020408",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020308"
+    ],
+    "geo": {
+      "lat": "13.1917749",
+      "lon": "102.7942189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020409",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បួវិល",
+      "en": "Bouvel",
+      "slug": "bouvel-020409"
+    },
+    "code": {
+      "id": "020409",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20409"
+    ],
+    "geo": {
+      "lat": "13.2544052",
+      "lon": "102.8773064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្ដុលតាហែន",
+      "en": "Kdol Ta Haen",
+      "slug": "kdol-ta-haen-020406"
+    },
+    "code": {
+      "id": "020406",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020306"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឃ្លាំងមាស",
+      "en": "Khlaeng Meas",
+      "slug": "khlaeng-meas-020407"
+    },
+    "code": {
+      "id": "020407",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020307"
+    ],
+    "geo": {
+      "lat": "13.0853871",
+      "lon": "102.8251435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្នាចរមាស",
+      "en": "Khnach Romeas",
+      "slug": "khnach-romeas-020402"
+    },
+    "code": {
+      "id": "020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020302"
+    ],
+    "geo": {
+      "lat": "13.2734687",
+      "lon": "102.9495343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វា",
+      "en": "Lvea",
+      "slug": "lvea-020403"
+    },
+    "code": {
+      "id": "020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020303"
+    ],
+    "geo": {
+      "lat": "13.3304773",
+      "lon": "102.9497664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃខ្ពស់",
+      "en": "Prey Khpos",
+      "slug": "prey-khpos-020404"
+    },
+    "code": {
+      "id": "020404",
+      "iso": null
+    },
+    "parent": {
+      "id": "0204",
+      "level": 2,
+      "name": {
+        "local": "បវេល",
+        "en": "Bavel",
+        "slug": "bavel-0204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0204",
+        "level": 2,
+        "name": {
+          "local": "បវេល",
+          "en": "Bavel",
+          "slug": "bavel-0204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020304"
+    ],
+    "geo": {
+      "lat": "13.3753635",
+      "lon": "102.7609052"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

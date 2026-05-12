@@ -1,0 +1,338 @@
+[
+  {
+    "id": "090601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងព្រាវ",
+      "en": "Boeng Preav",
+      "slug": "boeng-preav-090601"
+    },
+    "code": {
+      "id": "090601",
+      "iso": null
+    },
+    "parent": {
+      "id": "0906",
+      "level": 2,
+      "name": {
+        "local": "ស្រែ អំបិល",
+        "en": "Srae Ambel",
+        "slug": "srae-ambel-0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0906",
+        "level": 2,
+        "name": {
+          "local": "ស្រែ អំបិល",
+          "en": "Srae Ambel",
+          "slug": "srae-ambel-0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជី ខ ក្រោម",
+      "en": "Chi Kha Kraom",
+      "slug": "chi-kha-kraom-090602"
+    },
+    "code": {
+      "id": "090602",
+      "iso": null
+    },
+    "parent": {
+      "id": "0906",
+      "level": 2,
+      "name": {
+        "local": "ស្រែ អំបិល",
+        "en": "Srae Ambel",
+        "slug": "srae-ambel-0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0906",
+        "level": 2,
+        "name": {
+          "local": "ស្រែ អំបិល",
+          "en": "Srae Ambel",
+          "slug": "srae-ambel-0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090502"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជី ខ លើ",
+      "en": "Chi kha Leu",
+      "slug": "chi-kha-leu-090603"
+    },
+    "code": {
+      "id": "090603",
+      "iso": null
+    },
+    "parent": {
+      "id": "0906",
+      "level": 2,
+      "name": {
+        "local": "ស្រែ អំបិល",
+        "en": "Srae Ambel",
+        "slug": "srae-ambel-0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0906",
+        "level": 2,
+        "name": {
+          "local": "ស្រែ អំបិល",
+          "en": "Srae Ambel",
+          "slug": "srae-ambel-0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090503"
+    ],
+    "geo": {
+      "lat": "11.1776649",
+      "lon": "103.6683256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រោយស្វាយ",
+      "en": "Chrouy Svay",
+      "slug": "chrouy-svay-090604"
+    },
+    "code": {
+      "id": "090604",
+      "iso": null
+    },
+    "parent": {
+      "id": "0906",
+      "level": 2,
+      "name": {
+        "local": "ស្រែ អំបិល",
+        "en": "Srae Ambel",
+        "slug": "srae-ambel-0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0906",
+        "level": 2,
+        "name": {
+          "local": "ស្រែ អំបិល",
+          "en": "Srae Ambel",
+          "slug": "srae-ambel-0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090504"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដងពែង",
+      "en": "Dang Peaeng",
+      "slug": "dang-peaeng-090605"
+    },
+    "code": {
+      "id": "090605",
+      "iso": null
+    },
+    "parent": {
+      "id": "0906",
+      "level": 2,
+      "name": {
+        "local": "ស្រែ អំបិល",
+        "en": "Srae Ambel",
+        "slug": "srae-ambel-0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0906",
+        "level": 2,
+        "name": {
+          "local": "ស្រែ អំបិល",
+          "en": "Srae Ambel",
+          "slug": "srae-ambel-0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090505"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែអំបិល",
+      "en": "Srae Ambel",
+      "slug": "srae-ambel-090606"
+    },
+    "code": {
+      "id": "090606",
+      "iso": null
+    },
+    "parent": {
+      "id": "0906",
+      "level": 2,
+      "name": {
+        "local": "ស្រែ អំបិល",
+        "en": "Srae Ambel",
+        "slug": "srae-ambel-0906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0906",
+        "level": 2,
+        "name": {
+          "local": "ស្រែ អំបិល",
+          "en": "Srae Ambel",
+          "slug": "srae-ambel-0906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090506"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

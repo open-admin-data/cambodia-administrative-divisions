@@ -1,0 +1,331 @@
+[
+  {
+    "id": "0901",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បុទុមសាគរ",
+      "en": "Botum Sakor",
+      "slug": "botum-sakor-0901"
+    },
+    "code": {
+      "id": "0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1910731",
+      "lon": "103.4626525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0903",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កោះកុង",
+      "en": "Kaoh Kong",
+      "slug": "kaoh-kong-0903"
+    },
+    "code": {
+      "id": "0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.4560302",
+      "lon": "103.122046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0904",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ខេមរភូមិន្ទ",
+      "en": "Khemara Phoumin",
+      "slug": "khemara-phoumin-0904"
+    },
+    "code": {
+      "id": "0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6110095",
+      "lon": "102.9818592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0902",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "គិរីសាគរ",
+      "en": "Kiri Sakor",
+      "slug": "kiri-sakor-0902"
+    },
+    "code": {
+      "id": "0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.9422524",
+      "lon": "103.1004568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0905",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "មណ្ឌលសីមា",
+      "en": "Mondol Seima",
+      "slug": "mondol-seima-0905"
+    },
+    "code": {
+      "id": "0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5698303",
+      "lon": "102.9539371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0906",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្រែ អំបិល",
+      "en": "Srae Ambel",
+      "slug": "srae-ambel-0906"
+    },
+    "code": {
+      "id": "0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.4655178",
+      "lon": "103.8216261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0907",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ថ្មបាំង",
+      "en": "Thma Bang",
+      "slug": "thma-bang-0907"
+    },
+    "code": {
+      "id": "0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6893621",
+      "lon": "103.438509"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

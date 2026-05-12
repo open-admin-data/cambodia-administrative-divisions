@@ -1,0 +1,562 @@
+[
+  {
+    "id": "020801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្លង់វិល",
+      "en": "Anlong Vil",
+      "slug": "anlong-vil-020801"
+    },
+    "code": {
+      "id": "020801",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ព្រះ",
+      "en": "Kampong Preah",
+      "slug": "kampong-preah-020805"
+    },
+    "code": {
+      "id": "020805",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020805"
+    ],
+    "geo": {
+      "lat": "13.0222201",
+      "lon": "103.3079167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020806",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ព្រៀង",
+      "en": "Kampong Prieng",
+      "slug": "kampong-prieng-020806"
+    },
+    "code": {
+      "id": "020806",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020806"
+    ],
+    "geo": {
+      "lat": "12.9525102",
+      "lon": "103.3443885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "នរា",
+      "en": "Norea",
+      "slug": "norea-020802"
+    },
+    "code": {
+      "id": "020802",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020802"
+    ],
+    "geo": {
+      "lat": "13.112793",
+      "lon": "103.221899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020808",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរដំបង ១",
+      "en": "Ou Dambang Muoy",
+      "slug": "ou-dambang-muoy-020808"
+    },
+    "code": {
+      "id": "020808",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020808"
+    ],
+    "geo": {
+      "lat": "13.0218557",
+      "lon": "103.231151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020809",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរដំបង ២",
+      "en": "Ou Dambang Pir",
+      "slug": "ou-dambang-pir-020809"
+    },
+    "code": {
+      "id": "020809",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020809"
+    ],
+    "geo": {
+      "lat": "13.0320789",
+      "lon": "103.2649065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020807",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រាំងកេសី",
+      "en": "Reang Kesei",
+      "slug": "reang-kesei-020807"
+    },
+    "code": {
+      "id": "020807",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020807"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកា",
+      "en": "Roka",
+      "slug": "roka-020804"
+    },
+    "code": {
+      "id": "020804",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020804"
+    ],
+    "geo": {
+      "lat": "13.0988745",
+      "lon": "103.2943735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាប៉ុន",
+      "en": "Ta Pon",
+      "slug": "ta-pon-020803"
+    },
+    "code": {
+      "id": "020803",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020803"
+    ],
+    "geo": {
+      "lat": "13.1588841",
+      "lon": "103.3674221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020810",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វត្ដតាមិម",
+      "en": "Vaot Ta Muem",
+      "slug": "vaot-ta-muem-020810"
+    },
+    "code": {
+      "id": "020810",
+      "iso": null
+    },
+    "parent": {
+      "id": "0208",
+      "level": 2,
+      "name": {
+        "local": "សង្កែ",
+        "en": "Sangkae",
+        "slug": "sangkae-0208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0208",
+        "level": 2,
+        "name": {
+          "local": "សង្កែ",
+          "en": "Sangkae",
+          "slug": "sangkae-0208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020810"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

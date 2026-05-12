@@ -1,0 +1,730 @@
+[
+  {
+    "id": "140301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្សោង",
+      "en": "Ansaong",
+      "slug": "ansaong-140301"
+    },
+    "code": {
+      "id": "140301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141101"
+    ],
+    "geo": {
+      "lat": "11.1266659",
+      "lon": "105.5422734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចាម",
+      "en": "Cham",
+      "slug": "cham-140302"
+    },
+    "code": {
+      "id": "140302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141102"
+    ],
+    "geo": {
+      "lat": "10.9932037",
+      "lon": "105.5536827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាងដែក",
+      "en": "Cheang Daek",
+      "slug": "cheang-daek-140303"
+    },
+    "code": {
+      "id": "140303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141103"
+    ],
+    "geo": {
+      "lat": "11.0043601",
+      "lon": "105.5267567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃ",
+      "en": "Chrey",
+      "slug": "chrey-140304"
+    },
+    "code": {
+      "id": "140304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020204"
+    ],
+    "geo": {
+      "lat": "11.6582984",
+      "lon": "105.1685733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ត្របែក",
+      "en": "Kampong Trabaek",
+      "slug": "kampong-trabaek-140307"
+    },
+    "code": {
+      "id": "140307",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141107"
+    ],
+    "geo": {
+      "lat": "11.142877",
+      "lon": "105.4807664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កន្សោមអក",
+      "en": "Kansoam Ak",
+      "slug": "kansoam-ak-140305"
+    },
+    "code": {
+      "id": "140305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141105"
+    ],
+    "geo": {
+      "lat": "11.1828291",
+      "lon": "105.5127682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោខ្ចក",
+      "en": "Kou Khchak",
+      "slug": "kou-khchak-140306"
+    },
+    "code": {
+      "id": "140306",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141106"
+    ],
+    "geo": {
+      "lat": "11.1923893",
+      "lon": "105.5495047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមមន្ទារ",
+      "en": "Peam Montear",
+      "slug": "peam-montear-140308"
+    },
+    "code": {
+      "id": "140308",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141108"
+    ],
+    "geo": {
+      "lat": "10.9541121",
+      "lon": "105.4981836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រាសាទ",
+      "en": "Prasat",
+      "slug": "prasat-140309"
+    },
+    "code": {
+      "id": "140309",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010304"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រធាតុ",
+      "en": "Pratheat",
+      "slug": "pratheat-140310"
+    },
+    "code": {
+      "id": "140310",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141110"
+    ],
+    "geo": {
+      "lat": "11.1173063",
+      "lon": "105.6131408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140311",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃឈរ",
+      "en": "Prey Chhor",
+      "slug": "prey-chhor-140311"
+    },
+    "code": {
+      "id": "140311",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030809"
+    ],
+    "geo": {
+      "lat": "11.1530235",
+      "lon": "105.5960639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140312",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃពោន",
+      "en": "Prey Poun",
+      "slug": "prey-poun-140312"
+    },
+    "code": {
+      "id": "140312",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141112"
+    ],
+    "geo": {
+      "lat": "11.065567",
+      "lon": "105.5552553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140313",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្កូវ",
+      "en": "Thkov",
+      "slug": "thkov-140313"
+    },
+    "code": {
+      "id": "140313",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្របែក",
+        "en": "Kampong Trabaek",
+        "slug": "kampong-trabaek-1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្របែក",
+          "en": "Kampong Trabaek",
+          "slug": "kampong-trabaek-1403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141113"
+    ],
+    "geo": {
+      "lat": "11.0994889",
+      "lon": "105.5670304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

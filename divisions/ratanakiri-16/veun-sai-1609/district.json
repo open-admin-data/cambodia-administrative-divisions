@@ -1,0 +1,47 @@
+{
+  "id": "1609",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "វើនសៃ",
+    "en": "Veun Sai",
+    "slug": "veun-sai-1609"
+  },
+  "code": {
+    "id": "1609",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "រតនគិរី",
+      "en": "Ratanakiri",
+      "slug": "ratanakiri-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.9720878",
+    "lon": "106.8137949"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,450 @@
+[
+  {
+    "id": "100101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឆ្លូង",
+      "en": "Chhloung",
+      "slug": "chhloung-100101"
+    },
+    "code": {
+      "id": "100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "local": "ឆ្លូង",
+        "en": "Chhloung",
+        "slug": "chhloung-1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1001",
+        "level": 2,
+        "name": {
+          "local": "ឆ្លូង",
+          "en": "Chhloung",
+          "slug": "chhloung-1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100101"
+    ],
+    "geo": {
+      "lat": "12.2522126",
+      "lon": "105.9775534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំរីផុង",
+      "en": "Damrei Phong",
+      "slug": "damrei-phong-100102"
+    },
+    "code": {
+      "id": "100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "local": "ឆ្លូង",
+        "en": "Chhloung",
+        "slug": "chhloung-1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1001",
+        "level": 2,
+        "name": {
+          "local": "ឆ្លូង",
+          "en": "Chhloung",
+          "slug": "chhloung-1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100102"
+    ],
+    "geo": {
+      "lat": "12.2006895",
+      "lon": "106.1436793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ហាន់ជ័យ",
+      "en": "Han Chey",
+      "slug": "han-chey-100103"
+    },
+    "code": {
+      "id": "100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "local": "ឆ្លូង",
+        "en": "Chhloung",
+        "slug": "chhloung-1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1001",
+        "level": 2,
+        "name": {
+          "local": "ឆ្លូង",
+          "en": "Chhloung",
+          "slug": "chhloung-1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100103"
+    ],
+    "geo": {
+      "lat": "12.2289532",
+      "lon": "105.9462198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ដំរី",
+      "en": "Kampong Damrei",
+      "slug": "kampong-damrei-100104"
+    },
+    "code": {
+      "id": "100104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "local": "ឆ្លូង",
+        "en": "Chhloung",
+        "slug": "chhloung-1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1001",
+        "level": 2,
+        "name": {
+          "local": "ឆ្លូង",
+          "en": "Chhloung",
+          "slug": "chhloung-1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100104"
+    ],
+    "geo": {
+      "lat": "12.0462451",
+      "lon": "106.1881101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កញ្ជរ",
+      "en": "Kanhchor",
+      "slug": "kanhchor-100105"
+    },
+    "code": {
+      "id": "100105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "local": "ឆ្លូង",
+        "en": "Chhloung",
+        "slug": "chhloung-1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1001",
+        "level": 2,
+        "name": {
+          "local": "ឆ្លូង",
+          "en": "Chhloung",
+          "slug": "chhloung-1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150203"
+    ],
+    "geo": {
+      "lat": "12.3234059",
+      "lon": "106.0479358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្សាច់អណ្ដែត",
+      "en": "Khsach Andeth",
+      "slug": "khsach-andeth-100106"
+    },
+    "code": {
+      "id": "100106",
+      "iso": null
+    },
+    "parent": {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "local": "ឆ្លូង",
+        "en": "Chhloung",
+        "slug": "chhloung-1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1001",
+        "level": 2,
+        "name": {
+          "local": "ឆ្លូង",
+          "en": "Chhloung",
+          "slug": "chhloung-1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100106"
+    ],
+    "geo": {
+      "lat": "12.2518546",
+      "lon": "105.852774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពង្រ",
+      "en": "Pongro",
+      "slug": "pongro-100107"
+    },
+    "code": {
+      "id": "100107",
+      "iso": null
+    },
+    "parent": {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "local": "ឆ្លូង",
+        "en": "Chhloung",
+        "slug": "chhloung-1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1001",
+        "level": 2,
+        "name": {
+          "local": "ឆ្លូង",
+          "en": "Chhloung",
+          "slug": "chhloung-1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030707"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកសាម៉ាន់",
+      "en": "Preaek Saman",
+      "slug": "preaek-saman-100108"
+    },
+    "code": {
+      "id": "100108",
+      "iso": null
+    },
+    "parent": {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "local": "ឆ្លូង",
+        "en": "Chhloung",
+        "slug": "chhloung-1001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1001",
+        "level": 2,
+        "name": {
+          "local": "ឆ្លូង",
+          "en": "Chhloung",
+          "slug": "chhloung-1001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100108"
+    ],
+    "geo": {
+      "lat": "12.2648775",
+      "lon": "106.0757749"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

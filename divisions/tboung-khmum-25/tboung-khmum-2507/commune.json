@@ -1,0 +1,786 @@
+[
+  {
+    "id": "250701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អញ្ចើម",
+      "en": "Anhchaeum",
+      "slug": "anhchaeum-250701"
+    },
+    "code": {
+      "id": "250701",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250601"
+    ],
+    "geo": {
+      "lat": "11.8352603",
+      "lon": "105.6838238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងព្រួល",
+      "en": "Boeng Pruol",
+      "slug": "boeng-pruol-250702"
+    },
+    "code": {
+      "id": "250702",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250602"
+    ],
+    "geo": {
+      "lat": "12.0568269",
+      "lon": "105.5521259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជីគរ",
+      "en": "Chikor",
+      "slug": "chikor-250703"
+    },
+    "code": {
+      "id": "250703",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250603"
+    ],
+    "geo": {
+      "lat": "11.8472409",
+      "lon": "105.6264097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជីរោទ៍ ទី១",
+      "en": "Chirou Ti Muoy",
+      "slug": "chirou-ti-muoy-250704"
+    },
+    "code": {
+      "id": "250704",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250604"
+    ],
+    "geo": {
+      "lat": "12.0211372",
+      "lon": "105.4998421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជីរោទ៍ ទី២",
+      "en": "Chirou Ti Pir",
+      "slug": "chirou-ti-pir-250705"
+    },
+    "code": {
+      "id": "250705",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250605"
+    ],
+    "geo": {
+      "lat": "12.0211372",
+      "lon": "105.4998421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជប់",
+      "en": "Chob",
+      "slug": "chob-250706"
+    },
+    "code": {
+      "id": "250706",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250606"
+    ],
+    "geo": {
+      "lat": "11.914365",
+      "lon": "105.6254787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គរ",
+      "en": "Kor",
+      "slug": "kor-250707"
+    },
+    "code": {
+      "id": "250707",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030805"
+    ],
+    "geo": {
+      "lat": "11.9756491",
+      "lon": "105.7428114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្ងៀង",
+      "en": "Lngieng",
+      "slug": "lngieng-250708"
+    },
+    "code": {
+      "id": "250708",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250608"
+    ],
+    "geo": {
+      "lat": "11.9438421",
+      "lon": "105.7446858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មង់រៀវ",
+      "en": "Mong Riev",
+      "slug": "mong-riev-250709"
+    },
+    "code": {
+      "id": "250709",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250609"
+    ],
+    "geo": {
+      "lat": "11.8924135",
+      "lon": "105.6425797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250710",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមជីលាំង",
+      "en": "Peam Chileang",
+      "slug": "peam-chileang-250710"
+    },
+    "code": {
+      "id": "250710",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250610"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250711",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាពប្រាំ",
+      "en": "Roka Po Pram",
+      "slug": "roka-po-pram-250711"
+    },
+    "code": {
+      "id": "250711",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250611"
+    ],
+    "geo": {
+      "lat": "12.0779881",
+      "lon": "105.6896871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250712",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រឡប់",
+      "en": "Sralab",
+      "slug": "sralab-250712"
+    },
+    "code": {
+      "id": "250712",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250612"
+    ],
+    "geo": {
+      "lat": "11.8769066",
+      "lon": "105.7420154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250713",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មពេជ្រ",
+      "en": "Thma Pech",
+      "slug": "thma-pech-250713"
+    },
+    "code": {
+      "id": "250713",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250613"
+    ],
+    "geo": {
+      "lat": "12.0377391",
+      "lon": "105.615499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250714",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទន្លេបិទ",
+      "en": "Tonle Bet",
+      "slug": "tonle-bet-250714"
+    },
+    "code": {
+      "id": "250714",
+      "iso": null
+    },
+    "parent": {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-2507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2507",
+        "level": 2,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-2507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250614"
+    ],
+    "geo": {
+      "lat": "11.9608226",
+      "lon": "105.4770383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

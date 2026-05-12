@@ -1,0 +1,47 @@
+{
+  "id": "0308",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កោះសូទិន",
+    "en": "Kaoh Soutin",
+    "slug": "kaoh-soutin-0308"
+  },
+  "code": {
+    "id": "0308",
+    "iso": null
+  },
+  "parent": {
+    "id": "03",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.8823352",
+    "lon": "105.4399467"
+  },
+  "metadata": {},
+  "source": {}
+}

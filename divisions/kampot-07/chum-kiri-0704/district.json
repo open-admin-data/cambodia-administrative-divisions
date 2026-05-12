@@ -1,0 +1,47 @@
+{
+  "id": "0704",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ជុំគិរី",
+    "en": "Chum Kiri",
+    "slug": "chum-kiri-0704"
+  },
+  "code": {
+    "id": "0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "07",
+    "level": 1,
+    "name": {
+      "local": "កំពត",
+      "en": "Kampot",
+      "slug": "kampot-07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "07",
+      "level": 1,
+      "name": {
+        "local": "កំពត",
+        "en": "Kampot",
+        "slug": "kampot-07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.9239398",
+    "lon": "104.4190765"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1712",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្រីស្នំ",
+    "en": "Srei Snam",
+    "slug": "srei-snam-1712"
+  },
+  "code": {
+    "id": "1712",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.8323579",
+    "lon": "103.53640572541116"
+  },
+  "metadata": {},
+  "source": {}
+}

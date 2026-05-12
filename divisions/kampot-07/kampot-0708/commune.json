@@ -1,0 +1,282 @@
+[
+  {
+    "id": "070804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អណ្ដូងខ្មែរ",
+      "en": "Andoung Khmer",
+      "slug": "andoung-khmer-070804"
+    },
+    "code": {
+      "id": "070804",
+      "iso": null
+    },
+    "parent": {
+      "id": "0708",
+      "level": 2,
+      "name": {
+        "local": "កំពត",
+        "en": "Kampot",
+        "slug": "kampot-0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0708",
+        "level": 2,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070804"
+    ],
+    "geo": {
+      "lat": "10.605796",
+      "lon": "104.1714026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់បាយ",
+      "en": "Kampong Bay",
+      "slug": "kampong-bay-070803"
+    },
+    "code": {
+      "id": "070803",
+      "iso": null
+    },
+    "parent": {
+      "id": "0708",
+      "level": 2,
+      "name": {
+        "local": "កំពត",
+        "en": "Kampot",
+        "slug": "kampot-0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0708",
+        "level": 2,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070803"
+    ],
+    "geo": {
+      "lat": "10.6140375",
+      "lon": "104.1757898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់កណ្ដាល",
+      "en": "Kampong Kandal",
+      "slug": "kampong-kandal-070801"
+    },
+    "code": {
+      "id": "070801",
+      "iso": null
+    },
+    "parent": {
+      "id": "0708",
+      "level": 2,
+      "name": {
+        "local": "កំពត",
+        "en": "Kampot",
+        "slug": "kampot-0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0708",
+        "level": 2,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070801"
+    ],
+    "geo": {
+      "lat": "10.6058628",
+      "lon": "104.185856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងអំពិល",
+      "en": "Krang Ampil",
+      "slug": "krang-ampil-070802"
+    },
+    "code": {
+      "id": "070802",
+      "iso": null
+    },
+    "parent": {
+      "id": "0708",
+      "level": 2,
+      "name": {
+        "local": "កំពត",
+        "en": "Kampot",
+        "slug": "kampot-0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0708",
+        "level": 2,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070802"
+    ],
+    "geo": {
+      "lat": "10.6136396",
+      "lon": "104.1828648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រើយកោះ",
+      "en": "Traeuy Kaoh",
+      "slug": "traeuy-kaoh-070805"
+    },
+    "code": {
+      "id": "070805",
+      "iso": null
+    },
+    "parent": {
+      "id": "0708",
+      "level": 2,
+      "name": {
+        "local": "កំពត",
+        "en": "Kampot",
+        "slug": "kampot-0708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0708",
+        "level": 2,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-0708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070805"
+    ],
+    "geo": {
+      "lat": "10.571232",
+      "lon": "104.1872801"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

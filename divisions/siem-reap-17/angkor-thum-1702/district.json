@@ -1,0 +1,47 @@
+{
+  "id": "1702",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "អង្គរធំ",
+    "en": "Angkor Thum",
+    "slug": "angkor-thum-1702"
+  },
+  "code": {
+    "id": "1702",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.5793769",
+    "lon": "103.85457242215985"
+  },
+  "metadata": {},
+  "source": {}
+}

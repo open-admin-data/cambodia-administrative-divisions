@@ -1,0 +1,30 @@
+{
+  "id": "08",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "កណ្តាល",
+    "en": "Kandal",
+    "slug": "kandal-08"
+  },
+  "code": {
+    "id": "08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13,
+    "commune": 127
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.396262499999999",
+    "lon": "105.02078685074581"
+  },
+  "metadata": {},
+  "source": {}
+}

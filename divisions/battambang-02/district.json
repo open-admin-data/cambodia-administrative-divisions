@@ -1,0 +1,660 @@
+[
+  {
+    "id": "0205",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ឯកភ្នំ",
+      "en": "Aek Phnum",
+      "slug": "aek-phnum-0205"
+    },
+    "code": {
+      "id": "0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.1631918",
+      "lon": "103.2305121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0201",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បាណន់",
+      "en": "Banan",
+      "slug": "banan-0201"
+    },
+    "code": {
+      "id": "0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95192635",
+      "lon": "103.07601322092293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0203",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-0203"
+    },
+    "code": {
+      "id": "0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.0937231",
+      "lon": "103.18673434190434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0204",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បវេល",
+      "en": "Bavel",
+      "slug": "bavel-0204"
+    },
+    "code": {
+      "id": "0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.216788000000001",
+      "lon": "102.82214789233467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0212",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កំរៀង",
+      "en": "Kamrieng",
+      "slug": "kamrieng-0212"
+    },
+    "code": {
+      "id": "0212",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.0899494",
+      "lon": "102.51831760938151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0213",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "គាស់ក្រឡ",
+      "en": "Koas Krala",
+      "slug": "koas-krala-0213"
+    },
+    "code": {
+      "id": "0213",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.7550281",
+      "lon": "103.2628529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0206",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "មោងឫស្សី",
+      "en": "Moung Ruessei",
+      "slug": "moung-ruessei-0206"
+    },
+    "code": {
+      "id": "0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.775758",
+      "lon": "103.4486415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0211",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ភ្នំព្រឹក",
+      "en": "Phnum Proek",
+      "slug": "phnum-proek-0211"
+    },
+    "code": {
+      "id": "0211",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.29109285",
+      "lon": "102.51932343699104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0207",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "រតនមណ្ឌល",
+      "en": "Rotonak Mondol",
+      "slug": "rotonak-mondol-0207"
+    },
+    "code": {
+      "id": "0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.9086418",
+      "lon": "102.8824003119087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0214",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "រុក្ខគិរី",
+      "en": "Rukh Kiri",
+      "slug": "rukh-kiri-0214"
+    },
+    "code": {
+      "id": "0214",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.59417915",
+      "lon": "103.43565034578185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សំឡូត",
+      "en": "Samlout",
+      "slug": "samlout-0209"
+    },
+    "code": {
+      "id": "0209",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.6226916",
+      "lon": "102.8523788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0210",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សំពៅលូន",
+      "en": "Sampov Lun",
+      "slug": "sampov-lun-0210"
+    },
+    "code": {
+      "id": "0210",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.419025099999999",
+      "lon": "102.5236318714496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0208",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សង្កែ",
+      "en": "Sangkae",
+      "slug": "sangkae-0208"
+    },
+    "code": {
+      "id": "0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.0744566",
+      "lon": "103.2438673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0202",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ថ្មគោល",
+      "en": "Thma Koul",
+      "slug": "thma-koul-0202"
+    },
+    "code": {
+      "id": "0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.24944415",
+      "lon": "103.07118059476997"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

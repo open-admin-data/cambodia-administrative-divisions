@@ -1,0 +1,47 @@
+{
+  "id": "0804",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កោះធំ",
+    "en": "Kaoh Thum",
+    "slug": "kaoh-thum-0804"
+  },
+  "code": {
+    "id": "0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.1256716",
+    "lon": "105.0555595"
+  },
+  "metadata": {},
+  "source": {}
+}

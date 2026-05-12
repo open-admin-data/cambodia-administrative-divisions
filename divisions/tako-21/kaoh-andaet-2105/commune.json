@@ -1,0 +1,338 @@
+[
+  {
+    "id": "210501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រពុំឈូក",
+      "en": "Krapum Chhuk",
+      "slug": "krapum-chhuk-210501"
+    },
+    "code": {
+      "id": "210501",
+      "iso": null
+    },
+    "parent": {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "local": "កោះអណ្ដែត",
+        "en": "Kaoh Andaet",
+        "slug": "kaoh-andaet-2105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2105",
+        "level": 2,
+        "name": {
+          "local": "កោះអណ្ដែត",
+          "en": "Kaoh Andaet",
+          "slug": "kaoh-andaet-2105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210501"
+    ],
+    "geo": {
+      "lat": "10.7067716",
+      "lon": "104.9206951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពេជសារ",
+      "en": "Pech Sar",
+      "slug": "pech-sar-210502"
+    },
+    "code": {
+      "id": "210502",
+      "iso": null
+    },
+    "parent": {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "local": "កោះអណ្ដែត",
+        "en": "Kaoh Andaet",
+        "slug": "kaoh-andaet-2105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2105",
+        "level": 2,
+        "name": {
+          "local": "កោះអណ្ដែត",
+          "en": "Kaoh Andaet",
+          "slug": "kaoh-andaet-2105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210502"
+    ],
+    "geo": {
+      "lat": "10.731645",
+      "lon": "104.8467995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃខ្លា",
+      "en": "Prey Khla",
+      "slug": "prey-khla-210503"
+    },
+    "code": {
+      "id": "210503",
+      "iso": null
+    },
+    "parent": {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "local": "កោះអណ្ដែត",
+        "en": "Kaoh Andaet",
+        "slug": "kaoh-andaet-2105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2105",
+        "level": 2,
+        "name": {
+          "local": "កោះអណ្ដែត",
+          "en": "Kaoh Andaet",
+          "slug": "kaoh-andaet-2105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140808"
+    ],
+    "geo": {
+      "lat": "10.7648816",
+      "lon": "104.9171354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃយុថ្កា",
+      "en": "Prey Yuthka",
+      "slug": "prey-yuthka-210504"
+    },
+    "code": {
+      "id": "210504",
+      "iso": null
+    },
+    "parent": {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "local": "កោះអណ្ដែត",
+        "en": "Kaoh Andaet",
+        "slug": "kaoh-andaet-2105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2105",
+        "level": 2,
+        "name": {
+          "local": "កោះអណ្ដែត",
+          "en": "Kaoh Andaet",
+          "slug": "kaoh-andaet-2105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210504"
+    ],
+    "geo": {
+      "lat": "10.6777881",
+      "lon": "104.9604338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រមេញ",
+      "en": "Romenh",
+      "slug": "romenh-210505"
+    },
+    "code": {
+      "id": "210505",
+      "iso": null
+    },
+    "parent": {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "local": "កោះអណ្ដែត",
+        "en": "Kaoh Andaet",
+        "slug": "kaoh-andaet-2105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2105",
+        "level": 2,
+        "name": {
+          "local": "កោះអណ្ដែត",
+          "en": "Kaoh Andaet",
+          "slug": "kaoh-andaet-2105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210505"
+    ],
+    "geo": {
+      "lat": "10.7955358",
+      "lon": "104.9485846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធ្លាប្រជុំ",
+      "en": "Thlea Prachum",
+      "slug": "thlea-prachum-210506"
+    },
+    "code": {
+      "id": "210506",
+      "iso": null
+    },
+    "parent": {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "local": "កោះអណ្ដែត",
+        "en": "Kaoh Andaet",
+        "slug": "kaoh-andaet-2105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2105",
+        "level": 2,
+        "name": {
+          "local": "កោះអណ្ដែត",
+          "en": "Kaoh Andaet",
+          "slug": "kaoh-andaet-2105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210506"
+    ],
+    "geo": {
+      "lat": "10.7972805",
+      "lon": "104.8792098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "170101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចារឈូក",
+      "en": "Char Chhuk",
+      "slug": "char-chhuk-170101"
+    },
+    "code": {
+      "id": "170101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជុំ",
+        "en": "Angkor Chum",
+        "slug": "angkor-chum-1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជុំ",
+          "en": "Angkor Chum",
+          "slug": "angkor-chum-1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171101"
+    ],
+    "geo": {
+      "lat": "13.6838517",
+      "lon": "103.638361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូនពេង",
+      "en": "Doun Peng",
+      "slug": "doun-peng-170102"
+    },
+    "code": {
+      "id": "170102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជុំ",
+        "en": "Angkor Chum",
+        "slug": "angkor-chum-1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជុំ",
+          "en": "Angkor Chum",
+          "slug": "angkor-chum-1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171102"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកដូង",
+      "en": "Kouk Doung",
+      "slug": "kouk-doung-170103"
+    },
+    "code": {
+      "id": "170103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជុំ",
+        "en": "Angkor Chum",
+        "slug": "angkor-chum-1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជុំ",
+          "en": "Angkor Chum",
+          "slug": "angkor-chum-1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171103"
+    ],
+    "geo": {
+      "lat": "13.6756129",
+      "lon": "103.7653559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោល",
+      "en": "Koul",
+      "slug": "koul-170104"
+    },
+    "code": {
+      "id": "170104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជុំ",
+        "en": "Angkor Chum",
+        "slug": "angkor-chum-1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជុំ",
+          "en": "Angkor Chum",
+          "slug": "angkor-chum-1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171104"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "នគរភាស",
+      "en": "Nokor Pheas",
+      "slug": "nokor-pheas-170105"
+    },
+    "code": {
+      "id": "170105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជុំ",
+        "en": "Angkor Chum",
+        "slug": "angkor-chum-1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជុំ",
+          "en": "Angkor Chum",
+          "slug": "angkor-chum-1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171105"
+    ],
+    "geo": {
+      "lat": "13.6385069",
+      "lon": "103.6986931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែខ្វាវ",
+      "en": "Srae Khvav",
+      "slug": "srae-khvav-170106"
+    },
+    "code": {
+      "id": "170106",
+      "iso": null
+    },
+    "parent": {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជុំ",
+        "en": "Angkor Chum",
+        "slug": "angkor-chum-1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជុំ",
+          "en": "Angkor Chum",
+          "slug": "angkor-chum-1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171106"
+    ],
+    "geo": {
+      "lat": "13.7683896",
+      "lon": "103.6636526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាសោម",
+      "en": "Ta Saom",
+      "slug": "ta-saom-170107"
+    },
+    "code": {
+      "id": "170107",
+      "iso": null
+    },
+    "parent": {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជុំ",
+        "en": "Angkor Chum",
+        "slug": "angkor-chum-1701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជុំ",
+          "en": "Angkor Chum",
+          "slug": "angkor-chum-1701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171107"
+    ],
+    "geo": {
+      "lat": "13.6295432",
+      "lon": "104.2485422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

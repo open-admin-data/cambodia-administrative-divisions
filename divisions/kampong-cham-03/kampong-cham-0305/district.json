@@ -1,0 +1,47 @@
+{
+  "id": "0305",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កំពង់ចាម",
+    "en": "Kampong Cham",
+    "slug": "kampong-cham-0305"
+  },
+  "code": {
+    "id": "0305",
+    "iso": null
+  },
+  "parent": {
+    "id": "03",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.9921855",
+    "lon": "105.4628346"
+  },
+  "metadata": {},
+  "source": {}
+}

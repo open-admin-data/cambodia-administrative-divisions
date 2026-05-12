@@ -1,0 +1,730 @@
+[
+  {
+    "id": "050601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំបក់",
+      "en": "Chambak",
+      "slug": "chambak-050601"
+    },
+    "code": {
+      "id": "050601",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050501"
+    ],
+    "geo": {
+      "lat": "11.3875106",
+      "lon": "104.117303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាំសង្កែ",
+      "en": "Choam Sangkae",
+      "slug": "choam-sangkae-050602"
+    },
+    "code": {
+      "id": "050602",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050502"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំបូករូង",
+      "en": "Dambouk Rung",
+      "slug": "dambouk-rung-050603"
+    },
+    "code": {
+      "id": "050603",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050503"
+    ],
+    "geo": {
+      "lat": "11.2791442",
+      "lon": "104.3005451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គិរីវន្ដ",
+      "en": "Kiri Voan",
+      "slug": "kiri-voan-050604"
+    },
+    "code": {
+      "id": "050604",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050504"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងដីវ៉ាយ",
+      "en": "Krang Dei Vay",
+      "slug": "krang-dei-vay-050605"
+    },
+    "code": {
+      "id": "050605",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050505"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មហាសាំង",
+      "en": "Moha Sang",
+      "slug": "moha-sang-050606"
+    },
+    "code": {
+      "id": "050606",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050506"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរ",
+      "en": "Ou",
+      "slug": "ou-050607"
+    },
+    "code": {
+      "id": "050607",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050507"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃក្មេង",
+      "en": "Prey Kmeng",
+      "slug": "prey-kmeng-050609"
+    },
+    "code": {
+      "id": "050609",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050509"
+    ],
+    "geo": {
+      "lat": "11.3123868",
+      "lon": "104.4331552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃរំដួល",
+      "en": "Prey Rumduol",
+      "slug": "prey-rumduol-050608"
+    },
+    "code": {
+      "id": "050608",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050508"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050610",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងសំរោង",
+      "en": "Tang Samraong",
+      "slug": "tang-samraong-050610"
+    },
+    "code": {
+      "id": "050610",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050510"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050611",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងស្យា",
+      "en": "Tang Sya",
+      "slug": "tang-sya-050611"
+    },
+    "code": {
+      "id": "050611",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050511"
+    ],
+    "geo": {
+      "lat": "11.4362262",
+      "lon": "104.3536624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050613",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រែងត្រយឹង",
+      "en": "Traeng Trayueng",
+      "slug": "traeng-trayueng-050613"
+    },
+    "code": {
+      "id": "050613",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050512"
+    ],
+    "geo": {
+      "lat": "11.2772495",
+      "lon": "104.2126101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050614",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "យាយម៉ៅពេជ្យនិល",
+      "en": "Yeay Mao Pichnil",
+      "slug": "yeay-mao-pichnil-050614"
+    },
+    "code": {
+      "id": "050614",
+      "iso": null
+    },
+    "parent": {
+      "id": "0506",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រួច",
+        "en": "Phnum Sruoch",
+        "slug": "phnum-sruoch-0506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0506",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រួច",
+          "en": "Phnum Sruoch",
+          "slug": "phnum-sruoch-0506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50614"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

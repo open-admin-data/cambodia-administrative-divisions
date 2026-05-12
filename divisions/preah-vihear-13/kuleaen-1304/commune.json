@@ -1,0 +1,338 @@
+[
+  {
+    "id": "130402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គូលែនជើង",
+      "en": "Kuleaen Cheung",
+      "slug": "kuleaen-cheung-130402"
+    },
+    "code": {
+      "id": "130402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "គូលែន",
+        "en": "Kuleaen",
+        "slug": "kuleaen-1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1304",
+        "level": 2,
+        "name": {
+          "local": "គូលែន",
+          "en": "Kuleaen",
+          "slug": "kuleaen-1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130402"
+    ],
+    "geo": {
+      "lat": "13.8421085",
+      "lon": "104.6774867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គូលែនត្បូង",
+      "en": "Kuleaen Tboung",
+      "slug": "kuleaen-tboung-130401"
+    },
+    "code": {
+      "id": "130401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "គូលែន",
+        "en": "Kuleaen",
+        "slug": "kuleaen-1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1304",
+        "level": 2,
+        "name": {
+          "local": "គូលែន",
+          "en": "Kuleaen",
+          "slug": "kuleaen-1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130401"
+    ],
+    "geo": {
+      "lat": "13.7938083",
+      "lon": "104.675306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំពេញ",
+      "en": "Phnum Penh",
+      "slug": "phnum-penh-130404"
+    },
+    "code": {
+      "id": "130404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "គូលែន",
+        "en": "Kuleaen",
+        "slug": "kuleaen-1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1304",
+        "level": 2,
+        "name": {
+          "local": "គូលែន",
+          "en": "Kuleaen",
+          "slug": "kuleaen-1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130404"
+    ],
+    "geo": {
+      "lat": "13.7737006",
+      "lon": "104.7238554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំត្បែងពីរ",
+      "en": "Phnum Tbaeng Pir",
+      "slug": "phnum-tbaeng-pir-130405"
+    },
+    "code": {
+      "id": "130405",
+      "iso": null
+    },
+    "parent": {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "គូលែន",
+        "en": "Kuleaen",
+        "slug": "kuleaen-1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1304",
+        "level": 2,
+        "name": {
+          "local": "គូលែន",
+          "en": "Kuleaen",
+          "slug": "kuleaen-1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130405"
+    ],
+    "geo": {
+      "lat": "13.6494792",
+      "lon": "104.7000576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រយង់",
+      "en": "Srayang",
+      "slug": "srayang-130406"
+    },
+    "code": {
+      "id": "130406",
+      "iso": null
+    },
+    "parent": {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "គូលែន",
+        "en": "Kuleaen",
+        "slug": "kuleaen-1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1304",
+        "level": 2,
+        "name": {
+          "local": "គូលែន",
+          "en": "Kuleaen",
+          "slug": "kuleaen-1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130406"
+    ],
+    "geo": {
+      "lat": "13.706418",
+      "lon": "104.542996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មី",
+      "en": "Thmei",
+      "slug": "thmei-130403"
+    },
+    "code": {
+      "id": "130403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "គូលែន",
+        "en": "Kuleaen",
+        "slug": "kuleaen-1304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1304",
+        "level": 2,
+        "name": {
+          "local": "គូលែន",
+          "en": "Kuleaen",
+          "slug": "kuleaen-1304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010503"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

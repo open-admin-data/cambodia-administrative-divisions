@@ -1,0 +1,47 @@
+{
+  "id": "0103",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ភ្នំស្រុក",
+    "en": "Phnum Srok",
+    "slug": "phnum-srok-0103"
+  },
+  "code": {
+    "id": "0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "បន្ទាយមានជ័យ",
+      "en": "Banteay Meanchey",
+      "slug": "banteay-meanchey-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.7579963",
+    "lon": "103.3357732"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "040701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈានឡើង",
+      "en": "Chhean Laeung",
+      "slug": "chhean-laeung-040701"
+    },
+    "code": {
+      "id": "040701",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040501"
+    ],
+    "geo": {
+      "lat": "11.8018054",
+      "lon": "104.4420963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្នារឆ្មារ",
+      "en": "Khnar Chhmar",
+      "slug": "khnar-chhmar-040702"
+    },
+    "code": {
+      "id": "040702",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040502"
+    ],
+    "geo": {
+      "lat": "12.0050979",
+      "lon": "104.620222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងល្វា",
+      "en": "Krang Lvea",
+      "slug": "krang-lvea-040703"
+    },
+    "code": {
+      "id": "040703",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040503"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាម",
+      "en": "Peam",
+      "slug": "peam-040704"
+    },
+    "code": {
+      "id": "040704",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040504"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សេដ្ឋី",
+      "en": "Sedthei",
+      "slug": "sedthei-040705"
+    },
+    "code": {
+      "id": "040705",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040505"
+    ],
+    "geo": {
+      "lat": "11.875465",
+      "lon": "104.6724695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយ",
+      "en": "Svay",
+      "slug": "svay-040706"
+    },
+    "code": {
+      "id": "040706",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040506"
+    ],
+    "geo": {
+      "lat": "11.8322777",
+      "lon": "104.6937336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយជុក",
+      "en": "Svay Chuk",
+      "slug": "svay-chuk-040707"
+    },
+    "code": {
+      "id": "040707",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040507"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្បែងខ្ពស់",
+      "en": "Tbaeng Khpos",
+      "slug": "tbaeng-khpos-040708"
+    },
+    "code": {
+      "id": "040708",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040508"
+    ],
+    "geo": {
+      "lat": "11.8789393",
+      "lon": "104.6092482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធ្លកវៀន",
+      "en": "Thlok Vien",
+      "slug": "thlok-vien-040709"
+    },
+    "code": {
+      "id": "040709",
+      "iso": null
+    },
+    "parent": {
+      "id": "0407",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមានជ័យ",
+        "en": "Sameakki Mean Chey",
+        "slug": "sameakki-mean-chey-0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0407",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមានជ័យ",
+          "en": "Sameakki Mean Chey",
+          "slug": "sameakki-mean-chey-0407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040509"
+    ],
+    "geo": {
+      "lat": "11.9534432",
+      "lon": "104.6489216"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

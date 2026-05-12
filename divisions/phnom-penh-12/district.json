@@ -1,0 +1,660 @@
+[
+  {
+    "id": "1213",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បឹងកេងកង",
+      "en": "Boeng Keng Kang",
+      "slug": "boeng-keng-kang-1213"
+    },
+    "code": {
+      "id": "1213",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5489263",
+      "lon": "104.9113011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ចំការមន",
+      "en": "Chamkar Mon",
+      "slug": "chamkar-mon-1201"
+    },
+    "code": {
+      "id": "1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5373071",
+      "lon": "104.9208767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ច្បារអំពៅ",
+      "en": "Chbar Ampov",
+      "slug": "chbar-ampov-1212"
+    },
+    "code": {
+      "id": "1212",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5228263",
+      "lon": "104.9667447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ជ្រោយចង្វារ",
+      "en": "Chrouy Changvar",
+      "slug": "chrouy-changvar-1210"
+    },
+    "code": {
+      "id": "1210",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6586259",
+      "lon": "104.9092633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ដង្កោ",
+      "en": "Dangkao",
+      "slug": "dangkao-1205"
+    },
+    "code": {
+      "id": "1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5057732",
+      "lon": "104.891422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ដូនពេញ",
+      "en": "Doun Penh",
+      "slug": "doun-penh-1202"
+    },
+    "code": {
+      "id": "1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5772693",
+      "lon": "104.9194273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1214",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កំបូល",
+      "en": "Kamboul",
+      "slug": "kamboul-1214"
+    },
+    "code": {
+      "id": "1214",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5363753",
+      "lon": "104.770603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "មានជ័យ",
+      "en": "Mean Chey",
+      "slug": "mean-chey-1206"
+    },
+    "code": {
+      "id": "1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5315089",
+      "lon": "104.8984702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ព្រែកព្នៅ",
+      "en": "Praek Pnov",
+      "slug": "praek-pnov-1211"
+    },
+    "code": {
+      "id": "1211",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6591915",
+      "lon": "104.8608617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "៧មករា",
+      "en": "Prampir Meakkakra",
+      "slug": "prampir-meakkakra-1203"
+    },
+    "code": {
+      "id": "1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5637649",
+      "lon": "104.9106689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1209",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពោធិ៍សែនជ័យ",
+      "en": "Pur SenChey",
+      "slug": "pur-senchey-1209"
+    },
+    "code": {
+      "id": "1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5538562",
+      "lon": "104.826722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1207",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ឫស្សីកែវ",
+      "en": "Russey Keo",
+      "slug": "russey-keo-1207"
+    },
+    "code": {
+      "id": "1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6287927",
+      "lon": "104.9037583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សែនសុខ",
+      "en": "Sen Sok",
+      "slug": "sen-sok-1208"
+    },
+    "code": {
+      "id": "1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5785557",
+      "lon": "104.8692475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ទួលគោក",
+      "en": "Tuol Kouk",
+      "slug": "tuol-kouk-1204"
+    },
+    "code": {
+      "id": "1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5738692",
+      "lon": "104.8996872"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

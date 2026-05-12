@@ -1,0 +1,506 @@
+[
+  {
+    "id": "140801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ពពិល",
+      "en": "Kampong Popil",
+      "slug": "kampong-popil-140801"
+    },
+    "code": {
+      "id": "140801",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141201"
+    ],
+    "geo": {
+      "lat": "11.64651",
+      "lon": "105.1535142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ប្រាំង",
+      "en": "Kampong Prang",
+      "slug": "kampong-prang-140803"
+    },
+    "code": {
+      "id": "140803",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141203"
+    ],
+    "geo": {
+      "lat": "11.5882262",
+      "lon": "105.1161828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កញ្ចំ",
+      "en": "Kanhcham",
+      "slug": "kanhcham-140802"
+    },
+    "code": {
+      "id": "140802",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141202"
+    ],
+    "geo": {
+      "lat": "11.6921431",
+      "lon": "105.3003113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេសរប្រចាន់",
+      "en": "Mesar Prachan",
+      "slug": "mesar-prachan-140805"
+    },
+    "code": {
+      "id": "140805",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141204"
+    ],
+    "geo": {
+      "lat": "11.7415049",
+      "lon": "105.170326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140807",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃព្នៅ",
+      "en": "Prey Pnov",
+      "slug": "prey-pnov-140807"
+    },
+    "code": {
+      "id": "140807",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141205"
+    ],
+    "geo": {
+      "lat": "11.6407957",
+      "lon": "105.3395129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140808",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃស្នៀត",
+      "en": "Prey Sniet",
+      "slug": "prey-sniet-140808"
+    },
+    "code": {
+      "id": "140808",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141206"
+    ],
+    "geo": {
+      "lat": "11.6347685",
+      "lon": "105.2272207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140809",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃស្រឡិត",
+      "en": "Prey Sralet",
+      "slug": "prey-sralet-140809"
+    },
+    "code": {
+      "id": "140809",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141207"
+    ],
+    "geo": {
+      "lat": "11.7393553",
+      "lon": "105.2045749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140810",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រាប",
+      "en": "Reab",
+      "slug": "reab-140810"
+    },
+    "code": {
+      "id": "140810",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141208"
+    ],
+    "geo": {
+      "lat": "11.6627701",
+      "lon": "105.1914469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140811",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកា",
+      "en": "Roka",
+      "slug": "roka-140811"
+    },
+    "code": {
+      "id": "140811",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "ពារាំង",
+        "en": "Pea Reang",
+        "slug": "pea-reang-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "ពារាំង",
+          "en": "Pea Reang",
+          "slug": "pea-reang-1408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020804"
+    ],
+    "geo": {
+      "lat": "11.6694027",
+      "lon": "105.2617305"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

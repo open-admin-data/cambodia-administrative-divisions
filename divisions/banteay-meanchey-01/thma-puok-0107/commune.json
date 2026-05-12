@@ -1,0 +1,338 @@
+[
+  {
+    "id": "010701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្ទាយឆ្មារ",
+      "en": "Banteay Chhmar",
+      "slug": "banteay-chhmar-010701"
+    },
+    "code": {
+      "id": "010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "ថ្មពួក",
+        "en": "Thma Puok",
+        "slug": "thma-puok-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "ថ្មពួក",
+          "en": "Thma Puok",
+          "slug": "thma-puok-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010501"
+    ],
+    "geo": {
+      "lat": "14.0694373",
+      "lon": "103.0934719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកកឋិន",
+      "en": "Kouk Kakthen",
+      "slug": "kouk-kakthen-010705"
+    },
+    "code": {
+      "id": "010705",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "ថ្មពួក",
+        "en": "Thma Puok",
+        "slug": "thma-puok-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "ថ្មពួក",
+          "en": "Thma Puok",
+          "slug": "thma-puok-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010505"
+    ],
+    "geo": {
+      "lat": "13.8879594",
+      "lon": "103.1480637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោករមៀត",
+      "en": "Kouk Romiet",
+      "slug": "kouk-romiet-010702"
+    },
+    "code": {
+      "id": "010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "ថ្មពួក",
+        "en": "Thma Puok",
+        "slug": "thma-puok-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "ថ្មពួក",
+          "en": "Thma Puok",
+          "slug": "thma-puok-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010502"
+    ],
+    "geo": {
+      "lat": "13.9951214",
+      "lon": "102.935528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គំរូ",
+      "en": "Kumru",
+      "slug": "kumru-010706"
+    },
+    "code": {
+      "id": "010706",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "ថ្មពួក",
+        "en": "Thma Puok",
+        "slug": "thma-puok-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "ថ្មពួក",
+          "en": "Thma Puok",
+          "slug": "thma-puok-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010506"
+    ],
+    "geo": {
+      "lat": "13.9806406",
+      "lon": "103.0261071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភូមិថ្មី",
+      "en": "Phum Thmei",
+      "slug": "phum-thmei-010703"
+    },
+    "code": {
+      "id": "010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "ថ្មពួក",
+        "en": "Thma Puok",
+        "slug": "thma-puok-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "ថ្មពួក",
+          "en": "Thma Puok",
+          "slug": "thma-puok-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010503"
+    ],
+    "geo": {
+      "lat": "13.8893431",
+      "lon": "103.0612033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មពួក",
+      "en": "Thma Puok",
+      "slug": "thma-puok-010704"
+    },
+    "code": {
+      "id": "010704",
+      "iso": null
+    },
+    "parent": {
+      "id": "0107",
+      "level": 2,
+      "name": {
+        "local": "ថ្មពួក",
+        "en": "Thma Puok",
+        "slug": "thma-puok-0107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0107",
+        "level": 2,
+        "name": {
+          "local": "ថ្មពួក",
+          "en": "Thma Puok",
+          "slug": "thma-puok-0107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010504"
+    ],
+    "geo": {
+      "lat": "13.9414476",
+      "lon": "103.0523805"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

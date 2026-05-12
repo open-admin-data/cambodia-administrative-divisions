@@ -1,0 +1,506 @@
+[
+  {
+    "id": "010409",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បុស្បូវ",
+      "en": "Bos Sbov",
+      "slug": "bos-sbov-010409"
+    },
+    "code": {
+      "id": "010409",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010309"
+    ],
+    "geo": {
+      "lat": "13.6969907",
+      "lon": "103.0792732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈ្នួរមានជ័យ",
+      "en": "Chnuor Mean Chey",
+      "slug": "chnuor-mean-chey-010401"
+    },
+    "code": {
+      "id": "010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010301"
+    ],
+    "geo": {
+      "lat": "13.6225756",
+      "lon": "103.0957003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជប់វារី",
+      "en": "Chob Vari",
+      "slug": "chob-vari-010402"
+    },
+    "code": {
+      "id": "010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010302"
+    ],
+    "geo": {
+      "lat": "13.6638149",
+      "lon": "103.1681942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំលៀប",
+      "en": "Phnum Lieb",
+      "slug": "phnum-lieb-010403"
+    },
+    "code": {
+      "id": "010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010303"
+    ],
+    "geo": {
+      "lat": "13.5387145",
+      "lon": "103.2928573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រាសាទ",
+      "en": "Prasat",
+      "slug": "prasat-010404"
+    },
+    "code": {
+      "id": "010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010304"
+    ],
+    "geo": {
+      "lat": "13.449037",
+      "lon": "103.364093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះនេត្រព្រះ",
+      "en": "Preak Netr Preah",
+      "slug": "preak-netr-preah-010405"
+    },
+    "code": {
+      "id": "010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010305"
+    ],
+    "geo": {
+      "lat": "13.5754057",
+      "lon": "103.1654096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រហាល",
+      "en": "Rohal",
+      "slug": "rohal-010406"
+    },
+    "code": {
+      "id": "010406",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010306"
+    ],
+    "geo": {
+      "lat": "13.6248637",
+      "lon": "103.2445687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទានកាំ",
+      "en": "Tean Kam",
+      "slug": "tean-kam-010407"
+    },
+    "code": {
+      "id": "010407",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010307"
+    ],
+    "geo": {
+      "lat": "13.7086274",
+      "lon": "103.2210337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកជោរ",
+      "en": "Tuek Chour",
+      "slug": "tuek-chour-010408"
+    },
+    "code": {
+      "id": "010408",
+      "iso": null
+    },
+    "parent": {
+      "id": "0104",
+      "level": 2,
+      "name": {
+        "local": "ព្រះនេត្រព្រះ",
+        "en": "Preah Netr Preah",
+        "slug": "preah-netr-preah-0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0104",
+        "level": 2,
+        "name": {
+          "local": "ព្រះនេត្រព្រះ",
+          "en": "Preah Netr Preah",
+          "slug": "preah-netr-preah-0104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010308"
+    ],
+    "geo": {
+      "lat": "13.6310672",
+      "lon": "103.3785291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

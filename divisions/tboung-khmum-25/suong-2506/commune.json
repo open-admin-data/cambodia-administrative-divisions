@@ -1,0 +1,114 @@
+[
+  {
+    "id": "250601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សួង",
+      "en": "Suong",
+      "slug": "suong-250601"
+    },
+    "code": {
+      "id": "250601",
+      "iso": null
+    },
+    "parent": {
+      "id": "2506",
+      "level": 2,
+      "name": {
+        "local": "សួង",
+        "en": "Suong",
+        "slug": "suong-2506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2506",
+        "level": 2,
+        "name": {
+          "local": "សួង",
+          "en": "Suong",
+          "slug": "suong-2506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250702"
+    ],
+    "geo": {
+      "lat": "11.9112146",
+      "lon": "105.651749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វិហារលួង",
+      "en": "Vihear Luong",
+      "slug": "vihear-luong-250602"
+    },
+    "code": {
+      "id": "250602",
+      "iso": null
+    },
+    "parent": {
+      "id": "2506",
+      "level": 2,
+      "name": {
+        "local": "សួង",
+        "en": "Suong",
+        "slug": "suong-2506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2506",
+        "level": 2,
+        "name": {
+          "local": "សួង",
+          "en": "Suong",
+          "slug": "suong-2506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080811"
+    ],
+    "geo": {
+      "lat": "11.9558136",
+      "lon": "105.6764461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

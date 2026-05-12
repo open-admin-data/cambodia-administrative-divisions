@@ -1,0 +1,898 @@
+[
+  {
+    "id": "200401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពិល",
+      "en": "Ampil",
+      "slug": "ampil-200401"
+    },
+    "code": {
+      "id": "200401",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អណ្ដូងពោធិ៍",
+      "en": "Andoung Pou",
+      "slug": "andoung-pou-200402"
+    },
+    "code": {
+      "id": "200402",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060112"
+    ],
+    "geo": {
+      "lat": "11.3584235",
+      "lon": "105.8098294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អណ្ដូងត្របែក",
+      "en": "Andoung Trabaek",
+      "slug": "andoung-trabaek-200403"
+    },
+    "code": {
+      "id": "200403",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200403"
+    ],
+    "geo": {
+      "lat": "11.5678682",
+      "lon": "105.7508888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គប្រស្រែ",
+      "en": "Angk Prasrae",
+      "slug": "angk-prasrae-200404"
+    },
+    "code": {
+      "id": "200404",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200404"
+    ],
+    "geo": {
+      "lat": "11.3105128",
+      "lon": "105.8222205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចន្ដ្រី",
+      "en": "Chantrei",
+      "slug": "chantrei-200405"
+    },
+    "code": {
+      "id": "200405",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200405"
+    ],
+    "geo": {
+      "lat": "11.2862935",
+      "lon": "105.7241119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃធំ",
+      "en": "Chrey Thum",
+      "slug": "chrey-thum-200406"
+    },
+    "code": {
+      "id": "200406",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200406"
+    ],
+    "geo": {
+      "lat": "11.4087081",
+      "lon": "105.7163131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូង",
+      "en": "Doung",
+      "slug": "doung-200407"
+    },
+    "code": {
+      "id": "200407",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060301"
+    ],
+    "geo": {
+      "lat": "11.3381408",
+      "lon": "105.8602082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ត្រាច",
+      "en": "Kampong Trach",
+      "slug": "kampong-trach-200408"
+    },
+    "code": {
+      "id": "200408",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200408"
+    ],
+    "geo": {
+      "lat": "11.4120024",
+      "lon": "105.7946617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200409",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គគីរ",
+      "en": "Kokir",
+      "slug": "kokir-200409"
+    },
+    "code": {
+      "id": "200409",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060110"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200410",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រសាំង",
+      "en": "Krasang",
+      "slug": "krasang-200410"
+    },
+    "code": {
+      "id": "200410",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200410"
+    ],
+    "geo": {
+      "lat": "11.5298046",
+      "lon": "105.7132448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200412",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម្រាម",
+      "en": "Mream",
+      "slug": "mream-200412"
+    },
+    "code": {
+      "id": "200412",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200412"
+    ],
+    "geo": {
+      "lat": "11.3593014",
+      "lon": "105.6732038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200411",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មុខដា",
+      "en": "Mukh Da",
+      "slug": "mukh-da-200411"
+    },
+    "code": {
+      "id": "200411",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200411"
+    ],
+    "geo": {
+      "lat": "11.3680061",
+      "lon": "105.7174202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200414",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សម្បត្ដិមានជ័យ",
+      "en": "Sambatt Mean Chey",
+      "slug": "sambatt-mean-chey-200414"
+    },
+    "code": {
+      "id": "200414",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200414"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200413",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរ",
+      "en": "Sambuor",
+      "slug": "sambuor-200413"
+    },
+    "code": {
+      "id": "200413",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010110"
+    ],
+    "geo": {
+      "lat": "11.0738506",
+      "lon": "105.8902314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200415",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងស្ដៅ",
+      "en": "Trapeang Sdau",
+      "slug": "trapeang-sdau-200415"
+    },
+    "code": {
+      "id": "200415",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200415"
+    ],
+    "geo": {
+      "lat": "11.3085635",
+      "lon": "105.7549838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200416",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រស់",
+      "en": "Tras",
+      "slug": "tras-200416"
+    },
+    "code": {
+      "id": "200416",
+      "iso": null
+    },
+    "parent": {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "local": "រមាសហែក",
+        "en": "Romeas Haek",
+        "slug": "romeas-haek-2004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "local": "រមាសហែក",
+          "en": "Romeas Haek",
+          "slug": "romeas-haek-2004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200416"
+    ],
+    "geo": {
+      "lat": "11.5305197",
+      "lon": "105.8234169"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

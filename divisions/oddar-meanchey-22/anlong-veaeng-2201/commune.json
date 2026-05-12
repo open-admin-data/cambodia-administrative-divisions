@@ -1,0 +1,282 @@
+[
+  {
+    "id": "220101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្លង់វែង",
+      "en": "Anlong Veaeng",
+      "slug": "anlong-veaeng-220101"
+    },
+    "code": {
+      "id": "220101",
+      "iso": null
+    },
+    "parent": {
+      "id": "2201",
+      "level": 2,
+      "name": {
+        "local": "អន្លង់វែង",
+        "en": "Anlong Veaeng",
+        "slug": "anlong-veaeng-2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2201",
+        "level": 2,
+        "name": {
+          "local": "អន្លង់វែង",
+          "en": "Anlong Veaeng",
+          "slug": "anlong-veaeng-2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240101"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លំទង",
+      "en": "Lumtong",
+      "slug": "lumtong-220106"
+    },
+    "code": {
+      "id": "220106",
+      "iso": null
+    },
+    "parent": {
+      "id": "2201",
+      "level": 2,
+      "name": {
+        "local": "អន្លង់វែង",
+        "en": "Anlong Veaeng",
+        "slug": "anlong-veaeng-2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2201",
+        "level": 2,
+        "name": {
+          "local": "អន្លង់វែង",
+          "en": "Anlong Veaeng",
+          "slug": "anlong-veaeng-2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240105"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្លាត",
+      "en": "Thlat",
+      "slug": "thlat-220105"
+    },
+    "code": {
+      "id": "220105",
+      "iso": null
+    },
+    "parent": {
+      "id": "2201",
+      "level": 2,
+      "name": {
+        "local": "អន្លង់វែង",
+        "en": "Anlong Veaeng",
+        "slug": "anlong-veaeng-2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2201",
+        "level": 2,
+        "name": {
+          "local": "អន្លង់វែង",
+          "en": "Anlong Veaeng",
+          "slug": "anlong-veaeng-2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240104"
+    ],
+    "geo": {
+      "lat": "14.0370715",
+      "lon": "104.1192635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងប្រីយ៍",
+      "en": "Trapeang Prei",
+      "slug": "trapeang-prei-220104"
+    },
+    "code": {
+      "id": "220104",
+      "iso": null
+    },
+    "parent": {
+      "id": "2201",
+      "level": 2,
+      "name": {
+        "local": "អន្លង់វែង",
+        "en": "Anlong Veaeng",
+        "slug": "anlong-veaeng-2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2201",
+        "level": 2,
+        "name": {
+          "local": "អន្លង់វែង",
+          "en": "Anlong Veaeng",
+          "slug": "anlong-veaeng-2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240103"
+    ],
+    "geo": {
+      "lat": "14.3138497",
+      "lon": "104.111626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងតាវ",
+      "en": "Trapeang Tav",
+      "slug": "trapeang-tav-220103"
+    },
+    "code": {
+      "id": "220103",
+      "iso": null
+    },
+    "parent": {
+      "id": "2201",
+      "level": 2,
+      "name": {
+        "local": "អន្លង់វែង",
+        "en": "Anlong Veaeng",
+        "slug": "anlong-veaeng-2201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2201",
+        "level": 2,
+        "name": {
+          "local": "អន្លង់វែង",
+          "en": "Anlong Veaeng",
+          "slug": "anlong-veaeng-2201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240102"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

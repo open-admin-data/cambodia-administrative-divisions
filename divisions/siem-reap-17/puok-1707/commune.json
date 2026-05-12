@@ -1,0 +1,786 @@
+[
+  {
+    "id": "170702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូនកែវ",
+      "en": "Doun Kaev",
+      "slug": "doun-kaev-170702"
+    },
+    "code": {
+      "id": "170702",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170602"
+    ],
+    "geo": {
+      "lat": "13.4850644",
+      "lon": "103.7796452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កែវពណ៌",
+      "en": "Kaev Poar",
+      "slug": "kaev-poar-170704"
+    },
+    "code": {
+      "id": "170704",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170604"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្ដីរុន",
+      "en": "Kdei Run",
+      "slug": "kdei-run-170703"
+    },
+    "code": {
+      "id": "170703",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170603"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្នាត",
+      "en": "Khnat",
+      "slug": "khnat-170705"
+    },
+    "code": {
+      "id": "170705",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170605"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វា",
+      "en": "Lvea",
+      "slug": "lvea-170707"
+    },
+    "code": {
+      "id": "170707",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020303"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មុខប៉ែន",
+      "en": "Mukh Paen",
+      "slug": "mukh-paen-170708"
+    },
+    "code": {
+      "id": "170708",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170607"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍ទ្រាយ",
+      "en": "Pou Treay",
+      "slug": "pou-treay-170709"
+    },
+    "code": {
+      "id": "170709",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170608"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170711",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃជ្រូក",
+      "en": "Prey Chruk",
+      "slug": "prey-chruk-170711"
+    },
+    "code": {
+      "id": "170711",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170610"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170710",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពួក",
+      "en": "Puok",
+      "slug": "puok-170710"
+    },
+    "code": {
+      "id": "170710",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170609"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170712",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រើល",
+      "en": "Reul",
+      "slug": "reul-170712"
+    },
+    "code": {
+      "id": "170712",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170611"
+    ],
+    "geo": {
+      "lat": "13.54893",
+      "lon": "103.7673134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170713",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោងយា",
+      "en": "Samraong Yea",
+      "slug": "samraong-yea-170713"
+    },
+    "code": {
+      "id": "170713",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170612"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សសរស្ដម្ភ",
+      "en": "Sasar Sdam",
+      "slug": "sasar-sdam-170701"
+    },
+    "code": {
+      "id": "170701",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170601"
+    ],
+    "geo": {
+      "lat": "13.5035758",
+      "lon": "103.611215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170715",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រីញ័រ",
+      "en": "Trei Nhoar",
+      "slug": "trei-nhoar-170715"
+    },
+    "code": {
+      "id": "170715",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170613"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170716",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "យាង",
+      "en": "Yeang",
+      "slug": "yeang-170716"
+    },
+    "code": {
+      "id": "170716",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "ពួក",
+        "en": "Puok",
+        "slug": "puok-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "ពួក",
+          "en": "Puok",
+          "slug": "puok-1707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130305"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "id": "140401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចុងអំពិល",
+      "en": "Chong Ampil",
+      "slug": "chong-ampil-140401"
+    },
+    "code": {
+      "id": "140401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "កញ្ជ្រៀច",
+        "en": "Kanhchriech",
+        "slug": "kanhchriech-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "កញ្ជ្រៀច",
+          "en": "Kanhchriech",
+          "slug": "kanhchriech-1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140101"
+    ],
+    "geo": {
+      "lat": "11.6638127",
+      "lon": "105.4262698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កញ្ជ្រៀច",
+      "en": "Kanhchriech",
+      "slug": "kanhchriech-140402"
+    },
+    "code": {
+      "id": "140402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "កញ្ជ្រៀច",
+        "en": "Kanhchriech",
+        "slug": "kanhchriech-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "កញ្ជ្រៀច",
+          "en": "Kanhchriech",
+          "slug": "kanhchriech-1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140102"
+    ],
+    "geo": {
+      "lat": "11.6888346",
+      "lon": "105.5520424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្ដឿងរាយ",
+      "en": "Kdoeang Reay",
+      "slug": "kdoeang-reay-140403"
+    },
+    "code": {
+      "id": "140403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "កញ្ជ្រៀច",
+        "en": "Kanhchriech",
+        "slug": "kanhchriech-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "កញ្ជ្រៀច",
+          "en": "Kanhchriech",
+          "slug": "kanhchriech-1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140103"
+    ],
+    "geo": {
+      "lat": "11.6895072",
+      "lon": "105.4795533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកគង់កើត",
+      "en": "Kouk Kong Kaeut",
+      "slug": "kouk-kong-kaeut-140404"
+    },
+    "code": {
+      "id": "140404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "កញ្ជ្រៀច",
+        "en": "Kanhchriech",
+        "slug": "kanhchriech-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "កញ្ជ្រៀច",
+          "en": "Kanhchriech",
+          "slug": "kanhchriech-1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140104"
+    ],
+    "geo": {
+      "lat": "11.7320918",
+      "lon": "105.6957506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកគង់លិច",
+      "en": "Kouk Kong Lech",
+      "slug": "kouk-kong-lech-140405"
+    },
+    "code": {
+      "id": "140405",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "កញ្ជ្រៀច",
+        "en": "Kanhchriech",
+        "slug": "kanhchriech-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "កញ្ជ្រៀច",
+          "en": "Kanhchriech",
+          "slug": "kanhchriech-1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140105"
+    ],
+    "geo": {
+      "lat": "11.7298381",
+      "lon": "105.5819551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រាល",
+      "en": "Preal",
+      "slug": "preal-140406"
+    },
+    "code": {
+      "id": "140406",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "កញ្ជ្រៀច",
+        "en": "Kanhchriech",
+        "slug": "kanhchriech-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "កញ្ជ្រៀច",
+          "en": "Kanhchriech",
+          "slug": "kanhchriech-1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140106"
+    ],
+    "geo": {
+      "lat": "11.6305532",
+      "lon": "105.6378462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មពូន",
+      "en": "Thma Pun",
+      "slug": "thma-pun-140407"
+    },
+    "code": {
+      "id": "140407",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "កញ្ជ្រៀច",
+        "en": "Kanhchriech",
+        "slug": "kanhchriech-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "កញ្ជ្រៀច",
+          "en": "Kanhchriech",
+          "slug": "kanhchriech-1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030813"
+    ],
+    "geo": {
+      "lat": "11.6797436",
+      "lon": "105.5778685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្នោត",
+      "en": "Tnaot",
+      "slug": "tnaot-140408"
+    },
+    "code": {
+      "id": "140408",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "កញ្ជ្រៀច",
+        "en": "Kanhchriech",
+        "slug": "kanhchriech-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "កញ្ជ្រៀច",
+          "en": "Kanhchriech",
+          "slug": "kanhchriech-1404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140108"
+    ],
+    "geo": {
+      "lat": "11.7438633",
+      "lon": "105.5302729"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

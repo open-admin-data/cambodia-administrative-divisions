@@ -1,0 +1,47 @@
+{
+  "id": "2507",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ត្បូងឃ្មុំ",
+    "en": "Tboung Khmum",
+    "slug": "tboung-khmum-2507"
+  },
+  "code": {
+    "id": "2507",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "ត្បូងឃ្មុំ",
+      "en": "Tboung Khmum",
+      "slug": "tboung-khmum-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.8914565",
+    "lon": "105.7756828"
+  },
+  "metadata": {},
+  "source": {}
+}

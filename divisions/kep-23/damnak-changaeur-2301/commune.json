@@ -1,0 +1,114 @@
+[
+  {
+    "id": "230101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្កោល",
+      "en": "Angkaol",
+      "slug": "angkaol-230101"
+    },
+    "code": {
+      "id": "230101",
+      "iso": null
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "local": "ដំណាក់ចង្អើរ",
+        "en": "Damnak Chang'aeur",
+        "slug": "damnak-changaeur-2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "កែប",
+          "en": "Kep",
+          "slug": "kep-23"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "local": "ដំណាក់ចង្អើរ",
+          "en": "Damnak Chang'aeur",
+          "slug": "damnak-changaeur-2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "220101"
+    ],
+    "geo": {
+      "lat": "10.469856",
+      "lon": "104.3970136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពងទឹក",
+      "en": "Pong Tuek",
+      "slug": "pong-tuek-230103"
+    },
+    "code": {
+      "id": "230103",
+      "iso": null
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "local": "ដំណាក់ចង្អើរ",
+        "en": "Damnak Chang'aeur",
+        "slug": "damnak-changaeur-2301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "កែប",
+          "en": "Kep",
+          "slug": "kep-23"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "local": "ដំណាក់ចង្អើរ",
+          "en": "Damnak Chang'aeur",
+          "slug": "damnak-changaeur-2301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120502"
+    ],
+    "geo": {
+      "lat": "10.5290985",
+      "lon": "104.3688898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

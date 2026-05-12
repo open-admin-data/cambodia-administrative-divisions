@@ -1,0 +1,47 @@
+{
+  "id": "1805",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កោះរ៉ុង",
+    "en": "Kaoh Rung",
+    "slug": "kaoh-rung-1805"
+  },
+  "code": {
+    "id": "1805",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "ព្រះសីហនុ",
+      "en": "Preah Sihanouk",
+      "slug": "preah-sihanouk-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "ព្រះសីហនុ",
+        "en": "Preah Sihanouk",
+        "slug": "preah-sihanouk-18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

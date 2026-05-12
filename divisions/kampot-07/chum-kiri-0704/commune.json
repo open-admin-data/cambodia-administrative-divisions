@@ -1,0 +1,394 @@
+[
+  {
+    "id": "070401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រេស",
+      "en": "Chres",
+      "slug": "chres-070401"
+    },
+    "code": {
+      "id": "070401",
+      "iso": null
+    },
+    "parent": {
+      "id": "0704",
+      "level": 2,
+      "name": {
+        "local": "ជុំគិរី",
+        "en": "Chum Kiri",
+        "slug": "chum-kiri-0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0704",
+        "level": 2,
+        "name": {
+          "local": "ជុំគិរី",
+          "en": "Chum Kiri",
+          "slug": "chum-kiri-0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជំពូវន្ដ",
+      "en": "Chumpu Voan",
+      "slug": "chumpu-voan-070402"
+    },
+    "code": {
+      "id": "070402",
+      "iso": null
+    },
+    "parent": {
+      "id": "0704",
+      "level": 2,
+      "name": {
+        "local": "ជុំគិរី",
+        "en": "Chum Kiri",
+        "slug": "chum-kiri-0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0704",
+        "level": 2,
+        "name": {
+          "local": "ជុំគិរី",
+          "en": "Chum Kiri",
+          "slug": "chum-kiri-0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070702"
+    ],
+    "geo": {
+      "lat": "10.9003413",
+      "lon": "104.4117102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្នាយអញ្ជិត",
+      "en": "Snay Anhchit",
+      "slug": "snay-anhchit-070403"
+    },
+    "code": {
+      "id": "070403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0704",
+      "level": 2,
+      "name": {
+        "local": "ជុំគិរី",
+        "en": "Chum Kiri",
+        "slug": "chum-kiri-0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0704",
+        "level": 2,
+        "name": {
+          "local": "ជុំគិរី",
+          "en": "Chum Kiri",
+          "slug": "chum-kiri-0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070703"
+    ],
+    "geo": {
+      "lat": "10.9491419",
+      "lon": "104.4321705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែចែង",
+      "en": "Srae Chaeng",
+      "slug": "srae-chaeng-070404"
+    },
+    "code": {
+      "id": "070404",
+      "iso": null
+    },
+    "parent": {
+      "id": "0704",
+      "level": 2,
+      "name": {
+        "local": "ជុំគិរី",
+        "en": "Chum Kiri",
+        "slug": "chum-kiri-0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0704",
+        "level": 2,
+        "name": {
+          "local": "ជុំគិរី",
+          "en": "Chum Kiri",
+          "slug": "chum-kiri-0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070704"
+    ],
+    "geo": {
+      "lat": "11.023506",
+      "lon": "104.4386729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែក្នុង",
+      "en": "Srae Knong",
+      "slug": "srae-knong-070405"
+    },
+    "code": {
+      "id": "070405",
+      "iso": null
+    },
+    "parent": {
+      "id": "0704",
+      "level": 2,
+      "name": {
+        "local": "ជុំគិរី",
+        "en": "Chum Kiri",
+        "slug": "chum-kiri-0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0704",
+        "level": 2,
+        "name": {
+          "local": "ជុំគិរី",
+          "en": "Chum Kiri",
+          "slug": "chum-kiri-0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070705"
+    ],
+    "geo": {
+      "lat": "10.9715713",
+      "lon": "104.4724243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែសំរោង",
+      "en": "Srae Samraong",
+      "slug": "srae-samraong-070406"
+    },
+    "code": {
+      "id": "070406",
+      "iso": null
+    },
+    "parent": {
+      "id": "0704",
+      "level": 2,
+      "name": {
+        "local": "ជុំគិរី",
+        "en": "Chum Kiri",
+        "slug": "chum-kiri-0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0704",
+        "level": 2,
+        "name": {
+          "local": "ជុំគិរី",
+          "en": "Chum Kiri",
+          "slug": "chum-kiri-0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070706"
+    ],
+    "geo": {
+      "lat": "10.9318503",
+      "lon": "104.4650531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងរាំង",
+      "en": "Trapeang Reang",
+      "slug": "trapeang-reang-070407"
+    },
+    "code": {
+      "id": "070407",
+      "iso": null
+    },
+    "parent": {
+      "id": "0704",
+      "level": 2,
+      "name": {
+        "local": "ជុំគិរី",
+        "en": "Chum Kiri",
+        "slug": "chum-kiri-0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0704",
+        "level": 2,
+        "name": {
+          "local": "ជុំគិរី",
+          "en": "Chum Kiri",
+          "slug": "chum-kiri-0704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070707"
+    ],
+    "geo": {
+      "lat": "10.9249624",
+      "lon": "104.4010296"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

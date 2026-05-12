@@ -1,0 +1,170 @@
+[
+  {
+    "id": "090402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដងទង់",
+      "en": "Dang Tong",
+      "slug": "dang-tong-090402"
+    },
+    "code": {
+      "id": "090402",
+      "iso": null
+    },
+    "parent": {
+      "id": "0904",
+      "level": 2,
+      "name": {
+        "local": "ខេមរភូមិន្ទ",
+        "en": "Khemara Phoumin",
+        "slug": "khemara-phoumin-0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0904",
+        "level": 2,
+        "name": {
+          "local": "ខេមរភូមិន្ទ",
+          "en": "Khemara Phoumin",
+          "slug": "khemara-phoumin-0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090702"
+    ],
+    "geo": {
+      "lat": "11.6014846",
+      "lon": "102.9801661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្មាច់មានជ័យ",
+      "en": "Smach Mean Chey",
+      "slug": "smach-mean-chey-090401"
+    },
+    "code": {
+      "id": "090401",
+      "iso": null
+    },
+    "parent": {
+      "id": "0904",
+      "level": 2,
+      "name": {
+        "local": "ខេមរភូមិន្ទ",
+        "en": "Khemara Phoumin",
+        "slug": "khemara-phoumin-0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0904",
+        "level": 2,
+        "name": {
+          "local": "ខេមរភូមិន្ទ",
+          "en": "Khemara Phoumin",
+          "slug": "khemara-phoumin-0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090701"
+    ],
+    "geo": {
+      "lat": "11.6153764",
+      "lon": "102.9836635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ទឹងវែង",
+      "en": "Stueng Veaeng",
+      "slug": "stueng-veaeng-090403"
+    },
+    "code": {
+      "id": "090403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0904",
+      "level": 2,
+      "name": {
+        "local": "ខេមរភូមិន្ទ",
+        "en": "Khemara Phoumin",
+        "slug": "khemara-phoumin-0904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0904",
+        "level": 2,
+        "name": {
+          "local": "ខេមរភូមិន្ទ",
+          "en": "Khemara Phoumin",
+          "slug": "khemara-phoumin-0904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090703"
+    ],
+    "geo": {
+      "lat": "11.588693",
+      "lon": "102.9952598"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

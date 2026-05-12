@@ -1,0 +1,450 @@
+[
+  {
+    "id": "121202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្បារអំពៅទី ២",
+      "en": "Chbar Ampov Ti Pir",
+      "slug": "chbar-ampov-ti-pir-121202"
+    },
+    "code": {
+      "id": "121202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "ច្បារអំពៅ",
+        "en": "Chbar Ampov",
+        "slug": "chbar-ampov-1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "ច្បារអំពៅ",
+          "en": "Chbar Ampov",
+          "slug": "chbar-ampov-1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121202"
+    ],
+    "geo": {
+      "lat": "11.5360096",
+      "lon": "104.9381036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្បារអំពៅទី ១",
+      "en": "Chhbar Ampov Ti Muoy",
+      "slug": "chhbar-ampov-ti-muoy-121201"
+    },
+    "code": {
+      "id": "121201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "ច្បារអំពៅ",
+        "en": "Chbar Ampov",
+        "slug": "chbar-ampov-1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "ច្បារអំពៅ",
+          "en": "Chbar Ampov",
+          "slug": "chbar-ampov-1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121201"
+    ],
+    "geo": {
+      "lat": "11.5298382",
+      "lon": "104.9385287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្បាលកោះ",
+      "en": "Kbal Kaoh",
+      "slug": "kbal-kaoh-121207"
+    },
+    "code": {
+      "id": "121207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "ច្បារអំពៅ",
+        "en": "Chbar Ampov",
+        "slug": "chbar-ampov-1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "ច្បារអំពៅ",
+          "en": "Chbar Ampov",
+          "slug": "chbar-ampov-1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121207"
+    ],
+    "geo": {
+      "lat": "11.5036877",
+      "lon": "105.0102142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "និរោធ",
+      "en": "Nirouth",
+      "slug": "nirouth-121203"
+    },
+    "code": {
+      "id": "121203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "ច្បារអំពៅ",
+        "en": "Chbar Ampov",
+        "slug": "chbar-ampov-1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "ច្បារអំពៅ",
+          "en": "Chbar Ampov",
+          "slug": "chbar-ampov-1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121203"
+    ],
+    "geo": {
+      "lat": "11.5262469",
+      "lon": "104.9537196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកឯង",
+      "en": "Preaek Aeng",
+      "slug": "preaek-aeng-121206"
+    },
+    "code": {
+      "id": "121206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "ច្បារអំពៅ",
+        "en": "Chbar Ampov",
+        "slug": "chbar-ampov-1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "ច្បារអំពៅ",
+          "en": "Chbar Ampov",
+          "slug": "chbar-ampov-1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121206"
+    ],
+    "geo": {
+      "lat": "11.5289849",
+      "lon": "104.9886913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកប្រា",
+      "en": "Preaek Pra",
+      "slug": "preaek-pra-121204"
+    },
+    "code": {
+      "id": "121204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "ច្បារអំពៅ",
+        "en": "Chbar Ampov",
+        "slug": "chbar-ampov-1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "ច្បារអំពៅ",
+          "en": "Chbar Ampov",
+          "slug": "chbar-ampov-1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121204"
+    ],
+    "geo": {
+      "lat": "11.5063174",
+      "lon": "104.9477173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកថ្មី",
+      "en": "Preaek Thmei",
+      "slug": "preaek-thmei-121208"
+    },
+    "code": {
+      "id": "121208",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "ច្បារអំពៅ",
+        "en": "Chbar Ampov",
+        "slug": "chbar-ampov-1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "ច្បារអំពៅ",
+          "en": "Chbar Ampov",
+          "slug": "chbar-ampov-1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121208"
+    ],
+    "geo": {
+      "lat": "11.4703998",
+      "lon": "104.9820909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាលស្បូវ",
+      "en": "Veal Sbov",
+      "slug": "veal-sbov-121205"
+    },
+    "code": {
+      "id": "121205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "ច្បារអំពៅ",
+        "en": "Chbar Ampov",
+        "slug": "chbar-ampov-1212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "ច្បារអំពៅ",
+          "en": "Chbar Ampov",
+          "slug": "chbar-ampov-1212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121205"
+    ],
+    "geo": {
+      "lat": "11.5310124",
+      "lon": "104.9733348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

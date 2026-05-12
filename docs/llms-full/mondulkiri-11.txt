@@ -1,0 +1,118 @@
+# Mondulkiri — Cambodia Administrative Divisions
+
+> 5 districts, 21 communes
+> Code: 11
+> Coordinates: 12.7396454, 107.00882593208544
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### កែវសីមា (Kaev Seima)
+
+Code: 1101
+Communes: 5
+
+#### ចុងផ្លាស់ (Chong Phlah)
+
+Code: 110101, Postal: 110101, Coordinates: 12.5997358, 106.5819789
+
+#### មេម៉ង់ (Memang)
+
+Code: 110102, Postal: 110102, Coordinates: 12.5814971, 106.9309687
+
+#### ស្រែឈូក (Srae Chhuk)
+
+Code: 110103, Postal: 110103, Coordinates: 12.3742536, 106.7070185
+
+#### ស្រែខ្ទុម (Srae Khtum)
+
+Code: 110104, Postal: 110104, Coordinates: 12.1814318, 106.8751427
+
+#### ស្រែព្រះ (Srae Preah)
+
+Code: 110105, Postal: 110105, Coordinates: 12.1884884, 106.8793238
+
+### កោះញែក (Kaoh Nheaek)
+
+Code: 1102, Coordinates: 13.0803581, 107.0451837
+Communes: 6
+
+#### អ បួនលើ (A Buon Leu)
+
+Code: 110202, Postal: 110202
+
+#### ណងឃីលិក (Nang Khi Lik)
+
+Code: 110201, Postal: 110201, Coordinates: 13.2365884, 107.1414917
+
+#### រយ៉ (Roya)
+
+Code: 110203, Postal: 110203, Coordinates: 13.0859955, 106.6291304
+
+#### សុខសាន្ដ (Sokh Sant)
+
+Code: 110204, Postal: 110204
+
+#### ស្រែហ៊ុយ (Srae Huy)
+
+Code: 110205, Postal: 110205, Coordinates: 13.084105, 107.0563047
+
+#### ស្រែសង្គម (Srae Sangkum)
+
+Code: 110206, Postal: 110206, Coordinates: 12.9554119, 107.2819121
+
+### អូររាំង (Ou Reang)
+
+Code: 1103, Coordinates: 12.3320472, 107.1645963
+Communes: 2
+
+#### ដាក់ដាំ (Dak Dam)
+
+Code: 110301, Postal: 110301, Coordinates: 12.4245047, 107.2961572
+
+#### សែនមនោរម្យ (Saen Monourom)
+
+Code: 110302, Postal: 110302, Coordinates: 12.3212265, 107.0981646
+
+### ពេជ្រាដា (Pech Chreada)
+
+Code: 1104, Coordinates: 12.5392225, 107.427935
+Communes: 4
+
+#### ប៊ូស្រា (Bu Sra)
+
+Code: 110404, Postal: 110404, Coordinates: 12.553798, 107.4667454
+
+#### ក្រង់តេះ (Krang Teh)
+
+Code: 110401, Postal: 110401, Coordinates: 12.7214636, 107.4321975
+
+#### ពូជ្រៃ (Pu Chrey)
+
+Code: 110402, Postal: 110402
+
+#### ស្រែអំពូម (Srae Ampum)
+
+Code: 110403, Postal: 110403, Coordinates: 12.5471483, 107.3404258
+
+### សែនមនោរម្យ (Saen Monourom)
+
+Code: 1105, Coordinates: 12.4568561, 107.1865184
+Communes: 4
+
+#### មនោរម្យ (Monourom)
+
+Code: 110501, Postal: 050602, Coordinates: 12.4589267, 107.1705911
+
+#### រមនា (Romonea)
+
+Code: 110504, Postal: 110504, Coordinates: 12.4418002, 107.1985063
+
+#### សុខដុម (Sokh Dom)
+
+Code: 110502, Postal: 110502, Coordinates: 12.4694228, 107.1927459
+
+#### ស្ពានមានជ័យ (Spean Mean Chey)
+
+Code: 110503, Postal: 110503, Coordinates: 12.4969369, 107.2480359
+

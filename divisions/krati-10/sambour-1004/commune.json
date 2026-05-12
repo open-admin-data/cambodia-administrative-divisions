@@ -1,0 +1,338 @@
+[
+  {
+    "id": "100401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងចារ",
+      "en": "Boeng Char",
+      "slug": "boeng-char-100401"
+    },
+    "code": {
+      "id": "100401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1004",
+      "level": 2,
+      "name": {
+        "local": "សំបូរ",
+        "en": "Sambour",
+        "slug": "sambour-1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1004",
+        "level": 2,
+        "name": {
+          "local": "សំបូរ",
+          "en": "Sambour",
+          "slug": "sambour-1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100301"
+    ],
+    "geo": {
+      "lat": "13.0033206",
+      "lon": "105.8290298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-100402"
+    },
+    "code": {
+      "id": "100402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1004",
+      "level": 2,
+      "name": {
+        "local": "សំបូរ",
+        "en": "Sambour",
+        "slug": "sambour-1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1004",
+        "level": 2,
+        "name": {
+          "local": "សំបូរ",
+          "en": "Sambour",
+          "slug": "sambour-1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030402"
+    ],
+    "geo": {
+      "lat": "12.8320034",
+      "lon": "105.9251971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះខ្ញែរ",
+      "en": "Kaoh Khnhaer",
+      "slug": "kaoh-khnhaer-100404"
+    },
+    "code": {
+      "id": "100404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1004",
+      "level": 2,
+      "name": {
+        "local": "សំបូរ",
+        "en": "Sambour",
+        "slug": "sambour-1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1004",
+        "level": 2,
+        "name": {
+          "local": "សំបូរ",
+          "en": "Sambour",
+          "slug": "sambour-1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100304"
+    ],
+    "geo": {
+      "lat": "12.8327361",
+      "lon": "106.0038238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបូរ",
+      "en": "Sambour",
+      "slug": "sambour-100407"
+    },
+    "code": {
+      "id": "100407",
+      "iso": null
+    },
+    "parent": {
+      "id": "1004",
+      "level": 2,
+      "name": {
+        "local": "សំបូរ",
+        "en": "Sambour",
+        "slug": "sambour-1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1004",
+        "level": 2,
+        "name": {
+          "local": "សំបូរ",
+          "en": "Sambour",
+          "slug": "sambour-1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030107"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សណ្ដាន់",
+      "en": "Sandan",
+      "slug": "sandan-100408"
+    },
+    "code": {
+      "id": "100408",
+      "iso": null
+    },
+    "parent": {
+      "id": "1004",
+      "level": 2,
+      "name": {
+        "local": "សំបូរ",
+        "en": "Sambour",
+        "slug": "sambour-1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1004",
+        "level": 2,
+        "name": {
+          "local": "សំបូរ",
+          "en": "Sambour",
+          "slug": "sambour-1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060507"
+    ],
+    "geo": {
+      "lat": "12.721574",
+      "lon": "106.0763003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100410",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វឌ្ឍនៈ",
+      "en": "Voadthonak",
+      "slug": "voadthonak-100410"
+    },
+    "code": {
+      "id": "100410",
+      "iso": null
+    },
+    "parent": {
+      "id": "1004",
+      "level": 2,
+      "name": {
+        "local": "សំបូរ",
+        "en": "Sambour",
+        "slug": "sambour-1004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1004",
+        "level": 2,
+        "name": {
+          "local": "សំបូរ",
+          "en": "Sambour",
+          "slug": "sambour-1004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100310"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

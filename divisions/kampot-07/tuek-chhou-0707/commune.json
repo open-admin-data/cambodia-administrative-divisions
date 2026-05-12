@@ -1,0 +1,730 @@
+[
+  {
+    "id": "070702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជុំគ្រៀល",
+      "en": "Chum Kriel",
+      "slug": "chum-kriel-070702"
+    },
+    "code": {
+      "id": "070702",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070202"
+    ],
+    "geo": {
+      "lat": "10.5915861",
+      "lon": "104.222154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ក្រែង",
+      "en": "Kampong Kraeng",
+      "slug": "kampong-kraeng-070703"
+    },
+    "code": {
+      "id": "070703",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070203"
+    ],
+    "geo": {
+      "lat": "10.6406942",
+      "lon": "104.1743516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់សំរោង",
+      "en": "Kampong Samraong",
+      "slug": "kampong-samraong-070704"
+    },
+    "code": {
+      "id": "070704",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070204"
+    ],
+    "geo": {
+      "lat": "10.6276602",
+      "lon": "104.2134347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដោល",
+      "en": "Kandaol",
+      "slug": "kandaol-070705"
+    },
+    "code": {
+      "id": "070705",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090102"
+    ],
+    "geo": {
+      "lat": "10.6594549",
+      "lon": "104.2977433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កូនសត្វ",
+      "en": "Koun Satv",
+      "slug": "koun-satv-070708"
+    },
+    "code": {
+      "id": "070708",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម៉ាក់ប្រាង្គ",
+      "en": "Makprang",
+      "slug": "makprang-070709"
+    },
+    "code": {
+      "id": "070709",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070208"
+    ],
+    "geo": {
+      "lat": "10.6738647",
+      "lon": "104.1403895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070712",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃឃ្មុំ",
+      "en": "Prey Khmum",
+      "slug": "prey-khmum-070712"
+    },
+    "code": {
+      "id": "070712",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070210"
+    ],
+    "geo": {
+      "lat": "10.6577956",
+      "lon": "104.2008382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070713",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃថ្នង",
+      "en": "Prey Thnang",
+      "slug": "prey-thnang-070713"
+    },
+    "code": {
+      "id": "070713",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070211"
+    ],
+    "geo": {
+      "lat": "10.7019777",
+      "lon": "104.2688058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070715",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ទឹងកែវ",
+      "en": "Stueng Kaev",
+      "slug": "stueng-kaev-070715"
+    },
+    "code": {
+      "id": "070715",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070716",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មី",
+      "en": "Thmei",
+      "slug": "thmei-070716"
+    },
+    "code": {
+      "id": "070716",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010503"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070717",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងព្រីង",
+      "en": "Trapeang Pring",
+      "slug": "trapeang-pring-070717"
+    },
+    "code": {
+      "id": "070717",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250107"
+    ],
+    "geo": {
+      "lat": "10.6317411",
+      "lon": "104.3035595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070718",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងសង្កែ",
+      "en": "Trapeang Sangkae",
+      "slug": "trapeang-sangkae-070718"
+    },
+    "code": {
+      "id": "070718",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070215"
+    ],
+    "geo": {
+      "lat": "10.6014943",
+      "lon": "104.245408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070719",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងធំ",
+      "en": "Trapeang Thum",
+      "slug": "trapeang-thum-070719"
+    },
+    "code": {
+      "id": "070719",
+      "iso": null
+    },
+    "parent": {
+      "id": "0707",
+      "level": 2,
+      "name": {
+        "local": "ទឹកឈូ",
+        "en": "Tuek Chhou",
+        "slug": "tuek-chhou-0707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0707",
+        "level": 2,
+        "name": {
+          "local": "ទឹកឈូ",
+          "en": "Tuek Chhou",
+          "slug": "tuek-chhou-0707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170508"
+    ],
+    "geo": {
+      "lat": "10.6164049",
+      "lon": "104.1998322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

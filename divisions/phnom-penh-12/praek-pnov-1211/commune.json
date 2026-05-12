@@ -1,0 +1,282 @@
+[
+  {
+    "id": "121104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោករកា",
+      "en": "Kouk Roka",
+      "slug": "kouk-roka-121104"
+    },
+    "code": {
+      "id": "121104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកព្នៅ",
+        "en": "Praek Pnov",
+        "slug": "praek-pnov-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកព្នៅ",
+          "en": "Praek Pnov",
+          "slug": "praek-pnov-1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121104"
+    ],
+    "geo": {
+      "lat": "11.5992797",
+      "lon": "104.8184632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពញាពន់",
+      "en": "Ponhea Pon",
+      "slug": "ponhea-pon-121102"
+    },
+    "code": {
+      "id": "121102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកព្នៅ",
+        "en": "Praek Pnov",
+        "slug": "praek-pnov-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកព្នៅ",
+          "en": "Praek Pnov",
+          "slug": "praek-pnov-1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121102"
+    ],
+    "geo": {
+      "lat": "11.6551695",
+      "lon": "104.7929146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពន្សាំង",
+      "en": "Ponsang",
+      "slug": "ponsang-121105"
+    },
+    "code": {
+      "id": "121105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកព្នៅ",
+        "en": "Praek Pnov",
+        "slug": "praek-pnov-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកព្នៅ",
+          "en": "Praek Pnov",
+          "slug": "praek-pnov-1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121105"
+    ],
+    "geo": {
+      "lat": "11.6333603",
+      "lon": "104.7648233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកព្នៅ",
+      "en": "Preaek Phnov",
+      "slug": "preaek-phnov-121101"
+    },
+    "code": {
+      "id": "121101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកព្នៅ",
+        "en": "Praek Pnov",
+        "slug": "praek-pnov-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកព្នៅ",
+          "en": "Praek Pnov",
+          "slug": "praek-pnov-1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121101"
+    ],
+    "geo": {
+      "lat": "11.6653243",
+      "lon": "104.8552509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-121103"
+    },
+    "code": {
+      "id": "121103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកព្នៅ",
+        "en": "Praek Pnov",
+        "slug": "praek-pnov-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកព្នៅ",
+          "en": "Praek Pnov",
+          "slug": "praek-pnov-1211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": "11.6854873",
+      "lon": "104.8351562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

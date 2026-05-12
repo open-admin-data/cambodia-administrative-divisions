@@ -1,0 +1,562 @@
+[
+  {
+    "id": "051001",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចាន់សែន",
+      "en": "Chan Saen",
+      "slug": "chan-saen-051001"
+    },
+    "code": {
+      "id": "051001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050401"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051002",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងរាស់",
+      "en": "Cheung Roas",
+      "slug": "cheung-roas-051002"
+    },
+    "code": {
+      "id": "051002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050402"
+    ],
+    "geo": {
+      "lat": "11.6452542",
+      "lon": "104.5954089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051003",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជំពូព្រឹក្ស",
+      "en": "Chumpu Proeks",
+      "slug": "chumpu-proeks-051003"
+    },
+    "code": {
+      "id": "051003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050403"
+    ],
+    "geo": {
+      "lat": "11.5789978",
+      "lon": "104.4476671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051008",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំណាក់រាំង",
+      "en": "Damnak Reang",
+      "slug": "damnak-reang-051008"
+    },
+    "code": {
+      "id": "051008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050413"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051004",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងចេក",
+      "en": "Krang Chek",
+      "slug": "krang-chek-051004"
+    },
+    "code": {
+      "id": "051004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050405"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051005",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មានជ័យ",
+      "en": "Mean Chey",
+      "slug": "mean-chey-051005"
+    },
+    "code": {
+      "id": "051005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020906"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051009",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាំងល្វា",
+      "en": "Peang Lvea",
+      "slug": "peang-lvea-051009"
+    },
+    "code": {
+      "id": "051009",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050414"
+    ],
+    "geo": {
+      "lat": "11.5812311",
+      "lon": "104.5964161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051010",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំតូច",
+      "en": "Phnom Touch",
+      "slug": "phnom-touch-051010"
+    },
+    "code": {
+      "id": "051010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050415"
+    ],
+    "geo": {
+      "lat": "11.5864722",
+      "lon": "104.6663353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051006",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃក្រសាំង",
+      "en": "Prey Krasang",
+      "slug": "prey-krasang-051006"
+    },
+    "code": {
+      "id": "051006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050408"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "051007",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "យុទ្ធសាមគ្គី",
+      "en": "Yutth Sameakki",
+      "slug": "yutth-sameakki-051007"
+    },
+    "code": {
+      "id": "051007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0510",
+      "level": 2,
+      "name": {
+        "local": "សាមគ្គីមុនីជ័យ",
+        "en": "Samkkei Munichay",
+        "slug": "samkkei-munichay-0510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0510",
+        "level": 2,
+        "name": {
+          "local": "សាមគ្គីមុនីជ័យ",
+          "en": "Samkkei Munichay",
+          "slug": "samkkei-munichay-0510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050412"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

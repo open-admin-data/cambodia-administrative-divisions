@@ -1,0 +1,562 @@
+[
+  {
+    "id": "170601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចន្លាសដៃ",
+      "en": "Chanleas Dai",
+      "slug": "chanleas-dai-170601"
+    },
+    "code": {
+      "id": "170601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170701"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ថ្កូវ",
+      "en": "Kampong Thkov",
+      "slug": "kampong-thkov-170602"
+    },
+    "code": {
+      "id": "170602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170702"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រឡាញ់",
+      "en": "Kralanh",
+      "slug": "kralanh-170603"
+    },
+    "code": {
+      "id": "170603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170703"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រូចគរ",
+      "en": "Krouch Kor",
+      "slug": "krouch-kor-170604"
+    },
+    "code": {
+      "id": "170604",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170704"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រោងគោ",
+      "en": "Roung Kou",
+      "slug": "roung-kou-170605"
+    },
+    "code": {
+      "id": "170605",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170705"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សែនសុខ",
+      "en": "Saen Sokh",
+      "slug": "saen-sokh-170607"
+    },
+    "code": {
+      "id": "170607",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170707"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរ",
+      "en": "Sambuor",
+      "slug": "sambuor-170606"
+    },
+    "code": {
+      "id": "170606",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010110"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្នួល",
+      "en": "Snuol",
+      "slug": "snuol-170608"
+    },
+    "code": {
+      "id": "170608",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រណាល",
+      "en": "Sranal",
+      "slug": "sranal-170609"
+    },
+    "code": {
+      "id": "170609",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170709"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170610",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាអាន",
+      "en": "Ta An",
+      "slug": "ta-an-170610"
+    },
+    "code": {
+      "id": "170610",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "ក្រឡាញ់",
+        "en": "Kralanh",
+        "slug": "kralanh-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "ក្រឡាញ់",
+          "en": "Kralanh",
+          "slug": "kralanh-1706"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170710"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

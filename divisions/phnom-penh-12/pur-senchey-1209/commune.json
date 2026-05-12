@@ -1,0 +1,394 @@
+[
+  {
+    "id": "120914",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចោមចៅទី១",
+      "en": "Chaom Chau 1",
+      "slug": "chaom-chau-1-120914"
+    },
+    "code": {
+      "id": "120914",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សែនជ័យ",
+        "en": "Pur SenChey",
+        "slug": "pur-senchey-1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សែនជ័យ",
+          "en": "Pur SenChey",
+          "slug": "pur-senchey-1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120909"
+    ],
+    "geo": {
+      "lat": "11.5234572",
+      "lon": "104.8605232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120915",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចោមចៅទី២",
+      "en": "Chaom Chau 2",
+      "slug": "chaom-chau-2-120915"
+    },
+    "code": {
+      "id": "120915",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សែនជ័យ",
+        "en": "Pur SenChey",
+        "slug": "pur-senchey-1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សែនជ័យ",
+          "en": "Pur SenChey",
+          "slug": "pur-senchey-1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120910"
+    ],
+    "geo": {
+      "lat": "11.5187076",
+      "lon": "104.8335396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120916",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចោមចៅទី៣",
+      "en": "Chaom Chau 3",
+      "slug": "chaom-chau-3-120916"
+    },
+    "code": {
+      "id": "120916",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សែនជ័យ",
+        "en": "Pur SenChey",
+        "slug": "pur-senchey-1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សែនជ័យ",
+          "en": "Pur SenChey",
+          "slug": "pur-senchey-1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120911"
+    ],
+    "geo": {
+      "lat": "11.5356956",
+      "lon": "104.8186051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120917",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាកាបទី១",
+      "en": "Kakab 1",
+      "slug": "kakab-1-120917"
+    },
+    "code": {
+      "id": "120917",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សែនជ័យ",
+        "en": "Pur SenChey",
+        "slug": "pur-senchey-1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សែនជ័យ",
+          "en": "Pur SenChey",
+          "slug": "pur-senchey-1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120912"
+    ],
+    "geo": {
+      "lat": "11.5543778",
+      "lon": "104.8499764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120918",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាកាបទី២",
+      "en": "Kakab 2",
+      "slug": "kakab-2-120918"
+    },
+    "code": {
+      "id": "120918",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សែនជ័យ",
+        "en": "Pur SenChey",
+        "slug": "pur-senchey-1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សែនជ័យ",
+          "en": "Pur SenChey",
+          "slug": "pur-senchey-1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120913"
+    ],
+    "geo": {
+      "lat": "11.5616803",
+      "lon": "104.8312223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោងក្រោម",
+      "en": "Samraong Kraom",
+      "slug": "samraong-kraom-120906"
+    },
+    "code": {
+      "id": "120906",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សែនជ័យ",
+        "en": "Pur SenChey",
+        "slug": "pur-senchey-1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សែនជ័យ",
+          "en": "Pur SenChey",
+          "slug": "pur-senchey-1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120901"
+    ],
+    "geo": {
+      "lat": "11.5751626",
+      "lon": "104.8086026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងក្រសាំង",
+      "en": "Trapeang Krasang",
+      "slug": "trapeang-krasang-120901"
+    },
+    "code": {
+      "id": "120901",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សែនជ័យ",
+        "en": "Pur SenChey",
+        "slug": "pur-senchey-1209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សែនជ័យ",
+          "en": "Pur SenChey",
+          "slug": "pur-senchey-1209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120902"
+    ],
+    "geo": {
+      "lat": "11.553532",
+      "lon": "104.795792"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

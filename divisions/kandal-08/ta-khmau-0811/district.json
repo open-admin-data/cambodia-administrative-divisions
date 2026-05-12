@@ -1,0 +1,47 @@
+{
+  "id": "0811",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "តាខ្មៅ",
+    "en": "Ta Khmau",
+    "slug": "ta-khmau-0811"
+  },
+  "code": {
+    "id": "0811",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.4687395",
+    "lon": "104.9451162"
+  },
+  "metadata": {},
+  "source": {}
+}

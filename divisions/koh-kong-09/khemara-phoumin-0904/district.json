@@ -1,0 +1,47 @@
+{
+  "id": "0904",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ខេមរភូមិន្ទ",
+    "en": "Khemara Phoumin",
+    "slug": "khemara-phoumin-0904"
+  },
+  "code": {
+    "id": "0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "09",
+    "level": 1,
+    "name": {
+      "local": "កោះកុង",
+      "en": "Koh Kong",
+      "slug": "koh-kong-09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.6110095",
+    "lon": "102.9818592"
+  },
+  "metadata": {},
+  "source": {}
+}

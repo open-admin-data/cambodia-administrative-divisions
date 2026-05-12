@@ -1,0 +1,425 @@
+[
+  {
+    "id": "1601",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អណ្ដូងមាស",
+      "en": "Andoung Meas",
+      "slug": "andoung-meas-1601"
+    },
+    "code": {
+      "id": "1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8662759",
+      "lon": "107.2970158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បានលុង",
+      "en": "Ban Lung",
+      "slug": "ban-lung-1602"
+    },
+    "code": {
+      "id": "1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.7414754",
+      "lon": "106.9873662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បរកែវ",
+      "en": "Bar Kaev",
+      "slug": "bar-kaev-1603"
+    },
+    "code": {
+      "id": "1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.6868898",
+      "lon": "107.2144802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កូនមុំ",
+      "en": "Koun Mom",
+      "slug": "koun-mom-1604"
+    },
+    "code": {
+      "id": "1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.580944",
+      "lon": "106.7722214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1605",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "លំផាត់",
+      "en": "Lumphat",
+      "slug": "lumphat-1605"
+    },
+    "code": {
+      "id": "1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.4998503",
+      "lon": "106.9736284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អូរជុំ",
+      "en": "Ou Chum",
+      "slug": "ou-chum-1606"
+    },
+    "code": {
+      "id": "1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8018346",
+      "lon": "106.992574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អូរយ៉ាដាវ",
+      "en": "Ou Ya Dav",
+      "slug": "ou-ya-dav-1607"
+    },
+    "code": {
+      "id": "1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.6689224",
+      "lon": "107.3483187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1608",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "តាវែង",
+      "en": "Ta Veaeng",
+      "slug": "ta-veaeng-1608"
+    },
+    "code": {
+      "id": "1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.0472873",
+      "lon": "107.1080429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "វើនសៃ",
+      "en": "Veun Sai",
+      "slug": "veun-sai-1609"
+    },
+    "code": {
+      "id": "1609",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.9720878",
+      "lon": "106.8137949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

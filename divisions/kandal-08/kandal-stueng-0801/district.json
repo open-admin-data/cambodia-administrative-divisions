@@ -1,0 +1,47 @@
+{
+  "id": "0801",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កណ្ដាលស្ទឹង",
+    "en": "Kandal Stueng",
+    "slug": "kandal-stueng-0801"
+  },
+  "code": {
+    "id": "0801",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.4110928",
+    "lon": "104.8330526"
+  },
+  "metadata": {},
+  "source": {}
+}

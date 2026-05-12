@@ -1,0 +1,338 @@
+[
+  {
+    "id": "160505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាតាង",
+      "en": "Ba Tang",
+      "slug": "ba-tang-160505"
+    },
+    "code": {
+      "id": "160505",
+      "iso": null
+    },
+    "parent": {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "local": "លំផាត់",
+        "en": "Lumphat",
+        "slug": "lumphat-1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1605",
+        "level": 2,
+        "name": {
+          "local": "លំផាត់",
+          "en": "Lumphat",
+          "slug": "lumphat-1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160405"
+    ],
+    "geo": {
+      "lat": "13.5297182",
+      "lon": "106.9779149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ័យឧត្ដម",
+      "en": "Chey Otdam",
+      "slug": "chey-otdam-160501"
+    },
+    "code": {
+      "id": "160501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "local": "លំផាត់",
+        "en": "Lumphat",
+        "slug": "lumphat-1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1605",
+        "level": 2,
+        "name": {
+          "local": "លំផាត់",
+          "en": "Lumphat",
+          "slug": "lumphat-1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160401"
+    ],
+    "geo": {
+      "lat": "13.4866104",
+      "lon": "106.9815765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាឡែង",
+      "en": "Ka Laeng",
+      "slug": "ka-laeng-160502"
+    },
+    "code": {
+      "id": "160502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "local": "លំផាត់",
+        "en": "Lumphat",
+        "slug": "lumphat-1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1605",
+        "level": 2,
+        "name": {
+          "local": "លំផាត់",
+          "en": "Lumphat",
+          "slug": "lumphat-1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160402"
+    ],
+    "geo": {
+      "lat": "13.4893028",
+      "lon": "107.0936968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្បាំង១",
+      "en": "Lbang Muoy",
+      "slug": "lbang-muoy-160503"
+    },
+    "code": {
+      "id": "160503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "local": "លំផាត់",
+        "en": "Lumphat",
+        "slug": "lumphat-1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1605",
+        "level": 2,
+        "name": {
+          "local": "លំផាត់",
+          "en": "Lumphat",
+          "slug": "lumphat-1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160403"
+    ],
+    "geo": {
+      "lat": "13.6079278",
+      "lon": "106.9469211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្បាំង២",
+      "en": "Lbang Pir",
+      "slug": "lbang-pir-160504"
+    },
+    "code": {
+      "id": "160504",
+      "iso": null
+    },
+    "parent": {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "local": "លំផាត់",
+        "en": "Lumphat",
+        "slug": "lumphat-1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1605",
+        "level": 2,
+        "name": {
+          "local": "លំផាត់",
+          "en": "Lumphat",
+          "slug": "lumphat-1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160404"
+    ],
+    "geo": {
+      "lat": "13.6421265",
+      "lon": "106.9703932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សេដា",
+      "en": "Seda",
+      "slug": "seda-160506"
+    },
+    "code": {
+      "id": "160506",
+      "iso": null
+    },
+    "parent": {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "local": "លំផាត់",
+        "en": "Lumphat",
+        "slug": "lumphat-1605"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1605",
+        "level": 2,
+        "name": {
+          "local": "លំផាត់",
+          "en": "Lumphat",
+          "slug": "lumphat-1605"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160406"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

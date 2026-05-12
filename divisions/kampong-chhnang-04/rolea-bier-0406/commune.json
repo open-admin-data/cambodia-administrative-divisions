@@ -1,0 +1,786 @@
+[
+  {
+    "id": "040601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អណ្ដូងស្នាយ",
+      "en": "Andoung Snay",
+      "slug": "andoung-snay-040601"
+    },
+    "code": {
+      "id": "040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040701"
+    ],
+    "geo": {
+      "lat": "12.1312569",
+      "lon": "104.7096132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្ទាយព្រាល",
+      "en": "Banteay Preal",
+      "slug": "banteay-preal-040602"
+    },
+    "code": {
+      "id": "040602",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040702"
+    ],
+    "geo": {
+      "lat": "12.2702913",
+      "lon": "104.5495679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងគ្រាវ",
+      "en": "Cheung Kreav",
+      "slug": "cheung-kreav-040603"
+    },
+    "code": {
+      "id": "040603",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040703"
+    ],
+    "geo": {
+      "lat": "12.0931876",
+      "lon": "104.6415839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃបាក់",
+      "en": "Chrey Bak",
+      "slug": "chrey-bak-040604"
+    },
+    "code": {
+      "id": "040604",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040704"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកបន្ទាយ",
+      "en": "Kouk Banteay",
+      "slug": "kouk-banteay-040605"
+    },
+    "code": {
+      "id": "040605",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040705"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងលាវ",
+      "en": "Krang Leav",
+      "slug": "krang-leav-040606"
+    },
+    "code": {
+      "id": "040606",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040706"
+    ],
+    "geo": {
+      "lat": "12.2186946",
+      "lon": "104.5499132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040614",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំក្រាំងដីមាស",
+      "en": "Phnom Kraing Dey Meas",
+      "slug": "phnom-kraing-dey-meas-040614"
+    },
+    "code": {
+      "id": "040614",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40614"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពង្រ",
+      "en": "Pongro",
+      "slug": "pongro-040607"
+    },
+    "code": {
+      "id": "040607",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030707"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រស្នឹប",
+      "en": "Prasnoeb",
+      "slug": "prasnoeb-040608"
+    },
+    "code": {
+      "id": "040608",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040708"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃមូល",
+      "en": "Prey Mul",
+      "slug": "prey-mul-040609"
+    },
+    "code": {
+      "id": "040609",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040709"
+    ],
+    "geo": {
+      "lat": "12.1590731",
+      "lon": "104.5974116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040610",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រលាប្អៀរ",
+      "en": "Rolea B'ier",
+      "slug": "rolea-bier-040610"
+    },
+    "code": {
+      "id": "040610",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040710"
+    ],
+    "geo": {
+      "lat": "12.1536229",
+      "lon": "104.6508956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040611",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែថ្មី",
+      "en": "Srae Thmei",
+      "slug": "srae-thmei-040611"
+    },
+    "code": {
+      "id": "040611",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040711"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040612",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយជ្រុំ",
+      "en": "Svay Chrum",
+      "slug": "svay-chrum-040612"
+    },
+    "code": {
+      "id": "040612",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040712"
+    ],
+    "geo": {
+      "lat": "12.2982422",
+      "lon": "104.5991443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040613",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកហូត",
+      "en": "Tuek Hout",
+      "slug": "tuek-hout-040613"
+    },
+    "code": {
+      "id": "040613",
+      "iso": null
+    },
+    "parent": {
+      "id": "0406",
+      "level": 2,
+      "name": {
+        "local": "រលាប្អៀរ",
+        "en": "Rolea B'ier",
+        "slug": "rolea-bier-0406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0406",
+        "level": 2,
+        "name": {
+          "local": "រលាប្អៀរ",
+          "en": "Rolea B'ier",
+          "slug": "rolea-bier-0406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040713"
+    ],
+    "geo": {
+      "lat": "12.1099019",
+      "lon": "104.7312846"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

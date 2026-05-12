@@ -1,0 +1,47 @@
+{
+  "id": "1007",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "អូរគ្រៀងសែនជ័យ",
+    "en": "Ou Krieng Saenchey",
+    "slug": "ou-krieng-saenchey-1007"
+  },
+  "code": {
+    "id": "1007",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "ក្រចេះ",
+      "en": "Kratié",
+      "slug": "krati-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

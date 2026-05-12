@@ -1,0 +1,47 @@
+{
+  "id": "2301",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ដំណាក់ចង្អើរ",
+    "en": "Damnak Chang'aeur",
+    "slug": "damnak-changaeur-2301"
+  },
+  "code": {
+    "id": "2301",
+    "iso": null
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "local": "កែប",
+      "en": "Kep",
+      "slug": "kep-23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "local": "កែប",
+        "en": "Kep",
+        "slug": "kep-23"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.526653",
+    "lon": "104.36731"
+  },
+  "metadata": {},
+  "source": {}
+}

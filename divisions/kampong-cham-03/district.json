@@ -1,0 +1,472 @@
+[
+  {
+    "id": "0301",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បាធាយ",
+      "en": "Batheay",
+      "slug": "batheay-0301"
+    },
+    "code": {
+      "id": "0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9931056",
+      "lon": "104.9457831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0302",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ចំការលើ",
+      "en": "Chamkar Leu",
+      "slug": "chamkar-leu-0302"
+    },
+    "code": {
+      "id": "0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.3013417",
+      "lon": "105.2924357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ជើងព្រៃ",
+      "en": "Cheung Prey",
+      "slug": "cheung-prey-0303"
+    },
+    "code": {
+      "id": "0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.053626",
+      "lon": "105.0717844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0305",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-0305"
+    },
+    "code": {
+      "id": "0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9921855",
+      "lon": "105.4628346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កំពង់សៀម",
+      "en": "Kampong Siem",
+      "slug": "kampong-siem-0306"
+    },
+    "code": {
+      "id": "0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.0210166",
+      "lon": "105.4271324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កងមាស",
+      "en": "Kang Meas",
+      "slug": "kang-meas-0307"
+    },
+    "code": {
+      "id": "0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9504688",
+      "lon": "105.2707989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0308",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កោះសូទិន",
+      "en": "Kaoh Soutin",
+      "slug": "kaoh-soutin-0308"
+    },
+    "code": {
+      "id": "0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8823352",
+      "lon": "105.4399467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0313",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ព្រៃឈរ",
+      "en": "Prey Chhor",
+      "slug": "prey-chhor-0313"
+    },
+    "code": {
+      "id": "0313",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.055781",
+      "lon": "105.2552028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0314",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្រីសន្ធរ",
+      "en": "Srei Santhor",
+      "slug": "srei-santhor-0314"
+    },
+    "code": {
+      "id": "0314",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8363518",
+      "lon": "105.0858745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0315",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្ទឹងត្រង់",
+      "en": "Stueng Trang",
+      "slug": "stueng-trang-0315"
+    },
+    "code": {
+      "id": "0315",
+      "iso": null
+    },
+    "parent": {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2571813",
+      "lon": "105.5388356"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "19",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ស្ទឹងត្រែង",
+    "en": "Stung Treng",
+    "slug": "stung-treng-19"
+  },
+  "code": {
+    "id": "19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "commune": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.852468",
+    "lon": "106.0889848986395"
+  },
+  "metadata": {},
+  "source": {}
+}

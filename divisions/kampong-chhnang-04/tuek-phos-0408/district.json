@@ -1,0 +1,47 @@
+{
+  "id": "0408",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ទឹកផុស",
+    "en": "Tuek Phos",
+    "slug": "tuek-phos-0408"
+  },
+  "code": {
+    "id": "0408",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ឆ្នាំង",
+      "en": "Kampong Chhnang",
+      "slug": "kampong-chhnang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.052069",
+    "lon": "104.5259324"
+  },
+  "metadata": {},
+  "source": {}
+}

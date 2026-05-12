@@ -1,0 +1,47 @@
+{
+  "id": "0508",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ថ្ពង",
+    "en": "Thpong",
+    "slug": "thpong-0508"
+  },
+  "code": {
+    "id": "0508",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ស្ពឺ",
+      "en": "Kampong Speu",
+      "slug": "kampong-speu-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.758617300000001",
+    "lon": "104.34032516738003"
+  },
+  "metadata": {},
+  "source": {}
+}

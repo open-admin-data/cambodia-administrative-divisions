@@ -1,0 +1,752 @@
+[
+  {
+    "id": "01",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "បន្ទាយមានជ័យ",
+      "en": "Banteay Meanchey",
+      "slug": "banteay-meanchey-01"
+    },
+    "code": {
+      "id": "01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "commune": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.7989147",
+      "lon": "102.8862666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "02",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-02"
+    },
+    "code": {
+      "id": "02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 14,
+      "commune": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.9256791",
+      "lon": "103.23171364274523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "03",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-03"
+    },
+    "code": {
+      "id": "03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "commune": 109
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1174857",
+      "lon": "105.20800220742942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "04",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "កំពង់ឆ្នាំង",
+      "en": "Kampong Chhnang",
+      "slug": "kampong-chhnang-04"
+    },
+    "code": {
+      "id": "04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "commune": 71
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1382025",
+      "lon": "104.3354098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "05",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "កំពង់ស្ពឺ",
+      "en": "Kampong Speu",
+      "slug": "kampong-speu-05"
+    },
+    "code": {
+      "id": "05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "commune": 88
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.57753675",
+      "lon": "104.27140233242656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "06",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "កំពង់ធំ",
+      "en": "Kampong Thom",
+      "slug": "kampong-thom-06"
+    },
+    "code": {
+      "id": "06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "commune": 81
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.6687923",
+      "lon": "104.8879197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "07",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "កំពត",
+      "en": "Kampot",
+      "slug": "kampot-07"
+    },
+    "code": {
+      "id": "07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "commune": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.6314754",
+      "lon": "104.132637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "08",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    },
+    "code": {
+      "id": "08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "commune": 127
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.396262499999999",
+      "lon": "105.02078685074581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "09",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "កោះកុង",
+      "en": "Koh Kong",
+      "slug": "koh-kong-09"
+    },
+    "code": {
+      "id": "09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "commune": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6813417",
+      "lon": "103.0258043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "10",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ក្រចេះ",
+      "en": "Kratié",
+      "slug": "krati-10"
+    },
+    "code": {
+      "id": "10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "commune": 48
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.678301699999999",
+      "lon": "106.05817329824376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "មណ្ឌលគិរី",
+      "en": "Mondulkiri",
+      "slug": "mondulkiri-11"
+    },
+    "code": {
+      "id": "11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "commune": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.7396454",
+      "lon": "107.00882593208544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ភ្នំពេញ",
+      "en": "Phnom Penh",
+      "slug": "phnom-penh-12"
+    },
+    "code": {
+      "id": "12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 14,
+      "commune": 105
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5730391",
+      "lon": "104.857807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ព្រះវិហារ",
+      "en": "Preah Vihear",
+      "slug": "preah-vihear-13"
+    },
+    "code": {
+      "id": "13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "commune": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.746298150000001",
+      "lon": "104.97403002709669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ព្រៃវែង",
+      "en": "Prey Veng",
+      "slug": "prey-veng-14"
+    },
+    "code": {
+      "id": "14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "commune": 116
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.365959700000001",
+      "lon": "105.45572772976189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ពោធិ៍សាត់",
+      "en": "Pursat",
+      "slug": "pursat-15"
+    },
+    "code": {
+      "id": "15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "commune": 49
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.4662592",
+      "lon": "103.7426829518918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "រតនគិរី",
+      "en": "Ratanakiri",
+      "slug": "ratanakiri-16"
+    },
+    "code": {
+      "id": "16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "commune": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.9311155",
+      "lon": "107.03914990288844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    },
+    "code": {
+      "id": "17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "commune": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.314962",
+      "lon": "103.805433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ព្រះសីហនុ",
+      "en": "Preah Sihanouk",
+      "slug": "preah-sihanouk-18"
+    },
+    "code": {
+      "id": "18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "commune": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.50614075",
+      "lon": "103.26205644863938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ស្ទឹងត្រែង",
+      "en": "Stung Treng",
+      "slug": "stung-treng-19"
+    },
+    "code": {
+      "id": "19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "commune": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.852468",
+      "lon": "106.0889848986395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ស្វាយរៀង",
+      "en": "Svay Rieng",
+      "slug": "svay-rieng-20"
+    },
+    "code": {
+      "id": "20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "commune": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1942275",
+      "lon": "105.7973275083619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "តាកែវ",
+      "en": "Takéo",
+      "slug": "tako-21"
+    },
+    "code": {
+      "id": "21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "commune": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.93539205",
+      "lon": "104.78988300047047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ឧត្តរមានជ័យ",
+      "en": "Oddar Meanchey",
+      "slug": "oddar-meanchey-22"
+    },
+    "code": {
+      "id": "22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "commune": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.1585631",
+      "lon": "103.78279595655918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "កែប",
+      "en": "Kep",
+      "slug": "kep-23"
+    },
+    "code": {
+      "id": "23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 2,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.402153949999999",
+      "lon": "104.26506181616313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ប៉ៃលិន",
+      "en": "Pailin",
+      "slug": "pailin-24"
+    },
+    "code": {
+      "id": "24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 2,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.89053285",
+      "lon": "102.62946042446026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25",
+    "level": 1,
+    "level_name": {
+      "local": "ខេត្ត",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ត្បូងឃ្មុំ",
+      "en": "Tboung Khmum",
+      "slug": "tboung-khmum-25"
+    },
+    "code": {
+      "id": "25",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "commune": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.950072599999999",
+      "lon": "105.824571891073"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

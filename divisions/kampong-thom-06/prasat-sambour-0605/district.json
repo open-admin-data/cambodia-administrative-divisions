@@ -1,0 +1,47 @@
+{
+  "id": "0605",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ប្រាសាទសំបូរ",
+    "en": "Prasat Sambour",
+    "slug": "prasat-sambour-0605"
+  },
+  "code": {
+    "id": "0605",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ធំ",
+      "en": "Kampong Thom",
+      "slug": "kampong-thom-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.8857488",
+    "lon": "105.0679436"
+  },
+  "metadata": {},
+  "source": {}
+}

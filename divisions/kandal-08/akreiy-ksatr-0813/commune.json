@@ -1,0 +1,618 @@
+[
+  {
+    "id": "081307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អរិយក្សត្រ",
+      "en": "Akreiy Ksatr",
+      "slug": "akreiy-ksatr-081307"
+    },
+    "code": {
+      "id": "081307",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080601"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាក់ដាវ",
+      "en": "Bak Dav",
+      "slug": "bak-dav-081301"
+    },
+    "code": {
+      "id": "081301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081311",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បារុង",
+      "en": "Barong",
+      "slug": "barong-081311"
+    },
+    "code": {
+      "id": "081311",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080602"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះឧកញ៉ាតី",
+      "en": "Kaoh Oknha Tei",
+      "slug": "kaoh-oknha-tei-081302"
+    },
+    "code": {
+      "id": "081302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមឧកញ៉ាអុង",
+      "en": "Peam Oknha Ong",
+      "slug": "peam-oknha-ong-081309"
+    },
+    "code": {
+      "id": "081309",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080607"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកអំពិល",
+      "en": "Preaek Ampil",
+      "slug": "preaek-ampil-081303"
+    },
+    "code": {
+      "id": "081303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកក្មេង",
+      "en": "Preaek Kmeng",
+      "slug": "preaek-kmeng-081310"
+    },
+    "code": {
+      "id": "081310",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080609"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកលួង",
+      "en": "Preaek Luong",
+      "slug": "preaek-luong-081304"
+    },
+    "code": {
+      "id": "081304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកតាកូវ",
+      "en": "Preaek Ta kov",
+      "slug": "preaek-ta-kov-081305"
+    },
+    "code": {
+      "id": "081305",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សារិកាកែវ",
+      "en": "Sarikakaev",
+      "slug": "sarikakaev-081308"
+    },
+    "code": {
+      "id": "081308",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080613"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយជ្រំ",
+      "en": "Svay Chrum",
+      "slug": "svay-chrum-081306"
+    },
+    "code": {
+      "id": "081306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0813",
+      "level": 2,
+      "name": {
+        "local": "អរិយក្សត្រ",
+        "en": "Akreiy Ksatr",
+        "slug": "akreiy-ksatr-0813"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0813",
+        "level": 2,
+        "name": {
+          "local": "អរិយក្សត្រ",
+          "en": "Akreiy Ksatr",
+          "slug": "akreiy-ksatr-0813"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040712"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

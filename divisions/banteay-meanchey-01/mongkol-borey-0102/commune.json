@@ -1,0 +1,730 @@
+[
+  {
+    "id": "010201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្ទាយនាង",
+      "en": "Banteay Neang",
+      "slug": "banteay-neang-010201"
+    },
+    "code": {
+      "id": "010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010101"
+    ],
+    "geo": {
+      "lat": "13.5104093",
+      "lon": "103.0177392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បត់ត្រង់",
+      "en": "Bat Trang",
+      "slug": "bat-trang-010202"
+    },
+    "code": {
+      "id": "010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010102"
+    ],
+    "geo": {
+      "lat": "13.5262537",
+      "lon": "102.9725752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំណោម",
+      "en": "Chamnaom",
+      "slug": "chamnaom-010203"
+    },
+    "code": {
+      "id": "010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010103"
+    ],
+    "geo": {
+      "lat": "13.4569526",
+      "lon": "102.8923659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកបល្ល័ង្គ",
+      "en": "Kouk Ballangk",
+      "slug": "kouk-ballangk-010204"
+    },
+    "code": {
+      "id": "010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010104"
+    ],
+    "geo": {
+      "lat": "13.459291",
+      "lon": "103.1305496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គយម៉ែង",
+      "en": "Koy Maeng",
+      "slug": "koy-maeng-010205"
+    },
+    "code": {
+      "id": "010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010105"
+    ],
+    "geo": {
+      "lat": "13.5497698",
+      "lon": "103.1020792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរប្រាសាទ",
+      "en": "Ou Prasat",
+      "slug": "ou-prasat-010206"
+    },
+    "code": {
+      "id": "010206",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010106"
+    ],
+    "geo": {
+      "lat": "13.4456328",
+      "lon": "103.0224164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំតូច",
+      "en": "Phnum Touch",
+      "slug": "phnum-touch-010207"
+    },
+    "code": {
+      "id": "010207",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010107"
+    ],
+    "geo": {
+      "lat": "13.4104346",
+      "lon": "103.0284867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រហាត់ទឹក",
+      "en": "Rohat Tuek",
+      "slug": "rohat-tuek-010208"
+    },
+    "code": {
+      "id": "010208",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010108"
+    ],
+    "geo": {
+      "lat": "13.4880225",
+      "lon": "102.9464501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីក្រោក",
+      "en": "Ruessei Kraok",
+      "slug": "ruessei-kraok-010209"
+    },
+    "code": {
+      "id": "010209",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010109"
+    ],
+    "geo": {
+      "lat": "13.5470075",
+      "lon": "103.0346272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរ",
+      "en": "Sambuor",
+      "slug": "sambuor-010210"
+    },
+    "code": {
+      "id": "010210",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010110"
+    ],
+    "geo": {
+      "lat": "13.4371027",
+      "lon": "103.2106465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សឿ",
+      "en": "Soea",
+      "slug": "soea-010211"
+    },
+    "code": {
+      "id": "010211",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010111"
+    ],
+    "geo": {
+      "lat": "13.4098467",
+      "lon": "102.8381483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010212",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រះរាំង",
+      "en": "Srah Reang",
+      "slug": "srah-reang-010212"
+    },
+    "code": {
+      "id": "010212",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010112"
+    ],
+    "geo": {
+      "lat": "13.4937096",
+      "lon": "103.0920226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010213",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាឡំ",
+      "en": "Ta Lam",
+      "slug": "ta-lam-010213"
+    },
+    "code": {
+      "id": "010213",
+      "iso": null
+    },
+    "parent": {
+      "id": "0102",
+      "level": 2,
+      "name": {
+        "local": "មង្គលបូរី",
+        "en": "Mongkol Borey",
+        "slug": "mongkol-borey-0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0102",
+        "level": 2,
+        "name": {
+          "local": "មង្គលបូរី",
+          "en": "Mongkol Borey",
+          "slug": "mongkol-borey-0102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010113"
+    ],
+    "geo": {
+      "lat": "13.5211864",
+      "lon": "103.1132702"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

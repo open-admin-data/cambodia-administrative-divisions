@@ -1,0 +1,842 @@
+[
+  {
+    "id": "210901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គតាសោម",
+      "en": "Angk Ta Saom",
+      "slug": "angk-ta-saom-210901"
+    },
+    "code": {
+      "id": "210901",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210201"
+    ],
+    "geo": {
+      "lat": "11.0130714",
+      "lon": "104.6732034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាងទង",
+      "en": "Cheang Tong",
+      "slug": "cheang-tong-210902"
+    },
+    "code": {
+      "id": "210902",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210202"
+    ],
+    "geo": {
+      "lat": "11.0332676",
+      "lon": "104.5977964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គុស",
+      "en": "Kus",
+      "slug": "kus-210903"
+    },
+    "code": {
+      "id": "210903",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210203"
+    ],
+    "geo": {
+      "lat": "10.9593513",
+      "lon": "104.5819848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លាយបូរ",
+      "en": "Leay Bour",
+      "slug": "leay-bour-210904"
+    },
+    "code": {
+      "id": "210904",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210204"
+    ],
+    "geo": {
+      "lat": "11.0045196",
+      "lon": "104.7223472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ញ៉ែងញ៉ង",
+      "en": "Nhaeng Nhang",
+      "slug": "nhaeng-nhang-210905"
+    },
+    "code": {
+      "id": "210905",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210205"
+    ],
+    "geo": {
+      "lat": "10.9227934",
+      "lon": "104.652952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210908",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឧត្ដមសុរិយា",
+      "en": "Otdam Soriya",
+      "slug": "otdam-soriya-210908"
+    },
+    "code": {
+      "id": "210908",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210908"
+    ],
+    "geo": {
+      "lat": "11.0631023",
+      "lon": "104.7018363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរសារាយ",
+      "en": "Ou Saray",
+      "slug": "ou-saray-210906"
+    },
+    "code": {
+      "id": "210906",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210206"
+    ],
+    "geo": {
+      "lat": "11.0754078",
+      "lon": "104.4971997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210909",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពពេល",
+      "en": "Popel",
+      "slug": "popel-210909"
+    },
+    "code": {
+      "id": "210909",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040409"
+    ],
+    "geo": {
+      "lat": "11.069952",
+      "lon": "104.6669084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210910",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-210910"
+    },
+    "code": {
+      "id": "210910",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": "10.8004948",
+      "lon": "104.8364855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210911",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែរនោង",
+      "en": "Srae Ronoung",
+      "slug": "srae-ronoung-210911"
+    },
+    "code": {
+      "id": "210911",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210211"
+    ],
+    "geo": {
+      "lat": "10.9479035",
+      "lon": "104.697411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210912",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាភេម",
+      "en": "Ta Phem",
+      "slug": "ta-phem-210912"
+    },
+    "code": {
+      "id": "210912",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210212"
+    ],
+    "geo": {
+      "lat": "11.0193217",
+      "lon": "104.6311929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210913",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រាំកក់",
+      "en": "Tram Kak",
+      "slug": "tram-kak-210913"
+    },
+    "code": {
+      "id": "210913",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210213"
+    ],
+    "geo": {
+      "lat": "10.9116171",
+      "lon": "104.5896684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210907",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងក្រញូង",
+      "en": "Trapeang Kranhoung",
+      "slug": "trapeang-kranhoung-210907"
+    },
+    "code": {
+      "id": "210907",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210207"
+    ],
+    "geo": {
+      "lat": "11.0917569",
+      "lon": "104.4653914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210914",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងធំខាងជើង",
+      "en": "Trapeang Thum Khang Cheung",
+      "slug": "trapeang-thum-khang-cheung-210914"
+    },
+    "code": {
+      "id": "210914",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210214"
+    ],
+    "geo": {
+      "lat": "11.0512407",
+      "lon": "104.5688112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210915",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងធំខាងត្បូង",
+      "en": "Trapeang Thum Khang Tboung",
+      "slug": "trapeang-thum-khang-tboung-210915"
+    },
+    "code": {
+      "id": "210915",
+      "iso": null
+    },
+    "parent": {
+      "id": "2109",
+      "level": 2,
+      "name": {
+        "local": "ត្រាំកក់",
+        "en": "Tram Kak",
+        "slug": "tram-kak-2109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2109",
+        "level": 2,
+        "name": {
+          "local": "ត្រាំកក់",
+          "en": "Tram Kak",
+          "slug": "tram-kak-2109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210215"
+    ],
+    "geo": {
+      "lat": "11.0230447",
+      "lon": "104.5721934"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "080101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពៅព្រៃ",
+      "en": "Ampov Prey",
+      "slug": "ampov-prey-080101"
+    },
+    "code": {
+      "id": "080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080301"
+    ],
+    "geo": {
+      "lat": "11.3834721",
+      "lon": "104.8936276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្លង់រមៀត",
+      "en": "Anlong Romiet",
+      "slug": "anlong-romiet-080102"
+    },
+    "code": {
+      "id": "080102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080302"
+    ],
+    "geo": {
+      "lat": "11.4268166",
+      "lon": "104.7971422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បារគូ",
+      "en": "Barku",
+      "slug": "barku-080103"
+    },
+    "code": {
+      "id": "080103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080303"
+    ],
+    "geo": {
+      "lat": "11.4213693",
+      "lon": "104.8183187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងខ្យាង",
+      "en": "Boeng Khyang",
+      "slug": "boeng-khyang-080104"
+    },
+    "code": {
+      "id": "080104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080304"
+    ],
+    "geo": {
+      "lat": "11.3652017",
+      "lon": "104.8742007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងកើប",
+      "en": "Cheung Kaeub",
+      "slug": "cheung-kaeub-080105"
+    },
+    "code": {
+      "id": "080105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080305"
+    ],
+    "geo": {
+      "lat": "11.4277915",
+      "lon": "104.8871852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដើមឫស",
+      "en": "Daeum Rues",
+      "slug": "daeum-rues-080106"
+    },
+    "code": {
+      "id": "080106",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080306"
+    ],
+    "geo": {
+      "lat": "11.4310321",
+      "lon": "104.7776218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដោក",
+      "en": "Kandaok",
+      "slug": "kandaok-080107"
+    },
+    "code": {
+      "id": "080107",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080307"
+    ],
+    "geo": {
+      "lat": "11.4015431",
+      "lon": "104.9045064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកត្រប់",
+      "en": "Kouk Trab",
+      "slug": "kouk-trab-080109"
+    },
+    "code": {
+      "id": "080109",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080309"
+    ],
+    "geo": {
+      "lat": "11.401015",
+      "lon": "104.8403161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080115",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែករកា",
+      "en": "Preaek Roka",
+      "slug": "preaek-roka-080115"
+    },
+    "code": {
+      "id": "080115",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080311"
+    ],
+    "geo": {
+      "lat": "11.3563662",
+      "lon": "104.8499474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080116",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកស្លែង",
+      "en": "Preaek Slaeng",
+      "slug": "preaek-slaeng-080116"
+    },
+    "code": {
+      "id": "080116",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080312"
+    ],
+    "geo": {
+      "lat": "11.367044",
+      "lon": "104.88839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080113",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះពុទ្ធ",
+      "en": "Preah Putth",
+      "slug": "preah-putth-080113"
+    },
+    "code": {
+      "id": "080113",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080310"
+    ],
+    "geo": {
+      "lat": "11.4274182",
+      "lon": "104.8460346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080117",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកា",
+      "en": "Roka",
+      "slug": "roka-080117"
+    },
+    "code": {
+      "id": "080117",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020804"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080118",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រលាំងកែន",
+      "en": "Roleang Kaen",
+      "slug": "roleang-kaen-080118"
+    },
+    "code": {
+      "id": "080118",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080314"
+    ],
+    "geo": {
+      "lat": "11.4507163",
+      "lon": "104.6754851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080122",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-080122"
+    },
+    "code": {
+      "id": "080122",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171209"
+    ],
+    "geo": {
+      "lat": "11.4012453",
+      "lon": "104.8638561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080125",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្បែង",
+      "en": "Tbaeng",
+      "slug": "tbaeng-080125"
+    },
+    "code": {
+      "id": "080125",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060208"
+    ],
+    "geo": {
+      "lat": "11.3555327",
+      "lon": "104.7717454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មី",
+      "en": "Thmei",
+      "slug": "thmei-080108"
+    },
+    "code": {
+      "id": "080108",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010503"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080127",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងវែង",
+      "en": "Trapeang Veaeng",
+      "slug": "trapeang-veaeng-080127"
+    },
+    "code": {
+      "id": "080127",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080317"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080128",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ្រា",
+      "en": "Trea",
+      "slug": "trea-080128"
+    },
+    "code": {
+      "id": "080128",
+      "iso": null
+    },
+    "parent": {
+      "id": "0801",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដាលស្ទឹង",
+        "en": "Kandal Stueng",
+        "slug": "kandal-stueng-0801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0801",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដាលស្ទឹង",
+          "en": "Kandal Stueng",
+          "slug": "kandal-stueng-0801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060713"
+    ],
+    "geo": {
+      "lat": "11.3737718",
+      "lon": "104.8165372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

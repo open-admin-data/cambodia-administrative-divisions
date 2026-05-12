@@ -1,0 +1,450 @@
+[
+  {
+    "id": "030201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បុសខ្នុរ",
+      "en": "Bos Khnor",
+      "slug": "bos-khnor-030201"
+    },
+    "code": {
+      "id": "030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0302",
+      "level": 2,
+      "name": {
+        "local": "ចំការលើ",
+        "en": "Chamkar Leu",
+        "slug": "chamkar-leu-0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0302",
+        "level": 2,
+        "name": {
+          "local": "ចំការលើ",
+          "en": "Chamkar Leu",
+          "slug": "chamkar-leu-0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030201"
+    ],
+    "geo": {
+      "lat": "12.1793248",
+      "lon": "105.32127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំការអណ្ដូង",
+      "en": "Chamkar Andoung",
+      "slug": "chamkar-andoung-030202"
+    },
+    "code": {
+      "id": "030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0302",
+      "level": 2,
+      "name": {
+        "local": "ចំការលើ",
+        "en": "Chamkar Leu",
+        "slug": "chamkar-leu-0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0302",
+        "level": 2,
+        "name": {
+          "local": "ចំការលើ",
+          "en": "Chamkar Leu",
+          "slug": "chamkar-leu-0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030202"
+    ],
+    "geo": {
+      "lat": "12.341004",
+      "lon": "105.1900007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជយោ",
+      "en": "Cheyyou",
+      "slug": "cheyyou-030203"
+    },
+    "code": {
+      "id": "030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0302",
+      "level": 2,
+      "name": {
+        "local": "ចំការលើ",
+        "en": "Chamkar Leu",
+        "slug": "chamkar-leu-0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0302",
+        "level": 2,
+        "name": {
+          "local": "ចំការលើ",
+          "en": "Chamkar Leu",
+          "slug": "chamkar-leu-0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030203"
+    ],
+    "geo": {
+      "lat": "12.3204416",
+      "lon": "105.357094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វាលើ",
+      "en": "Lvea Leu",
+      "slug": "lvea-leu-030204"
+    },
+    "code": {
+      "id": "030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0302",
+      "level": 2,
+      "name": {
+        "local": "ចំការលើ",
+        "en": "Chamkar Leu",
+        "slug": "chamkar-leu-0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0302",
+        "level": 2,
+        "name": {
+          "local": "ចំការលើ",
+          "en": "Chamkar Leu",
+          "slug": "chamkar-leu-0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ពឺ",
+      "en": "Spueu",
+      "slug": "spueu-030205"
+    },
+    "code": {
+      "id": "030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "0302",
+      "level": 2,
+      "name": {
+        "local": "ចំការលើ",
+        "en": "Chamkar Leu",
+        "slug": "chamkar-leu-0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0302",
+        "level": 2,
+        "name": {
+          "local": "ចំការលើ",
+          "en": "Chamkar Leu",
+          "slug": "chamkar-leu-0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030205"
+    ],
+    "geo": {
+      "lat": "12.3303148",
+      "lon": "105.3310889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយទាប",
+      "en": "Svay Teab",
+      "slug": "svay-teab-030206"
+    },
+    "code": {
+      "id": "030206",
+      "iso": null
+    },
+    "parent": {
+      "id": "0302",
+      "level": 2,
+      "name": {
+        "local": "ចំការលើ",
+        "en": "Chamkar Leu",
+        "slug": "chamkar-leu-0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0302",
+        "level": 2,
+        "name": {
+          "local": "ចំការលើ",
+          "en": "Chamkar Leu",
+          "slug": "chamkar-leu-0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030206"
+    ],
+    "geo": {
+      "lat": "12.2896067",
+      "lon": "105.282117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាអុង",
+      "en": "Ta Ong",
+      "slug": "ta-ong-030207"
+    },
+    "code": {
+      "id": "030207",
+      "iso": null
+    },
+    "parent": {
+      "id": "0302",
+      "level": 2,
+      "name": {
+        "local": "ចំការលើ",
+        "en": "Chamkar Leu",
+        "slug": "chamkar-leu-0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0302",
+        "level": 2,
+        "name": {
+          "local": "ចំការលើ",
+          "en": "Chamkar Leu",
+          "slug": "chamkar-leu-0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030207"
+    ],
+    "geo": {
+      "lat": "12.2391261",
+      "lon": "105.298898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាប្រុក",
+      "en": "Ta Prok",
+      "slug": "ta-prok-030208"
+    },
+    "code": {
+      "id": "030208",
+      "iso": null
+    },
+    "parent": {
+      "id": "0302",
+      "level": 2,
+      "name": {
+        "local": "ចំការលើ",
+        "en": "Chamkar Leu",
+        "slug": "chamkar-leu-0302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0302",
+        "level": 2,
+        "name": {
+          "local": "ចំការលើ",
+          "en": "Chamkar Leu",
+          "slug": "chamkar-leu-0302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030208"
+    ],
+    "geo": {
+      "lat": "12.3809009",
+      "lon": "105.2152735"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,322 @@
+# Banteay Meanchey — Cambodia Administrative Divisions
+
+> 9 districts, 67 communes
+> Code: 01
+> Coordinates: 13.7989147, 102.8862666
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### ម៉ាឡៃ (Malai)
+
+Code: 0109, Coordinates: 13.5609461, 102.3709867
+Communes: 6
+
+#### បឹងបេង (Boeng Beng)
+
+Code: 010901, Postal: 010701, Coordinates: 13.5131183, 102.3680025
+
+#### ម៉ាឡៃ (Malai)
+
+Code: 010902, Postal: 010702, Coordinates: 13.5687169, 102.3657833
+
+#### អូរសំព័រ (Ou Sampoar)
+
+Code: 010903, Postal: 010704, Coordinates: 13.5274362, 102.5017998
+
+#### អូរស្រឡៅ (Ou Sralau)
+
+Code: 010904, Postal: 010703, Coordinates: 13.5240854, 102.4317522
+
+#### តាគង់ (Ta Kong)
+
+Code: 010906, Postal: 010706, Coordinates: 13.5068435, 102.7252954
+
+#### ទួលពង្រ (Tuol Pongro)
+
+Code: 010905, Postal: 010705, Coordinates: 13.5531144, 102.5938233
+
+### មង្គលបូរី (Mongkol Borey)
+
+Code: 0102, Coordinates: 13.4940861, 102.9791567
+Communes: 13
+
+#### បន្ទាយនាង (Banteay Neang)
+
+Code: 010201, Postal: 010101, Coordinates: 13.5104093, 103.0177392
+
+#### បត់ត្រង់ (Bat Trang)
+
+Code: 010202, Postal: 010102, Coordinates: 13.5262537, 102.9725752
+
+#### ចំណោម (Chamnaom)
+
+Code: 010203, Postal: 010103, Coordinates: 13.4569526, 102.8923659
+
+#### គោកបល្ល័ង្គ (Kouk Ballangk)
+
+Code: 010204, Postal: 010104, Coordinates: 13.459291, 103.1305496
+
+#### គយម៉ែង (Koy Maeng)
+
+Code: 010205, Postal: 010105, Coordinates: 13.5497698, 103.1020792
+
+#### អូរប្រាសាទ (Ou Prasat)
+
+Code: 010206, Postal: 010106, Coordinates: 13.4456328, 103.0224164
+
+#### ភ្នំតូច (Phnum Touch)
+
+Code: 010207, Postal: 010107, Coordinates: 13.4104346, 103.0284867
+
+#### រហាត់ទឹក (Rohat Tuek)
+
+Code: 010208, Postal: 010108, Coordinates: 13.4880225, 102.9464501
+
+#### ឫស្សីក្រោក (Ruessei Kraok)
+
+Code: 010209, Postal: 010109, Coordinates: 13.5470075, 103.0346272
+
+#### សំបួរ (Sambuor)
+
+Code: 010210, Postal: 010110, Coordinates: 13.4371027, 103.2106465
+
+#### សឿ (Soea)
+
+Code: 010211, Postal: 010111, Coordinates: 13.4098467, 102.8381483
+
+#### ស្រះរាំង (Srah Reang)
+
+Code: 010212, Postal: 010112, Coordinates: 13.4937096, 103.0920226
+
+#### តាឡំ (Ta Lam)
+
+Code: 010213, Postal: 010113, Coordinates: 13.5211864, 103.1132702
+
+### អូរជ្រៅ (Ou Chrov)
+
+Code: 0105, Coordinates: 13.6129122, 102.7651907
+Communes: 7
+
+#### ចង្ហា (Changha)
+
+Code: 010501, Postal: 010401, Coordinates: 13.6441455, 102.8895714
+
+#### កូប (Koub)
+
+Code: 010502, Postal: 010402, Coordinates: 13.6099675, 102.782981
+
+#### គុត្ដសត (Kuttasat)
+
+Code: 010503, Postal: 010403, Coordinates: 13.586266, 102.7624709
+
+#### អូរបីជាន់ (Ou Beichoan)
+
+Code: 010509, Postal: 010407, Coordinates: 13.7374, 102.7378202
+
+#### សំរោង (Samraong)
+
+Code: 010505, Postal: 010404, Coordinates: 13.5304714, 102.8328438
+
+#### សឹង្ហ (Soengh)
+
+Code: 010507, Postal: 010406, Coordinates: 13.7273103, 102.8351942
+
+#### សូភី (Souphi)
+
+Code: 010506, Postal: 010405, Coordinates: 13.6496689, 102.822933
+
+### ភ្នំស្រុក (Phnum Srok)
+
+Code: 0103, Coordinates: 13.7579963, 103.3357732
+Communes: 6
+
+#### ណាំតៅ (Nam Tau)
+
+Code: 010301, Postal: 010201, Coordinates: 13.8918216, 103.4052918
+
+#### ភ្នំដី (Phnum Dei)
+
+Code: 010306, Postal: 010206, Coordinates: 13.7704548, 103.3828426
+
+#### ពន្លៃ (Ponley)
+
+Code: 010303, Postal: 010203, Coordinates: 13.7927097, 103.2139868
+
+#### ប៉ោយចារ (Poy Char)
+
+Code: 010302, Postal: 010202, Coordinates: 13.8401992, 103.3572299
+
+#### ស្ពានស្រែង (Spean Sraeng)
+
+Code: 010304, Postal: 010204, Coordinates: 13.711684, 103.399776
+
+#### ស្រះជីក (Srah Chik)
+
+Code: 010305, Postal: 010205, Coordinates: 13.7275991, 103.3192528
+
+### ប៉ោយប៉ែត (Poipet)
+
+Code: 0110, Coordinates: 13.6593962, 102.5708301
+Communes: 5
+
+#### និមិត្ដ (Nimitt)
+
+Code: 011001, Postal: 010902, Coordinates: 13.6276165, 102.6774927
+
+#### អូរជ្រៅ (Ou Chrov)
+
+Code: 011004, Postal: 180105
+
+#### អូរឫស្សី (Ou Reusey)
+
+Code: 011005, Postal: 040206
+
+#### ផ្សារកណ្តាល (Phsar Kandal)
+
+Code: 011003, Postal: 120205
+
+#### ប៉ោយប៉ែត (Poipet)
+
+Code: 011002, Postal: 010901, Coordinates: 13.6597298, 102.5622688
+
+### ព្រះនេត្រព្រះ (Preah Netr Preah)
+
+Code: 0104, Coordinates: 13.5746664, 103.2766571
+Communes: 9
+
+#### បុស្បូវ (Bos Sbov)
+
+Code: 010409, Postal: 010309, Coordinates: 13.6969907, 103.0792732
+
+#### ឈ្នួរមានជ័យ (Chnuor Mean Chey)
+
+Code: 010401, Postal: 010301, Coordinates: 13.6225756, 103.0957003
+
+#### ជប់វារី (Chob Vari)
+
+Code: 010402, Postal: 010302, Coordinates: 13.6638149, 103.1681942
+
+#### ភ្នំលៀប (Phnum Lieb)
+
+Code: 010403, Postal: 010303, Coordinates: 13.5387145, 103.2928573
+
+#### ប្រាសាទ (Prasat)
+
+Code: 010404, Postal: 010304, Coordinates: 13.449037, 103.364093
+
+#### ព្រះនេត្រព្រះ (Preak Netr Preah)
+
+Code: 010405, Postal: 010305, Coordinates: 13.5754057, 103.1654096
+
+#### រហាល (Rohal)
+
+Code: 010406, Postal: 010306, Coordinates: 13.6248637, 103.2445687
+
+#### ទានកាំ (Tean Kam)
+
+Code: 010407, Postal: 010307, Coordinates: 13.7086274, 103.2210337
+
+#### ទឹកជោរ (Tuek Chour)
+
+Code: 010408, Postal: 010308, Coordinates: 13.6310672, 103.3785291
+
+### សិរីសោភ័ណ (Serei Saophoan)
+
+Code: 0106, Coordinates: 13.5884004, 102.9700274
+Communes: 7
+
+#### កំពង់ស្វាយ (Kampong Svay)
+
+Code: 010602, Postal: 010801, Coordinates: 13.6175852, 102.9648068
+
+#### កោះពងសត្វ (Kaoh Pong Satv)
+
+Code: 010603, Postal: 010802, Coordinates: 13.5780457, 103.0368099
+
+#### ម្កាក់ (Mkak)
+
+Code: 010604, Postal: 010803, Coordinates: 13.6708318, 102.9620529
+
+#### អូរអំបិល (Ou Ambel)
+
+Code: 010605, Postal: 010804, Coordinates: 13.5575298, 102.9315361
+
+#### ភ្នៀត (Phniet)
+
+Code: 010606, Postal: 010805, Coordinates: 13.6174063, 103.0487352
+
+#### ព្រះពន្លា (Preah Ponlea)
+
+Code: 010607, Postal: 200204, Coordinates: 13.5828301, 102.9863153
+
+#### ទឹកថ្លា (Tuek Thla)
+
+Code: 010608, Postal: 120802, Coordinates: 13.5819882, 102.9081956
+
+### ស្វាយចេក (Svay Chek)
+
+Code: 0108, Coordinates: 13.7837644, 102.961198
+Communes: 8
+
+#### ផ្គាំ (Phkoam)
+
+Code: 010801, Postal: 010601, Coordinates: 13.8218508, 103.1017464
+
+#### រលួស (Roluos)
+
+Code: 010808, Postal: 120511, Coordinates: 13.8035946, 102.9883113
+
+#### សារង្គ (Sarongk)
+
+Code: 010802, Postal: 010602, Coordinates: 13.759706, 103.1195475
+
+#### ស្លក្រាម (Sla Kram)
+
+Code: 010803, Postal: 010603, Coordinates: 13.7742935, 102.8419408
+
+#### ស្វាយចេក (Svay Chek)
+
+Code: 010804, Postal: 010604, Coordinates: 13.8054986, 102.9628788
+
+#### តាបែន (Ta Baen)
+
+Code: 010805, Postal: 010605, Coordinates: 13.7699563, 102.9698263
+
+#### តាផូ (Ta Phou)
+
+Code: 010806, Postal: 010606, Coordinates: 13.7643945, 103.0472572
+
+#### ទ្រាស (Treas)
+
+Code: 010807, Postal: 010607, Coordinates: 13.8899882, 102.9471226
+
+### ថ្មពួក (Thma Puok)
+
+Code: 0107, Coordinates: 13.9494974, 103.0544638
+Communes: 6
+
+#### បន្ទាយឆ្មារ (Banteay Chhmar)
+
+Code: 010701, Postal: 010501, Coordinates: 14.0694373, 103.0934719
+
+#### គោកកឋិន (Kouk Kakthen)
+
+Code: 010705, Postal: 010505, Coordinates: 13.8879594, 103.1480637
+
+#### គោករមៀត (Kouk Romiet)
+
+Code: 010702, Postal: 010502, Coordinates: 13.9951214, 102.935528
+
+#### គំរូ (Kumru)
+
+Code: 010706, Postal: 010506, Coordinates: 13.9806406, 103.0261071
+
+#### ភូមិថ្មី (Phum Thmei)
+
+Code: 010703, Postal: 010503, Coordinates: 13.8893431, 103.0612033
+
+#### ថ្មពួក (Thma Puok)
+
+Code: 010704, Postal: 010504, Coordinates: 13.9414476, 103.0523805
+

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "171201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រោយនាងងួន",
+      "en": "Chrouy Neang Nguon",
+      "slug": "chrouy-neang-nguon-171201"
+    },
+    "code": {
+      "id": "171201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1712",
+      "level": 2,
+      "name": {
+        "local": "ស្រីស្នំ",
+        "en": "Srei Snam",
+        "slug": "srei-snam-1712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1712",
+        "level": 2,
+        "name": {
+          "local": "ស្រីស្នំ",
+          "en": "Srei Snam",
+          "slug": "srei-snam-1712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170301"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្លាំងហាយ",
+      "en": "Klang Hay",
+      "slug": "klang-hay-171202"
+    },
+    "code": {
+      "id": "171202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1712",
+      "level": 2,
+      "name": {
+        "local": "ស្រីស្នំ",
+        "en": "Srei Snam",
+        "slug": "srei-snam-1712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1712",
+        "level": 2,
+        "name": {
+          "local": "ស្រីស្នំ",
+          "en": "Srei Snam",
+          "slug": "srei-snam-1712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170302"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មោង",
+      "en": "Moung",
+      "slug": "moung-171204"
+    },
+    "code": {
+      "id": "171204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1712",
+      "level": 2,
+      "name": {
+        "local": "ស្រីស្នំ",
+        "en": "Srei Snam",
+        "slug": "srei-snam-1712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1712",
+        "level": 2,
+        "name": {
+          "local": "ស្រីស្នំ",
+          "en": "Srei Snam",
+          "slug": "srei-snam-1712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រីយ៍",
+      "en": "Prei",
+      "slug": "prei-171205"
+    },
+    "code": {
+      "id": "171205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1712",
+      "level": 2,
+      "name": {
+        "local": "ស្រីស្នំ",
+        "en": "Srei Snam",
+        "slug": "srei-snam-1712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1712",
+        "level": 2,
+        "name": {
+          "local": "ស្រីស្នំ",
+          "en": "Srei Snam",
+          "slug": "srei-snam-1712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170305"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្លែងស្ពាន",
+      "en": "Slaeng Spean",
+      "slug": "slaeng-spean-171206"
+    },
+    "code": {
+      "id": "171206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1712",
+      "level": 2,
+      "name": {
+        "local": "ស្រីស្នំ",
+        "en": "Srei Snam",
+        "slug": "srei-snam-1712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1712",
+        "level": 2,
+        "name": {
+          "local": "ស្រីស្នំ",
+          "en": "Srei Snam",
+          "slug": "srei-snam-1712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170306"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រាំសសរ",
+      "en": "Tram Sasar",
+      "slug": "tram-sasar-171203"
+    },
+    "code": {
+      "id": "171203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1712",
+      "level": 2,
+      "name": {
+        "local": "ស្រីស្នំ",
+        "en": "Srei Snam",
+        "slug": "srei-snam-1712"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1712",
+        "level": 2,
+        "name": {
+          "local": "ស្រីស្នំ",
+          "en": "Srei Snam",
+          "slug": "srei-snam-1712"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170303"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

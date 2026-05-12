@@ -1,0 +1,47 @@
+{
+  "id": "1706",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ក្រឡាញ់",
+    "en": "Kralanh",
+    "slug": "kralanh-1706"
+  },
+  "code": {
+    "id": "1706",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.5473871",
+    "lon": "103.47742125362274"
+  },
+  "metadata": {},
+  "source": {}
+}

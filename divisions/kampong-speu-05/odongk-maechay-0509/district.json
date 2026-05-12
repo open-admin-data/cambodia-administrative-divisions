@@ -1,0 +1,47 @@
+{
+  "id": "0509",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ឧដុង្គម៉ែជ័យ",
+    "en": "Odongk Maechay",
+    "slug": "odongk-maechay-0509"
+  },
+  "code": {
+    "id": "0509",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ស្ពឺ",
+      "en": "Kampong Speu",
+      "slug": "kampong-speu-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

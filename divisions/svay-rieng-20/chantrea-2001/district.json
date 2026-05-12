@@ -1,0 +1,47 @@
+{
+  "id": "2001",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ចន្ទ្រា",
+    "en": "Chantrea",
+    "slug": "chantrea-2001"
+  },
+  "code": {
+    "id": "2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ស្វាយរៀង",
+      "en": "Svay Rieng",
+      "slug": "svay-rieng-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.9949854",
+    "lon": "106.1174193"
+  },
+  "metadata": {},
+  "source": {}
+}

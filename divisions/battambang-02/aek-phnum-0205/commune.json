@@ -1,0 +1,394 @@
+[
+  {
+    "id": "020507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះជីវាំង",
+      "en": "Kaoh Chiveang",
+      "slug": "kaoh-chiveang-020507"
+    },
+    "code": {
+      "id": "020507",
+      "iso": null
+    },
+    "parent": {
+      "id": "0205",
+      "level": 2,
+      "name": {
+        "local": "ឯកភ្នំ",
+        "en": "Aek Phnum",
+        "slug": "aek-phnum-0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0205",
+        "level": 2,
+        "name": {
+          "local": "ឯកភ្នំ",
+          "en": "Aek Phnum",
+          "slug": "aek-phnum-0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020407"
+    ],
+    "geo": {
+      "lat": "13.2225089",
+      "lon": "103.6081964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមឯក",
+      "en": "Peam Aek",
+      "slug": "peam-aek-020505"
+    },
+    "code": {
+      "id": "020505",
+      "iso": null
+    },
+    "parent": {
+      "id": "0205",
+      "level": 2,
+      "name": {
+        "local": "ឯកភ្នំ",
+        "en": "Aek Phnum",
+        "slug": "aek-phnum-0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0205",
+        "level": 2,
+        "name": {
+          "local": "ឯកភ្នំ",
+          "en": "Aek Phnum",
+          "slug": "aek-phnum-0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020405"
+    ],
+    "geo": {
+      "lat": "13.1631056",
+      "lon": "103.1890131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកខ្ពប",
+      "en": "Preaek Khpob",
+      "slug": "preaek-khpob-020503"
+    },
+    "code": {
+      "id": "020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "0205",
+      "level": 2,
+      "name": {
+        "local": "ឯកភ្នំ",
+        "en": "Aek Phnum",
+        "slug": "aek-phnum-0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0205",
+        "level": 2,
+        "name": {
+          "local": "ឯកភ្នំ",
+          "en": "Aek Phnum",
+          "slug": "aek-phnum-0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020403"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកហ្លួង",
+      "en": "Preaek Luong",
+      "slug": "preaek-luong-020504"
+    },
+    "code": {
+      "id": "020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "0205",
+      "level": 2,
+      "name": {
+        "local": "ឯកភ្នំ",
+        "en": "Aek Phnum",
+        "slug": "aek-phnum-0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0205",
+        "level": 2,
+        "name": {
+          "local": "ឯកភ្នំ",
+          "en": "Aek Phnum",
+          "slug": "aek-phnum-0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080208"
+    ],
+    "geo": {
+      "lat": "13.2005347",
+      "lon": "103.3181062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកនរិន្ទ",
+      "en": "Preaek Norint",
+      "slug": "preaek-norint-020501"
+    },
+    "code": {
+      "id": "020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "0205",
+      "level": 2,
+      "name": {
+        "local": "ឯកភ្នំ",
+        "en": "Aek Phnum",
+        "slug": "aek-phnum-0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0205",
+        "level": 2,
+        "name": {
+          "local": "ឯកភ្នំ",
+          "en": "Aek Phnum",
+          "slug": "aek-phnum-0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020401"
+    ],
+    "geo": {
+      "lat": "13.1589329",
+      "lon": "103.2276569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃចាស់",
+      "en": "Prey Chas",
+      "slug": "prey-chas-020506"
+    },
+    "code": {
+      "id": "020506",
+      "iso": null
+    },
+    "parent": {
+      "id": "0205",
+      "level": 2,
+      "name": {
+        "local": "ឯកភ្នំ",
+        "en": "Aek Phnum",
+        "slug": "aek-phnum-0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0205",
+        "level": 2,
+        "name": {
+          "local": "ឯកភ្នំ",
+          "en": "Aek Phnum",
+          "slug": "aek-phnum-0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020406"
+    ],
+    "geo": {
+      "lat": "13.3107815",
+      "lon": "103.4003178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោងក្នុង",
+      "en": "Samraong Knong",
+      "slug": "samraong-knong-020502"
+    },
+    "code": {
+      "id": "020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "0205",
+      "level": 2,
+      "name": {
+        "local": "ឯកភ្នំ",
+        "en": "Aek Phnum",
+        "slug": "aek-phnum-0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0205",
+        "level": 2,
+        "name": {
+          "local": "ឯកភ្នំ",
+          "en": "Aek Phnum",
+          "slug": "aek-phnum-0205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020402"
+    ],
+    "geo": {
+      "lat": "13.1276878",
+      "lon": "103.2206643"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "1101",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កែវសីមា",
+    "en": "Kaev Seima",
+    "slug": "kaev-seima-1101"
+  },
+  "code": {
+    "id": "1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "មណ្ឌលគិរី",
+      "en": "Mondulkiri",
+      "slug": "mondulkiri-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "មណ្ឌលគិរី",
+        "en": "Mondulkiri",
+        "slug": "mondulkiri-11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,474 @@
+# Siem Reap — Cambodia Administrative Divisions
+
+> 13 districts, 100 communes
+> Code: 17
+> Coordinates: 13.314962, 103.805433
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### អង្គរជុំ (Angkor Chum)
+
+Code: 1701, Coordinates: 13.6880963, 103.6464558
+Communes: 7
+
+#### ចារឈូក (Char Chhuk)
+
+Code: 170101, Postal: 171101, Coordinates: 13.6838517, 103.638361
+
+#### ដូនពេង (Doun Peng)
+
+Code: 170102, Postal: 171102
+
+#### គោកដូង (Kouk Doung)
+
+Code: 170103, Postal: 171103, Coordinates: 13.6756129, 103.7653559
+
+#### គោល (Koul)
+
+Code: 170104, Postal: 171104
+
+#### នគរភាស (Nokor Pheas)
+
+Code: 170105, Postal: 171105, Coordinates: 13.6385069, 103.6986931
+
+#### ស្រែខ្វាវ (Srae Khvav)
+
+Code: 170106, Postal: 171106, Coordinates: 13.7683896, 103.6636526
+
+#### តាសោម (Ta Saom)
+
+Code: 170107, Postal: 171107, Coordinates: 13.6295432, 104.2485422
+
+### អង្គរធំ (Angkor Thum)
+
+Code: 1702, Coordinates: 13.5793769, 103.85457242215985
+Communes: 4
+
+#### ជប់តាត្រាវ (Chob Ta Trav)
+
+Code: 170201, Postal: 171001
+
+#### លាងដៃ (Leang Dai)
+
+Code: 170202, Postal: 171002
+
+#### ពាក់ស្នែង (Peak Snaeng)
+
+Code: 170203, Postal: 171003, Coordinates: 13.6150082, 103.8948941
+
+#### ស្វាយចេក (Svay Chek)
+
+Code: 170204, Postal: 010604
+
+### បន្ទាយស្រី (Banteay Srei)
+
+Code: 1703, Coordinates: 13.5958699, 103.92117104314269
+Communes: 5
+
+#### ខ្នារសណ្ដាយ (Khnar Sanday)
+
+Code: 170301, Postal: 170301, Coordinates: 13.607641, 103.9840472
+
+#### ឃុនរាម (Khun Ream)
+
+Code: 170302, Postal: 170902, Coordinates: 13.6365, 103.9911537
+
+#### ព្រះដាក់ (Preah Dak)
+
+Code: 170303, Postal: 170903
+
+#### រំចេក (Rumchek)
+
+Code: 170304, Postal: 030512
+
+#### ត្បែង (Tbaeng)
+
+Code: 170306, Postal: 060208, Coordinates: 13.5114032, 104.010698
+
+### ជីក្រែង (Chi Kraeng)
+
+Code: 1704, Coordinates: 13.1627418, 104.32432059828129
+Communes: 12
+
+#### អន្លង់សំណរ (Anlong Samnar)
+
+Code: 170401, Postal: 170801, Coordinates: 12.898616, 104.2084339
+
+#### ជីក្រែង (Chi Kraeng)
+
+Code: 170402, Postal: 170802, Coordinates: 13.0781698, 104.297731
+
+#### កំពង់ក្ដី (Kampong Kdei)
+
+Code: 170403, Postal: 170803, Coordinates: 13.1238655, 104.3364802
+
+#### ខ្វាវ (Khvav)
+
+Code: 170404, Postal: 170804, Coordinates: 13.4191514, 104.4828883
+
+#### គោកធ្លកក្រោម (Kouk Thlok Kraom)
+
+Code: 170405, Postal: 170805, Coordinates: 13.1515149, 104.2744808
+
+#### គោកធ្លកលើ (Kouk Thlok Leu)
+
+Code: 170406, Postal: 170806, Coordinates: 13.1970928, 104.344147
+
+#### ល្វែងឫស្សី (Lveaeng Ruessei)
+
+Code: 170407, Postal: 170807, Coordinates: 13.0685376, 104.4362211
+
+#### ពង្រក្រោម (Pongro Kraom)
+
+Code: 170408, Postal: 170808, Coordinates: 13.1502743, 104.4147769
+
+#### ពង្រលើ (Pongro Leu)
+
+Code: 170409, Postal: 170809, Coordinates: 13.284477, 104.4062578
+
+#### ឫស្សីលក (Ruessei Lok)
+
+Code: 170410, Postal: 170810, Coordinates: 13.2089239, 104.2015129
+
+#### សង្វើយ (Sangvaeuy)
+
+Code: 170411, Postal: 170811, Coordinates: 13.1830871, 104.2389157
+
+#### ស្ពានត្នោត (Spean Tnaot)
+
+Code: 170412, Postal: 170812, Coordinates: 13.0910779, 104.3976054
+
+### ក្រឡាញ់ (Kralanh)
+
+Code: 1706, Coordinates: 13.5473871, 103.47742125362274
+Communes: 10
+
+#### ចន្លាសដៃ (Chanleas Dai)
+
+Code: 170601, Postal: 170701
+
+#### កំពង់ថ្កូវ (Kampong Thkov)
+
+Code: 170602, Postal: 170702
+
+#### ក្រឡាញ់ (Kralanh)
+
+Code: 170603, Postal: 170703
+
+#### ក្រូចគរ (Krouch Kor)
+
+Code: 170604, Postal: 170704
+
+#### រោងគោ (Roung Kou)
+
+Code: 170605, Postal: 170705
+
+#### សែនសុខ (Saen Sokh)
+
+Code: 170607, Postal: 170707
+
+#### សំបួរ (Sambuor)
+
+Code: 170606, Postal: 010110
+
+#### ស្នួល (Snuol)
+
+Code: 170608, Postal: 100203
+
+#### ស្រណាល (Sranal)
+
+Code: 170609, Postal: 170709
+
+#### តាអាន (Ta An)
+
+Code: 170610, Postal: 170710
+
+### ប្រាសាទបាគង (Prasat Bakong)
+
+Code: 1709, Coordinates: 13.3421471, 103.9978446
+Communes: 8
+
+#### អំពិល (Ampil)
+
+Code: 170910, Postal: 030501
+
+#### បាគង (Bakong)
+
+Code: 170902, Postal: 170501
+
+#### កំពង់ភ្លុក (Kampong Phluk)
+
+Code: 170904, Postal: 170503, Coordinates: 13.2086011, 103.9736729
+
+#### កណ្ដែក (Kandaek)
+
+Code: 170906, Postal: 170505, Coordinates: 13.3541043, 103.9166961
+
+#### កន្ទ្រាំង (Kantreang)
+
+Code: 170905, Postal: 170504, Coordinates: 13.3574704, 104.0360225
+
+#### មានជ័យ (Mean Chey)
+
+Code: 170907, Postal: 020906
+
+#### រលួស (Roluos)
+
+Code: 170908, Postal: 120511, Coordinates: 13.3281826, 103.9961188
+
+#### ត្រពាំងធំ (Trapeang Thum)
+
+Code: 170909, Postal: 170508, Coordinates: 13.2998353, 104.0509708
+
+### ពួក (Puok)
+
+Code: 1707, Coordinates: 13.4529277, 103.62917029133641
+Communes: 14
+
+#### ដូនកែវ (Doun Kaev)
+
+Code: 170702, Postal: 170602, Coordinates: 13.4850644, 103.7796452
+
+#### កែវពណ៌ (Kaev Poar)
+
+Code: 170704, Postal: 170604
+
+#### ក្ដីរុន (Kdei Run)
+
+Code: 170703, Postal: 170603
+
+#### ខ្នាត (Khnat)
+
+Code: 170705, Postal: 170605
+
+#### ល្វា (Lvea)
+
+Code: 170707, Postal: 020303
+
+#### មុខប៉ែន (Mukh Paen)
+
+Code: 170708, Postal: 170607
+
+#### ពោធិ៍ទ្រាយ (Pou Treay)
+
+Code: 170709, Postal: 170608
+
+#### ព្រៃជ្រូក (Prey Chruk)
+
+Code: 170711, Postal: 170610
+
+#### ពួក (Puok)
+
+Code: 170710, Postal: 170609
+
+#### រើល (Reul)
+
+Code: 170712, Postal: 170611, Coordinates: 13.54893, 103.7673134
+
+#### សំរោងយា (Samraong Yea)
+
+Code: 170713, Postal: 170612
+
+#### សសរស្ដម្ភ (Sasar Sdam)
+
+Code: 170701, Postal: 170601, Coordinates: 13.5035758, 103.611215
+
+#### ត្រីញ័រ (Trei Nhoar)
+
+Code: 170715, Postal: 170613
+
+#### យាង (Yeang)
+
+Code: 170716, Postal: 130305
+
+### រុនតាឯកតេជោសែន (Run Ta Aek Techo Sen)
+
+Code: 1715
+Communes: 2
+
+#### បល្ល័ង្ក (Ballangk)
+
+Code: 171502, Postal: 060102
+
+#### រុនតាឯក (Run Ta Aek)
+
+Code: 171501, Postal: 170905
+
+### សៀមរាប (Siem Reap)
+
+Code: 1710, Coordinates: 13.3617562, 103.8590321
+Communes: 12
+
+#### ចុងឃ្នៀស (Chong Khnies)
+
+Code: 171007, Postal: 171207, Coordinates: 13.2568407, 103.8375389
+
+#### ជ្រាវ (Chreav)
+
+Code: 171006, Postal: 171206
+
+#### គោកចក (Kok Chak)
+
+Code: 171003, Postal: 171203, Coordinates: 13.4128035, 103.8413373
+
+#### ក្របីរៀល (Krabei Riel)
+
+Code: 171012, Postal: 171212
+
+#### នគរធំ (Nokor Thum)
+
+Code: 171005, Postal: 171205, Coordinates: 13.3911183, 103.8798801
+
+#### សាលាកំរើក (Sala Kamreuk)
+
+Code: 171004, Postal: 171204, Coordinates: 13.3496423, 103.8654797
+
+#### សៀមរាប (Siem Reap)
+
+Code: 171009, Postal: 171209, Coordinates: 13.3053562, 103.8390162
+
+#### ស្លក្រាម (Sla Kram)
+
+Code: 171001, Postal: 010603, Coordinates: 13.374553, 103.8718539
+
+#### សំបួរ (Sngkat Sambuor)
+
+Code: 171008, Postal: 010110, Coordinates: 13.3358264, 103.8086745
+
+#### ស្រង៉ែ (Srangae)
+
+Code: 171010, Postal: 171210, Coordinates: 13.3812298, 103.8267494
+
+#### ស្វាយដង្គំ (Svay Dankum)
+
+Code: 171002, Postal: 171202, Coordinates: 13.3416106, 103.8333977
+
+#### ទឹកវិល (Tuek Vil)
+
+Code: 171013, Postal: 080916, Coordinates: 13.3978381, 103.7998392
+
+### សូទ្រនិគម (Soutr Nikom)
+
+Code: 1711, Coordinates: 13.2376056, 104.1354139
+Communes: 10
+
+#### ចាន់ស (Chan Sa)
+
+Code: 171101, Postal: 170401
+
+#### ដំដែក (Dam Daek)
+
+Code: 171102, Postal: 170402, Coordinates: 13.2459296, 104.1219699
+
+#### ដានរុន (Dan Run)
+
+Code: 171103, Postal: 170403
+
+#### កំពង់ឃ្លាំង (Kampong Khleang)
+
+Code: 171104, Postal: 170404, Coordinates: 13.1063878, 104.1263131
+
+#### ខ្ចាស់ (Khchas)
+
+Code: 171106, Postal: 170406
+
+#### ខ្នារពោធិ៍ (Khnar Pou)
+
+Code: 171107, Postal: 170407
+
+#### កៀនសង្កែ (Kien Sangkae)
+
+Code: 171105, Postal: 170405
+
+#### ពពេល (Popel)
+
+Code: 171108, Postal: 040409
+
+#### សំរោង (Samraong)
+
+Code: 171109, Postal: 010404
+
+#### តាយ៉ែក (Ta Yaek)
+
+Code: 171110, Postal: 170410
+
+### ស្រីស្នំ (Srei Snam)
+
+Code: 1712, Coordinates: 13.8323579, 103.53640572541116
+Communes: 6
+
+#### ជ្រោយនាងងួន (Chrouy Neang Nguon)
+
+Code: 171201, Postal: 170301
+
+#### ក្លាំងហាយ (Klang Hay)
+
+Code: 171202, Postal: 170302
+
+#### មោង (Moung)
+
+Code: 171204, Postal: 020501
+
+#### ប្រីយ៍ (Prei)
+
+Code: 171205, Postal: 170305
+
+#### ស្លែងស្ពាន (Slaeng Spean)
+
+Code: 171206, Postal: 170306
+
+#### ត្រាំសសរ (Tram Sasar)
+
+Code: 171203, Postal: 170303
+
+### ស្វាយលើ (Svay Leu)
+
+Code: 1713, Coordinates: 13.68175535, 104.26044219887697
+Communes: 5
+
+#### បឹងមាលា (Boeng Mealea)
+
+Code: 171301, Postal: 170201, Coordinates: 13.4721544, 104.2260009
+
+#### កន្ទួត (Kantuot)
+
+Code: 171302, Postal: 100504
+
+#### ខ្នងភ្នំ (Khnang Phnum)
+
+Code: 171303, Postal: 170203
+
+#### ស្វាយលើ (Svay Leu)
+
+Code: 171304, Postal: 170204
+
+#### តាសៀម (Ta Siem)
+
+Code: 171305, Postal: 170205, Coordinates: 13.6295432, 104.2485422
+
+### វ៉ារិន (Varin)
+
+Code: 1714, Coordinates: 13.8239235, 103.92390649704802
+Communes: 5
+
+#### ល្វាក្រាំង (Lvea Krang)
+
+Code: 171402, Postal: 170102, Coordinates: 13.8447522, 103.8869945
+
+#### ប្រាសាទ (Prasat)
+
+Code: 171401, Postal: 010304
+
+#### ស្រែណូយ (Srae Nouy)
+
+Code: 171403, Postal: 170103, Coordinates: 13.8035648, 104.0301387
+
+#### ស្វាយ ស (Svay Sa)
+
+Code: 171404, Postal: 150110
+
+#### វ៉ារិន (Varin)
+
+Code: 171405, Postal: 170105, Coordinates: 13.8710045, 103.8334093
+

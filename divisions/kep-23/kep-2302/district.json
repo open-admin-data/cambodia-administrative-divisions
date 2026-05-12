@@ -1,0 +1,47 @@
+{
+  "id": "2302",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កែប",
+    "en": "Kep",
+    "slug": "kep-2302"
+  },
+  "code": {
+    "id": "2302",
+    "iso": null
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "local": "កែប",
+      "en": "Kep",
+      "slug": "kep-23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "local": "កែប",
+        "en": "Kep",
+        "slug": "kep-23"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.4860396",
+    "lon": "104.3148207"
+  },
+  "metadata": {},
+  "source": {}
+}

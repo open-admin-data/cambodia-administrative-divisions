@@ -1,0 +1,506 @@
+[
+  {
+    "id": "150101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងបត់កណ្ដាល",
+      "en": "Boeng Bat Kandaol",
+      "slug": "boeng-bat-kandaol-150101"
+    },
+    "code": {
+      "id": "150101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150301"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងខ្នារ",
+      "en": "Boeng Khnar",
+      "slug": "boeng-khnar-150102"
+    },
+    "code": {
+      "id": "150102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150302"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្នារទទឹង",
+      "en": "Khnar Totueng",
+      "slug": "khnar-totueng-150103"
+    },
+    "code": {
+      "id": "150103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150303"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេទឹក",
+      "en": "Me Tuek",
+      "slug": "me-tuek-150104"
+    },
+    "code": {
+      "id": "150104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150304"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរតាប៉ោង",
+      "en": "Ou Ta Paong",
+      "slug": "ou-ta-paong-150105"
+    },
+    "code": {
+      "id": "150105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150305"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រំលេច",
+      "en": "Rumlech",
+      "slug": "rumlech-150106"
+    },
+    "code": {
+      "id": "150106",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140610"
+    ],
+    "geo": {
+      "lat": "12.597131",
+      "lon": "103.6851509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្នាមព្រះ",
+      "en": "Snam Preah",
+      "slug": "snam-preah-150107"
+    },
+    "code": {
+      "id": "150107",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150307"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយដូនកែវ",
+      "en": "Svay Doun Kaev",
+      "slug": "svay-doun-kaev-150108"
+    },
+    "code": {
+      "id": "150108",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150308"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងជង",
+      "en": "Trapeang chorng",
+      "slug": "trapeang-chorng-150110"
+    },
+    "code": {
+      "id": "150110",
+      "iso": null
+    },
+    "parent": {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "បាកាន",
+        "en": "Bakan",
+        "slug": "bakan-1501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1501",
+        "level": 2,
+        "name": {
+          "local": "បាកាន",
+          "en": "Bakan",
+          "slug": "bakan-1501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150310"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

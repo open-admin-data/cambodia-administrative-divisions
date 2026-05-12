@@ -1,0 +1,394 @@
+[
+  {
+    "id": "080502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្អមសំណរ",
+      "en": "K'am Samnar",
+      "slug": "kam-samnar-080502"
+    },
+    "code": {
+      "id": "080502",
+      "iso": null
+    },
+    "parent": {
+      "id": "0805",
+      "level": 2,
+      "name": {
+        "local": "លើកដែក",
+        "en": "Leuk Daek",
+        "slug": "leuk-daek-0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0805",
+        "level": 2,
+        "name": {
+          "local": "លើកដែក",
+          "en": "Leuk Daek",
+          "slug": "leuk-daek-0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080502"
+    ],
+    "geo": {
+      "lat": "10.9485694",
+      "lon": "105.1791344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ភ្នំ",
+      "en": "Kampong Phnum",
+      "slug": "kampong-phnum-080501"
+    },
+    "code": {
+      "id": "080501",
+      "iso": null
+    },
+    "parent": {
+      "id": "0805",
+      "level": 2,
+      "name": {
+        "local": "លើកដែក",
+        "en": "Leuk Daek",
+        "slug": "leuk-daek-0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0805",
+        "level": 2,
+        "name": {
+          "local": "លើកដែក",
+          "en": "Leuk Daek",
+          "slug": "leuk-daek-0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080501"
+    ],
+    "geo": {
+      "lat": "11.2813634",
+      "lon": "105.262609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្ពបអាទាវ",
+      "en": "Khpob Ateav",
+      "slug": "khpob-ateav-080503"
+    },
+    "code": {
+      "id": "080503",
+      "iso": null
+    },
+    "parent": {
+      "id": "0805",
+      "level": 2,
+      "name": {
+        "local": "លើកដែក",
+        "en": "Leuk Daek",
+        "slug": "leuk-daek-0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0805",
+        "level": 2,
+        "name": {
+          "local": "លើកដែក",
+          "en": "Leuk Daek",
+          "slug": "leuk-daek-0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080503"
+    ],
+    "geo": {
+      "lat": "11.0702211",
+      "lon": "105.1898013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមរាំង",
+      "en": "Peam Reang",
+      "slug": "peam-reang-080504"
+    },
+    "code": {
+      "id": "080504",
+      "iso": null
+    },
+    "parent": {
+      "id": "0805",
+      "level": 2,
+      "name": {
+        "local": "លើកដែក",
+        "en": "Leuk Daek",
+        "slug": "leuk-daek-0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0805",
+        "level": 2,
+        "name": {
+          "local": "លើកដែក",
+          "en": "Leuk Daek",
+          "slug": "leuk-daek-0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080504"
+    ],
+    "geo": {
+      "lat": "11.1169441",
+      "lon": "105.2082499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកដាច់",
+      "en": "Preaek Dach",
+      "slug": "preaek-dach-080505"
+    },
+    "code": {
+      "id": "080505",
+      "iso": null
+    },
+    "parent": {
+      "id": "0805",
+      "level": 2,
+      "name": {
+        "local": "លើកដែក",
+        "en": "Leuk Daek",
+        "slug": "leuk-daek-0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0805",
+        "level": 2,
+        "name": {
+          "local": "លើកដែក",
+          "en": "Leuk Daek",
+          "slug": "leuk-daek-0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080505"
+    ],
+    "geo": {
+      "lat": "11.1752934",
+      "lon": "105.2296738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកទន្លាប់",
+      "en": "Preaek Tonloab",
+      "slug": "preaek-tonloab-080506"
+    },
+    "code": {
+      "id": "080506",
+      "iso": null
+    },
+    "parent": {
+      "id": "0805",
+      "level": 2,
+      "name": {
+        "local": "លើកដែក",
+        "en": "Leuk Daek",
+        "slug": "leuk-daek-0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0805",
+        "level": 2,
+        "name": {
+          "local": "លើកដែក",
+          "en": "Leuk Daek",
+          "slug": "leuk-daek-0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080506"
+    ],
+    "geo": {
+      "lat": "11.2421236",
+      "lon": "105.2704082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សណ្ដារ",
+      "en": "Sandar",
+      "slug": "sandar-080507"
+    },
+    "code": {
+      "id": "080507",
+      "iso": null
+    },
+    "parent": {
+      "id": "0805",
+      "level": 2,
+      "name": {
+        "local": "លើកដែក",
+        "en": "Leuk Daek",
+        "slug": "leuk-daek-0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0805",
+        "level": 2,
+        "name": {
+          "local": "លើកដែក",
+          "en": "Leuk Daek",
+          "slug": "leuk-daek-0805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080507"
+    ],
+    "geo": {
+      "lat": "10.9972722",
+      "lon": "105.1820496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

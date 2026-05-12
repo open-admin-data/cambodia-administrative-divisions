@@ -1,0 +1,47 @@
+{
+  "id": "0906",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្រែ អំបិល",
+    "en": "Srae Ambel",
+    "slug": "srae-ambel-0906"
+  },
+  "code": {
+    "id": "0906",
+    "iso": null
+  },
+  "parent": {
+    "id": "09",
+    "level": 1,
+    "name": {
+      "local": "កោះកុង",
+      "en": "Koh Kong",
+      "slug": "koh-kong-09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.4655178",
+    "lon": "103.8216261"
+  },
+  "metadata": {},
+  "source": {}
+}

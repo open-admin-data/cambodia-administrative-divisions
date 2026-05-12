@@ -1,0 +1,47 @@
+{
+  "id": "1004",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សំបូរ",
+    "en": "Sambour",
+    "slug": "sambour-1004"
+  },
+  "code": {
+    "id": "1004",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "ក្រចេះ",
+      "en": "Kratié",
+      "slug": "krati-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.7751998",
+    "lon": "105.965196"
+  },
+  "metadata": {},
+  "source": {}
+}

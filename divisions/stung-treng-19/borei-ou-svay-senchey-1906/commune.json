@@ -1,0 +1,170 @@
+[
+  {
+    "id": "190602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះស្នែង",
+      "en": "Kaoh Snaeng",
+      "slug": "kaoh-snaeng-190602"
+    },
+    "code": {
+      "id": "190602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "បុរីអូរស្វាយសែនជ័យ",
+        "en": "Borei Ou Svay Senchey",
+        "slug": "borei-ou-svay-senchey-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "បុរីអូរស្វាយសែនជ័យ",
+          "en": "Borei Ou Svay Senchey",
+          "slug": "borei-ou-svay-senchey-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190404"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរស្វាយ",
+      "en": "Ou Svay",
+      "slug": "ou-svay-190601"
+    },
+    "code": {
+      "id": "190601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "បុរីអូរស្វាយសែនជ័យ",
+        "en": "Borei Ou Svay Senchey",
+        "slug": "borei-ou-svay-senchey-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "បុរីអូរស្វាយសែនជ័យ",
+          "en": "Borei Ou Svay Senchey",
+          "slug": "borei-ou-svay-senchey-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030510"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះរំកិល",
+      "en": "Preah Rumkel",
+      "slug": "preah-rumkel-190603"
+    },
+    "code": {
+      "id": "190603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "បុរីអូរស្វាយសែនជ័យ",
+        "en": "Borei Ou Svay Senchey",
+        "slug": "borei-ou-svay-senchey-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "បុរីអូរស្វាយសែនជ័យ",
+          "en": "Borei Ou Svay Senchey",
+          "slug": "borei-ou-svay-senchey-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190408"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

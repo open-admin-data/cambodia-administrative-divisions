@@ -1,0 +1,170 @@
+[
+  {
+    "id": "090201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះស្ដេច",
+      "en": "Kaoh Sdach",
+      "slug": "kaoh-sdach-090201"
+    },
+    "code": {
+      "id": "090201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0902",
+      "level": 2,
+      "name": {
+        "local": "គិរីសាគរ",
+        "en": "Kiri Sakor",
+        "slug": "kiri-sakor-0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0902",
+        "level": 2,
+        "name": {
+          "local": "គិរីសាគរ",
+          "en": "Kiri Sakor",
+          "slug": "kiri-sakor-0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090201"
+    ],
+    "geo": {
+      "lat": "10.9578615",
+      "lon": "103.1428059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្ញីមាស",
+      "en": "Phnhi Meas",
+      "slug": "phnhi-meas-090202"
+    },
+    "code": {
+      "id": "090202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0902",
+      "level": 2,
+      "name": {
+        "local": "គិរីសាគរ",
+        "en": "Kiri Sakor",
+        "slug": "kiri-sakor-0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0902",
+        "level": 2,
+        "name": {
+          "local": "គិរីសាគរ",
+          "en": "Kiri Sakor",
+          "slug": "kiri-sakor-0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090202"
+    ],
+    "geo": {
+      "lat": "11.1329262",
+      "lon": "103.1827729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកខ្សាច់",
+      "en": "Preaek Khsach",
+      "slug": "preaek-khsach-090203"
+    },
+    "code": {
+      "id": "090203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0902",
+      "level": 2,
+      "name": {
+        "local": "គិរីសាគរ",
+        "en": "Kiri Sakor",
+        "slug": "kiri-sakor-0902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0902",
+        "level": 2,
+        "name": {
+          "local": "គិរីសាគរ",
+          "en": "Kiri Sakor",
+          "slug": "kiri-sakor-0902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090203"
+    ],
+    "geo": {
+      "lat": "11.2220723",
+      "lon": "103.1462592"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

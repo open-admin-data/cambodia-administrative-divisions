@@ -1,0 +1,282 @@
+[
+  {
+    "id": "100207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះទ្រង់",
+      "en": "Kaoh Trong",
+      "slug": "kaoh-trong-100207"
+    },
+    "code": {
+      "id": "100207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1002",
+      "level": 2,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kracheh",
+        "slug": "kracheh-1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1002",
+        "level": 2,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kracheh",
+          "slug": "kracheh-1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100601"
+    ],
+    "geo": {
+      "lat": "12.4969818",
+      "lon": "105.9954607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រចេះ",
+      "en": "Kracheh",
+      "slug": "kracheh-100209"
+    },
+    "code": {
+      "id": "100209",
+      "iso": null
+    },
+    "parent": {
+      "id": "1002",
+      "level": 2,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kracheh",
+        "slug": "kracheh-1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1002",
+        "level": 2,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kracheh",
+          "slug": "kracheh-1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100603"
+    ],
+    "geo": {
+      "lat": "12.4925011",
+      "lon": "106.0196934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រគរ",
+      "en": "Krakor",
+      "slug": "krakor-100208"
+    },
+    "code": {
+      "id": "100208",
+      "iso": null
+    },
+    "parent": {
+      "id": "1002",
+      "level": 2,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kracheh",
+        "slug": "kracheh-1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1002",
+        "level": 2,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kracheh",
+          "slug": "kracheh-1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100602"
+    ],
+    "geo": {
+      "lat": "12.5102171",
+      "lon": "106.0164294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឫស្សី",
+      "en": "Ou Ruessei",
+      "slug": "ou-ruessei-100210"
+    },
+    "code": {
+      "id": "100210",
+      "iso": null
+    },
+    "parent": {
+      "id": "1002",
+      "level": 2,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kracheh",
+        "slug": "kracheh-1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1002",
+        "level": 2,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kracheh",
+          "slug": "kracheh-1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120301"
+    ],
+    "geo": {
+      "lat": "12.4968563",
+      "lon": "106.0381253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាកណ្ដាល",
+      "en": "Roka Kandal",
+      "slug": "roka-kandal-100211"
+    },
+    "code": {
+      "id": "100211",
+      "iso": null
+    },
+    "parent": {
+      "id": "1002",
+      "level": 2,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kracheh",
+        "slug": "kracheh-1002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1002",
+        "level": 2,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kracheh",
+          "slug": "kracheh-1002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100605"
+    ],
+    "geo": {
+      "lat": "12.4587372",
+      "lon": "106.0298212"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "2006",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្វាយរៀង",
+    "en": "Svay Rieng",
+    "slug": "svay-rieng-2006"
+  },
+  "code": {
+    "id": "2006",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ស្វាយរៀង",
+      "en": "Svay Rieng",
+      "slug": "svay-rieng-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.080095",
+    "lon": "105.7974874"
+  },
+  "metadata": {},
+  "source": {}
+}

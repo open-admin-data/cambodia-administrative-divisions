@@ -1,0 +1,562 @@
+[
+  {
+    "id": "120407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងកក់ទី ១",
+      "en": "Boeng Kak Ti Muoy",
+      "slug": "boeng-kak-ti-muoy-120407"
+    },
+    "code": {
+      "id": "120407",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120407"
+    ],
+    "geo": {
+      "lat": "11.5829536",
+      "lon": "104.8974246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងកក់ទី ២",
+      "en": "Boeng Kak Ti Pir",
+      "slug": "boeng-kak-ti-pir-120408"
+    },
+    "code": {
+      "id": "120408",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120408"
+    ],
+    "geo": {
+      "lat": "11.5764495",
+      "lon": "104.8919929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120410",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងសាឡាង",
+      "en": "Boeng Salang",
+      "slug": "boeng-salang-120410"
+    },
+    "code": {
+      "id": "120410",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120410"
+    ],
+    "geo": {
+      "lat": "11.5533121",
+      "lon": "104.8979144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120409",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារដើមគរ",
+      "en": "Phsar Daeum Kor",
+      "slug": "phsar-daeum-kor-120409"
+    },
+    "code": {
+      "id": "120409",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120409"
+    ],
+    "geo": {
+      "lat": "11.5578276",
+      "lon": "104.9042409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារដេប៉ូទី ៣",
+      "en": "Phsar Depou Ti Bei",
+      "slug": "phsar-depou-ti-bei-120403"
+    },
+    "code": {
+      "id": "120403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120403"
+    ],
+    "geo": {
+      "lat": "11.5626152",
+      "lon": "104.904571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារដេប៉ូទី ១",
+      "en": "Phsar Depou Ti Muoy",
+      "slug": "phsar-depou-ti-muoy-120401"
+    },
+    "code": {
+      "id": "120401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120401"
+    ],
+    "geo": {
+      "lat": "11.5690209",
+      "lon": "104.9029362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារដេប៉ូទី ២",
+      "en": "Phsar Depou Ti Pir",
+      "slug": "phsar-depou-ti-pir-120402"
+    },
+    "code": {
+      "id": "120402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120402"
+    ],
+    "geo": {
+      "lat": "11.5656231",
+      "lon": "104.9031949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកល្អក់ទី ៣",
+      "en": "Tuek L'ak Ti Bei",
+      "slug": "tuek-lak-ti-bei-120406"
+    },
+    "code": {
+      "id": "120406",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120406"
+    ],
+    "geo": {
+      "lat": "11.5574506",
+      "lon": "104.891708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកល្អក់ទី ១",
+      "en": "Tuek L'ak Ti Muoy",
+      "slug": "tuek-lak-ti-muoy-120404"
+    },
+    "code": {
+      "id": "120404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120404"
+    ],
+    "geo": {
+      "lat": "11.5674848",
+      "lon": "104.8940296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកល្អក់ទី ២",
+      "en": "Tuek L'ak Ti Pir",
+      "slug": "tuek-lak-ti-pir-120405"
+    },
+    "code": {
+      "id": "120405",
+      "iso": null
+    },
+    "parent": {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "ទួលគោក",
+        "en": "Tuol Kouk",
+        "slug": "tuol-kouk-1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1204",
+        "level": 2,
+        "name": {
+          "local": "ទួលគោក",
+          "en": "Tuol Kouk",
+          "slug": "tuol-kouk-1204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120405"
+    ],
+    "geo": {
+      "lat": "11.5637832",
+      "lon": "104.8955587"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

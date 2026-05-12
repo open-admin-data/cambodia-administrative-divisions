@@ -1,0 +1,47 @@
+{
+  "id": "0507",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សំរោងទង",
+    "en": "Samraong Tong",
+    "slug": "samraong-tong-0507"
+  },
+  "code": {
+    "id": "0507",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ស្ពឺ",
+      "en": "Kampong Speu",
+      "slug": "kampong-speu-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.45044745",
+    "lon": "104.60617304001704"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "040303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្អេរ",
+      "en": "B'er",
+      "slug": "ber-040303"
+    },
+    "code": {
+      "id": "040303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040803"
+    ],
+    "geo": {
+      "lat": "12.2527484",
+      "lon": "104.6647913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ឆ្នាំង",
+      "en": "Kampong Chhnang",
+      "slug": "kampong-chhnang-040302"
+    },
+    "code": {
+      "id": "040302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040802"
+    ],
+    "geo": {
+      "lat": "12.2367105",
+      "lon": "104.6701824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្សាម",
+      "en": "Khsam",
+      "slug": "khsam-040304"
+    },
+    "code": {
+      "id": "040304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040804"
+    ],
+    "geo": {
+      "lat": "12.2576722",
+      "lon": "104.6634467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារឆ្នាំង",
+      "en": "Phsar Chhnang",
+      "slug": "phsar-chhnang-040301"
+    },
+    "code": {
+      "id": "040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0403",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-0403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0403",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-0403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040801"
+    ],
+    "geo": {
+      "lat": "12.2679871",
+      "lon": "104.6809852"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

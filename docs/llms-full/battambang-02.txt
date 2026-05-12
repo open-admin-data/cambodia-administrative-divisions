@@ -1,0 +1,491 @@
+# Battambang — Cambodia Administrative Divisions
+
+> 14 districts, 103 communes
+> Code: 02
+> Coordinates: 12.9256791, 103.23171364274523
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### ឯកភ្នំ (Aek Phnum)
+
+Code: 0205, Coordinates: 13.1631918, 103.2305121
+Communes: 7
+
+#### កោះជីវាំង (Kaoh Chiveang)
+
+Code: 020507, Postal: 020407, Coordinates: 13.2225089, 103.6081964
+
+#### ពាមឯក (Peam Aek)
+
+Code: 020505, Postal: 020405, Coordinates: 13.1631056, 103.1890131
+
+#### ព្រែកខ្ពប (Preaek Khpob)
+
+Code: 020503, Postal: 020403
+
+#### ព្រែកហ្លួង (Preaek Luong)
+
+Code: 020504, Postal: 080208, Coordinates: 13.2005347, 103.3181062
+
+#### ព្រែកនរិន្ទ (Preaek Norint)
+
+Code: 020501, Postal: 020401, Coordinates: 13.1589329, 103.2276569
+
+#### ព្រៃចាស់ (Prey Chas)
+
+Code: 020506, Postal: 020406, Coordinates: 13.3107815, 103.4003178
+
+#### សំរោងក្នុង (Samraong Knong)
+
+Code: 020502, Postal: 020402, Coordinates: 13.1276878, 103.2206643
+
+### បាណន់ (Banan)
+
+Code: 0201, Coordinates: 12.95192635, 103.07601322092293
+Communes: 8
+
+#### បាយដំរាំ (Bay Damram)
+
+Code: 020103, Postal: 020103, Coordinates: 12.9769769, 103.1821759
+
+#### ចែងមានជ័យ (Chaeng Mean Chey)
+
+Code: 020105, Postal: 020105, Coordinates: 12.8546995, 103.071575
+
+#### ឈើទាល (Chheu Teal)
+
+Code: 020104, Postal: 020104, Coordinates: 12.9968151, 103.1462857
+
+#### កន្ទឺ ១ (Kantueu Muoy)
+
+Code: 020101, Postal: 020101, Coordinates: 12.899234, 103.1514477
+
+#### កន្ទឺ ២ (Kantueu Pir)
+
+Code: 020102, Postal: 020102, Coordinates: 12.951753, 103.1454045
+
+#### ភ្នំសំពៅ (Phnum Sampov)
+
+Code: 020106, Postal: 020106, Coordinates: 13.0315904, 103.0816503
+
+#### ស្នឹង (Snoeng)
+
+Code: 020107, Postal: 020107, Coordinates: 12.9583887, 103.0297908
+
+#### តាគ្រាម (Ta Kream)
+
+Code: 020108, Postal: 020108, Coordinates: 13.0669346, 103.0573109
+
+### បាត់ដំបង (Battambang)
+
+Code: 0203, Coordinates: 13.0937231, 103.18673434190434
+Communes: 10
+
+#### ចំការសំរោង (Chomkar Somraong)
+
+Code: 020304, Postal: 021404, Coordinates: 13.1202732, 103.1832381
+
+#### ក្ដុលដូនទាវ (Kdol Doun Teav)
+
+Code: 020306, Postal: 021406, Coordinates: 13.1400053, 103.2031241
+
+#### អូរចារ (Ou Char)
+
+Code: 020309, Postal: 021409, Coordinates: 13.1042093, 103.1682675
+
+#### អូរម៉ាល់ (Ou Mal)
+
+Code: 020307, Postal: 021407, Coordinates: 13.0731686, 103.134455
+
+#### ព្រែកព្រះស្ដេច (Prek Preah Sdach)
+
+Code: 020302, Postal: 021402, Coordinates: 13.0880979, 103.2088323
+
+#### រតនៈ (Rottanak)
+
+Code: 020303, Postal: 021403, Coordinates: 13.1004825, 103.213829
+
+#### ស្លាកែត (Sla Ket)
+
+Code: 020305, Postal: 021405, Coordinates: 13.1272408, 103.1924282
+
+#### ស្វាយប៉ោ (Svay Por)
+
+Code: 020310, Postal: 021410, Coordinates: 13.0934306, 103.1967875
+
+#### ទួលតាឯក (Tuol Ta Ek)
+
+Code: 020301, Postal: 021401, Coordinates: 13.0933619, 103.1868626
+
+#### វត្ដគរ (Wat Kor)
+
+Code: 020308, Postal: 021408
+
+### បវេល (Bavel)
+
+Code: 0204, Coordinates: 13.216788000000001, 102.82214789233467
+Communes: 9
+
+#### អំពិលប្រាំដើម (Ampil Pram Daeum)
+
+Code: 020405, Postal: 020305, Coordinates: 13.286431, 102.7468051
+
+#### បវេល (Bavel)
+
+Code: 020401, Postal: 020301, Coordinates: 13.2544052, 102.8773064
+
+#### បឹងប្រាំ (Boeung Pram)
+
+Code: 020408, Postal: 020308, Coordinates: 13.1917749, 102.7942189
+
+#### បួវិល (Bouvel)
+
+Code: 020409, Postal: 20409, Coordinates: 13.2544052, 102.8773064
+
+#### ក្ដុលតាហែន (Kdol Ta Haen)
+
+Code: 020406, Postal: 020306
+
+#### ឃ្លាំងមាស (Khlaeng Meas)
+
+Code: 020407, Postal: 020307, Coordinates: 13.0853871, 102.8251435
+
+#### ខ្នាចរមាស (Khnach Romeas)
+
+Code: 020402, Postal: 020302, Coordinates: 13.2734687, 102.9495343
+
+#### ល្វា (Lvea)
+
+Code: 020403, Postal: 020303, Coordinates: 13.3304773, 102.9497664
+
+#### ព្រៃខ្ពស់ (Prey Khpos)
+
+Code: 020404, Postal: 020304, Coordinates: 13.3753635, 102.7609052
+
+### កំរៀង (Kamrieng)
+
+Code: 0212, Coordinates: 13.0899494, 102.51831760938151
+Communes: 6
+
+#### បឹងរាំង (Boeng Reang)
+
+Code: 021202, Postal: 021102, Coordinates: 13.0932601, 102.478646
+
+#### កំរៀង (Kamrieng)
+
+Code: 021201, Postal: 021101, Coordinates: 13.0310843, 102.5357143
+
+#### អូរដា (Ou Da)
+
+Code: 021203, Postal: 021103, Coordinates: 13.1025969, 102.5522027
+
+#### តាក្រី (Ta Krei)
+
+Code: 021206, Postal: 021106, Coordinates: 13.1567698, 102.6875764
+
+#### តាសែន (Ta Saen)
+
+Code: 021205, Postal: 021105, Coordinates: 13.1727631, 102.4629165
+
+#### ត្រាង (Trang)
+
+Code: 021204, Postal: 021104, Coordinates: 13.1333572, 102.4753039
+
+### គាស់ក្រឡ (Koas Krala)
+
+Code: 0213, Coordinates: 12.7550281, 103.2628529
+Communes: 6
+
+#### ឆ្នាល់មាន់ (Chhnal Moan)
+
+Code: 021306, Postal: 021206, Coordinates: 12.6648303, 103.1395589
+
+#### ដូនបា (Doun Ba)
+
+Code: 021305, Postal: 021205, Coordinates: 12.7757525, 103.1435407
+
+#### ហប់ (Hab)
+
+Code: 021303, Postal: 021203, Coordinates: 12.7959285, 103.3000794
+
+#### គាស់ក្រឡ (Kaos Krala)
+
+Code: 021302, Postal: 021202
+
+#### ព្រះផុស (Preah Phos)
+
+Code: 021304, Postal: 021204, Coordinates: 12.6568435, 103.2579666
+
+#### ធិបតី (Thipakdei)
+
+Code: 021301, Postal: 21301, Coordinates: 12.8639161, 103.2849151
+
+### មោងឫស្សី (Moung Ruessei)
+
+Code: 0206, Coordinates: 12.775758, 103.4486415
+Communes: 9
+
+#### ជ្រៃ (Chrey)
+
+Code: 020605, Postal: 020204, Coordinates: 13.1105699, 103.1379846
+
+#### កកោះ (Kakaoh)
+
+Code: 020607, Postal: 060604, Coordinates: 12.841635, 103.3985451
+
+#### គារ (Kear)
+
+Code: 020602, Postal: 020502
+
+#### មោង (Moung)
+
+Code: 020601, Postal: 020501, Coordinates: 12.7818303, 103.3703221
+
+#### ព្រៃស្វាយ (Prey Svay)
+
+Code: 020603, Postal: 020503, Coordinates: 12.7133149, 103.5475094
+
+#### ព្រៃតូច (Prey Touch)
+
+Code: 020608, Postal: 020506
+
+#### របស់មង្គល (Robas Mongkol)
+
+Code: 020609, Postal: 020507, Coordinates: 12.7492808, 103.3852526
+
+#### ឫស្សីក្រាំង (Ruessei Krang)
+
+Code: 020604, Postal: 20604, Coordinates: 12.700295, 103.6043616
+
+#### តាលាស់ (Ta Loas)
+
+Code: 020606, Postal: 020505, Coordinates: 12.805141, 103.4604668
+
+### ភ្នំព្រឹក (Phnum Proek)
+
+Code: 0211, Coordinates: 13.29109285, 102.51932343699104
+Communes: 5
+
+#### បារាំងធ្លាក់ (Barang Thleak)
+
+Code: 021104, Postal: 021304, Coordinates: 13.3530398, 102.3643067
+
+#### បួរ (Bour)
+
+Code: 021103, Postal: 021303
+
+#### អូររំដួល (Ou Rumduol)
+
+Code: 021105, Postal: 021305, Coordinates: 13.2597461, 102.5507983
+
+#### ពេជ្រចិន្ដា (Pech Chenda)
+
+Code: 021102, Postal: 021302
+
+#### ភ្នំព្រឹក (Phnum Proek)
+
+Code: 021101, Postal: 021301, Coordinates: 13.3152192, 102.5440886
+
+### រតនមណ្ឌល (Rotonak Mondol)
+
+Code: 0207, Coordinates: 12.9086418, 102.8824003119087
+Communes: 5
+
+#### អណ្ដើកហែប (Andaeuk Haeb)
+
+Code: 020702, Postal: 020702, Coordinates: 12.8291887, 103.0087115
+
+#### ផ្លូវមាស (Phlov Meas)
+
+Code: 020703, Postal: 020703, Coordinates: 12.7823285, 102.8669054
+
+#### រស្មីសង្ហារ (Reaksmei Songha)
+
+Code: 020705, Postal: 020705, Coordinates: 13.0055759, 102.783254
+
+#### ស្ដៅ (Sdau)
+
+Code: 020701, Postal: 020701
+
+#### ត្រែង (Traeng)
+
+Code: 020704, Postal: 020704, Coordinates: 12.8586283, 102.8984533
+
+### រុក្ខគិរី (Rukh Kiri)
+
+Code: 0214, Coordinates: 12.59417915, 103.43565034578185
+Communes: 5
+
+#### បាសាក់ (Basak)
+
+Code: 021405, Postal: 020605
+
+#### មុខរាហ៍ (Mukh Reah)
+
+Code: 021403, Postal: 020603, Coordinates: 12.5512046, 103.5755118
+
+#### ព្រែកជីក (Preaek Chik)
+
+Code: 021401, Postal: 020601, Coordinates: 12.6131892, 103.3551511
+
+#### ព្រៃត្រឡាច (Prey Tralach)
+
+Code: 021402, Postal: 020602, Coordinates: 12.5643963, 103.5215313
+
+#### ស្តុកប្រវឹក (Sdok Pravoek)
+
+Code: 021404, Postal: 020604
+
+### សំឡូត (Samlout)
+
+Code: 0209, Coordinates: 12.6226916, 102.8523788
+Communes: 7
+
+#### កំពង់ល្ពៅ (Kampong Lpov)
+
+Code: 020902, Postal: 020902, Coordinates: 12.5783804, 103.0060372
+
+#### មានជ័យ (Mean Chey)
+
+Code: 020906, Postal: 020906, Coordinates: 12.7097921, 102.7491049
+
+#### អូរសំរិល (Ou Samril)
+
+Code: 020903, Postal: 020903, Coordinates: 12.7171626, 102.9631234
+
+#### សំឡូត (Samlout)
+
+Code: 020905, Postal: 020905
+
+#### ស៊ុង (Sung)
+
+Code: 020904, Postal: 020904
+
+#### តាសាញ (Ta Sanh)
+
+Code: 020907, Postal: 020907
+
+#### តាតោក (Ta Taok)
+
+Code: 020901, Postal: 020901, Coordinates: 12.4777454, 102.8226913
+
+### សំពៅលូន (Sampov Lun)
+
+Code: 0210, Coordinates: 13.419025099999999, 102.5236318714496
+Communes: 6
+
+#### អង្គរបាន (Angkor Ban)
+
+Code: 021002, Postal: 021002, Coordinates: 13.365276, 102.4679617
+
+#### ជ្រៃសីមា (Chrey Seima)
+
+Code: 021006, Postal: 021006, Coordinates: 13.4680517, 102.463125
+
+#### សំពៅលូន (Sampov Lun)
+
+Code: 021001, Postal: 021001, Coordinates: 13.3713543, 102.6141448
+
+#### សន្ដិភាព (Santepheap)
+
+Code: 021004, Postal: 021004
+
+#### សេរីមានជ័យ (Serei Mean Chey)
+
+Code: 021005, Postal: 021005, Coordinates: 13.4524157, 102.4651388
+
+#### តាស្ដា (Ta Sda)
+
+Code: 021003, Postal: 021003, Coordinates: 13.4198496, 102.5240666
+
+### សង្កែ (Sangkae)
+
+Code: 0208, Coordinates: 13.0744566, 103.2438673
+Communes: 10
+
+#### អន្លង់វិល (Anlong Vil)
+
+Code: 020801, Postal: 150201
+
+#### កំពង់ព្រះ (Kampong Preah)
+
+Code: 020805, Postal: 020805, Coordinates: 13.0222201, 103.3079167
+
+#### កំពង់ព្រៀង (Kampong Prieng)
+
+Code: 020806, Postal: 020806, Coordinates: 12.9525102, 103.3443885
+
+#### នរា (Norea)
+
+Code: 020802, Postal: 020802, Coordinates: 13.112793, 103.221899
+
+#### អូរដំបង ១ (Ou Dambang Muoy)
+
+Code: 020808, Postal: 020808, Coordinates: 13.0218557, 103.231151
+
+#### អូរដំបង ២ (Ou Dambang Pir)
+
+Code: 020809, Postal: 020809, Coordinates: 13.0320789, 103.2649065
+
+#### រាំងកេសី (Reang Kesei)
+
+Code: 020807, Postal: 020807
+
+#### រកា (Roka)
+
+Code: 020804, Postal: 020804, Coordinates: 13.0988745, 103.2943735
+
+#### តាប៉ុន (Ta Pon)
+
+Code: 020803, Postal: 020803, Coordinates: 13.1588841, 103.3674221
+
+#### វត្ដតាមិម (Vaot Ta Muem)
+
+Code: 020810, Postal: 020810
+
+### ថ្មគោល (Thma Koul)
+
+Code: 0202, Coordinates: 13.24944415, 103.07118059476997
+Communes: 10
+
+#### អន្លង់រុន (Anlong Run)
+
+Code: 020205, Postal: 020205, Coordinates: 13.1599631, 102.989521
+
+#### បន្សាយត្រែង (Bansay Traeng)
+
+Code: 020209, Postal: 020209, Coordinates: 13.2462594, 103.0217393
+
+#### បឹងព្រីង (Boeng Pring)
+
+Code: 020207, Postal: 020207, Coordinates: 13.3829668, 103.0725515
+
+#### ជ្រៃ (Chrey)
+
+Code: 020204, Postal: 020204, Coordinates: 13.1147228, 103.106508
+
+#### ជ្រោយស្ដៅ (Chrouy Sdau)
+
+Code: 020206, Postal: 020206
+
+#### គោកឃ្មុំ (Kouk Khmum)
+
+Code: 020208, Postal: 020208, Coordinates: 13.2488094, 103.0675146
+
+#### អូរតាគី (Ou Ta Ki)
+
+Code: 020203, Postal: 020203, Coordinates: 13.1824567, 103.1159897
+
+#### រូងជ្រៃ (Rung Chrey)
+
+Code: 020210, Postal: 020210, Coordinates: 13.2716429, 102.9859483
+
+#### តាម៉ឺន (Ta Meun)
+
+Code: 020202, Postal: 020202, Coordinates: 13.3071533, 103.1472193
+
+#### តាពូង (Ta Pung)
+
+Code: 020201, Postal: 020201, Coordinates: 13.2580689, 103.1661427
+

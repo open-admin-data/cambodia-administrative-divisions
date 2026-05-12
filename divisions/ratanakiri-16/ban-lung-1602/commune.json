@@ -1,0 +1,226 @@
+[
+  {
+    "id": "160204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងកន្សែង",
+      "en": "Boeng Kansaeng",
+      "slug": "boeng-kansaeng-160204"
+    },
+    "code": {
+      "id": "160204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "local": "បានលុង",
+        "en": "Ban Lung",
+        "slug": "ban-lung-1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1602",
+        "level": 2,
+        "name": {
+          "local": "បានលុង",
+          "en": "Ban Lung",
+          "slug": "ban-lung-1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160904"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាចាញ",
+      "en": "Kachanh",
+      "slug": "kachanh-160201"
+    },
+    "code": {
+      "id": "160201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "local": "បានលុង",
+        "en": "Ban Lung",
+        "slug": "ban-lung-1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1602",
+        "level": 2,
+        "name": {
+          "local": "បានលុង",
+          "en": "Ban Lung",
+          "slug": "ban-lung-1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160901"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឡាបានសៀក",
+      "en": "Labansiek",
+      "slug": "labansiek-160202"
+    },
+    "code": {
+      "id": "160202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "local": "បានលុង",
+        "en": "Ban Lung",
+        "slug": "ban-lung-1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1602",
+        "level": 2,
+        "name": {
+          "local": "បានលុង",
+          "en": "Ban Lung",
+          "slug": "ban-lung-1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160902"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "យក្ខឡោម",
+      "en": "Yeak Laom",
+      "slug": "yeak-laom-160203"
+    },
+    "code": {
+      "id": "160203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "local": "បានលុង",
+        "en": "Ban Lung",
+        "slug": "ban-lung-1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1602",
+        "level": 2,
+        "name": {
+          "local": "បានលុង",
+          "en": "Ban Lung",
+          "slug": "ban-lung-1602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160903"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

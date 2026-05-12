@@ -1,0 +1,506 @@
+[
+  {
+    "id": "040801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អភិវឌ្ឍន៍",
+      "en": "Akphivoadth",
+      "slug": "akphivoadth-040801"
+    },
+    "code": {
+      "id": "040801",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040101"
+    ],
+    "geo": {
+      "lat": "12.0051548",
+      "lon": "104.5684027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចោងម៉ោង",
+      "en": "Chaong Maong",
+      "slug": "chaong-maong-040803"
+    },
+    "code": {
+      "id": "040803",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040103"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជៀប",
+      "en": "Chieb",
+      "slug": "chieb-040802"
+    },
+    "code": {
+      "id": "040802",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040102"
+    ],
+    "geo": {
+      "lat": "12.0040809",
+      "lon": "104.4252602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្បាលទឹក",
+      "en": "Kbal Tuek",
+      "slug": "kbal-tuek-040804"
+    },
+    "code": {
+      "id": "040804",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040104"
+    ],
+    "geo": {
+      "lat": "11.9489927",
+      "lon": "104.3230088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040809",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្តុលសែនជ័យ",
+      "en": "Kdol Saen Chey",
+      "slug": "kdol-saen-chey-040809"
+    },
+    "code": {
+      "id": "040809",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040109"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្លុងពពក",
+      "en": "Khlong Popok",
+      "slug": "khlong-popok-040805"
+    },
+    "code": {
+      "id": "040805",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040105"
+    ],
+    "geo": {
+      "lat": "12.0412394",
+      "lon": "104.4744987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040806",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងស្គារ",
+      "en": "Krang Skear",
+      "slug": "krang-skear-040806"
+    },
+    "code": {
+      "id": "040806",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040106"
+    ],
+    "geo": {
+      "lat": "12.1961782",
+      "lon": "104.332644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040807",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងក្រសាំង",
+      "en": "Tang Krasang",
+      "slug": "tang-krasang-040807"
+    },
+    "code": {
+      "id": "040807",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030110"
+    ],
+    "geo": {
+      "lat": "12.1064498",
+      "lon": "104.5538744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040808",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលខ្ពស់",
+      "en": "Tuol Khpos",
+      "slug": "tuol-khpos-040808"
+    },
+    "code": {
+      "id": "040808",
+      "iso": null
+    },
+    "parent": {
+      "id": "0408",
+      "level": 2,
+      "name": {
+        "local": "ទឹកផុស",
+        "en": "Tuek Phos",
+        "slug": "tuek-phos-0408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0408",
+        "level": 2,
+        "name": {
+          "local": "ទឹកផុស",
+          "en": "Tuek Phos",
+          "slug": "tuek-phos-0408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040108"
+    ],
+    "geo": {
+      "lat": "11.9862216",
+      "lon": "104.3932745"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

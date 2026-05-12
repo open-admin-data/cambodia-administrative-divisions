@@ -1,0 +1,394 @@
+[
+  {
+    "id": "080703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកអញ្ចាញ",
+      "en": "Preaek Anhchanh",
+      "slug": "preaek-anhchanh-080703"
+    },
+    "code": {
+      "id": "080703",
+      "iso": null
+    },
+    "parent": {
+      "id": "0807",
+      "level": 2,
+      "name": {
+        "local": "មុខកំពូល",
+        "en": "Mukh Kampul",
+        "slug": "mukh-kampul-0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0807",
+        "level": 2,
+        "name": {
+          "local": "មុខកំពូល",
+          "en": "Mukh Kampul",
+          "slug": "mukh-kampul-0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080701"
+    ],
+    "geo": {
+      "lat": "11.7367562",
+      "lon": "104.9686607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកដំបង",
+      "en": "Preaek Dambang",
+      "slug": "preaek-dambang-080704"
+    },
+    "code": {
+      "id": "080704",
+      "iso": null
+    },
+    "parent": {
+      "id": "0807",
+      "level": 2,
+      "name": {
+        "local": "មុខកំពូល",
+        "en": "Mukh Kampul",
+        "slug": "mukh-kampul-0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0807",
+        "level": 2,
+        "name": {
+          "local": "មុខកំពូល",
+          "en": "Mukh Kampul",
+          "slug": "mukh-kampul-0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080702"
+    ],
+    "geo": {
+      "lat": "11.8218247",
+      "lon": "104.9768632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាកោង ទី ១",
+      "en": "Roka Kong Ti Muoy",
+      "slug": "roka-kong-ti-muoy-080707"
+    },
+    "code": {
+      "id": "080707",
+      "iso": null
+    },
+    "parent": {
+      "id": "0807",
+      "level": 2,
+      "name": {
+        "local": "មុខកំពូល",
+        "en": "Mukh Kampul",
+        "slug": "mukh-kampul-0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0807",
+        "level": 2,
+        "name": {
+          "local": "មុខកំពូល",
+          "en": "Mukh Kampul",
+          "slug": "mukh-kampul-0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080703"
+    ],
+    "geo": {
+      "lat": "11.8411311",
+      "lon": "104.9800047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាកោង ទី ២",
+      "en": "Roka Kong Ti Pir",
+      "slug": "roka-kong-ti-pir-080708"
+    },
+    "code": {
+      "id": "080708",
+      "iso": null
+    },
+    "parent": {
+      "id": "0807",
+      "level": 2,
+      "name": {
+        "local": "មុខកំពូល",
+        "en": "Mukh Kampul",
+        "slug": "mukh-kampul-0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0807",
+        "level": 2,
+        "name": {
+          "local": "មុខកំពូល",
+          "en": "Mukh Kampul",
+          "slug": "mukh-kampul-0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080704"
+    ],
+    "geo": {
+      "lat": "11.8411311",
+      "lon": "104.9800047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីជ្រោយ",
+      "en": "Ruessei Chrouy",
+      "slug": "ruessei-chrouy-080709"
+    },
+    "code": {
+      "id": "080709",
+      "iso": null
+    },
+    "parent": {
+      "id": "0807",
+      "level": 2,
+      "name": {
+        "local": "មុខកំពូល",
+        "en": "Mukh Kampul",
+        "slug": "mukh-kampul-0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0807",
+        "level": 2,
+        "name": {
+          "local": "មុខកំពូល",
+          "en": "Mukh Kampul",
+          "slug": "mukh-kampul-0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080705"
+    ],
+    "geo": {
+      "lat": "11.7867958",
+      "lon": "105.0041847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080710",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរមាស",
+      "en": "Sambuor Meas",
+      "slug": "sambuor-meas-080710"
+    },
+    "code": {
+      "id": "080710",
+      "iso": null
+    },
+    "parent": {
+      "id": "0807",
+      "level": 2,
+      "name": {
+        "local": "មុខកំពូល",
+        "en": "Mukh Kampul",
+        "slug": "mukh-kampul-0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0807",
+        "level": 2,
+        "name": {
+          "local": "មុខកំពូល",
+          "en": "Mukh Kampul",
+          "slug": "mukh-kampul-0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030403"
+    ],
+    "geo": {
+      "lat": "11.7206205",
+      "lon": "104.8852846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080711",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយអំពារ",
+      "en": "Svay Ampear",
+      "slug": "svay-ampear-080711"
+    },
+    "code": {
+      "id": "080711",
+      "iso": null
+    },
+    "parent": {
+      "id": "0807",
+      "level": 2,
+      "name": {
+        "local": "មុខកំពូល",
+        "en": "Mukh Kampul",
+        "slug": "mukh-kampul-0807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0807",
+        "level": 2,
+        "name": {
+          "local": "មុខកំពូល",
+          "en": "Mukh Kampul",
+          "slug": "mukh-kampul-0807"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080707"
+    ],
+    "geo": {
+      "lat": "11.8155051",
+      "lon": "104.9480853"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

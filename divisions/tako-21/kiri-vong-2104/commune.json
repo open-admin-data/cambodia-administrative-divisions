@@ -1,0 +1,674 @@
+[
+  {
+    "id": "210401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គប្រាសាទ",
+      "en": "Angk Prasat",
+      "slug": "angk-prasat-210401"
+    },
+    "code": {
+      "id": "210401",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210601"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំណប់",
+      "en": "Kamnab",
+      "slug": "kamnab-210403"
+    },
+    "code": {
+      "id": "210403",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210603"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពែង",
+      "en": "Kampeaeng",
+      "slug": "kampeaeng-210404"
+    },
+    "code": {
+      "id": "210404",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210405"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គីរីចុងកោះ",
+      "en": "Kiri Chong Kaoh",
+      "slug": "kiri-chong-kaoh-210405"
+    },
+    "code": {
+      "id": "210405",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210605"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកព្រេច",
+      "en": "Kouk Prech",
+      "slug": "kouk-prech-210406"
+    },
+    "code": {
+      "id": "210406",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210606"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំដិន",
+      "en": "Phnum Den",
+      "slug": "phnum-den-210407"
+    },
+    "code": {
+      "id": "210407",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210607"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះបាទជាន់ជុំ",
+      "en": "Preah Bat Choan Chum",
+      "slug": "preah-bat-choan-chum-210402"
+    },
+    "code": {
+      "id": "210402",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210602"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃអំពក",
+      "en": "Prey Ampok",
+      "slug": "prey-ampok-210408"
+    },
+    "code": {
+      "id": "210408",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210608"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210409",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃរំដេង",
+      "en": "Prey Rumdeng",
+      "slug": "prey-rumdeng-210409"
+    },
+    "code": {
+      "id": "210409",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210410",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រាមអណ្ដើក",
+      "en": "Ream Andaeuk",
+      "slug": "ream-andaeuk-210410"
+    },
+    "code": {
+      "id": "210410",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210610"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210411",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សោម",
+      "en": "Saom",
+      "slug": "saom-210411"
+    },
+    "code": {
+      "id": "210411",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210611"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210412",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាអូរ",
+      "en": "Ta Ou",
+      "slug": "ta-ou-210412"
+    },
+    "code": {
+      "id": "210412",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "គីរីវង់",
+        "en": "Kiri Vong",
+        "slug": "kiri-vong-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "គីរីវង់",
+          "en": "Kiri Vong",
+          "slug": "kiri-vong-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210612"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

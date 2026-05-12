@@ -1,0 +1,282 @@
+[
+  {
+    "id": "210301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បូរីជលសារ",
+      "en": "Borei Cholsar",
+      "slug": "borei-cholsar-210301"
+    },
+    "code": {
+      "id": "210301",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "បូរីជលសារ",
+        "en": "Borei Cholsar",
+        "slug": "borei-cholsar-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "បូរីជលសារ",
+          "en": "Borei Cholsar",
+          "slug": "borei-cholsar-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210701"
+    ],
+    "geo": {
+      "lat": "10.8484133",
+      "lon": "104.9845274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ័យជោគ",
+      "en": "Chey Chouk",
+      "slug": "chey-chouk-210302"
+    },
+    "code": {
+      "id": "210302",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "បូរីជលសារ",
+        "en": "Borei Cholsar",
+        "slug": "borei-cholsar-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "បូរីជលសារ",
+          "en": "Borei Cholsar",
+          "slug": "borei-cholsar-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210702"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូងខ្ពស់",
+      "en": "Doung Khpos",
+      "slug": "doung-khpos-210303"
+    },
+    "code": {
+      "id": "210303",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "បូរីជលសារ",
+        "en": "Borei Cholsar",
+        "slug": "borei-cholsar-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "បូរីជលសារ",
+          "en": "Borei Cholsar",
+          "slug": "borei-cholsar-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210703"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ក្រសាំង",
+      "en": "Kampong Krasang",
+      "slug": "kampong-krasang-210304"
+    },
+    "code": {
+      "id": "210304",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "បូរីជលសារ",
+        "en": "Borei Cholsar",
+        "slug": "borei-cholsar-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "បូរីជលសារ",
+          "en": "Borei Cholsar",
+          "slug": "borei-cholsar-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210704"
+    ],
+    "geo": {
+      "lat": "10.7555135",
+      "lon": "105.0439887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកពោធិ៍",
+      "en": "Kouk Pou",
+      "slug": "kouk-pou-210305"
+    },
+    "code": {
+      "id": "210305",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "បូរីជលសារ",
+        "en": "Borei Cholsar",
+        "slug": "borei-cholsar-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "បូរីជលសារ",
+          "en": "Borei Cholsar",
+          "slug": "borei-cholsar-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210705"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

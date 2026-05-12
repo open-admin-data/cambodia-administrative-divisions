@@ -1,0 +1,30 @@
+{
+  "id": "02",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "បាត់ដំបង",
+    "en": "Battambang",
+    "slug": "battambang-02"
+  },
+  "code": {
+    "id": "02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14,
+    "commune": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.9256791",
+    "lon": "103.23171364274523"
+  },
+  "metadata": {},
+  "source": {}
+}

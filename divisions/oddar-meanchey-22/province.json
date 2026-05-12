@@ -1,0 +1,30 @@
+{
+  "id": "22",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ឧត្តរមានជ័យ",
+    "en": "Oddar Meanchey",
+    "slug": "oddar-meanchey-22"
+  },
+  "code": {
+    "id": "22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "commune": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.1585631",
+    "lon": "103.78279595655918"
+  },
+  "metadata": {},
+  "source": {}
+}

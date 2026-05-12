@@ -1,0 +1,47 @@
+{
+  "id": "1502",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កណ្ដៀង",
+    "en": "Kandieng",
+    "slug": "kandieng-1502"
+  },
+  "code": {
+    "id": "1502",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "ពោធិ៍សាត់",
+      "en": "Pursat",
+      "slug": "pursat-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.5898656",
+    "lon": "103.9571307"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,425 @@
+[
+  {
+    "id": "0109",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ម៉ាឡៃ",
+      "en": "Malai",
+      "slug": "malai-0109"
+    },
+    "code": {
+      "id": "0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5609461",
+      "lon": "102.3709867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "មង្គលបូរី",
+      "en": "Mongkol Borey",
+      "slug": "mongkol-borey-0102"
+    },
+    "code": {
+      "id": "0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.4940861",
+      "lon": "102.9791567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អូរជ្រៅ",
+      "en": "Ou Chrov",
+      "slug": "ou-chrov-0105"
+    },
+    "code": {
+      "id": "0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.6129122",
+      "lon": "102.7651907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0103",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ភ្នំស្រុក",
+      "en": "Phnum Srok",
+      "slug": "phnum-srok-0103"
+    },
+    "code": {
+      "id": "0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.7579963",
+      "lon": "103.3357732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ប៉ោយប៉ែត",
+      "en": "Poipet",
+      "slug": "poipet-0110"
+    },
+    "code": {
+      "id": "0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.6593962",
+      "lon": "102.5708301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0104",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ព្រះនេត្រព្រះ",
+      "en": "Preah Netr Preah",
+      "slug": "preah-netr-preah-0104"
+    },
+    "code": {
+      "id": "0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5746664",
+      "lon": "103.2766571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0106",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សិរីសោភ័ណ",
+      "en": "Serei Saophoan",
+      "slug": "serei-saophoan-0106"
+    },
+    "code": {
+      "id": "0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5884004",
+      "lon": "102.9700274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0108",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្វាយចេក",
+      "en": "Svay Chek",
+      "slug": "svay-chek-0108"
+    },
+    "code": {
+      "id": "0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.7837644",
+      "lon": "102.961198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0107",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ថ្មពួក",
+      "en": "Thma Puok",
+      "slug": "thma-puok-0107"
+    },
+    "code": {
+      "id": "0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.9494974",
+      "lon": "103.0544638"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

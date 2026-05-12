@@ -1,0 +1,47 @@
+{
+  "id": "1802",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ព្រៃនប់",
+    "en": "Prey Nob",
+    "slug": "prey-nob-1802"
+  },
+  "code": {
+    "id": "1802",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "ព្រះសីហនុ",
+      "en": "Preah Sihanouk",
+      "slug": "preah-sihanouk-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "ព្រះសីហនុ",
+        "en": "Preah Sihanouk",
+        "slug": "preah-sihanouk-18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.7198067",
+    "lon": "103.8161797853434"
+  },
+  "metadata": {},
+  "source": {}
+}

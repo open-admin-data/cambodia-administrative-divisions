@@ -1,0 +1,47 @@
+{
+  "id": "0803",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ខ្សាច់កណ្ដាល",
+    "en": "Khsach Kandal",
+    "slug": "khsach-kandal-0803"
+  },
+  "code": {
+    "id": "0803",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.7503523",
+    "lon": "105.0169623"
+  },
+  "metadata": {},
+  "source": {}
+}

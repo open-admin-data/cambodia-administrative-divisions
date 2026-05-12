@@ -1,0 +1,254 @@
+# Ratanakiri — Cambodia Administrative Divisions
+
+> 9 districts, 50 communes
+> Code: 16
+> Coordinates: 13.9311155, 107.03914990288844
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### អណ្ដូងមាស (Andoung Meas)
+
+Code: 1601, Coordinates: 13.8662759, 107.2970158
+Communes: 3
+
+#### ម៉ាលិក (Malik)
+
+Code: 160101, Postal: 160101, Coordinates: 13.850078, 107.292666
+
+#### ញ៉ាង (Nhang)
+
+Code: 160103, Postal: 160102, Coordinates: 13.9625732, 107.3599406
+
+#### តាឡាវ (Ta Lav)
+
+Code: 160104, Postal: 160103, Coordinates: 13.916307, 107.2193578
+
+### បានលុង (Ban Lung)
+
+Code: 1602, Coordinates: 13.7414754, 106.9873662
+Communes: 4
+
+#### បឹងកន្សែង (Boeng Kansaeng)
+
+Code: 160204, Postal: 160904
+
+#### កាចាញ (Kachanh)
+
+Code: 160201, Postal: 160901
+
+#### ឡាបានសៀក (Labansiek)
+
+Code: 160202, Postal: 160902
+
+#### យក្ខឡោម (Yeak Laom)
+
+Code: 160203, Postal: 160903
+
+### បរកែវ (Bar Kaev)
+
+Code: 1603, Coordinates: 13.6868898, 107.2144802
+Communes: 6
+
+#### កក់ (Kak)
+
+Code: 160301, Postal: 050213
+
+#### កិះចុង (Keh Chong)
+
+Code: 160302, Postal: 160202, Coordinates: 13.7682129, 107.2412875
+
+#### ឡាមីញ (La Minh)
+
+Code: 160303, Postal: 160203
+
+#### លុងឃុង (Lung Khung)
+
+Code: 160304, Postal: 160204, Coordinates: 13.6500276, 107.1086324
+
+#### ស៊ើង (Saeung)
+
+Code: 160305, Postal: 160205, Coordinates: 13.6741968, 107.2466389
+
+#### ទីងចាក់ (Ting Chak)
+
+Code: 160306, Postal: 160206, Coordinates: 13.7209542, 107.1112586
+
+### កូនមុំ (Koun Mom)
+
+Code: 1604, Coordinates: 13.580944, 106.7722214
+Communes: 6
+
+#### សិរីមង្គល (Serei Mongkol)
+
+Code: 160401, Postal: 160301
+
+#### ស្រែអង្គ្រង (Srae Angkrorng)
+
+Code: 160402, Postal: 160402
+
+#### តាអង (Ta Ang)
+
+Code: 160403, Postal: 160303
+
+#### តឺន (Teun)
+
+Code: 160404, Postal: 160304
+
+#### ត្រពាំងច្រេស (Trapeang Chres)
+
+Code: 160405, Postal: 160305
+
+#### ត្រពាំងក្រហម (Trapeang Kraham)
+
+Code: 160406, Postal: 160306
+
+### លំផាត់ (Lumphat)
+
+Code: 1605, Coordinates: 13.4998503, 106.9736284
+Communes: 6
+
+#### បាតាង (Ba Tang)
+
+Code: 160505, Postal: 160405, Coordinates: 13.5297182, 106.9779149
+
+#### ជ័យឧត្ដម (Chey Otdam)
+
+Code: 160501, Postal: 160401, Coordinates: 13.4866104, 106.9815765
+
+#### កាឡែង (Ka Laeng)
+
+Code: 160502, Postal: 160402, Coordinates: 13.4893028, 107.0936968
+
+#### ល្បាំង១ (Lbang Muoy)
+
+Code: 160503, Postal: 160403, Coordinates: 13.6079278, 106.9469211
+
+#### ល្បាំង២ (Lbang Pir)
+
+Code: 160504, Postal: 160404, Coordinates: 13.6421265, 106.9703932
+
+#### សេដា (Seda)
+
+Code: 160506, Postal: 160406
+
+### អូរជុំ (Ou Chum)
+
+Code: 1606, Coordinates: 13.8018346, 106.992574
+Communes: 7
+
+#### ឯកភាព (Aekakpheap)
+
+Code: 160603, Postal: 160503, Coordinates: 13.7577435, 107.104273
+
+#### ចាអ៊ុង (Cha Ung)
+
+Code: 160601, Postal: 160501, Coordinates: 13.7581127, 106.9321694
+
+#### កាឡៃ (Kalai)
+
+Code: 160604, Postal: 160504, Coordinates: 13.8438095, 106.9428025
+
+#### ល្អក់ (L&#39;ak)
+
+Code: 160607, Postal: 160507, Coordinates: 13.8670242, 107.0826386
+
+#### អូរជុំ (Ou Chum)
+
+Code: 160605, Postal: 160505, Coordinates: 13.7954352, 106.9934986
+
+#### ប៉ូយ (Pouy)
+
+Code: 160602, Postal: 160502, Coordinates: 13.9067522, 107.0232651
+
+#### សាមគ្គី (Sameakki)
+
+Code: 160606, Postal: 060306, Coordinates: 13.8199792, 107.1066036
+
+### អូរយ៉ាដាវ (Ou Ya Dav)
+
+Code: 1607, Coordinates: 13.6689224, 107.3483187
+Communes: 7
+
+#### បរខាំ (Bar Kham)
+
+Code: 160701, Postal: 160601, Coordinates: 13.4714323, 107.3494043
+
+#### លំជ័រ (Lum Choar)
+
+Code: 160702, Postal: 160602, Coordinates: 13.6902094, 107.3031586
+
+#### ប៉ាតេ (Pa Te)
+
+Code: 160704, Postal: 160604, Coordinates: 13.4527362, 107.4558555
+
+#### ប៉ក់ញ៉ៃ (Pak Nhai)
+
+Code: 160703, Postal: 160603
+
+#### សោមធំ (Saom Thum)
+
+Code: 160706, Postal: 160606, Coordinates: 13.7241605, 107.3860129
+
+#### សេសាន (Sesan)
+
+Code: 160705, Postal: 160605, Coordinates: 13.7709476, 107.4208867
+
+#### យ៉ាទុង (Ya Tung)
+
+Code: 160707, Postal: 160607, Coordinates: 13.5310476, 107.5238411
+
+### តាវែង (Ta Veaeng)
+
+Code: 1608, Coordinates: 14.0472873, 107.1080429
+Communes: 2
+
+#### តាវែងក្រោម (Ta Veaeng Kraom)
+
+Code: 160802, Postal: 160702, Coordinates: 14.240459, 107.0775671
+
+#### តាវែងលើ (Ta Veaeng Leu)
+
+Code: 160801, Postal: 160701, Coordinates: 14.3827014, 107.307452
+
+### វើនសៃ (Veun Sai)
+
+Code: 1609, Coordinates: 13.9720878, 106.8137949
+Communes: 9
+
+#### ហាត់ប៉ក់ (Hat Pak)
+
+Code: 160903, Postal: 160802, Coordinates: 13.8469, 106.6945144
+
+#### កាចូន (Ka Choun)
+
+Code: 160904, Postal: 160803, Coordinates: 13.9577155, 106.8893311
+
+#### កោះប៉ង់ (Kaoh Pang)
+
+Code: 160905, Postal: 160804, Coordinates: 14.2069725, 106.9634122
+
+#### កោះពាក្យ (Kaoh Peak)
+
+Code: 160906, Postal: 160805, Coordinates: 14.026332, 106.9358604
+
+#### កុកឡាក់ (Kok Lak)
+
+Code: 160907, Postal: 160806, Coordinates: 14.0119973, 106.8485592
+
+#### ប៉ាកាឡាន់ (Pa Kalan)
+
+Code: 160908, Postal: 160807, Coordinates: 13.9396115, 106.7005001
+
+#### ភ្នំកុក (Phnum Kok)
+
+Code: 160909, Postal: 160808, Coordinates: 13.9221972, 106.7985287
+
+#### ប៉ុង (Pong)
+
+Code: 160901, Postal: 050206, Coordinates: 13.9550674, 106.8312605
+
+#### វើនសៃ (Veun Sai)
+
+Code: 160910, Postal: 160809, Coordinates: 14.2610435, 106.7942405
+

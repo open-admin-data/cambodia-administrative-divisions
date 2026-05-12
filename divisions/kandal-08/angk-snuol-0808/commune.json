@@ -1,0 +1,562 @@
+[
+  {
+    "id": "080801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បែកចាន",
+      "en": "Baek Chan",
+      "slug": "baek-chan-080801"
+    },
+    "code": {
+      "id": "080801",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080101"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឆក់ឈើនាង",
+      "en": "Chhak Chheu Neang",
+      "slug": "chhak-chheu-neang-080803"
+    },
+    "code": {
+      "id": "080803",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080102"
+    ],
+    "geo": {
+      "lat": "11.5363008",
+      "lon": "104.733911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំណាក់អំពិល",
+      "en": "Damnak Ampil",
+      "slug": "damnak-ampil-080804"
+    },
+    "code": {
+      "id": "080804",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080103"
+    ],
+    "geo": {
+      "lat": "11.5184607",
+      "lon": "104.6737586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080807",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងម្កាក់",
+      "en": "Krang Mkak",
+      "slug": "krang-mkak-080807"
+    },
+    "code": {
+      "id": "080807",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080104"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080808",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លំហាច",
+      "en": "Lumhach",
+      "slug": "lumhach-080808"
+    },
+    "code": {
+      "id": "080808",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080105"
+    ],
+    "geo": {
+      "lat": "11.4763915",
+      "lon": "104.6739166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080809",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម្កាក់",
+      "en": "Mkak",
+      "slug": "mkak-080809"
+    },
+    "code": {
+      "id": "080809",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010803"
+    ],
+    "geo": {
+      "lat": "11.6429433",
+      "lon": "104.7240956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080811",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពើក",
+      "en": "Peuk",
+      "slug": "peuk-080811"
+    },
+    "code": {
+      "id": "080811",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080107"
+    ],
+    "geo": {
+      "lat": "11.5072193",
+      "lon": "104.7163259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080813",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃពួច",
+      "en": "Prey Puoch",
+      "slug": "prey-puoch-080813"
+    },
+    "code": {
+      "id": "080813",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080108"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080814",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោងលើ",
+      "en": "Samraong Leu",
+      "slug": "samraong-leu-080814"
+    },
+    "code": {
+      "id": "080814",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070305"
+    ],
+    "geo": {
+      "lat": "11.5660238",
+      "lon": "104.6940089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080816",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលព្រេជ",
+      "en": "Tuol Prech",
+      "slug": "tuol-prech-080816"
+    },
+    "code": {
+      "id": "080816",
+      "iso": null
+    },
+    "parent": {
+      "id": "0808",
+      "level": 2,
+      "name": {
+        "local": "អង្គស្នួល",
+        "en": "Angk Snuol",
+        "slug": "angk-snuol-0808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0808",
+        "level": 2,
+        "name": {
+          "local": "អង្គស្នួល",
+          "en": "Angk Snuol",
+          "slug": "angk-snuol-0808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080110"
+    ],
+    "geo": {
+      "lat": "11.609557",
+      "lon": "104.7137945"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

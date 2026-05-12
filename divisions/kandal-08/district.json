@@ -1,0 +1,613 @@
+[
+  {
+    "id": "0813",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អរិយក្សត្រ",
+      "en": "Akreiy Ksatr",
+      "slug": "akreiy-ksatr-0813"
+    },
+    "code": {
+      "id": "0813",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0808",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អង្គស្នួល",
+      "en": "Angk Snuol",
+      "slug": "angk-snuol-0808"
+    },
+    "code": {
+      "id": "0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5078333",
+      "lon": "104.7157787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0801",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កណ្ដាលស្ទឹង",
+      "en": "Kandal Stueng",
+      "slug": "kandal-stueng-0801"
+    },
+    "code": {
+      "id": "0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.4110928",
+      "lon": "104.8330526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0804",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កោះធំ",
+      "en": "Kaoh Thum",
+      "slug": "kaoh-thum-0804"
+    },
+    "code": {
+      "id": "0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1256716",
+      "lon": "105.0555595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0803",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ខ្សាច់កណ្ដាល",
+      "en": "Khsach Kandal",
+      "slug": "khsach-kandal-0803"
+    },
+    "code": {
+      "id": "0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7503523",
+      "lon": "105.0169623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កៀនស្វាយ",
+      "en": "Kien Svay",
+      "slug": "kien-svay-0802"
+    },
+    "code": {
+      "id": "0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5099783",
+      "lon": "105.0499924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0805",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "លើកដែក",
+      "en": "Leuk Daek",
+      "slug": "leuk-daek-0805"
+    },
+    "code": {
+      "id": "0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1778929",
+      "lon": "105.2277136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ល្វាឯម",
+      "en": "Lvea Aem",
+      "slug": "lvea-aem-0806"
+    },
+    "code": {
+      "id": "0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5430427",
+      "lon": "105.0485316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0807",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "មុខកំពូល",
+      "en": "Mukh Kampul",
+      "slug": "mukh-kampul-0807"
+    },
+    "code": {
+      "id": "0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.72978",
+      "lon": "104.9664012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0809",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពញាឮ",
+      "en": "Ponhea Lueu",
+      "slug": "ponhea-lueu-0809"
+    },
+    "code": {
+      "id": "0809",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8197347",
+      "lon": "104.7974776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0810",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្អាង",
+      "en": "S'ang",
+      "slug": "sang-0810"
+    },
+    "code": {
+      "id": "0810",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.3605612",
+      "lon": "105.0037187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0812",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សំពៅពូន",
+      "en": "Sampeou Poun",
+      "slug": "sampeou-poun-0812"
+    },
+    "code": {
+      "id": "0812",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "តាខ្មៅ",
+      "en": "Ta Khmau",
+      "slug": "ta-khmau-0811"
+    },
+    "code": {
+      "id": "0811",
+      "iso": null
+    },
+    "parent": {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.4687395",
+      "lon": "104.9451162"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

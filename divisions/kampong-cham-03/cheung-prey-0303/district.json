@@ -1,0 +1,47 @@
+{
+  "id": "0303",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ជើងព្រៃ",
+    "en": "Cheung Prey",
+    "slug": "cheung-prey-0303"
+  },
+  "code": {
+    "id": "0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "03",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.053626",
+    "lon": "105.0717844"
+  },
+  "metadata": {},
+  "source": {}
+}

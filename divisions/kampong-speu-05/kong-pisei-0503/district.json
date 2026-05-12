@@ -1,0 +1,47 @@
+{
+  "id": "0503",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "គងពិសី",
+    "en": "Kong Pisei",
+    "slug": "kong-pisei-0503"
+  },
+  "code": {
+    "id": "0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ស្ពឺ",
+      "en": "Kampong Speu",
+      "slug": "kampong-speu-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.3106024",
+    "lon": "104.62320857080852"
+  },
+  "metadata": {},
+  "source": {}
+}

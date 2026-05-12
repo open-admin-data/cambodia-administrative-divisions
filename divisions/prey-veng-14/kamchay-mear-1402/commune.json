@@ -1,0 +1,450 @@
+[
+  {
+    "id": "140201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាច",
+      "en": "Cheach",
+      "slug": "cheach-140201"
+    },
+    "code": {
+      "id": "140201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "កំចាយមារ",
+        "en": "Kamchay Mear",
+        "slug": "kamchay-mear-1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "កំចាយមារ",
+          "en": "Kamchay Mear",
+          "slug": "kamchay-mear-1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140501"
+    ],
+    "geo": {
+      "lat": "11.6721236",
+      "lon": "105.6842241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូនកឹង",
+      "en": "Doun Koeng",
+      "slug": "doun-koeng-140202"
+    },
+    "code": {
+      "id": "140202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "កំចាយមារ",
+        "en": "Kamchay Mear",
+        "slug": "kamchay-mear-1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "កំចាយមារ",
+          "en": "Kamchay Mear",
+          "slug": "kamchay-mear-1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140502"
+    ],
+    "geo": {
+      "lat": "11.5718537",
+      "lon": "105.5792842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្របៅ",
+      "en": "Krabau",
+      "slug": "krabau-140204"
+    },
+    "code": {
+      "id": "140204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "កំចាយមារ",
+        "en": "Kamchay Mear",
+        "slug": "kamchay-mear-1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "កំចាយមារ",
+          "en": "Kamchay Mear",
+          "slug": "kamchay-mear-1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140504"
+    ],
+    "geo": {
+      "lat": "11.6256863",
+      "lon": "105.7576432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រញូង",
+      "en": "Kranhung",
+      "slug": "kranhung-140203"
+    },
+    "code": {
+      "id": "140203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "កំចាយមារ",
+        "en": "Kamchay Mear",
+        "slug": "kamchay-mear-1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "កំចាយមារ",
+          "en": "Kamchay Mear",
+          "slug": "kamchay-mear-1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140503"
+    ],
+    "geo": {
+      "lat": "11.6135002",
+      "lon": "105.6872585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស៊ាងឃ្វាង",
+      "en": "Seang Khveang",
+      "slug": "seang-khveang-140205"
+    },
+    "code": {
+      "id": "140205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "កំចាយមារ",
+        "en": "Kamchay Mear",
+        "slug": "kamchay-mear-1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "កំចាយមារ",
+          "en": "Kamchay Mear",
+          "slug": "kamchay-mear-1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140505"
+    ],
+    "geo": {
+      "lat": "11.653491",
+      "lon": "105.5177132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្មោងខាងជើង",
+      "en": "Smaong Khang Cheung",
+      "slug": "smaong-khang-cheung-140206"
+    },
+    "code": {
+      "id": "140206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "កំចាយមារ",
+        "en": "Kamchay Mear",
+        "slug": "kamchay-mear-1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "កំចាយមារ",
+          "en": "Kamchay Mear",
+          "slug": "kamchay-mear-1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140506"
+    ],
+    "geo": {
+      "lat": "11.5559545",
+      "lon": "105.6269647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្មោងខាងត្បូង",
+      "en": "Smaong Khang Tboung",
+      "slug": "smaong-khang-tboung-140207"
+    },
+    "code": {
+      "id": "140207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "កំចាយមារ",
+        "en": "Kamchay Mear",
+        "slug": "kamchay-mear-1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "កំចាយមារ",
+          "en": "Kamchay Mear",
+          "slug": "kamchay-mear-1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140507"
+    ],
+    "geo": {
+      "lat": "11.4808305",
+      "lon": "105.6384154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្របែក",
+      "en": "Trabaek",
+      "slug": "trabaek-140208"
+    },
+    "code": {
+      "id": "140208",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "កំចាយមារ",
+        "en": "Kamchay Mear",
+        "slug": "kamchay-mear-1402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "កំចាយមារ",
+          "en": "Kamchay Mear",
+          "slug": "kamchay-mear-1402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140508"
+    ],
+    "geo": {
+      "lat": "11.603421",
+      "lon": "105.5417421"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

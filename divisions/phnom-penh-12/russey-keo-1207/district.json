@@ -1,0 +1,47 @@
+{
+  "id": "1207",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ឫស្សីកែវ",
+    "en": "Russey Keo",
+    "slug": "russey-keo-1207"
+  },
+  "code": {
+    "id": "1207",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "ភ្នំពេញ",
+      "en": "Phnom Penh",
+      "slug": "phnom-penh-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.6287927",
+    "lon": "104.9037583"
+  },
+  "metadata": {},
+  "source": {}
+}

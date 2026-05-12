@@ -1,0 +1,226 @@
+[
+  {
+    "id": "190403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះបាទ",
+      "en": "Preah Bat",
+      "slug": "preah-bat-190403"
+    },
+    "code": {
+      "id": "190403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1904",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stueng Traeng",
+        "slug": "stueng-traeng-1904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1904",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stueng Traeng",
+          "slug": "stueng-traeng-1904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190503"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សាមគ្គី",
+      "en": "Sameakki",
+      "slug": "sameakki-190404"
+    },
+    "code": {
+      "id": "190404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1904",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stueng Traeng",
+        "slug": "stueng-traeng-1904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1904",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stueng Traeng",
+          "slug": "stueng-traeng-1904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060306"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រះឫស្សី",
+      "en": "Srah Ruessei",
+      "slug": "srah-ruessei-190402"
+    },
+    "code": {
+      "id": "190402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1904",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stueng Traeng",
+        "slug": "stueng-traeng-1904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1904",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stueng Traeng",
+          "slug": "stueng-traeng-1904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190502"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ទឹងត្រែង",
+      "en": "Stueng Traeng",
+      "slug": "stueng-traeng-190401"
+    },
+    "code": {
+      "id": "190401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1904",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stueng Traeng",
+        "slug": "stueng-traeng-1904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1904",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stueng Traeng",
+          "slug": "stueng-traeng-1904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "2401",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ប៉ៃលិន",
+    "en": "Pailin",
+    "slug": "pailin-2401"
+  },
+  "code": {
+    "id": "2401",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "ប៉ៃលិន",
+      "en": "Pailin",
+      "slug": "pailin-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ប៉ៃលិន",
+        "en": "Pailin",
+        "slug": "pailin-24"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.8551384",
+    "lon": "102.6051776"
+  },
+  "metadata": {},
+  "source": {}
+}

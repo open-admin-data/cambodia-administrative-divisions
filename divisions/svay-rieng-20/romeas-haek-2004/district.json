@@ -1,0 +1,47 @@
+{
+  "id": "2004",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "រមាសហែក",
+    "en": "Romeas Haek",
+    "slug": "romeas-haek-2004"
+  },
+  "code": {
+    "id": "2004",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ស្វាយរៀង",
+      "en": "Svay Rieng",
+      "slug": "svay-rieng-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.41244",
+    "lon": "105.7908573"
+  },
+  "metadata": {},
+  "source": {}
+}

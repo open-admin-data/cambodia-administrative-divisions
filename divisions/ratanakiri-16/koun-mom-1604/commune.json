@@ -1,0 +1,338 @@
+[
+  {
+    "id": "160401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សិរីមង្គល",
+      "en": "Serei Mongkol",
+      "slug": "serei-mongkol-160401"
+    },
+    "code": {
+      "id": "160401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "local": "កូនមុំ",
+        "en": "Koun Mom",
+        "slug": "koun-mom-1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1604",
+        "level": 2,
+        "name": {
+          "local": "កូនមុំ",
+          "en": "Koun Mom",
+          "slug": "koun-mom-1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160301"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែអង្គ្រង",
+      "en": "Srae Angkrorng",
+      "slug": "srae-angkrorng-160402"
+    },
+    "code": {
+      "id": "160402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "local": "កូនមុំ",
+        "en": "Koun Mom",
+        "slug": "koun-mom-1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1604",
+        "level": 2,
+        "name": {
+          "local": "កូនមុំ",
+          "en": "Koun Mom",
+          "slug": "koun-mom-1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160402"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាអង",
+      "en": "Ta Ang",
+      "slug": "ta-ang-160403"
+    },
+    "code": {
+      "id": "160403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "local": "កូនមុំ",
+        "en": "Koun Mom",
+        "slug": "koun-mom-1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1604",
+        "level": 2,
+        "name": {
+          "local": "កូនមុំ",
+          "en": "Koun Mom",
+          "slug": "koun-mom-1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160303"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តឺន",
+      "en": "Teun",
+      "slug": "teun-160404"
+    },
+    "code": {
+      "id": "160404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "local": "កូនមុំ",
+        "en": "Koun Mom",
+        "slug": "koun-mom-1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1604",
+        "level": 2,
+        "name": {
+          "local": "កូនមុំ",
+          "en": "Koun Mom",
+          "slug": "koun-mom-1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160304"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងច្រេស",
+      "en": "Trapeang Chres",
+      "slug": "trapeang-chres-160405"
+    },
+    "code": {
+      "id": "160405",
+      "iso": null
+    },
+    "parent": {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "local": "កូនមុំ",
+        "en": "Koun Mom",
+        "slug": "koun-mom-1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1604",
+        "level": 2,
+        "name": {
+          "local": "កូនមុំ",
+          "en": "Koun Mom",
+          "slug": "koun-mom-1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160305"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងក្រហម",
+      "en": "Trapeang Kraham",
+      "slug": "trapeang-kraham-160406"
+    },
+    "code": {
+      "id": "160406",
+      "iso": null
+    },
+    "parent": {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "local": "កូនមុំ",
+        "en": "Koun Mom",
+        "slug": "koun-mom-1604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1604",
+        "level": 2,
+        "name": {
+          "local": "កូនមុំ",
+          "en": "Koun Mom",
+          "slug": "koun-mom-1604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160306"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "15",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ពោធិ៍សាត់",
+    "en": "Pursat",
+    "slug": "pursat-15"
+  },
+  "code": {
+    "id": "15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "commune": 49
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.4662592",
+    "lon": "103.7426829518918"
+  },
+  "metadata": {},
+  "source": {}
+}

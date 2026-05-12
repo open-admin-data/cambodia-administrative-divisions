@@ -1,0 +1,47 @@
+{
+  "id": "0206",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "មោងឫស្សី",
+    "en": "Moung Ruessei",
+    "slug": "moung-ruessei-0206"
+  },
+  "code": {
+    "id": "0206",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.775758",
+    "lon": "103.4486415"
+  },
+  "metadata": {},
+  "source": {}
+}

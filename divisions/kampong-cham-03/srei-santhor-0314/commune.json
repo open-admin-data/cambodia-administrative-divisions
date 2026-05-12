@@ -1,0 +1,786 @@
+[
+  {
+    "id": "031401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បារាយណ៍",
+      "en": "Baray",
+      "slug": "baray-031401"
+    },
+    "code": {
+      "id": "031401",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030801"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជីបាល",
+      "en": "Chi Bal",
+      "slug": "chi-bal-031402"
+    },
+    "code": {
+      "id": "031402",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "039702"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះអណ្ដែត",
+      "en": "Kaoh Andaet",
+      "slug": "kaoh-andaet-031404"
+    },
+    "code": {
+      "id": "031404",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "038504"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្នារស",
+      "en": "Khnar Sa",
+      "slug": "khnar-sa-031403"
+    },
+    "code": {
+      "id": "031403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "039103"
+    ],
+    "geo": {
+      "lat": "11.7975214",
+      "lon": "105.1014202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មានជ័យ",
+      "en": "Mean Chey",
+      "slug": "mean-chey-031405"
+    },
+    "code": {
+      "id": "031405",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020906"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្ទះកណ្ដាល",
+      "en": "Phteah Kandal",
+      "slug": "phteah-kandal-031406"
+    },
+    "code": {
+      "id": "031406",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "037306"
+    ],
+    "geo": {
+      "lat": "11.8481836",
+      "lon": "105.1289758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រាំយ៉ាម",
+      "en": "Pram Yam",
+      "slug": "pram-yam-031407"
+    },
+    "code": {
+      "id": "031407",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "036707"
+    ],
+    "geo": {
+      "lat": "11.7979623",
+      "lon": "105.1535342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកដំបូក",
+      "en": "Preaek Dambouk",
+      "slug": "preaek-dambouk-031408"
+    },
+    "code": {
+      "id": "031408",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "036108"
+    ],
+    "geo": {
+      "lat": "11.8912724",
+      "lon": "105.1604569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031409",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកពោធិ",
+      "en": "Preaek Pou",
+      "slug": "preaek-pou-031409"
+    },
+    "code": {
+      "id": "031409",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "035509"
+    ],
+    "geo": {
+      "lat": "11.837699",
+      "lon": "105.113274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031410",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែករំដេង",
+      "en": "Preaek Rumdeng",
+      "slug": "preaek-rumdeng-031410"
+    },
+    "code": {
+      "id": "031410",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "034910"
+    ],
+    "geo": {
+      "lat": "11.8781755",
+      "lon": "105.2503167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031411",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីស្រុក",
+      "en": "Ruessei Srok",
+      "slug": "ruessei-srok-031411"
+    },
+    "code": {
+      "id": "031411",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "034311"
+    ],
+    "geo": {
+      "lat": "11.9291703",
+      "lon": "105.2016925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031413",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយខ្សាច់ភ្នំ",
+      "en": "Svay Khsach Phnum",
+      "slug": "svay-khsach-phnum-031413"
+    },
+    "code": {
+      "id": "031413",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "033113"
+    ],
+    "geo": {
+      "lat": "11.920157",
+      "lon": "105.1805863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031412",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយពោធិ",
+      "en": "Svay Pou",
+      "slug": "svay-pou-031412"
+    },
+    "code": {
+      "id": "031412",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "033712"
+    ],
+    "geo": {
+      "lat": "11.7807869",
+      "lon": "105.081319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031414",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទងត្រឡាច",
+      "en": "Tong Tralach",
+      "slug": "tong-tralach-031414"
+    },
+    "code": {
+      "id": "031414",
+      "iso": null
+    },
+    "parent": {
+      "id": "0314",
+      "level": 2,
+      "name": {
+        "local": "ស្រីសន្ធរ",
+        "en": "Srei Santhor",
+        "slug": "srei-santhor-0314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0314",
+        "level": 2,
+        "name": {
+          "local": "ស្រីសន្ធរ",
+          "en": "Srei Santhor",
+          "slug": "srei-santhor-0314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "032514"
+    ],
+    "geo": {
+      "lat": "11.7717231",
+      "lon": "105.127278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "2504",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "អូររាំងឪ",
+    "en": "Ou Reang Ov",
+    "slug": "ou-reang-ov-2504"
+  },
+  "code": {
+    "id": "2504",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "ត្បូងឃ្មុំ",
+      "en": "Tboung Khmum",
+      "slug": "tboung-khmum-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.7951086",
+    "lon": "105.5020062"
+  },
+  "metadata": {},
+  "source": {}
+}

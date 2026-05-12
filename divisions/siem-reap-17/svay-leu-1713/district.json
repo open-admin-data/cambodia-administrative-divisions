@@ -1,0 +1,47 @@
+{
+  "id": "1713",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្វាយលើ",
+    "en": "Svay Leu",
+    "slug": "svay-leu-1713"
+  },
+  "code": {
+    "id": "1713",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.68175535",
+    "lon": "104.26044219887697"
+  },
+  "metadata": {},
+  "source": {}
+}

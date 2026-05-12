@@ -1,0 +1,506 @@
+[
+  {
+    "id": "140101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងព្រះ",
+      "en": "Boeng Preah",
+      "slug": "boeng-preah-140101"
+    },
+    "code": {
+      "id": "140101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140701"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងភ្នំ",
+      "en": "Cheung Phnum",
+      "slug": "cheung-phnum-140102"
+    },
+    "code": {
+      "id": "140102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140702"
+    ],
+    "geo": {
+      "lat": "11.2368037",
+      "lon": "105.3600398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈើកាច់",
+      "en": "Chheu Kach",
+      "slug": "chheu-kach-140103"
+    },
+    "code": {
+      "id": "140103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140703"
+    ],
+    "geo": {
+      "lat": "11.247059",
+      "lon": "105.4224517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រក្សជ័យ",
+      "en": "Reaks Chey",
+      "slug": "reaks-chey-140104"
+    },
+    "code": {
+      "id": "140104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140704"
+    ],
+    "geo": {
+      "lat": "11.3177645",
+      "lon": "105.3896354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រោងដំរី",
+      "en": "Roung Damrei",
+      "slug": "roung-damrei-140105"
+    },
+    "code": {
+      "id": "140105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140705"
+    ],
+    "geo": {
+      "lat": "11.2954085",
+      "lon": "105.3953762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ដៅកោង",
+      "en": "Sdau Kaong",
+      "slug": "sdau-kaong-140106"
+    },
+    "code": {
+      "id": "140106",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140706"
+    ],
+    "geo": {
+      "lat": "11.2365403",
+      "lon": "105.4592249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ពឺ  ក",
+      "en": "Spueu Ka",
+      "slug": "spueu-ka-140107"
+    },
+    "code": {
+      "id": "140107",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140707"
+    ],
+    "geo": {
+      "lat": "11.2599407",
+      "lon": "105.4632323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ពឺ  ខ",
+      "en": "Spueu Kha",
+      "slug": "spueu-kha-140108"
+    },
+    "code": {
+      "id": "140108",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140708"
+    ],
+    "geo": {
+      "lat": "11.2563468",
+      "lon": "105.5223697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធាយ",
+      "en": "Theay",
+      "slug": "theay-140109"
+    },
+    "code": {
+      "id": "140109",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "បាភ្នំ",
+        "en": "Ba Phnum",
+        "slug": "ba-phnum-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "បាភ្នំ",
+          "en": "Ba Phnum",
+          "slug": "ba-phnum-1401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140709"
+    ],
+    "geo": {
+      "lat": "11.3772731",
+      "lon": "105.3931407"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

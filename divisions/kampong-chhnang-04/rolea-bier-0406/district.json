@@ -1,0 +1,47 @@
+{
+  "id": "0406",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "រលាប្អៀរ",
+    "en": "Rolea B'ier",
+    "slug": "rolea-bier-0406"
+  },
+  "code": {
+    "id": "0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ឆ្នាំង",
+      "en": "Kampong Chhnang",
+      "slug": "kampong-chhnang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.2059838",
+    "lon": "104.6613026"
+  },
+  "metadata": {},
+  "source": {}
+}

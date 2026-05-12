@@ -1,0 +1,282 @@
+[
+  {
+    "id": "050905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្សេមក្សាន្ដ",
+      "en": "Khsem Khsant",
+      "slug": "khsem-khsant-050905"
+    },
+    "code": {
+      "id": "050905",
+      "iso": null
+    },
+    "parent": {
+      "id": "0509",
+      "level": 2,
+      "name": {
+        "local": "ឧដុង្គម៉ែជ័យ",
+        "en": "Odongk Maechay",
+        "slug": "odongk-maechay-0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0509",
+        "level": 2,
+        "name": {
+          "local": "ឧដុង្គម៉ែជ័យ",
+          "en": "Odongk Maechay",
+          "slug": "odongk-maechay-0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050404"
+    ],
+    "geo": {
+      "lat": "11.6837497",
+      "lon": "104.7002298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះស្រែ",
+      "en": "Preah Srae",
+      "slug": "preah-srae-050904"
+    },
+    "code": {
+      "id": "050904",
+      "iso": null
+    },
+    "parent": {
+      "id": "0509",
+      "level": 2,
+      "name": {
+        "local": "ឧដុង្គម៉ែជ័យ",
+        "en": "Odongk Maechay",
+        "slug": "odongk-maechay-0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0509",
+        "level": 2,
+        "name": {
+          "local": "ឧដុង្គម៉ែជ័យ",
+          "en": "Odongk Maechay",
+          "slug": "odongk-maechay-0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050407"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រាចទង",
+      "en": "Trach Tong",
+      "slug": "trach-tong-050903"
+    },
+    "code": {
+      "id": "050903",
+      "iso": null
+    },
+    "parent": {
+      "id": "0509",
+      "level": 2,
+      "name": {
+        "local": "ឧដុង្គម៉ែជ័យ",
+        "en": "Odongk Maechay",
+        "slug": "odongk-maechay-0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0509",
+        "level": 2,
+        "name": {
+          "local": "ឧដុង្គម៉ែជ័យ",
+          "en": "Odongk Maechay",
+          "slug": "odongk-maechay-0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050409"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាលពង់",
+      "en": "Veal Pong",
+      "slug": "veal-pong-050902"
+    },
+    "code": {
+      "id": "050902",
+      "iso": null
+    },
+    "parent": {
+      "id": "0509",
+      "level": 2,
+      "name": {
+        "local": "ឧដុង្គម៉ែជ័យ",
+        "en": "Odongk Maechay",
+        "slug": "odongk-maechay-0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0509",
+        "level": 2,
+        "name": {
+          "local": "ឧដុង្គម៉ែជ័យ",
+          "en": "Odongk Maechay",
+          "slug": "odongk-maechay-0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050410"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាំងចាស់",
+      "en": "Veang Chas",
+      "slug": "veang-chas-050901"
+    },
+    "code": {
+      "id": "050901",
+      "iso": null
+    },
+    "parent": {
+      "id": "0509",
+      "level": 2,
+      "name": {
+        "local": "ឧដុង្គម៉ែជ័យ",
+        "en": "Odongk Maechay",
+        "slug": "odongk-maechay-0509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0509",
+        "level": 2,
+        "name": {
+          "local": "ឧដុង្គម៉ែជ័យ",
+          "en": "Odongk Maechay",
+          "slug": "odongk-maechay-0509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050411"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

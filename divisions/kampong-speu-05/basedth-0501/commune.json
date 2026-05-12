@@ -1,0 +1,842 @@
+[
+  {
+    "id": "050101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បរសេដ្ឋ",
+      "en": "Basedth",
+      "slug": "basedth-050101"
+    },
+    "code": {
+      "id": "050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050201"
+    ],
+    "geo": {
+      "lat": "11.1539595",
+      "lon": "104.5236984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050113",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កក់",
+      "en": "Kak",
+      "slug": "kak-050113"
+    },
+    "code": {
+      "id": "050113",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាត់ភ្លុក",
+      "en": "Kat Phluk",
+      "slug": "kat-phluk-050102"
+    },
+    "code": {
+      "id": "050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050202"
+    ],
+    "geo": {
+      "lat": "11.2001827",
+      "lon": "104.4457469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "និទាន",
+      "en": "Nitean",
+      "slug": "nitean-050103"
+    },
+    "code": {
+      "id": "050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050203"
+    ],
+    "geo": {
+      "lat": "11.1402441",
+      "lon": "104.6299702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភក្ដី",
+      "en": "Pheakdei",
+      "slug": "pheakdei-050104"
+    },
+    "code": {
+      "id": "050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050204"
+    ],
+    "geo": {
+      "lat": "11.1553023",
+      "lon": "104.4116615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភារីមានជ័យ",
+      "en": "Pheari Mean Chey",
+      "slug": "pheari-mean-chey-050105"
+    },
+    "code": {
+      "id": "050105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050205"
+    ],
+    "geo": {
+      "lat": "11.1910389",
+      "lon": "104.6135784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផុង",
+      "en": "Phong",
+      "slug": "phong-050106"
+    },
+    "code": {
+      "id": "050106",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050206"
+    ],
+    "geo": {
+      "lat": "11.1343547",
+      "lon": "104.4617134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិអង្ក្រង",
+      "en": "Pou Angkrang",
+      "slug": "pou-angkrang-050107"
+    },
+    "code": {
+      "id": "050107",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050207"
+    ],
+    "geo": {
+      "lat": "11.094354",
+      "lon": "104.6564414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍ចំរើន",
+      "en": "Pou Chamraeun",
+      "slug": "pou-chamraeun-050108"
+    },
+    "code": {
+      "id": "050108",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050208"
+    ],
+    "geo": {
+      "lat": "11.1038082",
+      "lon": "104.5748858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍ម្រាល",
+      "en": "Pou Mreal",
+      "slug": "pou-mreal-050109"
+    },
+    "code": {
+      "id": "050109",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050209"
+    ],
+    "geo": {
+      "lat": "11.1440266",
+      "lon": "104.574696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050115",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះខែ",
+      "en": "Preah Khae",
+      "slug": "preah-khae-050115"
+    },
+    "code": {
+      "id": "050115",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050215"
+    ],
+    "geo": {
+      "lat": "11.201828",
+      "lon": "104.4943118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយចចិប",
+      "en": "Svay Chacheb",
+      "slug": "svay-chacheb-050110"
+    },
+    "code": {
+      "id": "050110",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050210"
+    ],
+    "geo": {
+      "lat": "11.2654266",
+      "lon": "104.4965998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050114",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយរំពារ",
+      "en": "Svay Rumpear",
+      "slug": "svay-rumpear-050114"
+    },
+    "code": {
+      "id": "050114",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050214"
+    ],
+    "geo": {
+      "lat": "11.2242473",
+      "lon": "104.571354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050111",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលអំពិល",
+      "en": "Tuol Ampil",
+      "slug": "tuol-ampil-050111"
+    },
+    "code": {
+      "id": "050111",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050211"
+    ],
+    "geo": {
+      "lat": "11.1841486",
+      "lon": "104.6587663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050112",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលសាលា",
+      "en": "Tuol Sala",
+      "slug": "tuol-sala-050112"
+    },
+    "code": {
+      "id": "050112",
+      "iso": null
+    },
+    "parent": {
+      "id": "0501",
+      "level": 2,
+      "name": {
+        "local": "បរសេដ្ឋ",
+        "en": "Basedth",
+        "slug": "basedth-0501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0501",
+        "level": 2,
+        "name": {
+          "local": "បរសេដ្ឋ",
+          "en": "Basedth",
+          "slug": "basedth-0501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050212"
+    ],
+    "geo": {
+      "lat": "11.2444226",
+      "lon": "104.5372605"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

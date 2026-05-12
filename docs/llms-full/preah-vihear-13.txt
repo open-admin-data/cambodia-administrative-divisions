@@ -1,0 +1,253 @@
+# Preah Vihear — Cambodia Administrative Divisions
+
+> 8 districts, 51 communes
+> Code: 13
+> Coordinates: 13.746298150000001, 104.97403002709669
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### ជ័យសែន (Chey Saen)
+
+Code: 1301, Coordinates: 13.6510167, 105.2588244
+Communes: 6
+
+#### ច្រាច់ (Chrach)
+
+Code: 130104, Postal: 130104, Coordinates: 13.5677621, 105.3510452
+
+#### ខ្យង (Khyang)
+
+Code: 130103, Postal: 130103, Coordinates: 13.6216198, 105.2968867
+
+#### ពុទ្រា (Putrea)
+
+Code: 130106, Postal: 130106, Coordinates: 13.5269508, 105.2060188
+
+#### ស្អាង (S&#39;ang)
+
+Code: 130101, Postal: 130101, Coordinates: 13.658076, 105.2434965
+
+#### តស៊ូ (Tasu)
+
+Code: 130102, Postal: 130102
+
+#### ធ្មា (Thmea)
+
+Code: 130105, Postal: 130105, Coordinates: 13.5499563, 105.4885163
+
+### ឆែប (Chhaeb)
+
+Code: 1302, Coordinates: 13.8833353, 105.3308329
+Communes: 8
+
+#### ឆែបមួយ (Chhaeb Muoy)
+
+Code: 130201, Postal: 130201, Coordinates: 13.7657394, 105.4037674
+
+#### ឆែបពីរ (Chhaeb Pir)
+
+Code: 130202, Postal: 130202, Coordinates: 13.9024485, 105.4569353
+
+#### កំពង់ស្រឡៅមួយ (Kampong Sralau Muoy)
+
+Code: 130207, Postal: 130207, Coordinates: 14.0765231, 105.7699321
+
+#### កំពង់ស្រឡៅពីរ (Kampong Sralau Pir)
+
+Code: 130208, Postal: 130208, Coordinates: 13.9697345, 105.844854
+
+#### ម្លូព្រៃមួយ (Mlu Prey Muoy)
+
+Code: 130205, Postal: 130205, Coordinates: 13.8188366, 105.187162
+
+#### ម្លូព្រៃពីរ (Mlu Prey Pir)
+
+Code: 130206, Postal: 130206, Coordinates: 13.7520487, 105.1810141
+
+#### សង្កែមួយ (Sangkae Muoy)
+
+Code: 130203, Postal: 130203, Coordinates: 13.7793735, 105.3619337
+
+#### សង្កែពីរ (Sangkae Pir)
+
+Code: 130204, Postal: 130204, Coordinates: 13.7594475, 105.2985978
+
+### ជាំក្សាន្ដ (Choam Ksant)
+
+Code: 1303, Coordinates: 14.2172713, 104.9430841
+Communes: 8
+
+#### ជាំក្សាន្ដ (Choam Ksant)
+
+Code: 130301, Postal: 130301
+
+#### កន្ទួត (Kantuot)
+
+Code: 130306, Postal: 100504, Coordinates: 14.2317726, 104.6097563
+
+#### មរកត (Morokot)
+
+Code: 130308, Postal: 130307
+
+#### ព្រីងធំ (Pring Thum)
+
+Code: 130303, Postal: 130303, Coordinates: 13.9724043, 104.8780655
+
+#### រំដោះស្រែ (Rumdaoh Srae)
+
+Code: 130304, Postal: 130304, Coordinates: 13.5249095, 105.0312768
+
+#### ស្រអែម (Sror Aem)
+
+Code: 130307, Postal: 130308, Coordinates: 14.2524458, 104.7236913
+
+#### ទឹកក្រហម (Tuek Kraham)
+
+Code: 130302, Postal: 130302, Coordinates: 14.1637969, 105.0461177
+
+#### យាង (Yeang)
+
+Code: 130305, Postal: 130305
+
+### គូលែន (Kuleaen)
+
+Code: 1304, Coordinates: 13.818762, 104.6996781
+Communes: 6
+
+#### គូលែនជើង (Kuleaen Cheung)
+
+Code: 130402, Postal: 130402, Coordinates: 13.8421085, 104.6774867
+
+#### គូលែនត្បូង (Kuleaen Tboung)
+
+Code: 130401, Postal: 130401, Coordinates: 13.7938083, 104.675306
+
+#### ភ្នំពេញ (Phnum Penh)
+
+Code: 130404, Postal: 130404, Coordinates: 13.7737006, 104.7238554
+
+#### ភ្នំត្បែងពីរ (Phnum Tbaeng Pir)
+
+Code: 130405, Postal: 130405, Coordinates: 13.6494792, 104.7000576
+
+#### ស្រយង់ (Srayang)
+
+Code: 130406, Postal: 130406, Coordinates: 13.706418, 104.542996
+
+#### ថ្មី (Thmei)
+
+Code: 130403, Postal: 010503
+
+### ព្រះវិហារ (Preah Vihear)
+
+Code: 1308, Coordinates: 13.8012643, 104.9742871
+Communes: 2
+
+#### កំពង់ប្រណាក (Kampong Pranak)
+
+Code: 130801, Postal: 130801, Coordinates: 13.8114603, 104.9781388
+
+#### ប៉ាលហាល (Pal Hal)
+
+Code: 130802, Postal: 130802, Coordinates: 13.7470325, 104.9766422
+
+### រវៀង (Rovieng)
+
+Code: 1305, Coordinates: 13.3488486, 105.1084435
+Communes: 12
+
+#### រក្សា (Reaksa)
+
+Code: 130509, Postal: 130509, Coordinates: 13.5571159, 105.1290481
+
+#### រស្មី (Reaksmei)
+
+Code: 130502, Postal: 130502, Coordinates: 13.3828624, 105.1264503
+
+#### រៀបរយ (Rieb Roy)
+
+Code: 130508, Postal: 130508, Coordinates: 13.35764, 105.2848226
+
+#### រីករាយ (Rik Reay)
+
+Code: 130505, Postal: 130505, Coordinates: 13.4096602, 105.142626
+
+#### របៀប (Robieb)
+
+Code: 130501, Postal: 130501, Coordinates: 13.3841009, 105.1102982
+
+#### រហ័ស (Rohas)
+
+Code: 130503, Postal: 130503, Coordinates: 13.3607871, 105.1290095
+
+#### រមណីយ (Romoneiy)
+
+Code: 130512, Postal: 130512, Coordinates: 13.2791443, 105.0033654
+
+#### រមទម (Romtum)
+
+Code: 130511, Postal: 130511, Coordinates: 13.4034277, 105.0218758
+
+#### រតនៈ (Rotanak)
+
+Code: 130507, Postal: 021403, Coordinates: 13.3519233, 105.2063717
+
+#### រំដោះ (Rumdaoh)
+
+Code: 130510, Postal: 130510, Coordinates: 13.5249095, 105.0312768
+
+#### រុងរឿង (Rung Roeang)
+
+Code: 130504, Postal: 050604
+
+#### រួសរាន់ (Ruos Roan)
+
+Code: 130506, Postal: 130506, Coordinates: 13.4371609, 105.2003451
+
+### សង្គមថ្មី (Sangkum Thmei)
+
+Code: 1306, Coordinates: 13.5817856, 104.9046589
+Communes: 5
+
+#### ចំរើន (Chamraeun)
+
+Code: 130601, Postal: 130601, Coordinates: 13.5803445, 104.909716
+
+#### ភ្នំត្បែងមួយ (Phnum Tbaeng Muoy)
+
+Code: 130603, Postal: 130603, Coordinates: 13.6735405, 104.8462001
+
+#### រអាង (Ro&#39;ang)
+
+Code: 130602, Postal: 030511, Coordinates: 13.6251957, 104.8985728
+
+#### រណសិរ្ស (Ronak Ser)
+
+Code: 130605, Postal: 130605, Coordinates: 13.4050749, 104.781121
+
+#### ស្ដៅ (Sdau)
+
+Code: 130604, Postal: 020701, Coordinates: 13.5049296, 104.827772
+
+### ត្បែងមានជ័យ (Tbaeng Mean Chey)
+
+Code: 1307, Coordinates: 13.8569139, 105.0217438
+Communes: 4
+
+#### ឈានមុខ (Chhean Mukh)
+
+Code: 130703, Postal: 130701, Coordinates: 13.7804811, 104.9012834
+
+#### ពោធិ៍ (Pou)
+
+Code: 130704, Postal: 040605, Coordinates: 13.860109, 105.0149883
+
+#### ប្រមេរុ (Prame)
+
+Code: 130705, Postal: 130703, Coordinates: 13.839856, 105.0652947
+
+#### ព្រះឃ្លាំង (Preah Khleang)
+
+Code: 130706, Postal: 130704, Coordinates: 13.6196183, 105.0305628
+

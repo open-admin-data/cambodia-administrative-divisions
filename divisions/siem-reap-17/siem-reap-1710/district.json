@@ -1,0 +1,47 @@
+{
+  "id": "1710",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សៀមរាប",
+    "en": "Siem Reap",
+    "slug": "siem-reap-1710"
+  },
+  "code": {
+    "id": "1710",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.3617562",
+    "lon": "103.8590321"
+  },
+  "metadata": {},
+  "source": {}
+}

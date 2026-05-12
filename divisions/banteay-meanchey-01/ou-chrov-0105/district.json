@@ -1,0 +1,47 @@
+{
+  "id": "0105",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "អូរជ្រៅ",
+    "en": "Ou Chrov",
+    "slug": "ou-chrov-0105"
+  },
+  "code": {
+    "id": "0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "បន្ទាយមានជ័យ",
+      "en": "Banteay Meanchey",
+      "slug": "banteay-meanchey-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.6129122",
+    "lon": "102.7651907"
+  },
+  "metadata": {},
+  "source": {}
+}

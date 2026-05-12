@@ -1,0 +1,160 @@
+# Koh Kong — Cambodia Administrative Divisions
+
+> 7 districts, 29 communes
+> Code: 09
+> Coordinates: 11.6813417, 103.0258043
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### បុទុមសាគរ (Botum Sakor)
+
+Code: 0901, Coordinates: 11.1910731, 103.4626525
+Communes: 4
+
+#### អណ្ដូងទឹក (Andoung Tuek)
+
+Code: 090101, Postal: 090101
+
+#### កណ្ដោល (Kandaol)
+
+Code: 090102, Postal: 090102
+
+#### តានូន (Ta Noun)
+
+Code: 090103, Postal: 090103, Coordinates: 10.9622477, 103.251013
+
+#### ថ្មស (Thma Sa)
+
+Code: 090104, Postal: 090104, Coordinates: 10.8972827, 103.4049675
+
+### កោះកុង (Kaoh Kong)
+
+Code: 0903, Coordinates: 11.4560302, 103.122046
+Communes: 4
+
+#### ជ្រោយប្រស់ (Chrouy Pras)
+
+Code: 090301, Postal: 090301, Coordinates: 11.3767147, 103.1495056
+
+#### កោះកាពិ (Kaoh Kapi)
+
+Code: 090302, Postal: 090302
+
+#### តាតៃក្រោម (Ta Tai Kraom)
+
+Code: 090303, Postal: 090303, Coordinates: 11.5392278, 103.1652783
+
+#### ត្រពាំងរូង (Trapeang Rung)
+
+Code: 090304, Postal: 090304
+
+### ខេមរភូមិន្ទ (Khemara Phoumin)
+
+Code: 0904, Coordinates: 11.6110095, 102.9818592
+Communes: 3
+
+#### ដងទង់ (Dang Tong)
+
+Code: 090402, Postal: 090702, Coordinates: 11.6014846, 102.9801661
+
+#### ស្មាច់មានជ័យ (Smach Mean Chey)
+
+Code: 090401, Postal: 090701, Coordinates: 11.6153764, 102.9836635
+
+#### ស្ទឹងវែង (Stueng Veaeng)
+
+Code: 090403, Postal: 090703, Coordinates: 11.588693, 102.9952598
+
+### គិរីសាគរ (Kiri Sakor)
+
+Code: 0902, Coordinates: 10.9422524, 103.1004568
+Communes: 3
+
+#### កោះស្ដេច (Kaoh Sdach)
+
+Code: 090201, Postal: 090201, Coordinates: 10.9578615, 103.1428059
+
+#### ភ្ញីមាស (Phnhi Meas)
+
+Code: 090202, Postal: 090202, Coordinates: 11.1329262, 103.1827729
+
+#### ព្រែកខ្សាច់ (Preaek Khsach)
+
+Code: 090203, Postal: 090203, Coordinates: 11.2220723, 103.1462592
+
+### មណ្ឌលសីមា (Mondol Seima)
+
+Code: 0905, Coordinates: 11.5698303, 102.9539371
+Communes: 3
+
+#### ប៉ាក់ខ្លង (Pak Khlang)
+
+Code: 090501, Postal: 090401
+
+#### ពាមក្រសោប (Peam Krasaob)
+
+Code: 090502, Postal: 090402, Coordinates: 11.5261187, 103.0003609
+
+#### ទួលគគីរ (Tuol Kokir)
+
+Code: 090503, Postal: 090403, Coordinates: 11.5279255, 103.0686912
+
+### ស្រែ អំបិល (Srae Ambel)
+
+Code: 0906, Coordinates: 11.4655178, 103.8216261
+Communes: 6
+
+#### បឹងព្រាវ (Boeng Preav)
+
+Code: 090601, Postal: 090501
+
+#### ជី ខ ក្រោម (Chi Kha Kraom)
+
+Code: 090602, Postal: 090502
+
+#### ជី ខ លើ (Chi kha Leu)
+
+Code: 090603, Postal: 090503, Coordinates: 11.1776649, 103.6683256
+
+#### ជ្រោយស្វាយ (Chrouy Svay)
+
+Code: 090604, Postal: 090504
+
+#### ដងពែង (Dang Peaeng)
+
+Code: 090605, Postal: 090505
+
+#### ស្រែអំបិល (Srae Ambel)
+
+Code: 090606, Postal: 090506
+
+### ថ្មបាំង (Thma Bang)
+
+Code: 0907, Coordinates: 11.6893621, 103.438509
+Communes: 6
+
+#### ជីផាត (Chi Phat)
+
+Code: 090705, Postal: 090605
+
+#### ជំនាប់ (Chumnoab)
+
+Code: 090703, Postal: 090603, Coordinates: 11.6540275, 103.548067
+
+#### ប្រឡាយ (Pralay)
+
+Code: 090702, Postal: 060709
+
+#### ឫស្សីជ្រុំ (Ruessei Chrum)
+
+Code: 090704, Postal: 090604, Coordinates: 11.6835416, 103.4427791
+
+#### តាទៃលើ (Ta Tey Leu)
+
+Code: 090701, Postal: 090601, Coordinates: 11.8391583, 103.4511768
+
+#### ថ្មដូនពៅ (Thma Doun Pov)
+
+Code: 090706, Postal: 090606
+

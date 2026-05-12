@@ -1,0 +1,338 @@
+[
+  {
+    "id": "010901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងបេង",
+      "en": "Boeng Beng",
+      "slug": "boeng-beng-010901"
+    },
+    "code": {
+      "id": "010901",
+      "iso": null
+    },
+    "parent": {
+      "id": "0109",
+      "level": 2,
+      "name": {
+        "local": "ម៉ាឡៃ",
+        "en": "Malai",
+        "slug": "malai-0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0109",
+        "level": 2,
+        "name": {
+          "local": "ម៉ាឡៃ",
+          "en": "Malai",
+          "slug": "malai-0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010701"
+    ],
+    "geo": {
+      "lat": "13.5131183",
+      "lon": "102.3680025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម៉ាឡៃ",
+      "en": "Malai",
+      "slug": "malai-010902"
+    },
+    "code": {
+      "id": "010902",
+      "iso": null
+    },
+    "parent": {
+      "id": "0109",
+      "level": 2,
+      "name": {
+        "local": "ម៉ាឡៃ",
+        "en": "Malai",
+        "slug": "malai-0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0109",
+        "level": 2,
+        "name": {
+          "local": "ម៉ាឡៃ",
+          "en": "Malai",
+          "slug": "malai-0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010702"
+    ],
+    "geo": {
+      "lat": "13.5687169",
+      "lon": "102.3657833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរសំព័រ",
+      "en": "Ou Sampoar",
+      "slug": "ou-sampoar-010903"
+    },
+    "code": {
+      "id": "010903",
+      "iso": null
+    },
+    "parent": {
+      "id": "0109",
+      "level": 2,
+      "name": {
+        "local": "ម៉ាឡៃ",
+        "en": "Malai",
+        "slug": "malai-0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0109",
+        "level": 2,
+        "name": {
+          "local": "ម៉ាឡៃ",
+          "en": "Malai",
+          "slug": "malai-0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010704"
+    ],
+    "geo": {
+      "lat": "13.5274362",
+      "lon": "102.5017998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរស្រឡៅ",
+      "en": "Ou Sralau",
+      "slug": "ou-sralau-010904"
+    },
+    "code": {
+      "id": "010904",
+      "iso": null
+    },
+    "parent": {
+      "id": "0109",
+      "level": 2,
+      "name": {
+        "local": "ម៉ាឡៃ",
+        "en": "Malai",
+        "slug": "malai-0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0109",
+        "level": 2,
+        "name": {
+          "local": "ម៉ាឡៃ",
+          "en": "Malai",
+          "slug": "malai-0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010703"
+    ],
+    "geo": {
+      "lat": "13.5240854",
+      "lon": "102.4317522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាគង់",
+      "en": "Ta Kong",
+      "slug": "ta-kong-010906"
+    },
+    "code": {
+      "id": "010906",
+      "iso": null
+    },
+    "parent": {
+      "id": "0109",
+      "level": 2,
+      "name": {
+        "local": "ម៉ាឡៃ",
+        "en": "Malai",
+        "slug": "malai-0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0109",
+        "level": 2,
+        "name": {
+          "local": "ម៉ាឡៃ",
+          "en": "Malai",
+          "slug": "malai-0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010706"
+    ],
+    "geo": {
+      "lat": "13.5068435",
+      "lon": "102.7252954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលពង្រ",
+      "en": "Tuol Pongro",
+      "slug": "tuol-pongro-010905"
+    },
+    "code": {
+      "id": "010905",
+      "iso": null
+    },
+    "parent": {
+      "id": "0109",
+      "level": 2,
+      "name": {
+        "local": "ម៉ាឡៃ",
+        "en": "Malai",
+        "slug": "malai-0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0109",
+        "level": 2,
+        "name": {
+          "local": "ម៉ាឡៃ",
+          "en": "Malai",
+          "slug": "malai-0109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010705"
+    ],
+    "geo": {
+      "lat": "13.5531144",
+      "lon": "102.5938233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

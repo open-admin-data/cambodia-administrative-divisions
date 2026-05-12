@@ -1,0 +1,450 @@
+[
+  {
+    "id": "080201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្ទាយដែក",
+      "en": "Banteay Daek",
+      "slug": "banteay-daek-080201"
+    },
+    "code": {
+      "id": "080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0802",
+      "level": 2,
+      "name": {
+        "local": "កៀនស្វាយ",
+        "en": "Kien Svay",
+        "slug": "kien-svay-0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0802",
+        "level": 2,
+        "name": {
+          "local": "កៀនស្វាយ",
+          "en": "Kien Svay",
+          "slug": "kien-svay-0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈើទាល",
+      "en": "Chheu Teal",
+      "slug": "chheu-teal-080202"
+    },
+    "code": {
+      "id": "080202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0802",
+      "level": 2,
+      "name": {
+        "local": "កៀនស្វាយ",
+        "en": "Kien Svay",
+        "slug": "kien-svay-0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0802",
+        "level": 2,
+        "name": {
+          "local": "កៀនស្វាយ",
+          "en": "Kien Svay",
+          "slug": "kien-svay-0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020104"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដីឥដ្ឋ",
+      "en": "Dei Edth",
+      "slug": "dei-edth-080203"
+    },
+    "code": {
+      "id": "080203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0802",
+      "level": 2,
+      "name": {
+        "local": "កៀនស្វាយ",
+        "en": "Kien Svay",
+        "slug": "kien-svay-0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0802",
+        "level": 2,
+        "name": {
+          "local": "កៀនស្វាយ",
+          "en": "Kien Svay",
+          "slug": "kien-svay-0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081003"
+    ],
+    "geo": {
+      "lat": "11.4951009",
+      "lon": "105.097744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ស្វាយ",
+      "en": "Kampong Svay",
+      "slug": "kampong-svay-080204"
+    },
+    "code": {
+      "id": "080204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0802",
+      "level": 2,
+      "name": {
+        "local": "កៀនស្វាយ",
+        "en": "Kien Svay",
+        "slug": "kien-svay-0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0802",
+        "level": 2,
+        "name": {
+          "local": "កៀនស្វាយ",
+          "en": "Kien Svay",
+          "slug": "kien-svay-0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010801"
+    ],
+    "geo": {
+      "lat": "11.4242235",
+      "lon": "105.0544472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គគីរ",
+      "en": "Kokir",
+      "slug": "kokir-080206"
+    },
+    "code": {
+      "id": "080206",
+      "iso": null
+    },
+    "parent": {
+      "id": "0802",
+      "level": 2,
+      "name": {
+        "local": "កៀនស្វាយ",
+        "en": "Kien Svay",
+        "slug": "kien-svay-0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0802",
+        "level": 2,
+        "name": {
+          "local": "កៀនស្វាយ",
+          "en": "Kien Svay",
+          "slug": "kien-svay-0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060110"
+    ],
+    "geo": {
+      "lat": "11.5069608",
+      "lon": "105.0574279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គគីរធំ",
+      "en": "Kokir Thum",
+      "slug": "kokir-thum-080207"
+    },
+    "code": {
+      "id": "080207",
+      "iso": null
+    },
+    "parent": {
+      "id": "0802",
+      "level": 2,
+      "name": {
+        "local": "កៀនស្វាយ",
+        "en": "Kien Svay",
+        "slug": "kien-svay-0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0802",
+        "level": 2,
+        "name": {
+          "local": "កៀនស្វាយ",
+          "en": "Kien Svay",
+          "slug": "kien-svay-0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081006"
+    ],
+    "geo": {
+      "lat": "11.3375284",
+      "lon": "105.2415774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភូមិធំ",
+      "en": "Phum Thum",
+      "slug": "phum-thum-080208"
+    },
+    "code": {
+      "id": "080208",
+      "iso": null
+    },
+    "parent": {
+      "id": "0802",
+      "level": 2,
+      "name": {
+        "local": "កៀនស្វាយ",
+        "en": "Kien Svay",
+        "slug": "kien-svay-0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0802",
+        "level": 2,
+        "name": {
+          "local": "កៀនស្វាយ",
+          "en": "Kien Svay",
+          "slug": "kien-svay-0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080608"
+    ],
+    "geo": {
+      "lat": "11.5107159",
+      "lon": "105.1887109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោងធំ",
+      "en": "Samraong Thum",
+      "slug": "samraong-thum-080211"
+    },
+    "code": {
+      "id": "080211",
+      "iso": null
+    },
+    "parent": {
+      "id": "0802",
+      "level": 2,
+      "name": {
+        "local": "កៀនស្វាយ",
+        "en": "Kien Svay",
+        "slug": "kien-svay-0802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0802",
+        "level": 2,
+        "name": {
+          "local": "កៀនស្វាយ",
+          "en": "Kien Svay",
+          "slug": "kien-svay-0802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081008"
+    ],
+    "geo": {
+      "lat": "11.4141629",
+      "lon": "105.2220026"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "080302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ័យធំ",
+      "en": "Chey Thum",
+      "slug": "chey-thum-080302"
+    },
+    "code": {
+      "id": "080302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080202"
+    ],
+    "geo": {
+      "lat": "11.725452",
+      "lon": "105.1207161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ចំលង",
+      "en": "Kampong Chamlang",
+      "slug": "kampong-chamlang-080303"
+    },
+    "code": {
+      "id": "080303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះចូរ៉ាម",
+      "en": "Kaoh Chouram",
+      "slug": "kaoh-chouram-080304"
+    },
+    "code": {
+      "id": "080304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080204"
+    ],
+    "geo": {
+      "lat": "11.8249229",
+      "lon": "105.0173203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកតាមាក់",
+      "en": "Preaek Ta Meak",
+      "slug": "preaek-ta-meak-080310"
+    },
+    "code": {
+      "id": "080310",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះប្រសប់",
+      "en": "Preah Prasab",
+      "slug": "preah-prasab-080306"
+    },
+    "code": {
+      "id": "080306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080206"
+    ],
+    "geo": {
+      "lat": "11.7740435",
+      "lon": "105.0258702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080311",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពុកឫស្សី",
+      "en": "Puk Ruessei",
+      "slug": "puk-ruessei-080311"
+    },
+    "code": {
+      "id": "080311",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80311"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080312",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាជន្លឹង",
+      "en": "Roka Chonlueng",
+      "slug": "roka-chonlueng-080312"
+    },
+    "code": {
+      "id": "080312",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080212"
+    ],
+    "geo": {
+      "lat": "11.7369758",
+      "lon": "105.0745018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080313",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សន្លុង",
+      "en": "Sanlung",
+      "slug": "sanlung-080313"
+    },
+    "code": {
+      "id": "080313",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080213"
+    ],
+    "geo": {
+      "lat": "11.6880824",
+      "lon": "105.0673048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080314",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស៊ីធរ",
+      "en": "Sithor",
+      "slug": "sithor-080314"
+    },
+    "code": {
+      "id": "080314",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080214"
+    ],
+    "geo": {
+      "lat": "11.6735261",
+      "lon": "105.1034641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080316",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយរមៀត",
+      "en": "Svay Romiet",
+      "slug": "svay-romiet-080316"
+    },
+    "code": {
+      "id": "080316",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080216"
+    ],
+    "geo": {
+      "lat": "11.7943507",
+      "lon": "105.0159691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080317",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាឯក",
+      "en": "Ta Aek",
+      "slug": "ta-aek-080317"
+    },
+    "code": {
+      "id": "080317",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080217"
+    ],
+    "geo": {
+      "lat": "11.8328896",
+      "lon": "105.0257458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080318",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វិហារសួគ៌",
+      "en": "Vihear Suork",
+      "slug": "vihear-suork-080318"
+    },
+    "code": {
+      "id": "080318",
+      "iso": null
+    },
+    "parent": {
+      "id": "0803",
+      "level": 2,
+      "name": {
+        "local": "ខ្សាច់កណ្ដាល",
+        "en": "Khsach Kandal",
+        "slug": "khsach-kandal-0803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0803",
+        "level": 2,
+        "name": {
+          "local": "ខ្សាច់កណ្ដាល",
+          "en": "Khsach Kandal",
+          "slug": "khsach-kandal-0803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080218"
+    ],
+    "geo": {
+      "lat": "11.6692751",
+      "lon": "105.066954"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

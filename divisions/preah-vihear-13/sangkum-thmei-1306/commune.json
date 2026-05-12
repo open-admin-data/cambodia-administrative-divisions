@@ -1,0 +1,282 @@
+[
+  {
+    "id": "130601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំរើន",
+      "en": "Chamraeun",
+      "slug": "chamraeun-130601"
+    },
+    "code": {
+      "id": "130601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "សង្គមថ្មី",
+        "en": "Sangkum Thmei",
+        "slug": "sangkum-thmei-1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "សង្គមថ្មី",
+          "en": "Sangkum Thmei",
+          "slug": "sangkum-thmei-1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130601"
+    ],
+    "geo": {
+      "lat": "13.5803445",
+      "lon": "104.909716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំត្បែងមួយ",
+      "en": "Phnum Tbaeng Muoy",
+      "slug": "phnum-tbaeng-muoy-130603"
+    },
+    "code": {
+      "id": "130603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "សង្គមថ្មី",
+        "en": "Sangkum Thmei",
+        "slug": "sangkum-thmei-1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "សង្គមថ្មី",
+          "en": "Sangkum Thmei",
+          "slug": "sangkum-thmei-1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130603"
+    ],
+    "geo": {
+      "lat": "13.6735405",
+      "lon": "104.8462001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រអាង",
+      "en": "Ro'ang",
+      "slug": "roang-130602"
+    },
+    "code": {
+      "id": "130602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "សង្គមថ្មី",
+        "en": "Sangkum Thmei",
+        "slug": "sangkum-thmei-1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "សង្គមថ្មី",
+          "en": "Sangkum Thmei",
+          "slug": "sangkum-thmei-1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030511"
+    ],
+    "geo": {
+      "lat": "13.6251957",
+      "lon": "104.8985728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រណសិរ្ស",
+      "en": "Ronak Ser",
+      "slug": "ronak-ser-130605"
+    },
+    "code": {
+      "id": "130605",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "សង្គមថ្មី",
+        "en": "Sangkum Thmei",
+        "slug": "sangkum-thmei-1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "សង្គមថ្មី",
+          "en": "Sangkum Thmei",
+          "slug": "sangkum-thmei-1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130605"
+    ],
+    "geo": {
+      "lat": "13.4050749",
+      "lon": "104.781121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ដៅ",
+      "en": "Sdau",
+      "slug": "sdau-130604"
+    },
+    "code": {
+      "id": "130604",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "សង្គមថ្មី",
+        "en": "Sangkum Thmei",
+        "slug": "sangkum-thmei-1306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "សង្គមថ្មី",
+          "en": "Sangkum Thmei",
+          "slug": "sangkum-thmei-1306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020701"
+    ],
+    "geo": {
+      "lat": "13.5049296",
+      "lon": "104.827772"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

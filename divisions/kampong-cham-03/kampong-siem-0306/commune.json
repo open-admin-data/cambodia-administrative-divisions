@@ -1,0 +1,842 @@
+[
+  {
+    "id": "030601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពិល",
+      "en": "Ampil",
+      "slug": "ampil-030601"
+    },
+    "code": {
+      "id": "030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ហាន់ជ័យ",
+      "en": "Hanchey",
+      "slug": "hanchey-030602"
+    },
+    "code": {
+      "id": "030602",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030502"
+    ],
+    "geo": {
+      "lat": "12.1536062",
+      "lon": "105.5284223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះមិត្ដ",
+      "en": "Kaoh Mitt",
+      "slug": "kaoh-mitt-030605"
+    },
+    "code": {
+      "id": "030605",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030505"
+    ],
+    "geo": {
+      "lat": "11.9573213",
+      "lon": "105.452075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះរកា",
+      "en": "Kaoh Roka",
+      "slug": "kaoh-roka-030606"
+    },
+    "code": {
+      "id": "030606",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030506"
+    ],
+    "geo": {
+      "lat": "11.951468",
+      "lon": "105.4090745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះសំរោង",
+      "en": "Kaoh Samraong",
+      "slug": "kaoh-samraong-030607"
+    },
+    "code": {
+      "id": "030607",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030507"
+    ],
+    "geo": {
+      "lat": "12.0632386",
+      "lon": "105.5175626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះទន្ទឹម",
+      "en": "Kaoh Tontuem",
+      "slug": "kaoh-tontuem-030608"
+    },
+    "code": {
+      "id": "030608",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30608"
+    ],
+    "geo": {
+      "lat": "11.9357037",
+      "lon": "105.401235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កៀនជ្រៃ",
+      "en": "Kien Chrey",
+      "slug": "kien-chrey-030603"
+    },
+    "code": {
+      "id": "030603",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030503"
+    ],
+    "geo": {
+      "lat": "12.0705076",
+      "lon": "105.4954188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គគរ",
+      "en": "Kokor",
+      "slug": "kokor-030604"
+    },
+    "code": {
+      "id": "030604",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030504"
+    ],
+    "geo": {
+      "lat": "11.939426",
+      "lon": "105.3704026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រឡា",
+      "en": "Krala",
+      "slug": "krala-030609"
+    },
+    "code": {
+      "id": "030609",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030509"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030610",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរស្វាយ",
+      "en": "Ou Svay",
+      "slug": "ou-svay-030610"
+    },
+    "code": {
+      "id": "030610",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030510"
+    ],
+    "geo": {
+      "lat": "12.0957976",
+      "lon": "105.3871217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030611",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រអាង",
+      "en": "Ro'ang",
+      "slug": "roang-030611"
+    },
+    "code": {
+      "id": "030611",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030511"
+    ],
+    "geo": {
+      "lat": "12.022954",
+      "lon": "105.4657057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030612",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រំចេក",
+      "en": "Rumchek",
+      "slug": "rumchek-030612"
+    },
+    "code": {
+      "id": "030612",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030512"
+    ],
+    "geo": {
+      "lat": "12.1002937",
+      "lon": "105.5160858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030613",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រក",
+      "en": "Srak",
+      "slug": "srak-030613"
+    },
+    "code": {
+      "id": "030613",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030513"
+    ],
+    "geo": {
+      "lat": "12.1319265",
+      "lon": "105.4347385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030614",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ្រាន",
+      "en": "Trean",
+      "slug": "trean-030614"
+    },
+    "code": {
+      "id": "030614",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030514"
+    ],
+    "geo": {
+      "lat": "12.0802848",
+      "lon": "105.4313663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030615",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វិហារធំ",
+      "en": "Vihear Thum",
+      "slug": "vihear-thum-030615"
+    },
+    "code": {
+      "id": "030615",
+      "iso": null
+    },
+    "parent": {
+      "id": "0306",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សៀម",
+        "en": "Kampong Siem",
+        "slug": "kampong-siem-0306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0306",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សៀម",
+          "en": "Kampong Siem",
+          "slug": "kampong-siem-0306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030515"
+    ],
+    "geo": {
+      "lat": "12.012794",
+      "lon": "105.3743655"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

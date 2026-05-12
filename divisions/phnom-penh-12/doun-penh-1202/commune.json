@@ -1,0 +1,618 @@
+[
+  {
+    "id": "120204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងរាំង",
+      "en": "Boeng Reang",
+      "slug": "boeng-reang-120204"
+    },
+    "code": {
+      "id": "120204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021102"
+    ],
+    "geo": {
+      "lat": "11.5606982",
+      "lon": "104.9218237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចតុមុខ",
+      "en": "Chakto Mukh",
+      "slug": "chakto-mukh-120207"
+    },
+    "code": {
+      "id": "120207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120207"
+    ],
+    "geo": {
+      "lat": "11.5589062",
+      "lon": "104.9310313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ័យជំនះ",
+      "en": "Chey Chummeah",
+      "slug": "chey-chummeah-120208"
+    },
+    "code": {
+      "id": "120208",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120208"
+    ],
+    "geo": {
+      "lat": "11.5635454",
+      "lon": "104.9318758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារចាស់",
+      "en": "Phsar Chas",
+      "slug": "phsar-chas-120209"
+    },
+    "code": {
+      "id": "120209",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120209"
+    ],
+    "geo": {
+      "lat": "11.5713455",
+      "lon": "104.9261668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារកណ្ដាលទី១",
+      "en": "Phsar Kandal Ti Muoy",
+      "slug": "phsar-kandal-ti-muoy-120205"
+    },
+    "code": {
+      "id": "120205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារកណ្ដាលទី២",
+      "en": "Phsar Kandal Ti Pir",
+      "slug": "phsar-kandal-ti-pir-120206"
+    },
+    "code": {
+      "id": "120206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារថ្មីទី ៣",
+      "en": "Phsar Thmei Ti Bei",
+      "slug": "phsar-thmei-ti-bei-120203"
+    },
+    "code": {
+      "id": "120203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120203"
+    ],
+    "geo": {
+      "lat": "11.5664641",
+      "lon": "104.923734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារថ្មីទី ១",
+      "en": "Phsar Thmei Ti Muoy",
+      "slug": "phsar-thmei-ti-muoy-120201"
+    },
+    "code": {
+      "id": "120201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120201"
+    ],
+    "geo": {
+      "lat": "11.5708489",
+      "lon": "104.9214864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារថ្មីទី ២",
+      "en": "Phsar Thmei Ti Pir",
+      "slug": "phsar-thmei-ti-pir-120202"
+    },
+    "code": {
+      "id": "120202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120202"
+    ],
+    "geo": {
+      "lat": "11.5690196",
+      "lon": "104.9194883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រះចក",
+      "en": "Srah Chak",
+      "slug": "srah-chak-120210"
+    },
+    "code": {
+      "id": "120210",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120210"
+    ],
+    "geo": {
+      "lat": "11.5837416",
+      "lon": "104.9198536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វត្ដភ្នំ",
+      "en": "Voat Phnum",
+      "slug": "voat-phnum-120211"
+    },
+    "code": {
+      "id": "120211",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "ដូនពេញ",
+        "en": "Doun Penh",
+        "slug": "doun-penh-1202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "ដូនពេញ",
+          "en": "Doun Penh",
+          "slug": "doun-penh-1202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

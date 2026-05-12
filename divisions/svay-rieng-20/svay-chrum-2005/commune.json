@@ -1,0 +1,898 @@
+[
+  {
+    "id": "200501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គតាសូ",
+      "en": "Angk Ta Sou",
+      "slug": "angk-ta-sou-200501"
+    },
+    "code": {
+      "id": "200501",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200501"
+    ],
+    "geo": {
+      "lat": "11.2053124",
+      "lon": "105.7066129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាសាក់",
+      "en": "Basak",
+      "slug": "basak-200502"
+    },
+    "code": {
+      "id": "200502",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020605"
+    ],
+    "geo": {
+      "lat": "11.0419146",
+      "lon": "105.8273062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំបក់",
+      "en": "Chambak",
+      "slug": "chambak-200503"
+    },
+    "code": {
+      "id": "200503",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈើទាល",
+      "en": "Chheu Teal",
+      "slug": "chheu-teal-200507"
+    },
+    "code": {
+      "id": "200507",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020104"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200508",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូនស",
+      "en": "Doun Sa",
+      "slug": "doun-sa-200508"
+    },
+    "code": {
+      "id": "200508",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200507"
+    ],
+    "geo": {
+      "lat": "11.2254407",
+      "lon": "105.7151913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ចំឡង",
+      "en": "Kampong Chamlang",
+      "slug": "kampong-chamlang-200504"
+    },
+    "code": {
+      "id": "200504",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080203"
+    ],
+    "geo": {
+      "lat": "11.0647328",
+      "lon": "105.743515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200509",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកព្រីង",
+      "en": "Kouk Pring",
+      "slug": "kouk-pring-200509"
+    },
+    "code": {
+      "id": "200509",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200508"
+    ],
+    "geo": {
+      "lat": "11.1597544",
+      "lon": "105.7020151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200510",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រោលគោ",
+      "en": "Kraol Kou",
+      "slug": "kraol-kou-200510"
+    },
+    "code": {
+      "id": "200510",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200509"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200511",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គ្រួស",
+      "en": "Kruos",
+      "slug": "kruos-200511"
+    },
+    "code": {
+      "id": "200511",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200510"
+    ],
+    "geo": {
+      "lat": "11.0385899",
+      "lon": "105.6566334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200512",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិរាជ",
+      "en": "Pouthi Reach",
+      "slug": "pouthi-reach-200512"
+    },
+    "code": {
+      "id": "200512",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200511"
+    ],
+    "geo": {
+      "lat": "11.1523031",
+      "lon": "105.7527221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200513",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយអង្គ",
+      "en": "Svay Angk",
+      "slug": "svay-angk-200513"
+    },
+    "code": {
+      "id": "200513",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200512"
+    ],
+    "geo": {
+      "lat": "11.1979891",
+      "lon": "105.6668175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200514",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយជ្រំ",
+      "en": "Svay Chrum",
+      "slug": "svay-chrum-200514"
+    },
+    "code": {
+      "id": "200514",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040712"
+    ],
+    "geo": {
+      "lat": "11.1216965",
+      "lon": "105.7224686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200515",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយធំ",
+      "en": "Svay Thum",
+      "slug": "svay-thum-200515"
+    },
+    "code": {
+      "id": "200515",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200514"
+    ],
+    "geo": {
+      "lat": "11.0237229",
+      "lon": "105.6044672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200516",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយយា",
+      "en": "Svay Yea",
+      "slug": "svay-yea-200516"
+    },
+    "code": {
+      "id": "200516",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200515"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាសួស",
+      "en": "Ta Suos",
+      "slug": "ta-suos-200505"
+    },
+    "code": {
+      "id": "200505",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200505"
+    ],
+    "geo": {
+      "lat": "11.0883959",
+      "lon": "105.7050929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200517",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធ្លក",
+      "en": "Thlok",
+      "slug": "thlok-200517"
+    },
+    "code": {
+      "id": "200517",
+      "iso": null
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយជ្រំ",
+        "en": "Svay Chrum",
+        "slug": "svay-chrum-2005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយជ្រំ",
+          "en": "Svay Chrum",
+          "slug": "svay-chrum-2005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200516"
+    ],
+    "geo": {
+      "lat": "11.1908613",
+      "lon": "105.7387409"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

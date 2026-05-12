@@ -1,0 +1,394 @@
+[
+  {
+    "id": "010501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចង្ហា",
+      "en": "Changha",
+      "slug": "changha-010501"
+    },
+    "code": {
+      "id": "010501",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "អូរជ្រៅ",
+        "en": "Ou Chrov",
+        "slug": "ou-chrov-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "អូរជ្រៅ",
+          "en": "Ou Chrov",
+          "slug": "ou-chrov-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010401"
+    ],
+    "geo": {
+      "lat": "13.6441455",
+      "lon": "102.8895714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កូប",
+      "en": "Koub",
+      "slug": "koub-010502"
+    },
+    "code": {
+      "id": "010502",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "អូរជ្រៅ",
+        "en": "Ou Chrov",
+        "slug": "ou-chrov-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "អូរជ្រៅ",
+          "en": "Ou Chrov",
+          "slug": "ou-chrov-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010402"
+    ],
+    "geo": {
+      "lat": "13.6099675",
+      "lon": "102.782981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គុត្ដសត",
+      "en": "Kuttasat",
+      "slug": "kuttasat-010503"
+    },
+    "code": {
+      "id": "010503",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "អូរជ្រៅ",
+        "en": "Ou Chrov",
+        "slug": "ou-chrov-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "អូរជ្រៅ",
+          "en": "Ou Chrov",
+          "slug": "ou-chrov-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010403"
+    ],
+    "geo": {
+      "lat": "13.586266",
+      "lon": "102.7624709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010509",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរបីជាន់",
+      "en": "Ou Beichoan",
+      "slug": "ou-beichoan-010509"
+    },
+    "code": {
+      "id": "010509",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "អូរជ្រៅ",
+        "en": "Ou Chrov",
+        "slug": "ou-chrov-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "អូរជ្រៅ",
+          "en": "Ou Chrov",
+          "slug": "ou-chrov-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010407"
+    ],
+    "geo": {
+      "lat": "13.7374",
+      "lon": "102.7378202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-010505"
+    },
+    "code": {
+      "id": "010505",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "អូរជ្រៅ",
+        "en": "Ou Chrov",
+        "slug": "ou-chrov-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "អូរជ្រៅ",
+          "en": "Ou Chrov",
+          "slug": "ou-chrov-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": "13.5304714",
+      "lon": "102.8328438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សឹង្ហ",
+      "en": "Soengh",
+      "slug": "soengh-010507"
+    },
+    "code": {
+      "id": "010507",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "អូរជ្រៅ",
+        "en": "Ou Chrov",
+        "slug": "ou-chrov-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "អូរជ្រៅ",
+          "en": "Ou Chrov",
+          "slug": "ou-chrov-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010406"
+    ],
+    "geo": {
+      "lat": "13.7273103",
+      "lon": "102.8351942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សូភី",
+      "en": "Souphi",
+      "slug": "souphi-010506"
+    },
+    "code": {
+      "id": "010506",
+      "iso": null
+    },
+    "parent": {
+      "id": "0105",
+      "level": 2,
+      "name": {
+        "local": "អូរជ្រៅ",
+        "en": "Ou Chrov",
+        "slug": "ou-chrov-0105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0105",
+        "level": 2,
+        "name": {
+          "local": "អូរជ្រៅ",
+          "en": "Ou Chrov",
+          "slug": "ou-chrov-0105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010405"
+    ],
+    "geo": {
+      "lat": "13.6496689",
+      "lon": "102.822933"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

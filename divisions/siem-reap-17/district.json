@@ -1,0 +1,613 @@
+[
+  {
+    "id": "1701",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អង្គរជុំ",
+      "en": "Angkor Chum",
+      "slug": "angkor-chum-1701"
+    },
+    "code": {
+      "id": "1701",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.6880963",
+      "lon": "103.6464558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1702",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អង្គរធំ",
+      "en": "Angkor Thum",
+      "slug": "angkor-thum-1702"
+    },
+    "code": {
+      "id": "1702",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5793769",
+      "lon": "103.85457242215985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បន្ទាយស្រី",
+      "en": "Banteay Srei",
+      "slug": "banteay-srei-1703"
+    },
+    "code": {
+      "id": "1703",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5958699",
+      "lon": "103.92117104314269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1704",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ជីក្រែង",
+      "en": "Chi Kraeng",
+      "slug": "chi-kraeng-1704"
+    },
+    "code": {
+      "id": "1704",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.1627418",
+      "lon": "104.32432059828129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ក្រឡាញ់",
+      "en": "Kralanh",
+      "slug": "kralanh-1706"
+    },
+    "code": {
+      "id": "1706",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5473871",
+      "lon": "103.47742125362274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ប្រាសាទបាគង",
+      "en": "Prasat Bakong",
+      "slug": "prasat-bakong-1709"
+    },
+    "code": {
+      "id": "1709",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.3421471",
+      "lon": "103.9978446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពួក",
+      "en": "Puok",
+      "slug": "puok-1707"
+    },
+    "code": {
+      "id": "1707",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.4529277",
+      "lon": "103.62917029133641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1715",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "រុនតាឯកតេជោសែន",
+      "en": "Run Ta Aek Techo Sen",
+      "slug": "run-ta-aek-techo-sen-1715"
+    },
+    "code": {
+      "id": "1715",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1710",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-1710"
+    },
+    "code": {
+      "id": "1710",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.3617562",
+      "lon": "103.8590321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1711",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សូទ្រនិគម",
+      "en": "Soutr Nikom",
+      "slug": "soutr-nikom-1711"
+    },
+    "code": {
+      "id": "1711",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.2376056",
+      "lon": "104.1354139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1712",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្រីស្នំ",
+      "en": "Srei Snam",
+      "slug": "srei-snam-1712"
+    },
+    "code": {
+      "id": "1712",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8323579",
+      "lon": "103.53640572541116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1713",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្វាយលើ",
+      "en": "Svay Leu",
+      "slug": "svay-leu-1713"
+    },
+    "code": {
+      "id": "1713",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.68175535",
+      "lon": "104.26044219887697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1714",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "វ៉ារិន",
+      "en": "Varin",
+      "slug": "varin-1714"
+    },
+    "code": {
+      "id": "1714",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8239235",
+      "lon": "103.92390649704802"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

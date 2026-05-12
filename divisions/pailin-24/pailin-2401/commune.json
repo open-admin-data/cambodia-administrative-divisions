@@ -1,0 +1,226 @@
+[
+  {
+    "id": "240104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បរយ៉ាខា",
+      "en": "Bar Yakha",
+      "slug": "bar-yakha-240104"
+    },
+    "code": {
+      "id": "240104",
+      "iso": null
+    },
+    "parent": {
+      "id": "2401",
+      "level": 2,
+      "name": {
+        "local": "ប៉ៃលិន",
+        "en": "Pailin",
+        "slug": "pailin-2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      },
+      {
+        "id": "2401",
+        "level": 2,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "230204"
+    ],
+    "geo": {
+      "lat": "12.7461952",
+      "lon": "102.5412761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរតាវ៉ៅ",
+      "en": "Ou Ta Vau",
+      "slug": "ou-ta-vau-240102"
+    },
+    "code": {
+      "id": "240102",
+      "iso": null
+    },
+    "parent": {
+      "id": "2401",
+      "level": 2,
+      "name": {
+        "local": "ប៉ៃលិន",
+        "en": "Pailin",
+        "slug": "pailin-2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      },
+      {
+        "id": "2401",
+        "level": 2,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "230202"
+    ],
+    "geo": {
+      "lat": "12.8124764",
+      "lon": "102.7164961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ៃលិន",
+      "en": "Pailin",
+      "slug": "pailin-240101"
+    },
+    "code": {
+      "id": "240101",
+      "iso": null
+    },
+    "parent": {
+      "id": "2401",
+      "level": 2,
+      "name": {
+        "local": "ប៉ៃលិន",
+        "en": "Pailin",
+        "slug": "pailin-2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      },
+      {
+        "id": "2401",
+        "level": 2,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "230201"
+    ],
+    "geo": {
+      "lat": "12.8551703",
+      "lon": "102.6089534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលល្វា",
+      "en": "Tuol Lvea",
+      "slug": "tuol-lvea-240103"
+    },
+    "code": {
+      "id": "240103",
+      "iso": null
+    },
+    "parent": {
+      "id": "2401",
+      "level": 2,
+      "name": {
+        "local": "ប៉ៃលិន",
+        "en": "Pailin",
+        "slug": "pailin-2401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      },
+      {
+        "id": "2401",
+        "level": 2,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-2401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "230203"
+    ],
+    "geo": {
+      "lat": "12.8677609",
+      "lon": "102.5878346"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

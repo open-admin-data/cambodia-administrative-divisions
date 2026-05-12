@@ -1,0 +1,47 @@
+{
+  "id": "0107",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ថ្មពួក",
+    "en": "Thma Puok",
+    "slug": "thma-puok-0107"
+  },
+  "code": {
+    "id": "0107",
+    "iso": null
+  },
+  "parent": {
+    "id": "01",
+    "level": 1,
+    "name": {
+      "local": "បន្ទាយមានជ័យ",
+      "en": "Banteay Meanchey",
+      "slug": "banteay-meanchey-01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "01",
+      "level": 1,
+      "name": {
+        "local": "បន្ទាយមានជ័យ",
+        "en": "Banteay Meanchey",
+        "slug": "banteay-meanchey-01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.9494974",
+    "lon": "103.0544638"
+  },
+  "metadata": {},
+  "source": {}
+}

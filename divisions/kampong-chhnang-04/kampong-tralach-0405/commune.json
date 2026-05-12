@@ -1,0 +1,562 @@
+[
+  {
+    "id": "040501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពិលទឹក",
+      "en": "Ampil Tuek",
+      "slug": "ampil-tuek-040501"
+    },
+    "code": {
+      "id": "040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈូកស",
+      "en": "Chhuk Sa",
+      "slug": "chhuk-sa-040502"
+    },
+    "code": {
+      "id": "040502",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040202"
+    ],
+    "geo": {
+      "lat": "12.0138056",
+      "lon": "104.665659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រេស",
+      "en": "Chres",
+      "slug": "chres-040503"
+    },
+    "code": {
+      "id": "040503",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ត្រឡាច",
+      "en": "Kampong Tralach",
+      "slug": "kampong-tralach-040504"
+    },
+    "code": {
+      "id": "040504",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040204"
+    ],
+    "geo": {
+      "lat": "11.9104309",
+      "lon": "104.7733695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លង្វែក",
+      "en": "Longveaek",
+      "slug": "longveaek-040505"
+    },
+    "code": {
+      "id": "040505",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040205"
+    ],
+    "geo": {
+      "lat": "11.8703074",
+      "lon": "104.7465631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឫស្សី",
+      "en": "Ou Ruessei",
+      "slug": "ou-ruessei-040506"
+    },
+    "code": {
+      "id": "040506",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120301"
+    ],
+    "geo": {
+      "lat": "11.9353592",
+      "lon": "104.7219294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពានី",
+      "en": "Peani",
+      "slug": "peani-040507"
+    },
+    "code": {
+      "id": "040507",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040508",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សែប",
+      "en": "Saeb",
+      "slug": "saeb-040508"
+    },
+    "code": {
+      "id": "040508",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040208"
+    ],
+    "geo": {
+      "lat": "12.0577491",
+      "lon": "104.7265356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040509",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាជេស",
+      "en": "Ta Ches",
+      "slug": "ta-ches-040509"
+    },
+    "code": {
+      "id": "040509",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040209"
+    ],
+    "geo": {
+      "lat": "12.0134513",
+      "lon": "104.7454602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040510",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មឥដ្ឋ",
+      "en": "Thma Edth",
+      "slug": "thma-edth-040510"
+    },
+    "code": {
+      "id": "040510",
+      "iso": null
+    },
+    "parent": {
+      "id": "0405",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ត្រឡាច",
+        "en": "Kampong Tralach",
+        "slug": "kampong-tralach-0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0405",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ត្រឡាច",
+          "en": "Kampong Tralach",
+          "slug": "kampong-tralach-0405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "210601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្កាញ់",
+      "en": "Angkanh",
+      "slug": "angkanh-210601"
+    },
+    "code": {
+      "id": "210601",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210101"
+    ],
+    "geo": {
+      "lat": "10.8865424",
+      "lon": "104.8322133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បានកាម",
+      "en": "Ban Kam",
+      "slug": "ban-kam-210602"
+    },
+    "code": {
+      "id": "210602",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210402"
+    ],
+    "geo": {
+      "lat": "11.1395167",
+      "lon": "104.939078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំប៉ា",
+      "en": "Champa",
+      "slug": "champa-210603"
+    },
+    "code": {
+      "id": "210603",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210403"
+    ],
+    "geo": {
+      "lat": "11.1481076",
+      "lon": "104.9054944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចារ",
+      "en": "Char",
+      "slug": "char-210604"
+    },
+    "code": {
+      "id": "210604",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210404"
+    ],
+    "geo": {
+      "lat": "11.1993554",
+      "lon": "104.9176615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពែង",
+      "en": "Kampeaeng",
+      "slug": "kampeaeng-210605"
+    },
+    "code": {
+      "id": "210605",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210405"
+    ],
+    "geo": {
+      "lat": "11.0961138",
+      "lon": "104.8768861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់រាប",
+      "en": "Kampong Reab",
+      "slug": "kampong-reab-210606"
+    },
+    "code": {
+      "id": "210606",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030701"
+    ],
+    "geo": {
+      "lat": "11.1471187",
+      "lon": "105.0016469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្ដាញ់",
+      "en": "Kdanh",
+      "slug": "kdanh-210607"
+    },
+    "code": {
+      "id": "210607",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210407"
+    ],
+    "geo": {
+      "lat": "11.2007118",
+      "lon": "104.8852528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍រំចាក",
+      "en": "Pou Rumchak",
+      "slug": "pou-rumchak-210608"
+    },
+    "code": {
+      "id": "210608",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210408"
+    ],
+    "geo": {
+      "lat": "11.1206882",
+      "lon": "104.9412519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃកប្បាស",
+      "en": "Prey Kabbas",
+      "slug": "prey-kabbas-210609"
+    },
+    "code": {
+      "id": "210609",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210409"
+    ],
+    "geo": {
+      "lat": "11.09663",
+      "lon": "104.9464702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210610",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃល្វា",
+      "en": "Prey Lvea",
+      "slug": "prey-lvea-210610"
+    },
+    "code": {
+      "id": "210610",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210410"
+    ],
+    "geo": {
+      "lat": "11.1624021",
+      "lon": "104.9587343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210611",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃផ្ដៅ",
+      "en": "Prey Phdau",
+      "slug": "prey-phdau-210611"
+    },
+    "code": {
+      "id": "210611",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210411"
+    ],
+    "geo": {
+      "lat": "11.16143",
+      "lon": "104.8748645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210612",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្នោ",
+      "en": "Snao",
+      "slug": "snao-210612"
+    },
+    "code": {
+      "id": "210612",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210412"
+    ],
+    "geo": {
+      "lat": "11.183963",
+      "lon": "104.9403755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210613",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងយ៉ាប",
+      "en": "Tang Yab",
+      "slug": "tang-yab-210613"
+    },
+    "code": {
+      "id": "210613",
+      "iso": null
+    },
+    "parent": {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃកប្បាស",
+        "en": "Prey Kabbas",
+        "slug": "prey-kabbas-2106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2106",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃកប្បាស",
+          "en": "Prey Kabbas",
+          "slug": "prey-kabbas-2106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210413"
+    ],
+    "geo": {
+      "lat": "11.1882245",
+      "lon": "104.8587941"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

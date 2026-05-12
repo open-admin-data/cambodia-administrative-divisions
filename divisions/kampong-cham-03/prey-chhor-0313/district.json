@@ -1,0 +1,47 @@
+{
+  "id": "0313",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ព្រៃឈរ",
+    "en": "Prey Chhor",
+    "slug": "prey-chhor-0313"
+  },
+  "code": {
+    "id": "0313",
+    "iso": null
+  },
+  "parent": {
+    "id": "03",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.055781",
+    "lon": "105.2552028"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "0301",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បាធាយ",
+    "en": "Batheay",
+    "slug": "batheay-0301"
+  },
+  "code": {
+    "id": "0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "03",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.9931056",
+    "lon": "104.9457831"
+  },
+  "metadata": {},
+  "source": {}
+}

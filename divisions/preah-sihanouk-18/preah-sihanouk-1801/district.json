@@ -1,0 +1,47 @@
+{
+  "id": "1801",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ព្រះសីហនុ",
+    "en": "Preah Sihanouk",
+    "slug": "preah-sihanouk-1801"
+  },
+  "code": {
+    "id": "1801",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "ព្រះសីហនុ",
+      "en": "Preah Sihanouk",
+      "slug": "preah-sihanouk-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "ព្រះសីហនុ",
+        "en": "Preah Sihanouk",
+        "slug": "preah-sihanouk-18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.6220485",
+    "lon": "103.5223365"
+  },
+  "metadata": {},
+  "source": {}
+}

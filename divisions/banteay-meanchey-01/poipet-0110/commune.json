@@ -1,0 +1,282 @@
+[
+  {
+    "id": "011001",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "និមិត្ដ",
+      "en": "Nimitt",
+      "slug": "nimitt-011001"
+    },
+    "code": {
+      "id": "011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "ប៉ោយប៉ែត",
+        "en": "Poipet",
+        "slug": "poipet-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "ប៉ោយប៉ែត",
+          "en": "Poipet",
+          "slug": "poipet-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010902"
+    ],
+    "geo": {
+      "lat": "13.6276165",
+      "lon": "102.6774927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "011004",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរជ្រៅ",
+      "en": "Ou Chrov",
+      "slug": "ou-chrov-011004"
+    },
+    "code": {
+      "id": "011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "ប៉ោយប៉ែត",
+        "en": "Poipet",
+        "slug": "poipet-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "ប៉ោយប៉ែត",
+          "en": "Poipet",
+          "slug": "poipet-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180105"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "011005",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឫស្សី",
+      "en": "Ou Reusey",
+      "slug": "ou-reusey-011005"
+    },
+    "code": {
+      "id": "011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "ប៉ោយប៉ែត",
+        "en": "Poipet",
+        "slug": "poipet-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "ប៉ោយប៉ែត",
+          "en": "Poipet",
+          "slug": "poipet-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "011003",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារកណ្តាល",
+      "en": "Phsar Kandal",
+      "slug": "phsar-kandal-011003"
+    },
+    "code": {
+      "id": "011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "ប៉ោយប៉ែត",
+        "en": "Poipet",
+        "slug": "poipet-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "ប៉ោយប៉ែត",
+          "en": "Poipet",
+          "slug": "poipet-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "011002",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ោយប៉ែត",
+      "en": "Poipet",
+      "slug": "poipet-011002"
+    },
+    "code": {
+      "id": "011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0110",
+      "level": 2,
+      "name": {
+        "local": "ប៉ោយប៉ែត",
+        "en": "Poipet",
+        "slug": "poipet-0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0110",
+        "level": 2,
+        "name": {
+          "local": "ប៉ោយប៉ែត",
+          "en": "Poipet",
+          "slug": "poipet-0110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010901"
+    ],
+    "geo": {
+      "lat": "13.6597298",
+      "lon": "102.5622688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

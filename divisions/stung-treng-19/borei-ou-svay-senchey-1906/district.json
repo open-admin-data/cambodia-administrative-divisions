@@ -1,0 +1,47 @@
+{
+  "id": "1906",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បុរីអូរស្វាយសែនជ័យ",
+    "en": "Borei Ou Svay Senchey",
+    "slug": "borei-ou-svay-senchey-1906"
+  },
+  "code": {
+    "id": "1906",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "ស្ទឹងត្រែង",
+      "en": "Stung Treng",
+      "slug": "stung-treng-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stung Treng",
+        "slug": "stung-treng-19"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,331 @@
+[
+  {
+    "id": "1006",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ចិត្របុរី",
+      "en": "Chetr Borei",
+      "slug": "chetr-borei-1006"
+    },
+    "code": {
+      "id": "1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.4680352",
+      "lon": "106.1742334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1001",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ឆ្លូង",
+      "en": "Chhloung",
+      "slug": "chhloung-1001"
+    },
+    "code": {
+      "id": "1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2570238",
+      "lon": "105.9606057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ក្រចេះ",
+      "en": "Kracheh",
+      "slug": "kracheh-1002"
+    },
+    "code": {
+      "id": "1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.4889566",
+      "lon": "106.0200894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1007",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អូរគ្រៀងសែនជ័យ",
+      "en": "Ou Krieng Saenchey",
+      "slug": "ou-krieng-saenchey-1007"
+    },
+    "code": {
+      "id": "1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1003",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ព្រែកប្រសព្វ",
+      "en": "Prek Prasab",
+      "slug": "prek-prasab-1003"
+    },
+    "code": {
+      "id": "1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.3504569",
+      "lon": "106.0298985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1004",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សំបូរ",
+      "en": "Sambour",
+      "slug": "sambour-1004"
+    },
+    "code": {
+      "id": "1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.7751998",
+      "lon": "105.965196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1005",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្នួល",
+      "en": "Snuol",
+      "slug": "snuol-1005"
+    },
+    "code": {
+      "id": "1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.0722176",
+      "lon": "106.4204015"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

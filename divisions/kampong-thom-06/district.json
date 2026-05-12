@@ -1,0 +1,425 @@
+[
+  {
+    "id": "0601",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បារាយណ៍",
+      "en": "Baray",
+      "slug": "baray-0601"
+    },
+    "code": {
+      "id": "0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.3892868",
+      "lon": "105.0789445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កំពង់ស្វាយ",
+      "en": "Kampong Svay",
+      "slug": "kampong-svay-0602"
+    },
+    "code": {
+      "id": "0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.7915777",
+      "lon": "104.8249107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0604",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ប្រាសាទបល្ល័ង្គ",
+      "en": "Prasat Ballangk",
+      "slug": "prasat-ballangk-0604"
+    },
+    "code": {
+      "id": "0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.9782682",
+      "lon": "104.941493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ប្រាសាទសំបូរ",
+      "en": "Prasat Sambour",
+      "slug": "prasat-sambour-0605"
+    },
+    "code": {
+      "id": "0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.8857488",
+      "lon": "105.0679436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0606",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សណ្ដាន់",
+      "en": "Sandan",
+      "slug": "sandan-0606"
+    },
+    "code": {
+      "id": "0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.1006423",
+      "lon": "105.245985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0607",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សន្ទុក",
+      "en": "Santuk",
+      "slug": "santuk-0607"
+    },
+    "code": {
+      "id": "0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5628043",
+      "lon": "105.049388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0608",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្ទោង",
+      "en": "Stoung",
+      "slug": "stoung-0608"
+    },
+    "code": {
+      "id": "0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.9389734",
+      "lon": "104.5716049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្ទឹងសែន",
+      "en": "Stueng Saen",
+      "slug": "stueng-saen-0603"
+    },
+    "code": {
+      "id": "0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.7126242",
+      "lon": "104.8891082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "តាំងគោក",
+      "en": "Tang Kouk",
+      "slug": "tang-kouk-0609"
+    },
+    "code": {
+      "id": "0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

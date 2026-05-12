@@ -1,0 +1,114 @@
+[
+  {
+    "id": "180501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះរ៉ុង",
+      "en": "Kaoh Rung",
+      "slug": "kaoh-rung-180501"
+    },
+    "code": {
+      "id": "180501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805",
+      "level": 2,
+      "name": {
+        "local": "កោះរ៉ុង",
+        "en": "Kaoh Rung",
+        "slug": "kaoh-rung-1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "កោះរ៉ុង",
+          "en": "Kaoh Rung",
+          "slug": "kaoh-rung-1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180405"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះរ៉ុងសន្លឹម",
+      "en": "Koah Rung Sonlem",
+      "slug": "koah-rung-sonlem-180502"
+    },
+    "code": {
+      "id": "180502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805",
+      "level": 2,
+      "name": {
+        "local": "កោះរ៉ុង",
+        "en": "Kaoh Rung",
+        "slug": "kaoh-rung-1805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "កោះរ៉ុង",
+          "en": "Kaoh Rung",
+          "slug": "kaoh-rung-1805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180406"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

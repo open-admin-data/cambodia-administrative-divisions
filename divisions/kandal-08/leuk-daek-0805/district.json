@@ -1,0 +1,47 @@
+{
+  "id": "0805",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "លើកដែក",
+    "en": "Leuk Daek",
+    "slug": "leuk-daek-0805"
+  },
+  "code": {
+    "id": "0805",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.1778929",
+    "lon": "105.2277136"
+  },
+  "metadata": {},
+  "source": {}
+}

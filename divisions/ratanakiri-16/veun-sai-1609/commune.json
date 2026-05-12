@@ -1,0 +1,506 @@
+[
+  {
+    "id": "160903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ហាត់ប៉ក់",
+      "en": "Hat Pak",
+      "slug": "hat-pak-160903"
+    },
+    "code": {
+      "id": "160903",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160802"
+    ],
+    "geo": {
+      "lat": "13.8469",
+      "lon": "106.6945144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាចូន",
+      "en": "Ka Choun",
+      "slug": "ka-choun-160904"
+    },
+    "code": {
+      "id": "160904",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160803"
+    ],
+    "geo": {
+      "lat": "13.9577155",
+      "lon": "106.8893311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះប៉ង់",
+      "en": "Kaoh Pang",
+      "slug": "kaoh-pang-160905"
+    },
+    "code": {
+      "id": "160905",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160804"
+    ],
+    "geo": {
+      "lat": "14.2069725",
+      "lon": "106.9634122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះពាក្យ",
+      "en": "Kaoh Peak",
+      "slug": "kaoh-peak-160906"
+    },
+    "code": {
+      "id": "160906",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160805"
+    ],
+    "geo": {
+      "lat": "14.026332",
+      "lon": "106.9358604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160907",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កុកឡាក់",
+      "en": "Kok Lak",
+      "slug": "kok-lak-160907"
+    },
+    "code": {
+      "id": "160907",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160806"
+    ],
+    "geo": {
+      "lat": "14.0119973",
+      "lon": "106.8485592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160908",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ាកាឡាន់",
+      "en": "Pa Kalan",
+      "slug": "pa-kalan-160908"
+    },
+    "code": {
+      "id": "160908",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160807"
+    ],
+    "geo": {
+      "lat": "13.9396115",
+      "lon": "106.7005001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160909",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំកុក",
+      "en": "Phnum Kok",
+      "slug": "phnum-kok-160909"
+    },
+    "code": {
+      "id": "160909",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160808"
+    ],
+    "geo": {
+      "lat": "13.9221972",
+      "lon": "106.7985287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ុង",
+      "en": "Pong",
+      "slug": "pong-160901"
+    },
+    "code": {
+      "id": "160901",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050206"
+    ],
+    "geo": {
+      "lat": "13.9550674",
+      "lon": "106.8312605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160910",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វើនសៃ",
+      "en": "Veun Sai",
+      "slug": "veun-sai-160910"
+    },
+    "code": {
+      "id": "160910",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "វើនសៃ",
+        "en": "Veun Sai",
+        "slug": "veun-sai-1609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "វើនសៃ",
+          "en": "Veun Sai",
+          "slug": "veun-sai-1609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160809"
+    ],
+    "geo": {
+      "lat": "14.2610435",
+      "lon": "106.7942405"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

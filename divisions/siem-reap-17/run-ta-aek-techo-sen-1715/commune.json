@@ -1,0 +1,114 @@
+[
+  {
+    "id": "171502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បល្ល័ង្ក",
+      "en": "Ballangk",
+      "slug": "ballangk-171502"
+    },
+    "code": {
+      "id": "171502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1715",
+      "level": 2,
+      "name": {
+        "local": "រុនតាឯកតេជោសែន",
+        "en": "Run Ta Aek Techo Sen",
+        "slug": "run-ta-aek-techo-sen-1715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1715",
+        "level": 2,
+        "name": {
+          "local": "រុនតាឯកតេជោសែន",
+          "en": "Run Ta Aek Techo Sen",
+          "slug": "run-ta-aek-techo-sen-1715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060102"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រុនតាឯក",
+      "en": "Run Ta Aek",
+      "slug": "run-ta-aek-171501"
+    },
+    "code": {
+      "id": "171501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1715",
+      "level": 2,
+      "name": {
+        "local": "រុនតាឯកតេជោសែន",
+        "en": "Run Ta Aek Techo Sen",
+        "slug": "run-ta-aek-techo-sen-1715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1715",
+        "level": 2,
+        "name": {
+          "local": "រុនតាឯកតេជោសែន",
+          "en": "Run Ta Aek Techo Sen",
+          "slug": "run-ta-aek-techo-sen-1715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170905"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

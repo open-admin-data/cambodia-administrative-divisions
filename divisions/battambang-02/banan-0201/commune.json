@@ -1,0 +1,450 @@
+[
+  {
+    "id": "020103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាយដំរាំ",
+      "en": "Bay Damram",
+      "slug": "bay-damram-020103"
+    },
+    "code": {
+      "id": "020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0201",
+      "level": 2,
+      "name": {
+        "local": "បាណន់",
+        "en": "Banan",
+        "slug": "banan-0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0201",
+        "level": 2,
+        "name": {
+          "local": "បាណន់",
+          "en": "Banan",
+          "slug": "banan-0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020103"
+    ],
+    "geo": {
+      "lat": "12.9769769",
+      "lon": "103.1821759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចែងមានជ័យ",
+      "en": "Chaeng Mean Chey",
+      "slug": "chaeng-mean-chey-020105"
+    },
+    "code": {
+      "id": "020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0201",
+      "level": 2,
+      "name": {
+        "local": "បាណន់",
+        "en": "Banan",
+        "slug": "banan-0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0201",
+        "level": 2,
+        "name": {
+          "local": "បាណន់",
+          "en": "Banan",
+          "slug": "banan-0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020105"
+    ],
+    "geo": {
+      "lat": "12.8546995",
+      "lon": "103.071575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈើទាល",
+      "en": "Chheu Teal",
+      "slug": "chheu-teal-020104"
+    },
+    "code": {
+      "id": "020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0201",
+      "level": 2,
+      "name": {
+        "local": "បាណន់",
+        "en": "Banan",
+        "slug": "banan-0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0201",
+        "level": 2,
+        "name": {
+          "local": "បាណន់",
+          "en": "Banan",
+          "slug": "banan-0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020104"
+    ],
+    "geo": {
+      "lat": "12.9968151",
+      "lon": "103.1462857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កន្ទឺ ១",
+      "en": "Kantueu Muoy",
+      "slug": "kantueu-muoy-020101"
+    },
+    "code": {
+      "id": "020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0201",
+      "level": 2,
+      "name": {
+        "local": "បាណន់",
+        "en": "Banan",
+        "slug": "banan-0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0201",
+        "level": 2,
+        "name": {
+          "local": "បាណន់",
+          "en": "Banan",
+          "slug": "banan-0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020101"
+    ],
+    "geo": {
+      "lat": "12.899234",
+      "lon": "103.1514477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កន្ទឺ ២",
+      "en": "Kantueu Pir",
+      "slug": "kantueu-pir-020102"
+    },
+    "code": {
+      "id": "020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0201",
+      "level": 2,
+      "name": {
+        "local": "បាណន់",
+        "en": "Banan",
+        "slug": "banan-0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0201",
+        "level": 2,
+        "name": {
+          "local": "បាណន់",
+          "en": "Banan",
+          "slug": "banan-0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020102"
+    ],
+    "geo": {
+      "lat": "12.951753",
+      "lon": "103.1454045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំសំពៅ",
+      "en": "Phnum Sampov",
+      "slug": "phnum-sampov-020106"
+    },
+    "code": {
+      "id": "020106",
+      "iso": null
+    },
+    "parent": {
+      "id": "0201",
+      "level": 2,
+      "name": {
+        "local": "បាណន់",
+        "en": "Banan",
+        "slug": "banan-0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0201",
+        "level": 2,
+        "name": {
+          "local": "បាណន់",
+          "en": "Banan",
+          "slug": "banan-0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020106"
+    ],
+    "geo": {
+      "lat": "13.0315904",
+      "lon": "103.0816503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្នឹង",
+      "en": "Snoeng",
+      "slug": "snoeng-020107"
+    },
+    "code": {
+      "id": "020107",
+      "iso": null
+    },
+    "parent": {
+      "id": "0201",
+      "level": 2,
+      "name": {
+        "local": "បាណន់",
+        "en": "Banan",
+        "slug": "banan-0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0201",
+        "level": 2,
+        "name": {
+          "local": "បាណន់",
+          "en": "Banan",
+          "slug": "banan-0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020107"
+    ],
+    "geo": {
+      "lat": "12.9583887",
+      "lon": "103.0297908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាគ្រាម",
+      "en": "Ta Kream",
+      "slug": "ta-kream-020108"
+    },
+    "code": {
+      "id": "020108",
+      "iso": null
+    },
+    "parent": {
+      "id": "0201",
+      "level": 2,
+      "name": {
+        "local": "បាណន់",
+        "en": "Banan",
+        "slug": "banan-0201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0201",
+        "level": 2,
+        "name": {
+          "local": "បាណន់",
+          "en": "Banan",
+          "slug": "banan-0201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020108"
+    ],
+    "geo": {
+      "lat": "13.0669346",
+      "lon": "103.0573109"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

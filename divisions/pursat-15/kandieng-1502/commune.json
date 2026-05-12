@@ -1,0 +1,506 @@
+[
+  {
+    "id": "150201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្លង់វិល",
+      "en": "Anlong Vil",
+      "slug": "anlong-vil-150201"
+    },
+    "code": {
+      "id": "150201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដៀង",
+      "en": "Kandieng",
+      "slug": "kandieng-150203"
+    },
+    "code": {
+      "id": "150203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150202"
+    ],
+    "geo": {
+      "lat": "12.6102524",
+      "lon": "103.9590773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កញ្ជរ",
+      "en": "Kanhchor",
+      "slug": "kanhchor-150204"
+    },
+    "code": {
+      "id": "150204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះជុំ",
+      "en": "Kaoh Chum",
+      "slug": "kaoh-chum-150210"
+    },
+    "code": {
+      "id": "150210",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150209"
+    ],
+    "geo": {
+      "lat": "12.5975774",
+      "lon": "103.8980364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រាំងទិល",
+      "en": "Reang Til",
+      "slug": "reang-til-150205"
+    },
+    "code": {
+      "id": "150205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែស្ដុក",
+      "en": "Srae Sdok",
+      "slug": "srae-sdok-150206"
+    },
+    "code": {
+      "id": "150206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150205"
+    ],
+    "geo": {
+      "lat": "12.6622444",
+      "lon": "103.9499988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយលួង",
+      "en": "Svay Luong",
+      "slug": "svay-luong-150207"
+    },
+    "code": {
+      "id": "150207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្យា",
+      "en": "Sya",
+      "slug": "sya-150208"
+    },
+    "code": {
+      "id": "150208",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាល",
+      "en": "Veal",
+      "slug": "veal-150209"
+    },
+    "code": {
+      "id": "150209",
+      "iso": null
+    },
+    "parent": {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "local": "កណ្ដៀង",
+        "en": "Kandieng",
+        "slug": "kandieng-1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "local": "កណ្ដៀង",
+          "en": "Kandieng",
+          "slug": "kandieng-1502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050313"
+    ],
+    "geo": {
+      "lat": "12.5506232",
+      "lon": "103.9218098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

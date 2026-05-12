@@ -1,0 +1,226 @@
+[
+  {
+    "id": "170201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជប់តាត្រាវ",
+      "en": "Chob Ta Trav",
+      "slug": "chob-ta-trav-170201"
+    },
+    "code": {
+      "id": "170201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "local": "អង្គរធំ",
+        "en": "Angkor Thum",
+        "slug": "angkor-thum-1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1702",
+        "level": 2,
+        "name": {
+          "local": "អង្គរធំ",
+          "en": "Angkor Thum",
+          "slug": "angkor-thum-1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លាងដៃ",
+      "en": "Leang Dai",
+      "slug": "leang-dai-170202"
+    },
+    "code": {
+      "id": "170202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "local": "អង្គរធំ",
+        "en": "Angkor Thum",
+        "slug": "angkor-thum-1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1702",
+        "level": 2,
+        "name": {
+          "local": "អង្គរធំ",
+          "en": "Angkor Thum",
+          "slug": "angkor-thum-1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាក់ស្នែង",
+      "en": "Peak Snaeng",
+      "slug": "peak-snaeng-170203"
+    },
+    "code": {
+      "id": "170203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "local": "អង្គរធំ",
+        "en": "Angkor Thum",
+        "slug": "angkor-thum-1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1702",
+        "level": 2,
+        "name": {
+          "local": "អង្គរធំ",
+          "en": "Angkor Thum",
+          "slug": "angkor-thum-1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171003"
+    ],
+    "geo": {
+      "lat": "13.6150082",
+      "lon": "103.8948941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយចេក",
+      "en": "Svay Chek",
+      "slug": "svay-chek-170204"
+    },
+    "code": {
+      "id": "170204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "local": "អង្គរធំ",
+        "en": "Angkor Thum",
+        "slug": "angkor-thum-1702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1702",
+        "level": 2,
+        "name": {
+          "local": "អង្គរធំ",
+          "en": "Angkor Thum",
+          "slug": "angkor-thum-1702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010604"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

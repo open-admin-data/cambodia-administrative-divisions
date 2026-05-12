@@ -1,0 +1,47 @@
+{
+  "id": "1607",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "អូរយ៉ាដាវ",
+    "en": "Ou Ya Dav",
+    "slug": "ou-ya-dav-1607"
+  },
+  "code": {
+    "id": "1607",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "រតនគិរី",
+      "en": "Ratanakiri",
+      "slug": "ratanakiri-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.6689224",
+    "lon": "107.3483187"
+  },
+  "metadata": {},
+  "source": {}
+}

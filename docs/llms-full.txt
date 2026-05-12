@@ -1,0 +1,61 @@
+# Cambodia Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Banteay Meanchey](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/banteay-meanchey-01.txt) — 9 districts, 67 communes
+- [Battambang](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/battambang-02.txt) — 14 districts, 103 communes
+- [Kampong Cham](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/kampong-cham-03.txt) — 10 districts, 109 communes
+- [Kampong Chhnang](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/kampong-chhnang-04.txt) — 8 districts, 71 communes
+- [Kampong Speu](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/kampong-speu-05.txt) — 9 districts, 88 communes
+- [Kampong Thom](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/kampong-thom-06.txt) — 9 districts, 81 communes
+- [Kampot](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/kampot-07.txt) — 9 districts, 93 communes
+- [Kandal](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/kandal-08.txt) — 13 districts, 127 communes
+- [Koh Kong](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/koh-kong-09.txt) — 7 districts, 29 communes
+- [Kratié](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/krati-10.txt) — 7 districts, 48 communes
+- [Mondulkiri](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/mondulkiri-11.txt) — 5 districts, 21 communes
+- [Phnom Penh](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/phnom-penh-12.txt) — 14 districts, 105 communes
+- [Preah Vihear](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/preah-vihear-13.txt) — 8 districts, 51 communes
+- [Prey Veng](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/prey-veng-14.txt) — 13 districts, 116 communes
+- [Pursat](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/pursat-15.txt) — 7 districts, 49 communes
+- [Ratanakiri](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/ratanakiri-16.txt) — 9 districts, 50 communes
+- [Siem Reap](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/siem-reap-17.txt) — 13 districts, 100 communes
+- [Preah Sihanouk](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/preah-sihanouk-18.txt) — 6 districts, 29 communes
+- [Stung Treng](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/stung-treng-19.txt) — 6 districts, 34 communes
+- [Svay Rieng](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/svay-rieng-20.txt) — 8 districts, 80 communes
+- [Takéo](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/tako-21.txt) — 10 districts, 100 communes
+- [Oddar Meanchey](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/oddar-meanchey-22.txt) — 5 districts, 24 communes
+- [Kep](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/kep-23.txt) — 2 districts, 5 communes
+- [Pailin](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/pailin-24.txt) — 2 districts, 8 communes
+- [Tboung Khmum](https://github.com/open-admin-data/cambodia-administrative-divisions/blob/main/docs/llms-full/tboung-khmum-25.txt) — 7 districts, 64 communes
+
+## Summary
+
+| Province | Districts | Communes | 
+|---|---|---|
+| Banteay Meanchey | 9 | 67 | 
+| Battambang | 14 | 103 | 
+| Kampong Cham | 10 | 109 | 
+| Kampong Chhnang | 8 | 71 | 
+| Kampong Speu | 9 | 88 | 
+| Kampong Thom | 9 | 81 | 
+| Kampot | 9 | 93 | 
+| Kandal | 13 | 127 | 
+| Koh Kong | 7 | 29 | 
+| Kratié | 7 | 48 | 
+| Mondulkiri | 5 | 21 | 
+| Phnom Penh | 14 | 105 | 
+| Preah Vihear | 8 | 51 | 
+| Prey Veng | 13 | 116 | 
+| Pursat | 7 | 49 | 
+| Ratanakiri | 9 | 50 | 
+| Siem Reap | 13 | 100 | 
+| Preah Sihanouk | 6 | 29 | 
+| Stung Treng | 6 | 34 | 
+| Svay Rieng | 8 | 80 | 
+| Takéo | 10 | 100 | 
+| Oddar Meanchey | 5 | 24 | 
+| Kep | 2 | 5 | 
+| Pailin | 2 | 8 | 
+| Tboung Khmum | 7 | 64 | 

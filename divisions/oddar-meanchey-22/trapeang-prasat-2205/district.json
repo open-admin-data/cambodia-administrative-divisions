@@ -1,0 +1,47 @@
+{
+  "id": "2205",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ត្រពាំងប្រាសាទ",
+    "en": "Trapeang Prasat",
+    "slug": "trapeang-prasat-2205"
+  },
+  "code": {
+    "id": "2205",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "ឧត្តរមានជ័យ",
+      "en": "Oddar Meanchey",
+      "slug": "oddar-meanchey-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "ឧត្តរមានជ័យ",
+        "en": "Oddar Meanchey",
+        "slug": "oddar-meanchey-22"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.1953083",
+    "lon": "104.3562242"
+  },
+  "metadata": {},
+  "source": {}
+}

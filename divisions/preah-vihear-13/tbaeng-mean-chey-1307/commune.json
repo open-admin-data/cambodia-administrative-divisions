@@ -1,0 +1,226 @@
+[
+  {
+    "id": "130703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈានមុខ",
+      "en": "Chhean Mukh",
+      "slug": "chhean-mukh-130703"
+    },
+    "code": {
+      "id": "130703",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "local": "ត្បែងមានជ័យ",
+        "en": "Tbaeng Mean Chey",
+        "slug": "tbaeng-mean-chey-1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "ត្បែងមានជ័យ",
+          "en": "Tbaeng Mean Chey",
+          "slug": "tbaeng-mean-chey-1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130701"
+    ],
+    "geo": {
+      "lat": "13.7804811",
+      "lon": "104.9012834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍",
+      "en": "Pou",
+      "slug": "pou-130704"
+    },
+    "code": {
+      "id": "130704",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "local": "ត្បែងមានជ័យ",
+        "en": "Tbaeng Mean Chey",
+        "slug": "tbaeng-mean-chey-1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "ត្បែងមានជ័យ",
+          "en": "Tbaeng Mean Chey",
+          "slug": "tbaeng-mean-chey-1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040605"
+    ],
+    "geo": {
+      "lat": "13.860109",
+      "lon": "105.0149883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រមេរុ",
+      "en": "Prame",
+      "slug": "prame-130705"
+    },
+    "code": {
+      "id": "130705",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "local": "ត្បែងមានជ័យ",
+        "en": "Tbaeng Mean Chey",
+        "slug": "tbaeng-mean-chey-1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "ត្បែងមានជ័យ",
+          "en": "Tbaeng Mean Chey",
+          "slug": "tbaeng-mean-chey-1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130703"
+    ],
+    "geo": {
+      "lat": "13.839856",
+      "lon": "105.0652947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះឃ្លាំង",
+      "en": "Preah Khleang",
+      "slug": "preah-khleang-130706"
+    },
+    "code": {
+      "id": "130706",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "local": "ត្បែងមានជ័យ",
+        "en": "Tbaeng Mean Chey",
+        "slug": "tbaeng-mean-chey-1307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "ត្បែងមានជ័យ",
+          "en": "Tbaeng Mean Chey",
+          "slug": "tbaeng-mean-chey-1307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130704"
+    ],
+    "geo": {
+      "lat": "13.6196183",
+      "lon": "105.0305628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

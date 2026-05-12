@@ -1,0 +1,47 @@
+{
+  "id": "1206",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "មានជ័យ",
+    "en": "Mean Chey",
+    "slug": "mean-chey-1206"
+  },
+  "code": {
+    "id": "1206",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "ភ្នំពេញ",
+      "en": "Phnom Penh",
+      "slug": "phnom-penh-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5315089",
+    "lon": "104.8984702"
+  },
+  "metadata": {},
+  "source": {}
+}

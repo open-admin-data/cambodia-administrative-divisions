@@ -1,0 +1,618 @@
+[
+  {
+    "id": "040101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អញ្ចាញរូង",
+      "en": "Anhchanh Rung",
+      "slug": "anhchanh-rung-040101"
+    },
+    "code": {
+      "id": "040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040401"
+    ],
+    "geo": {
+      "lat": "12.3369001",
+      "lon": "104.4141114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចក",
+      "en": "Chak",
+      "slug": "chak-040103"
+    },
+    "code": {
+      "id": "040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040403"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឆ្នុកទ្រូ",
+      "en": "Chhnok Tru",
+      "slug": "chhnok-tru-040102"
+    },
+    "code": {
+      "id": "040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040402"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ព្រះគគីរ",
+      "en": "Kampong Preah Kokir",
+      "slug": "kampong-preah-kokir-040105"
+    },
+    "code": {
+      "id": "040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040405"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខុនរ៉ង",
+      "en": "Khon Rang",
+      "slug": "khon-rang-040104"
+    },
+    "code": {
+      "id": "040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040404"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេលំ",
+      "en": "Melum",
+      "slug": "melum-040106"
+    },
+    "code": {
+      "id": "040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040406"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពេជចង្វារ",
+      "en": "Pech Changvar",
+      "slug": "pech-changvar-040108"
+    },
+    "code": {
+      "id": "040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040408"
+    ],
+    "geo": {
+      "lat": "12.3695118",
+      "lon": "104.3940187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារ",
+      "en": "Phsar",
+      "slug": "phsar-040107"
+    },
+    "code": {
+      "id": "040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040407"
+    ],
+    "geo": {
+      "lat": "12.3811152",
+      "lon": "104.4872717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពន្លៃ",
+      "en": "Ponley",
+      "slug": "ponley-040110"
+    },
+    "code": {
+      "id": "040110",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010203"
+    ],
+    "geo": {
+      "lat": "12.4391108",
+      "lon": "104.4620248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពពេល",
+      "en": "Popel",
+      "slug": "popel-040109"
+    },
+    "code": {
+      "id": "040109",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040409"
+    ],
+    "geo": {
+      "lat": "12.4266442",
+      "lon": "104.4508388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040111",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងចាន់",
+      "en": "Trapeang Chan",
+      "slug": "trapeang-chan-040111"
+    },
+    "code": {
+      "id": "040111",
+      "iso": null
+    },
+    "parent": {
+      "id": "0401",
+      "level": 2,
+      "name": {
+        "local": "បរិបូណ៌",
+        "en": "Baribour",
+        "slug": "baribour-0401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0401",
+        "level": 2,
+        "name": {
+          "local": "បរិបូណ៌",
+          "en": "Baribour",
+          "slug": "baribour-0401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040411"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "160603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឯកភាព",
+      "en": "Aekakpheap",
+      "slug": "aekakpheap-160603"
+    },
+    "code": {
+      "id": "160603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "អូរជុំ",
+        "en": "Ou Chum",
+        "slug": "ou-chum-1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "អូរជុំ",
+          "en": "Ou Chum",
+          "slug": "ou-chum-1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160503"
+    ],
+    "geo": {
+      "lat": "13.7577435",
+      "lon": "107.104273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចាអ៊ុង",
+      "en": "Cha Ung",
+      "slug": "cha-ung-160601"
+    },
+    "code": {
+      "id": "160601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "អូរជុំ",
+        "en": "Ou Chum",
+        "slug": "ou-chum-1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "អូរជុំ",
+          "en": "Ou Chum",
+          "slug": "ou-chum-1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160501"
+    ],
+    "geo": {
+      "lat": "13.7581127",
+      "lon": "106.9321694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាឡៃ",
+      "en": "Kalai",
+      "slug": "kalai-160604"
+    },
+    "code": {
+      "id": "160604",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "អូរជុំ",
+        "en": "Ou Chum",
+        "slug": "ou-chum-1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "អូរជុំ",
+          "en": "Ou Chum",
+          "slug": "ou-chum-1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160504"
+    ],
+    "geo": {
+      "lat": "13.8438095",
+      "lon": "106.9428025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្អក់",
+      "en": "L'ak",
+      "slug": "lak-160607"
+    },
+    "code": {
+      "id": "160607",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "អូរជុំ",
+        "en": "Ou Chum",
+        "slug": "ou-chum-1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "អូរជុំ",
+          "en": "Ou Chum",
+          "slug": "ou-chum-1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160507"
+    ],
+    "geo": {
+      "lat": "13.8670242",
+      "lon": "107.0826386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរជុំ",
+      "en": "Ou Chum",
+      "slug": "ou-chum-160605"
+    },
+    "code": {
+      "id": "160605",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "អូរជុំ",
+        "en": "Ou Chum",
+        "slug": "ou-chum-1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "អូរជុំ",
+          "en": "Ou Chum",
+          "slug": "ou-chum-1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160505"
+    ],
+    "geo": {
+      "lat": "13.7954352",
+      "lon": "106.9934986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ូយ",
+      "en": "Pouy",
+      "slug": "pouy-160602"
+    },
+    "code": {
+      "id": "160602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "អូរជុំ",
+        "en": "Ou Chum",
+        "slug": "ou-chum-1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "អូរជុំ",
+          "en": "Ou Chum",
+          "slug": "ou-chum-1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160502"
+    ],
+    "geo": {
+      "lat": "13.9067522",
+      "lon": "107.0232651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សាមគ្គី",
+      "en": "Sameakki",
+      "slug": "sameakki-160606"
+    },
+    "code": {
+      "id": "160606",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "អូរជុំ",
+        "en": "Ou Chum",
+        "slug": "ou-chum-1606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "អូរជុំ",
+          "en": "Ou Chum",
+          "slug": "ou-chum-1606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060306"
+    ],
+    "geo": {
+      "lat": "13.8199792",
+      "lon": "107.1066036"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "110101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចុងផ្លាស់",
+      "en": "Chong Phlah",
+      "slug": "chong-phlah-110101"
+    },
+    "code": {
+      "id": "110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "កែវសីមា",
+        "en": "Kaev Seima",
+        "slug": "kaev-seima-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "កែវសីមា",
+          "en": "Kaev Seima",
+          "slug": "kaev-seima-1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110101"
+    ],
+    "geo": {
+      "lat": "12.5997358",
+      "lon": "106.5819789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេម៉ង់",
+      "en": "Memang",
+      "slug": "memang-110102"
+    },
+    "code": {
+      "id": "110102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "កែវសីមា",
+        "en": "Kaev Seima",
+        "slug": "kaev-seima-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "កែវសីមា",
+          "en": "Kaev Seima",
+          "slug": "kaev-seima-1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110102"
+    ],
+    "geo": {
+      "lat": "12.5814971",
+      "lon": "106.9309687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែឈូក",
+      "en": "Srae Chhuk",
+      "slug": "srae-chhuk-110103"
+    },
+    "code": {
+      "id": "110103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "កែវសីមា",
+        "en": "Kaev Seima",
+        "slug": "kaev-seima-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "កែវសីមា",
+          "en": "Kaev Seima",
+          "slug": "kaev-seima-1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110103"
+    ],
+    "geo": {
+      "lat": "12.3742536",
+      "lon": "106.7070185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែខ្ទុម",
+      "en": "Srae Khtum",
+      "slug": "srae-khtum-110104"
+    },
+    "code": {
+      "id": "110104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "កែវសីមា",
+        "en": "Kaev Seima",
+        "slug": "kaev-seima-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "កែវសីមា",
+          "en": "Kaev Seima",
+          "slug": "kaev-seima-1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110104"
+    ],
+    "geo": {
+      "lat": "12.1814318",
+      "lon": "106.8751427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែព្រះ",
+      "en": "Srae Preah",
+      "slug": "srae-preah-110105"
+    },
+    "code": {
+      "id": "110105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "កែវសីមា",
+        "en": "Kaev Seima",
+        "slug": "kaev-seima-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "កែវសីមា",
+          "en": "Kaev Seima",
+          "slug": "kaev-seima-1101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110105"
+    ],
+    "geo": {
+      "lat": "12.1884884",
+      "lon": "106.8793238"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

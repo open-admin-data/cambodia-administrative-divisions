@@ -1,0 +1,47 @@
+{
+  "id": "0608",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្ទោង",
+    "en": "Stoung",
+    "slug": "stoung-0608"
+  },
+  "code": {
+    "id": "0608",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ធំ",
+      "en": "Kampong Thom",
+      "slug": "kampong-thom-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.9389734",
+    "lon": "104.5716049"
+  },
+  "metadata": {},
+  "source": {}
+}

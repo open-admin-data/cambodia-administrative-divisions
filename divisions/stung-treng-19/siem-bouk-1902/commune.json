@@ -1,0 +1,394 @@
+[
+  {
+    "id": "190201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះព្រះ",
+      "en": "Kaoh Preah",
+      "slug": "kaoh-preah-190201"
+    },
+    "code": {
+      "id": "190201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "សៀមបូក",
+        "en": "Siem Bouk",
+        "slug": "siem-bouk-1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1902",
+        "level": 2,
+        "name": {
+          "local": "សៀមបូក",
+          "en": "Siem Bouk",
+          "slug": "siem-bouk-1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190201"
+    ],
+    "geo": {
+      "lat": "13.3034422",
+      "lon": "105.9463415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះសំពាយ",
+      "en": "Kaoh Sampeay",
+      "slug": "kaoh-sampeay-190202"
+    },
+    "code": {
+      "id": "190202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "សៀមបូក",
+        "en": "Siem Bouk",
+        "slug": "siem-bouk-1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1902",
+        "level": 2,
+        "name": {
+          "local": "សៀមបូក",
+          "en": "Siem Bouk",
+          "slug": "siem-bouk-1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190202"
+    ],
+    "geo": {
+      "lat": "13.4140477",
+      "lon": "105.9768216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះស្រឡាយ",
+      "en": "Kaoh Sralay",
+      "slug": "kaoh-sralay-190203"
+    },
+    "code": {
+      "id": "190203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "សៀមបូក",
+        "en": "Siem Bouk",
+        "slug": "siem-bouk-1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1902",
+        "level": 2,
+        "name": {
+          "local": "សៀមបូក",
+          "en": "Siem Bouk",
+          "slug": "siem-bouk-1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190203"
+    ],
+    "geo": {
+      "lat": "13.4427247",
+      "lon": "105.9097529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរម្រះ",
+      "en": "Ou Mreah",
+      "slug": "ou-mreah-190204"
+    },
+    "code": {
+      "id": "190204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "សៀមបូក",
+        "en": "Siem Bouk",
+        "slug": "siem-bouk-1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1902",
+        "level": 2,
+        "name": {
+          "local": "សៀមបូក",
+          "en": "Siem Bouk",
+          "slug": "siem-bouk-1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190204"
+    ],
+    "geo": {
+      "lat": "13.2933166",
+      "lon": "105.9944965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឫស្សីកណ្ដាល",
+      "en": "Ou Ruessei Kandal",
+      "slug": "ou-ruessei-kandal-190205"
+    },
+    "code": {
+      "id": "190205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "សៀមបូក",
+        "en": "Siem Bouk",
+        "slug": "siem-bouk-1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1902",
+        "level": 2,
+        "name": {
+          "local": "សៀមបូក",
+          "en": "Siem Bouk",
+          "slug": "siem-bouk-1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190205"
+    ],
+    "geo": {
+      "lat": "13.3887186",
+      "lon": "106.0825585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សៀមបូក",
+      "en": "Siem Bouk",
+      "slug": "siem-bouk-190206"
+    },
+    "code": {
+      "id": "190206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "សៀមបូក",
+        "en": "Siem Bouk",
+        "slug": "siem-bouk-1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1902",
+        "level": 2,
+        "name": {
+          "local": "សៀមបូក",
+          "en": "Siem Bouk",
+          "slug": "siem-bouk-1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190206"
+    ],
+    "geo": {
+      "lat": "13.2870698",
+      "lon": "105.9210124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែក្រសាំង",
+      "en": "Srae Krasang",
+      "slug": "srae-krasang-190207"
+    },
+    "code": {
+      "id": "190207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "សៀមបូក",
+        "en": "Siem Bouk",
+        "slug": "siem-bouk-1902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1902",
+        "level": 2,
+        "name": {
+          "local": "សៀមបូក",
+          "en": "Siem Bouk",
+          "slug": "siem-bouk-1902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190207"
+    ],
+    "geo": {
+      "lat": "13.3612399",
+      "lon": "106.0052437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

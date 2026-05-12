@@ -1,0 +1,284 @@
+[
+  {
+    "id": "1906",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បុរីអូរស្វាយសែនជ័យ",
+      "en": "Borei Ou Svay Senchey",
+      "slug": "borei-ou-svay-senchey-1906"
+    },
+    "code": {
+      "id": "1906",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stung Treng",
+        "slug": "stung-treng-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1901",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សេសាន",
+      "en": "Sesan",
+      "slug": "sesan-1901"
+    },
+    "code": {
+      "id": "1901",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stung Treng",
+        "slug": "stung-treng-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5508885",
+      "lon": "106.093824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1902",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សៀមបូក",
+      "en": "Siem Bouk",
+      "slug": "siem-bouk-1902"
+    },
+    "code": {
+      "id": "1902",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stung Treng",
+        "slug": "stung-treng-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.3612164",
+      "lon": "105.9594206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1903",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សៀមប៉ាង",
+      "en": "Siem Pang",
+      "slug": "siem-pang-1903"
+    },
+    "code": {
+      "id": "1903",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stung Treng",
+        "slug": "stung-treng-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.1163575",
+      "lon": "106.3868945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្ទឹងត្រែង",
+      "en": "Stueng Traeng",
+      "slug": "stueng-traeng-1904"
+    },
+    "code": {
+      "id": "1904",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stung Treng",
+        "slug": "stung-treng-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5271207",
+      "lon": "105.9686727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1905",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ថាឡាបរិវ៉ាត់",
+      "en": "Thala Barivat",
+      "slug": "thala-barivat-1905"
+    },
+    "code": {
+      "id": "1905",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "ស្ទឹងត្រែង",
+        "en": "Stung Treng",
+        "slug": "stung-treng-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.5717715",
+      "lon": "105.941917"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

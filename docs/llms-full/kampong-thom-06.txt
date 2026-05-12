@@ -1,0 +1,378 @@
+# Kampong Thom — Cambodia Administrative Divisions
+
+> 9 districts, 81 communes
+> Code: 06
+> Coordinates: 12.6687923, 104.8879197
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### បារាយណ៍ (Baray)
+
+Code: 0601, Coordinates: 12.3892868, 105.0789445
+Communes: 10
+
+#### បាក់ស្នា (Bak Sna)
+
+Code: 060101, Postal: 060101
+
+#### បល្ល័ង្គ (Ballangk)
+
+Code: 060102, Postal: 060102, Coordinates: 12.5003795, 105.1252719
+
+#### បារាយណ៍ (Baray)
+
+Code: 060103, Postal: 030801, Coordinates: 12.3953723, 105.0832527
+
+#### បឹង (Boeng)
+
+Code: 060104, Postal: 060104, Coordinates: 12.4291778, 105.1185656
+
+#### ចើងដើង (Chaeung Daeung)
+
+Code: 060105, Postal: 060105, Coordinates: 12.4647151, 105.191432
+
+#### ឈូកខ្សាច់ (Chhuk Khsach)
+
+Code: 060107, Postal: 060107, Coordinates: 12.3980122, 105.1250609
+
+#### ចុងដូង (Chong Doung)
+
+Code: 060108, Postal: 060108, Coordinates: 12.4612001, 105.0314856
+
+#### គគីធំ (Kokir Thum)
+
+Code: 060110, Postal: 081006
+
+#### ក្រវ៉ា (Krava)
+
+Code: 060111, Postal: 060111, Coordinates: 12.4964378, 105.2480888
+
+#### ត្នោតជុំ (Tnaot Chum)
+
+Code: 060117, Postal: 060117
+
+### កំពង់ស្វាយ (Kampong Svay)
+
+Code: 0602, Coordinates: 12.7915777, 104.8249107
+Communes: 11
+
+#### ជ័យ (Chey)
+
+Code: 060201, Postal: 060201, Coordinates: 12.8315867, 104.9436844
+
+#### ដំរីស្លាប់ (Damrei Slab)
+
+Code: 060202, Postal: 060202, Coordinates: 12.8999973, 104.7172841
+
+#### កំពង់គោ (Kampong Kou)
+
+Code: 060203, Postal: 060203, Coordinates: 12.6993397, 104.7914809
+
+#### កំពង់ស្វាយ (Kampong Svay)
+
+Code: 060204, Postal: 010801
+
+#### ក្ដីដូង (Kdei Doung)
+
+Code: 060210, Postal: 60210, Coordinates: 12.7196358, 104.856952
+
+#### នីពេជ (Nipech)
+
+Code: 060205, Postal: 060205, Coordinates: 12.9356282, 104.7799425
+
+#### ផាត់សណ្ដាយ (Phat Sanday)
+
+Code: 060206, Postal: 060206, Coordinates: 12.6409754, 104.5162068
+
+#### ព្រៃគុយ (Prey Kuy)
+
+Code: 060211, Postal: 060211
+
+#### សាន់គ (San Kor)
+
+Code: 060207, Postal: 060207
+
+#### ត្បែង (Tbaeng)
+
+Code: 060208, Postal: 060208, Coordinates: 12.7923292, 104.7907521
+
+#### ត្រពាំងឫស្សី (Trapeang Ruessei)
+
+Code: 060209, Postal: 060209
+
+### ប្រាសាទបល្ល័ង្គ (Prasat Ballangk)
+
+Code: 0604, Coordinates: 12.9782682, 104.941493
+Communes: 7
+
+#### ដូង (Doung)
+
+Code: 060401, Postal: 060301
+
+#### ក្រយា (Kraya)
+
+Code: 060402, Postal: 060302, Coordinates: 12.5750965, 105.2582984
+
+#### ផាន់ញើម (Phan Nheum)
+
+Code: 060403, Postal: 060303, Coordinates: 13.0413624, 104.7724222
+
+#### សាគ្រាម (Sakream)
+
+Code: 060404, Postal: 060304
+
+#### សាលាវិស័យ (Sala Visai)
+
+Code: 060405, Postal: 060305, Coordinates: 12.9530561, 104.9444635
+
+#### សាមគ្គី (Sameakki)
+
+Code: 060406, Postal: 060306, Coordinates: 13.0754841, 104.7153557
+
+#### ទួលគ្រើល (Tuol Kreul)
+
+Code: 060407, Postal: 060307, Coordinates: 13.0186847, 104.8328844
+
+### ប្រាសាទសំបូរ (Prasat Sambour)
+
+Code: 0605, Coordinates: 12.8857488, 105.0679436
+Communes: 5
+
+#### ឈូក (Chhuk)
+
+Code: 060501, Postal: 250201
+
+#### គោល (Koul)
+
+Code: 060502, Postal: 171104
+
+#### សំបូរណ៍ (Sambour)
+
+Code: 060503, Postal: 030107, Coordinates: 12.8867418, 105.0684199
+
+#### ស្រើង (Sraeung)
+
+Code: 060504, Postal: 060404
+
+#### តាំងក្រសៅ (Tang Krasau)
+
+Code: 060505, Postal: 060405
+
+### សណ្ដាន់ (Sandan)
+
+Code: 0606, Coordinates: 13.1006423, 105.245985
+Communes: 9
+
+#### ឈើទាល (Chheu Teal)
+
+Code: 060601, Postal: 020104, Coordinates: 13.0597952, 105.2373508
+
+#### ដងកាំបិត (Dang Kambet)
+
+Code: 060602, Postal: 060502, Coordinates: 13.2250992, 105.2611324
+
+#### ក្លែង (Klaeng)
+
+Code: 060603, Postal: 060503, Coordinates: 12.9910898, 105.2400162
+
+#### មានជ័យ (Mean Chey)
+
+Code: 060605, Postal: 020906
+
+#### មានរិទ្ធ (Mean Rith)
+
+Code: 060604, Postal: 060504
+
+#### ងន (Ngan)
+
+Code: 060606, Postal: 060506
+
+#### សណ្ដាន់ (Sandan)
+
+Code: 060607, Postal: 060507, Coordinates: 13.1048784, 105.2483289
+
+#### សុចិត្រ (Sochet)
+
+Code: 060608, Postal: 060508, Coordinates: 12.8909307, 105.5586113
+
+#### ទំរីង (Tum Ring)
+
+Code: 060609, Postal: 060509
+
+### សន្ទុក (Santuk)
+
+Code: 0607, Coordinates: 12.5628043, 105.049388
+Communes: 10
+
+#### បឹងល្វា (Boeng Lvea)
+
+Code: 060701, Postal: 060601
+
+#### ជ្រាប់ (Chroab)
+
+Code: 060702, Postal: 060602
+
+#### កកោះ (Kakaoh)
+
+Code: 060704, Postal: 060604, Coordinates: 12.6254849, 104.9916011
+
+#### កំពង់ថ្ម (Kampong Thma)
+
+Code: 060703, Postal: 60703, Coordinates: 12.5004068, 105.1265537
+
+#### ក្រយា (Kraya)
+
+Code: 060705, Postal: 060302, Coordinates: 12.5750965, 105.2582984
+
+#### ព្នៅ (Pnov)
+
+Code: 060706, Postal: 140604, Coordinates: 12.5249899, 105.0335842
+
+#### ប្រាសាទ (Prasat)
+
+Code: 060707, Postal: 010304
+
+#### តាំងក្រសាំង (Tang Krasang)
+
+Code: 060708, Postal: 030110, Coordinates: 12.5623049, 105.0479549
+
+#### ត្បូងក្រពើ (Tboung Krapeu)
+
+Code: 060710, Postal: 060610, Coordinates: 12.6916078, 104.9791398
+
+#### ទីពោ (Ti Pou)
+
+Code: 060709, Postal: 060609
+
+### ស្ទោង (Stoung)
+
+Code: 0608, Coordinates: 12.9389734, 104.5716049
+Communes: 13
+
+#### បន្ទាយស្ទោង (Banteay Stoung)
+
+Code: 060801, Postal: 060701, Coordinates: 12.9299249, 104.6427698
+
+#### ចំណាក្រោម (Chamna Kraom)
+
+Code: 060802, Postal: 060702
+
+#### ចំណាលើ (Chamna Leu)
+
+Code: 060803, Postal: 060703
+
+#### កំពង់ចិនជើង (Kampong Chen Cheung)
+
+Code: 060804, Postal: 060704, Coordinates: 12.9487569, 104.5654449
+
+#### កំពង់ចិនត្បូង (Kampong Chen Tboung)
+
+Code: 060805, Postal: 060705, Coordinates: 12.935937, 104.5705124
+
+#### ម្សាក្រង (Msa Krang)
+
+Code: 060806, Postal: 060706, Coordinates: 12.8770427, 104.4362007
+
+#### ពាមបាង (Peam Bang)
+
+Code: 060807, Postal: 060707
+
+#### ពពក (Popok)
+
+Code: 060808, Postal: 060708
+
+#### ប្រឡាយ (Pralay)
+
+Code: 060809, Postal: 060709, Coordinates: 13.027993, 104.5272603
+
+#### ព្រះដំរី (Preah Damrei)
+
+Code: 060810, Postal: 060710, Coordinates: 12.9560581, 104.6959829
+
+#### រុងរឿង (Rung Roeang)
+
+Code: 060811, Postal: 050604, Coordinates: 12.9333934, 104.6708885
+
+#### សំព្រោជ (Samprouch)
+
+Code: 060812, Postal: 060712, Coordinates: 12.8847126, 104.5419598
+
+#### ទ្រា (Trea)
+
+Code: 060813, Postal: 060713
+
+### ស្ទឹងសែន (Stueng Saen)
+
+Code: 0603, Coordinates: 12.7126242, 104.8891082
+Communes: 8
+
+#### អាចារ្យលាក់ (Achar Leak)
+
+Code: 060309, Postal: 060807, Coordinates: 12.7313026, 104.893813
+
+#### ដំរីជាន់ខ្លា (Damrei Choan Khla)
+
+Code: 060301, Postal: 060801, Coordinates: 12.6968771, 104.8942838
+
+#### កំពង់ក្របៅ (Kampong Krabau)
+
+Code: 060306, Postal: 060805, Coordinates: 12.7162894, 104.8874707
+
+#### កំពង់រទេះ (Kampong Roteh)
+
+Code: 060303, Postal: 060803, Coordinates: 12.712587, 104.8885413
+
+#### កំពង់ធំ (Kampong Thum)
+
+Code: 060302, Postal: 060802, Coordinates: 12.70787, 104.8736858
+
+#### អូរកន្ធរ (Ou Kanthor)
+
+Code: 060304, Postal: 060804
+
+#### ព្រៃតាហ៊ូ (Prey Ta Hu)
+
+Code: 060308, Postal: 060806, Coordinates: 12.7216481, 104.8786906
+
+#### ស្រយ៉ូវ (Srayov)
+
+Code: 060310, Postal: 060808, Coordinates: 12.6583076, 104.920138
+
+### តាំងគោក (Tang Kouk)
+
+Code: 0609
+Communes: 8
+
+#### អណ្ដូងពោធិ៍ (Andoung Pou)
+
+Code: 060908, Postal: 060112, Coordinates: 12.2933354, 105.1489656
+
+#### ច្រនាង (Chraneang)
+
+Code: 060902, Postal: 060106, Coordinates: 12.2492617, 105.1543905
+
+#### ជ្រលង (Chrolong)
+
+Code: 060903, Postal: 060109
+
+#### ពង្រ (Pongro)
+
+Code: 060901, Postal: 030707
+
+#### សូយោង (Sou Young)
+
+Code: 060905, Postal: 060114
+
+#### ស្រឡៅ (Sralau)
+
+Code: 060906, Postal: 060115
+
+#### ស្វាយភ្លើង (Svay Phleung)
+
+Code: 060907, Postal: 060116, Coordinates: 12.2423545, 105.1387052
+
+#### ទ្រៀល (Triel)
+
+Code: 060904, Postal: 060118, Coordinates: 12.3320015, 105.10717
+

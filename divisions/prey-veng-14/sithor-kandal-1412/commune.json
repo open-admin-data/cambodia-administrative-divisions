@@ -1,0 +1,618 @@
+[
+  {
+    "id": "141201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពិលក្រៅ",
+      "en": "Ampil Krau",
+      "slug": "ampil-krau-141201"
+    },
+    "code": {
+      "id": "141201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140601"
+    ],
+    "geo": {
+      "lat": "11.7325493",
+      "lon": "105.4650676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃឃ្មុំ",
+      "en": "Chrey Khmum",
+      "slug": "chrey-khmum-141202"
+    },
+    "code": {
+      "id": "141202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140602"
+    ],
+    "geo": {
+      "lat": "11.7888851",
+      "lon": "105.3051483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វេ",
+      "en": "Lve",
+      "slug": "lve-141203"
+    },
+    "code": {
+      "id": "141203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030703"
+    ],
+    "geo": {
+      "lat": "11.1707184",
+      "lon": "105.3888088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្នៅទី ១",
+      "en": "Pnov Ti Muoy",
+      "slug": "pnov-ti-muoy-141204"
+    },
+    "code": {
+      "id": "141204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140604"
+    ],
+    "geo": {
+      "lat": "11.8355579",
+      "lon": "105.3037853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្នៅទី ២",
+      "en": "Pnov Ti Pir",
+      "slug": "pnov-ti-pir-141205"
+    },
+    "code": {
+      "id": "141205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140605"
+    ],
+    "geo": {
+      "lat": "11.7930786",
+      "lon": "105.2872976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍ទី",
+      "en": "Pou Ti",
+      "slug": "pou-ti-141206"
+    },
+    "code": {
+      "id": "141206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140606"
+    ],
+    "geo": {
+      "lat": "11.7071461",
+      "lon": "105.3584324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកចង្ក្រាន",
+      "en": "Preaek Changkran",
+      "slug": "preaek-changkran-141207"
+    },
+    "code": {
+      "id": "141207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140607"
+    ],
+    "geo": {
+      "lat": "11.8529029",
+      "lon": "105.340493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃដើមថ្នឹង",
+      "en": "Prey Daeum Thnoeng",
+      "slug": "prey-daeum-thnoeng-141208"
+    },
+    "code": {
+      "id": "141208",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140608"
+    ],
+    "geo": {
+      "lat": "11.7746585",
+      "lon": "105.378556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃទឹង",
+      "en": "Prey Tueng",
+      "slug": "prey-tueng-141209"
+    },
+    "code": {
+      "id": "141209",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140609"
+    ],
+    "geo": {
+      "lat": "11.7327549",
+      "lon": "105.3658658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីសាញ់",
+      "en": "Ruessei Sanh",
+      "slug": "ruessei-sanh-141211"
+    },
+    "code": {
+      "id": "141211",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140611"
+    ],
+    "geo": {
+      "lat": "11.7393878",
+      "lon": "105.4089034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រំលេច",
+      "en": "Rumlech",
+      "slug": "rumlech-141210"
+    },
+    "code": {
+      "id": "141210",
+      "iso": null
+    },
+    "parent": {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "local": "ស៊ីធរកណ្ដាល",
+        "en": "Sithor Kandal",
+        "slug": "sithor-kandal-1412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1412",
+        "level": 2,
+        "name": {
+          "local": "ស៊ីធរកណ្ដាល",
+          "en": "Sithor Kandal",
+          "slug": "sithor-kandal-1412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140610"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

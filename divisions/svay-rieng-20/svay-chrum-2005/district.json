@@ -1,0 +1,47 @@
+{
+  "id": "2005",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្វាយជ្រំ",
+    "en": "Svay Chrum",
+    "slug": "svay-chrum-2005"
+  },
+  "code": {
+    "id": "2005",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ស្វាយរៀង",
+      "en": "Svay Rieng",
+      "slug": "svay-rieng-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.115479",
+    "lon": "105.7152969"
+  },
+  "metadata": {},
+  "source": {}
+}

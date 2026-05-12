@@ -1,0 +1,47 @@
+{
+  "id": "0604",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ប្រាសាទបល្ល័ង្គ",
+    "en": "Prasat Ballangk",
+    "slug": "prasat-ballangk-0604"
+  },
+  "code": {
+    "id": "0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ធំ",
+      "en": "Kampong Thom",
+      "slug": "kampong-thom-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.9782682",
+    "lon": "104.941493"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "010301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ណាំតៅ",
+      "en": "Nam Tau",
+      "slug": "nam-tau-010301"
+    },
+    "code": {
+      "id": "010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រុក",
+        "en": "Phnum Srok",
+        "slug": "phnum-srok-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រុក",
+          "en": "Phnum Srok",
+          "slug": "phnum-srok-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010201"
+    ],
+    "geo": {
+      "lat": "13.8918216",
+      "lon": "103.4052918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំដី",
+      "en": "Phnum Dei",
+      "slug": "phnum-dei-010306"
+    },
+    "code": {
+      "id": "010306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រុក",
+        "en": "Phnum Srok",
+        "slug": "phnum-srok-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រុក",
+          "en": "Phnum Srok",
+          "slug": "phnum-srok-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010206"
+    ],
+    "geo": {
+      "lat": "13.7704548",
+      "lon": "103.3828426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពន្លៃ",
+      "en": "Ponley",
+      "slug": "ponley-010303"
+    },
+    "code": {
+      "id": "010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រុក",
+        "en": "Phnum Srok",
+        "slug": "phnum-srok-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រុក",
+          "en": "Phnum Srok",
+          "slug": "phnum-srok-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010203"
+    ],
+    "geo": {
+      "lat": "13.7927097",
+      "lon": "103.2139868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ោយចារ",
+      "en": "Poy Char",
+      "slug": "poy-char-010302"
+    },
+    "code": {
+      "id": "010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រុក",
+        "en": "Phnum Srok",
+        "slug": "phnum-srok-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រុក",
+          "en": "Phnum Srok",
+          "slug": "phnum-srok-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010202"
+    ],
+    "geo": {
+      "lat": "13.8401992",
+      "lon": "103.3572299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ពានស្រែង",
+      "en": "Spean Sraeng",
+      "slug": "spean-sraeng-010304"
+    },
+    "code": {
+      "id": "010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រុក",
+        "en": "Phnum Srok",
+        "slug": "phnum-srok-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រុក",
+          "en": "Phnum Srok",
+          "slug": "phnum-srok-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010204"
+    ],
+    "geo": {
+      "lat": "13.711684",
+      "lon": "103.399776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រះជីក",
+      "en": "Srah Chik",
+      "slug": "srah-chik-010305"
+    },
+    "code": {
+      "id": "010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "0103",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំស្រុក",
+        "en": "Phnum Srok",
+        "slug": "phnum-srok-0103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0103",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំស្រុក",
+          "en": "Phnum Srok",
+          "slug": "phnum-srok-0103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010205"
+    ],
+    "geo": {
+      "lat": "13.7275991",
+      "lon": "103.3192528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

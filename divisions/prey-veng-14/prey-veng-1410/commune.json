@@ -1,0 +1,226 @@
+[
+  {
+    "id": "141001",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បារាយណ៍",
+      "en": "Baray",
+      "slug": "baray-141001"
+    },
+    "code": {
+      "id": "141001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030801"
+    ],
+    "geo": {
+      "lat": "11.4547648",
+      "lon": "105.3515059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141002",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងទឹក",
+      "en": "Cheung Tuek",
+      "slug": "cheung-tuek-141002"
+    },
+    "code": {
+      "id": "141002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141302"
+    ],
+    "geo": {
+      "lat": "11.5124366",
+      "lon": "105.3226461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141003",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់លាវ",
+      "en": "Kampong Leav",
+      "slug": "kampong-leav-141003"
+    },
+    "code": {
+      "id": "141003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141303"
+    ],
+    "geo": {
+      "lat": "11.4861526",
+      "lon": "105.3250589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141004",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាកោ",
+      "en": "Ta Kao",
+      "slug": "ta-kao-141004"
+    },
+    "code": {
+      "id": "141004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-1410"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140905"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

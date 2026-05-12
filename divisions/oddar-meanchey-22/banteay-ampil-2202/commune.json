@@ -1,0 +1,226 @@
+[
+  {
+    "id": "220201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពិល",
+      "en": "Ampil",
+      "slug": "ampil-220201"
+    },
+    "code": {
+      "id": "220201",
+      "iso": null
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយអំពិល",
+        "en": "Banteay Ampil",
+        "slug": "banteay-ampil-2202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយអំពិល",
+          "en": "Banteay Ampil",
+          "slug": "banteay-ampil-2202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030501"
+    ],
+    "geo": {
+      "lat": "14.2361218",
+      "lon": "103.1256045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បេង",
+      "en": "Beng",
+      "slug": "beng-220202"
+    },
+    "code": {
+      "id": "220202",
+      "iso": null
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយអំពិល",
+        "en": "Banteay Ampil",
+        "slug": "banteay-ampil-2202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយអំពិល",
+          "en": "Banteay Ampil",
+          "slug": "banteay-ampil-2202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកខ្ពស់",
+      "en": "Kouk Khpos",
+      "slug": "kouk-khpos-220203"
+    },
+    "code": {
+      "id": "220203",
+      "iso": null
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយអំពិល",
+        "en": "Banteay Ampil",
+        "slug": "banteay-ampil-2202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយអំពិល",
+          "en": "Banteay Ampil",
+          "slug": "banteay-ampil-2202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240203"
+    ],
+    "geo": {
+      "lat": "14.2504269",
+      "lon": "103.3555497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកមន",
+      "en": "Kouk Mon",
+      "slug": "kouk-mon-220204"
+    },
+    "code": {
+      "id": "220204",
+      "iso": null
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយអំពិល",
+        "en": "Banteay Ampil",
+        "slug": "banteay-ampil-2202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយអំពិល",
+          "en": "Banteay Ampil",
+          "slug": "banteay-ampil-2202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240204"
+    ],
+    "geo": {
+      "lat": "14.1617182",
+      "lon": "103.2813975"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

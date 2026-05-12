@@ -1,0 +1,674 @@
+[
+  {
+    "id": "030101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាធាយ",
+      "en": "Batheay",
+      "slug": "batheay-030101"
+    },
+    "code": {
+      "id": "030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030101"
+    ],
+    "geo": {
+      "lat": "11.9936503",
+      "lon": "104.9432705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្បារអំពៅ",
+      "en": "Chbar Ampov",
+      "slug": "chbar-ampov-030102"
+    },
+    "code": {
+      "id": "030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121201"
+    ],
+    "geo": {
+      "lat": "11.9231801",
+      "lon": "104.9732245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាលា",
+      "en": "Chealea",
+      "slug": "chealea-030103"
+    },
+    "code": {
+      "id": "030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030103"
+    ],
+    "geo": {
+      "lat": "11.9126469",
+      "lon": "104.9291344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងព្រៃ",
+      "en": "Cheung Prey",
+      "slug": "cheung-prey-030104"
+    },
+    "code": {
+      "id": "030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030104"
+    ],
+    "geo": {
+      "lat": "12.0587695",
+      "lon": "104.9697406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេព្រីង",
+      "en": "Me Pring",
+      "slug": "me-pring-030105"
+    },
+    "code": {
+      "id": "030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030105"
+    ],
+    "geo": {
+      "lat": "12.026439",
+      "lon": "104.9399572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្អាវ",
+      "en": "Ph'av",
+      "slug": "phav-030106"
+    },
+    "code": {
+      "id": "030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030106"
+    ],
+    "geo": {
+      "lat": "12.0273582",
+      "lon": "104.9652024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបូរ",
+      "en": "Sambour",
+      "slug": "sambour-030107"
+    },
+    "code": {
+      "id": "030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030107"
+    ],
+    "geo": {
+      "lat": "11.867459",
+      "lon": "104.8506402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សណ្ដែក",
+      "en": "Sandaek",
+      "slug": "sandaek-030108"
+    },
+    "code": {
+      "id": "030108",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030108"
+    ],
+    "geo": {
+      "lat": "12.136516",
+      "lon": "104.9804287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងក្រាំង",
+      "en": "Tang Krang",
+      "slug": "tang-krang-030109"
+    },
+    "code": {
+      "id": "030109",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030109"
+    ],
+    "geo": {
+      "lat": "11.8479009",
+      "lon": "104.9213643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងក្រសាំង",
+      "en": "Tang Krasang",
+      "slug": "tang-krasang-030110"
+    },
+    "code": {
+      "id": "030110",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030110"
+    ],
+    "geo": {
+      "lat": "12.0797899",
+      "lon": "104.9186681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030111",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រប់",
+      "en": "Trab",
+      "slug": "trab-030111"
+    },
+    "code": {
+      "id": "030111",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030111"
+    ],
+    "geo": {
+      "lat": "12.1349504",
+      "lon": "104.9389805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030112",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទំនប់",
+      "en": "Tumnob",
+      "slug": "tumnob-030112"
+    },
+    "code": {
+      "id": "030112",
+      "iso": null
+    },
+    "parent": {
+      "id": "0301",
+      "level": 2,
+      "name": {
+        "local": "បាធាយ",
+        "en": "Batheay",
+        "slug": "batheay-0301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0301",
+        "level": 2,
+        "name": {
+          "local": "បាធាយ",
+          "en": "Batheay",
+          "slug": "batheay-0301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030112"
+    ],
+    "geo": {
+      "lat": "12.0797838",
+      "lon": "104.9756466"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

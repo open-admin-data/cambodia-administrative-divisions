@@ -1,0 +1,47 @@
+{
+  "id": "1413",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្វាយអន្ទរ",
+    "en": "Svay Antor",
+    "slug": "svay-antor-1413"
+  },
+  "code": {
+    "id": "1413",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "ព្រៃវែង",
+      "en": "Prey Veng",
+      "slug": "prey-veng-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5729124",
+    "lon": "105.4252384"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,786 @@
+[
+  {
+    "id": "211006",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គកែវ",
+      "en": "Angk Kaev",
+      "slug": "angk-kaev-211006"
+    },
+    "code": {
+      "id": "211006",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210106"
+    ],
+    "geo": {
+      "lat": "10.8609481",
+      "lon": "104.7408709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211002",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គខ្នុរ",
+      "en": "Angk Khnor",
+      "slug": "angk-khnor-211002"
+    },
+    "code": {
+      "id": "211002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210102"
+    ],
+    "geo": {
+      "lat": "10.8576098",
+      "lon": "104.8309913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211001",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្កាញ់",
+      "en": "Angkanh",
+      "slug": "angkanh-211001"
+    },
+    "code": {
+      "id": "211001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210101"
+    ],
+    "geo": {
+      "lat": "10.8865424",
+      "lon": "104.8322133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211003",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជីខ្មា",
+      "en": "Chi Khma",
+      "slug": "chi-khma-211003"
+    },
+    "code": {
+      "id": "211003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210103"
+    ],
+    "geo": {
+      "lat": "10.8059315",
+      "lon": "104.7983052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211004",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្វាវ",
+      "en": "Khvav",
+      "slug": "khvav-211004"
+    },
+    "code": {
+      "id": "211004",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170804"
+    ],
+    "geo": {
+      "lat": "10.9087922",
+      "lon": "104.732526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211005",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រាំបីមុំ",
+      "en": "Prambei Mum",
+      "slug": "prambei-mum-211005"
+    },
+    "code": {
+      "id": "211005",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050603"
+    ],
+    "geo": {
+      "lat": "10.8426624",
+      "lon": "104.7824997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211007",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃស្លឹក",
+      "en": "Prey Sloek",
+      "slug": "prey-sloek-211007"
+    },
+    "code": {
+      "id": "211007",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210107"
+    ],
+    "geo": {
+      "lat": "10.8941031",
+      "lon": "104.7802661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211008",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រនាម",
+      "en": "Roneam",
+      "slug": "roneam-211008"
+    },
+    "code": {
+      "id": "211008",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210108"
+    ],
+    "geo": {
+      "lat": "10.9333266",
+      "lon": "104.7506177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211009",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរ",
+      "en": "Sambuor",
+      "slug": "sambuor-211009"
+    },
+    "code": {
+      "id": "211009",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010110"
+    ],
+    "geo": {
+      "lat": "10.9372704",
+      "lon": "104.8856448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211010",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សន្លុង",
+      "en": "Sanlung",
+      "slug": "sanlung-211010"
+    },
+    "code": {
+      "id": "211010",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080213"
+    ],
+    "geo": {
+      "lat": "10.7978826",
+      "lon": "104.7513378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211011",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្មោង",
+      "en": "Smaong",
+      "slug": "smaong-211011"
+    },
+    "code": {
+      "id": "211011",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210111"
+    ],
+    "geo": {
+      "lat": "10.8004948",
+      "lon": "104.8364855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211012",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រង៉ែ",
+      "en": "Srangae",
+      "slug": "srangae-211012"
+    },
+    "code": {
+      "id": "211012",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171210"
+    ],
+    "geo": {
+      "lat": "10.8004948",
+      "lon": "104.8364855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211013",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធ្លក",
+      "en": "Thlok",
+      "slug": "thlok-211013"
+    },
+    "code": {
+      "id": "211013",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200516"
+    ],
+    "geo": {
+      "lat": "10.9097849",
+      "lon": "104.810425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "211014",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រឡាច",
+      "en": "Tralach",
+      "slug": "tralach-211014"
+    },
+    "code": {
+      "id": "211014",
+      "iso": null
+    },
+    "parent": {
+      "id": "2110",
+      "level": 2,
+      "name": {
+        "local": "ទ្រាំង",
+        "en": "Treang",
+        "slug": "treang-2110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2110",
+        "level": 2,
+        "name": {
+          "local": "ទ្រាំង",
+          "en": "Treang",
+          "slug": "treang-2110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210114"
+    ],
+    "geo": {
+      "lat": "10.829381",
+      "lon": "104.8368503"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

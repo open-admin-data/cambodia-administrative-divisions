@@ -1,0 +1,47 @@
+{
+  "id": "2003",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "រំដួល",
+    "en": "Rumduol",
+    "slug": "rumduol-2003"
+  },
+  "code": {
+    "id": "2003",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ស្វាយរៀង",
+      "en": "Svay Rieng",
+      "slug": "svay-rieng-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.1593741",
+    "lon": "105.8184506"
+  },
+  "metadata": {},
+  "source": {}
+}

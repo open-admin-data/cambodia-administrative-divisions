@@ -1,0 +1,338 @@
+[
+  {
+    "id": "021202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងរាំង",
+      "en": "Boeng Reang",
+      "slug": "boeng-reang-021202"
+    },
+    "code": {
+      "id": "021202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "កំរៀង",
+        "en": "Kamrieng",
+        "slug": "kamrieng-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "កំរៀង",
+          "en": "Kamrieng",
+          "slug": "kamrieng-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021102"
+    ],
+    "geo": {
+      "lat": "13.0932601",
+      "lon": "102.478646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំរៀង",
+      "en": "Kamrieng",
+      "slug": "kamrieng-021201"
+    },
+    "code": {
+      "id": "021201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "កំរៀង",
+        "en": "Kamrieng",
+        "slug": "kamrieng-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "កំរៀង",
+          "en": "Kamrieng",
+          "slug": "kamrieng-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021101"
+    ],
+    "geo": {
+      "lat": "13.0310843",
+      "lon": "102.5357143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរដា",
+      "en": "Ou Da",
+      "slug": "ou-da-021203"
+    },
+    "code": {
+      "id": "021203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "កំរៀង",
+        "en": "Kamrieng",
+        "slug": "kamrieng-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "កំរៀង",
+          "en": "Kamrieng",
+          "slug": "kamrieng-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021103"
+    ],
+    "geo": {
+      "lat": "13.1025969",
+      "lon": "102.5522027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាក្រី",
+      "en": "Ta Krei",
+      "slug": "ta-krei-021206"
+    },
+    "code": {
+      "id": "021206",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "កំរៀង",
+        "en": "Kamrieng",
+        "slug": "kamrieng-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "កំរៀង",
+          "en": "Kamrieng",
+          "slug": "kamrieng-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021106"
+    ],
+    "geo": {
+      "lat": "13.1567698",
+      "lon": "102.6875764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាសែន",
+      "en": "Ta Saen",
+      "slug": "ta-saen-021205"
+    },
+    "code": {
+      "id": "021205",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "កំរៀង",
+        "en": "Kamrieng",
+        "slug": "kamrieng-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "កំរៀង",
+          "en": "Kamrieng",
+          "slug": "kamrieng-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021105"
+    ],
+    "geo": {
+      "lat": "13.1727631",
+      "lon": "102.4629165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រាង",
+      "en": "Trang",
+      "slug": "trang-021204"
+    },
+    "code": {
+      "id": "021204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0212",
+      "level": 2,
+      "name": {
+        "local": "កំរៀង",
+        "en": "Kamrieng",
+        "slug": "kamrieng-0212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0212",
+        "level": 2,
+        "name": {
+          "local": "កំរៀង",
+          "en": "Kamrieng",
+          "slug": "kamrieng-0212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021104"
+    ],
+    "geo": {
+      "lat": "13.1333572",
+      "lon": "102.4753039"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

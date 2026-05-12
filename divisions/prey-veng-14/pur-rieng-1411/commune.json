@@ -1,0 +1,338 @@
+[
+  {
+    "id": "141106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ឫស្សី",
+      "en": "Kampong Ruessei",
+      "slug": "kampong-ruessei-141106"
+    },
+    "code": {
+      "id": "141106",
+      "iso": null
+    },
+    "parent": {
+      "id": "1411",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍រៀង",
+        "en": "Pur Rieng",
+        "slug": "pur-rieng-1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1411",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍រៀង",
+          "en": "Pur Rieng",
+          "slug": "pur-rieng-1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140907"
+    ],
+    "geo": {
+      "lat": "11.5831546",
+      "lon": "105.2148885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍រៀង",
+      "en": "Pou Rieng",
+      "slug": "pou-rieng-141101"
+    },
+    "code": {
+      "id": "141101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1411",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍រៀង",
+        "en": "Pur Rieng",
+        "slug": "pur-rieng-1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1411",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍រៀង",
+          "en": "Pur Rieng",
+          "slug": "pur-rieng-1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140901"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកអន្ទះ",
+      "en": "Preaek Anteah",
+      "slug": "preaek-anteah-141102"
+    },
+    "code": {
+      "id": "141102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1411",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍រៀង",
+        "en": "Pur Rieng",
+        "slug": "pur-rieng-1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1411",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍រៀង",
+          "en": "Pur Rieng",
+          "slug": "pur-rieng-1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140902"
+    ],
+    "geo": {
+      "lat": "11.5109369",
+      "lon": "105.2250303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកជ្រៃ",
+      "en": "Preaek Chrey",
+      "slug": "preaek-chrey-141103"
+    },
+    "code": {
+      "id": "141103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1411",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍រៀង",
+        "en": "Pur Rieng",
+        "slug": "pur-rieng-1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1411",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍រៀង",
+          "en": "Pur Rieng",
+          "slug": "pur-rieng-1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080408"
+    ],
+    "geo": {
+      "lat": "11.4647284",
+      "lon": "105.2604399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកតាសរ",
+      "en": "Preaek Ta Sar",
+      "slug": "preaek-ta-sar-141107"
+    },
+    "code": {
+      "id": "141107",
+      "iso": null
+    },
+    "parent": {
+      "id": "1411",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍រៀង",
+        "en": "Pur Rieng",
+        "slug": "pur-rieng-1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1411",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍រៀង",
+          "en": "Pur Rieng",
+          "slug": "pur-rieng-1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140906"
+    ],
+    "geo": {
+      "lat": "11.5325064",
+      "lon": "105.159132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃកន្លោង",
+      "en": "Prey Kanlaong",
+      "slug": "prey-kanlaong-141104"
+    },
+    "code": {
+      "id": "141104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1411",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍រៀង",
+        "en": "Pur Rieng",
+        "slug": "pur-rieng-1411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1411",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍រៀង",
+          "en": "Pur Rieng",
+          "slug": "pur-rieng-1411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140904"
+    ],
+    "geo": {
+      "lat": "11.5373159",
+      "lon": "105.3143191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

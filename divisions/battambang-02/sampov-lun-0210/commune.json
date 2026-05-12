@@ -1,0 +1,338 @@
+[
+  {
+    "id": "021002",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គរបាន",
+      "en": "Angkor Ban",
+      "slug": "angkor-ban-021002"
+    },
+    "code": {
+      "id": "021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "0210",
+      "level": 2,
+      "name": {
+        "local": "សំពៅលូន",
+        "en": "Sampov Lun",
+        "slug": "sampov-lun-0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0210",
+        "level": 2,
+        "name": {
+          "local": "សំពៅលូន",
+          "en": "Sampov Lun",
+          "slug": "sampov-lun-0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021002"
+    ],
+    "geo": {
+      "lat": "13.365276",
+      "lon": "102.4679617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021006",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃសីមា",
+      "en": "Chrey Seima",
+      "slug": "chrey-seima-021006"
+    },
+    "code": {
+      "id": "021006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0210",
+      "level": 2,
+      "name": {
+        "local": "សំពៅលូន",
+        "en": "Sampov Lun",
+        "slug": "sampov-lun-0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0210",
+        "level": 2,
+        "name": {
+          "local": "សំពៅលូន",
+          "en": "Sampov Lun",
+          "slug": "sampov-lun-0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021006"
+    ],
+    "geo": {
+      "lat": "13.4680517",
+      "lon": "102.463125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021001",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំពៅលូន",
+      "en": "Sampov Lun",
+      "slug": "sampov-lun-021001"
+    },
+    "code": {
+      "id": "021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0210",
+      "level": 2,
+      "name": {
+        "local": "សំពៅលូន",
+        "en": "Sampov Lun",
+        "slug": "sampov-lun-0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0210",
+        "level": 2,
+        "name": {
+          "local": "សំពៅលូន",
+          "en": "Sampov Lun",
+          "slug": "sampov-lun-0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021001"
+    ],
+    "geo": {
+      "lat": "13.3713543",
+      "lon": "102.6141448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021004",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សន្ដិភាព",
+      "en": "Santepheap",
+      "slug": "santepheap-021004"
+    },
+    "code": {
+      "id": "021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0210",
+      "level": 2,
+      "name": {
+        "local": "សំពៅលូន",
+        "en": "Sampov Lun",
+        "slug": "sampov-lun-0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0210",
+        "level": 2,
+        "name": {
+          "local": "សំពៅលូន",
+          "en": "Sampov Lun",
+          "slug": "sampov-lun-0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021005",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សេរីមានជ័យ",
+      "en": "Serei Mean Chey",
+      "slug": "serei-mean-chey-021005"
+    },
+    "code": {
+      "id": "021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0210",
+      "level": 2,
+      "name": {
+        "local": "សំពៅលូន",
+        "en": "Sampov Lun",
+        "slug": "sampov-lun-0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0210",
+        "level": 2,
+        "name": {
+          "local": "សំពៅលូន",
+          "en": "Sampov Lun",
+          "slug": "sampov-lun-0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021005"
+    ],
+    "geo": {
+      "lat": "13.4524157",
+      "lon": "102.4651388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021003",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាស្ដា",
+      "en": "Ta Sda",
+      "slug": "ta-sda-021003"
+    },
+    "code": {
+      "id": "021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0210",
+      "level": 2,
+      "name": {
+        "local": "សំពៅលូន",
+        "en": "Sampov Lun",
+        "slug": "sampov-lun-0210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0210",
+        "level": 2,
+        "name": {
+          "local": "សំពៅលូន",
+          "en": "Sampov Lun",
+          "slug": "sampov-lun-0210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021003"
+    ],
+    "geo": {
+      "lat": "13.4198496",
+      "lon": "102.5240666"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

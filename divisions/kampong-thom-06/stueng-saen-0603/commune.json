@@ -1,0 +1,450 @@
+[
+  {
+    "id": "060309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អាចារ្យលាក់",
+      "en": "Achar Leak",
+      "slug": "achar-leak-060309"
+    },
+    "code": {
+      "id": "060309",
+      "iso": null
+    },
+    "parent": {
+      "id": "0603",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងសែន",
+        "en": "Stueng Saen",
+        "slug": "stueng-saen-0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0603",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងសែន",
+          "en": "Stueng Saen",
+          "slug": "stueng-saen-0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060807"
+    ],
+    "geo": {
+      "lat": "12.7313026",
+      "lon": "104.893813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំរីជាន់ខ្លា",
+      "en": "Damrei Choan Khla",
+      "slug": "damrei-choan-khla-060301"
+    },
+    "code": {
+      "id": "060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0603",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងសែន",
+        "en": "Stueng Saen",
+        "slug": "stueng-saen-0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0603",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងសែន",
+          "en": "Stueng Saen",
+          "slug": "stueng-saen-0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060801"
+    ],
+    "geo": {
+      "lat": "12.6968771",
+      "lon": "104.8942838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ក្របៅ",
+      "en": "Kampong Krabau",
+      "slug": "kampong-krabau-060306"
+    },
+    "code": {
+      "id": "060306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0603",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងសែន",
+        "en": "Stueng Saen",
+        "slug": "stueng-saen-0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0603",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងសែន",
+          "en": "Stueng Saen",
+          "slug": "stueng-saen-0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060805"
+    ],
+    "geo": {
+      "lat": "12.7162894",
+      "lon": "104.8874707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់រទេះ",
+      "en": "Kampong Roteh",
+      "slug": "kampong-roteh-060303"
+    },
+    "code": {
+      "id": "060303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0603",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងសែន",
+        "en": "Stueng Saen",
+        "slug": "stueng-saen-0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0603",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងសែន",
+          "en": "Stueng Saen",
+          "slug": "stueng-saen-0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060803"
+    ],
+    "geo": {
+      "lat": "12.712587",
+      "lon": "104.8885413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ធំ",
+      "en": "Kampong Thum",
+      "slug": "kampong-thum-060302"
+    },
+    "code": {
+      "id": "060302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0603",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងសែន",
+        "en": "Stueng Saen",
+        "slug": "stueng-saen-0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0603",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងសែន",
+          "en": "Stueng Saen",
+          "slug": "stueng-saen-0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060802"
+    ],
+    "geo": {
+      "lat": "12.70787",
+      "lon": "104.8736858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរកន្ធរ",
+      "en": "Ou Kanthor",
+      "slug": "ou-kanthor-060304"
+    },
+    "code": {
+      "id": "060304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0603",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងសែន",
+        "en": "Stueng Saen",
+        "slug": "stueng-saen-0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0603",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងសែន",
+          "en": "Stueng Saen",
+          "slug": "stueng-saen-0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060804"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃតាហ៊ូ",
+      "en": "Prey Ta Hu",
+      "slug": "prey-ta-hu-060308"
+    },
+    "code": {
+      "id": "060308",
+      "iso": null
+    },
+    "parent": {
+      "id": "0603",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងសែន",
+        "en": "Stueng Saen",
+        "slug": "stueng-saen-0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0603",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងសែន",
+          "en": "Stueng Saen",
+          "slug": "stueng-saen-0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060806"
+    ],
+    "geo": {
+      "lat": "12.7216481",
+      "lon": "104.8786906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រយ៉ូវ",
+      "en": "Srayov",
+      "slug": "srayov-060310"
+    },
+    "code": {
+      "id": "060310",
+      "iso": null
+    },
+    "parent": {
+      "id": "0603",
+      "level": 2,
+      "name": {
+        "local": "ស្ទឹងសែន",
+        "en": "Stueng Saen",
+        "slug": "stueng-saen-0603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0603",
+        "level": 2,
+        "name": {
+          "local": "ស្ទឹងសែន",
+          "en": "Stueng Saen",
+          "slug": "stueng-saen-0603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060808"
+    ],
+    "geo": {
+      "lat": "12.6583076",
+      "lon": "104.920138"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

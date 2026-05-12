@@ -1,0 +1,674 @@
+[
+  {
+    "id": "170401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្លង់សំណរ",
+      "en": "Anlong Samnar",
+      "slug": "anlong-samnar-170401"
+    },
+    "code": {
+      "id": "170401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170801"
+    ],
+    "geo": {
+      "lat": "12.898616",
+      "lon": "104.2084339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជីក្រែង",
+      "en": "Chi Kraeng",
+      "slug": "chi-kraeng-170402"
+    },
+    "code": {
+      "id": "170402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170802"
+    ],
+    "geo": {
+      "lat": "13.0781698",
+      "lon": "104.297731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ក្ដី",
+      "en": "Kampong Kdei",
+      "slug": "kampong-kdei-170403"
+    },
+    "code": {
+      "id": "170403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170803"
+    ],
+    "geo": {
+      "lat": "13.1238655",
+      "lon": "104.3364802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្វាវ",
+      "en": "Khvav",
+      "slug": "khvav-170404"
+    },
+    "code": {
+      "id": "170404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170804"
+    ],
+    "geo": {
+      "lat": "13.4191514",
+      "lon": "104.4828883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកធ្លកក្រោម",
+      "en": "Kouk Thlok Kraom",
+      "slug": "kouk-thlok-kraom-170405"
+    },
+    "code": {
+      "id": "170405",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170805"
+    ],
+    "geo": {
+      "lat": "13.1515149",
+      "lon": "104.2744808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកធ្លកលើ",
+      "en": "Kouk Thlok Leu",
+      "slug": "kouk-thlok-leu-170406"
+    },
+    "code": {
+      "id": "170406",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170806"
+    ],
+    "geo": {
+      "lat": "13.1970928",
+      "lon": "104.344147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វែងឫស្សី",
+      "en": "Lveaeng Ruessei",
+      "slug": "lveaeng-ruessei-170407"
+    },
+    "code": {
+      "id": "170407",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170807"
+    ],
+    "geo": {
+      "lat": "13.0685376",
+      "lon": "104.4362211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពង្រក្រោម",
+      "en": "Pongro Kraom",
+      "slug": "pongro-kraom-170408"
+    },
+    "code": {
+      "id": "170408",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170808"
+    ],
+    "geo": {
+      "lat": "13.1502743",
+      "lon": "104.4147769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170409",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពង្រលើ",
+      "en": "Pongro Leu",
+      "slug": "pongro-leu-170409"
+    },
+    "code": {
+      "id": "170409",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170809"
+    ],
+    "geo": {
+      "lat": "13.284477",
+      "lon": "104.4062578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170410",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីលក",
+      "en": "Ruessei Lok",
+      "slug": "ruessei-lok-170410"
+    },
+    "code": {
+      "id": "170410",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170810"
+    ],
+    "geo": {
+      "lat": "13.2089239",
+      "lon": "104.2015129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170411",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សង្វើយ",
+      "en": "Sangvaeuy",
+      "slug": "sangvaeuy-170411"
+    },
+    "code": {
+      "id": "170411",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170811"
+    ],
+    "geo": {
+      "lat": "13.1830871",
+      "lon": "104.2389157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170412",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ពានត្នោត",
+      "en": "Spean Tnaot",
+      "slug": "spean-tnaot-170412"
+    },
+    "code": {
+      "id": "170412",
+      "iso": null
+    },
+    "parent": {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "ជីក្រែង",
+        "en": "Chi Kraeng",
+        "slug": "chi-kraeng-1704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1704",
+        "level": 2,
+        "name": {
+          "local": "ជីក្រែង",
+          "en": "Chi Kraeng",
+          "slug": "chi-kraeng-1704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170812"
+    ],
+    "geo": {
+      "lat": "13.0910779",
+      "lon": "104.3976054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

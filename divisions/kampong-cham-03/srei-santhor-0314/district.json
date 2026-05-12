@@ -1,0 +1,47 @@
+{
+  "id": "0314",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្រីសន្ធរ",
+    "en": "Srei Santhor",
+    "slug": "srei-santhor-0314"
+  },
+  "code": {
+    "id": "0314",
+    "iso": null
+  },
+  "parent": {
+    "id": "03",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ចាម",
+      "en": "Kampong Cham",
+      "slug": "kampong-cham-03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "03",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ចាម",
+        "en": "Kampong Cham",
+        "slug": "kampong-cham-03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.8363518",
+    "lon": "105.0858745"
+  },
+  "metadata": {},
+  "source": {}
+}

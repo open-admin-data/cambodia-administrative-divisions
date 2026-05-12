@@ -1,0 +1,450 @@
+[
+  {
+    "id": "010801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្គាំ",
+      "en": "Phkoam",
+      "slug": "phkoam-010801"
+    },
+    "code": {
+      "id": "010801",
+      "iso": null
+    },
+    "parent": {
+      "id": "0108",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយចេក",
+        "en": "Svay Chek",
+        "slug": "svay-chek-0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0108",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយចេក",
+          "en": "Svay Chek",
+          "slug": "svay-chek-0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010601"
+    ],
+    "geo": {
+      "lat": "13.8218508",
+      "lon": "103.1017464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010808",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រលួស",
+      "en": "Roluos",
+      "slug": "roluos-010808"
+    },
+    "code": {
+      "id": "010808",
+      "iso": null
+    },
+    "parent": {
+      "id": "0108",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយចេក",
+        "en": "Svay Chek",
+        "slug": "svay-chek-0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0108",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយចេក",
+          "en": "Svay Chek",
+          "slug": "svay-chek-0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120511"
+    ],
+    "geo": {
+      "lat": "13.8035946",
+      "lon": "102.9883113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សារង្គ",
+      "en": "Sarongk",
+      "slug": "sarongk-010802"
+    },
+    "code": {
+      "id": "010802",
+      "iso": null
+    },
+    "parent": {
+      "id": "0108",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយចេក",
+        "en": "Svay Chek",
+        "slug": "svay-chek-0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0108",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយចេក",
+          "en": "Svay Chek",
+          "slug": "svay-chek-0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010602"
+    ],
+    "geo": {
+      "lat": "13.759706",
+      "lon": "103.1195475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្លក្រាម",
+      "en": "Sla Kram",
+      "slug": "sla-kram-010803"
+    },
+    "code": {
+      "id": "010803",
+      "iso": null
+    },
+    "parent": {
+      "id": "0108",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយចេក",
+        "en": "Svay Chek",
+        "slug": "svay-chek-0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0108",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយចេក",
+          "en": "Svay Chek",
+          "slug": "svay-chek-0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010603"
+    ],
+    "geo": {
+      "lat": "13.7742935",
+      "lon": "102.8419408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយចេក",
+      "en": "Svay Chek",
+      "slug": "svay-chek-010804"
+    },
+    "code": {
+      "id": "010804",
+      "iso": null
+    },
+    "parent": {
+      "id": "0108",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយចេក",
+        "en": "Svay Chek",
+        "slug": "svay-chek-0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0108",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយចេក",
+          "en": "Svay Chek",
+          "slug": "svay-chek-0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010604"
+    ],
+    "geo": {
+      "lat": "13.8054986",
+      "lon": "102.9628788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាបែន",
+      "en": "Ta Baen",
+      "slug": "ta-baen-010805"
+    },
+    "code": {
+      "id": "010805",
+      "iso": null
+    },
+    "parent": {
+      "id": "0108",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយចេក",
+        "en": "Svay Chek",
+        "slug": "svay-chek-0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0108",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយចេក",
+          "en": "Svay Chek",
+          "slug": "svay-chek-0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010605"
+    ],
+    "geo": {
+      "lat": "13.7699563",
+      "lon": "102.9698263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010806",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាផូ",
+      "en": "Ta Phou",
+      "slug": "ta-phou-010806"
+    },
+    "code": {
+      "id": "010806",
+      "iso": null
+    },
+    "parent": {
+      "id": "0108",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយចេក",
+        "en": "Svay Chek",
+        "slug": "svay-chek-0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0108",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយចេក",
+          "en": "Svay Chek",
+          "slug": "svay-chek-0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010606"
+    ],
+    "geo": {
+      "lat": "13.7643945",
+      "lon": "103.0472572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010807",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ្រាស",
+      "en": "Treas",
+      "slug": "treas-010807"
+    },
+    "code": {
+      "id": "010807",
+      "iso": null
+    },
+    "parent": {
+      "id": "0108",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយចេក",
+        "en": "Svay Chek",
+        "slug": "svay-chek-0108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0108",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយចេក",
+          "en": "Svay Chek",
+          "slug": "svay-chek-0108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010607"
+    ],
+    "geo": {
+      "lat": "13.8899882",
+      "lon": "102.9471226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

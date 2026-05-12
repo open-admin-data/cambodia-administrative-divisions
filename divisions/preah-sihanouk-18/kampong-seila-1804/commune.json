@@ -1,0 +1,226 @@
+[
+  {
+    "id": "180401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំការហ្លួង",
+      "en": "Chamkar Luong",
+      "slug": "chamkar-luong-180401"
+    },
+    "code": {
+      "id": "180401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1804",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សីលា",
+        "en": "Kampong Seila",
+        "slug": "kampong-seila-1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1804",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សីលា",
+          "en": "Kampong Seila",
+          "slug": "kampong-seila-1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180301"
+    ],
+    "geo": {
+      "lat": "11.0450828",
+      "lon": "103.8532482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់សីលា",
+      "en": "Kampong Seila",
+      "slug": "kampong-seila-180402"
+    },
+    "code": {
+      "id": "180402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1804",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សីលា",
+        "en": "Kampong Seila",
+        "slug": "kampong-seila-1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1804",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សីលា",
+          "en": "Kampong Seila",
+          "slug": "kampong-seila-1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180302"
+    ],
+    "geo": {
+      "lat": "11.1063006",
+      "lon": "103.9185374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរបាក់រទេះ",
+      "en": "Ou Bak Roteh",
+      "slug": "ou-bak-roteh-180403"
+    },
+    "code": {
+      "id": "180403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1804",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សីលា",
+        "en": "Kampong Seila",
+        "slug": "kampong-seila-1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1804",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សីលា",
+          "en": "Kampong Seila",
+          "slug": "kampong-seila-1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180303"
+    ],
+    "geo": {
+      "lat": "11.1559908",
+      "lon": "103.9947474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ទឹងឆាយ",
+      "en": "Stueng Chhay",
+      "slug": "stueng-chhay-180404"
+    },
+    "code": {
+      "id": "180404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1804",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សីលា",
+        "en": "Kampong Seila",
+        "slug": "kampong-seila-1804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1804",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សីលា",
+          "en": "Kampong Seila",
+          "slug": "kampong-seila-1804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180304"
+    ],
+    "geo": {
+      "lat": "10.9555236",
+      "lon": "103.8448134"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

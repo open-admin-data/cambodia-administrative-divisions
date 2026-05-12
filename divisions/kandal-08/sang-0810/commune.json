@@ -1,0 +1,674 @@
+[
+  {
+    "id": "081003",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះខែល",
+      "en": "Kaoh Khael",
+      "slug": "kaoh-khael-081003"
+    },
+    "code": {
+      "id": "081003",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080903"
+    ],
+    "geo": {
+      "lat": "11.2679729",
+      "lon": "105.0276183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081004",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះខ្សាច់ទន្លា",
+      "en": "Kaoh Khsach Tonlea",
+      "slug": "kaoh-khsach-tonlea-081004"
+    },
+    "code": {
+      "id": "081004",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080904"
+    ],
+    "geo": {
+      "lat": "11.3174496",
+      "lon": "105.0508747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081001",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្ពប",
+      "en": "Khpob",
+      "slug": "khpob-081001"
+    },
+    "code": {
+      "id": "081001",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080901"
+    ],
+    "geo": {
+      "lat": "11.2652824",
+      "lon": "105.0378246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081005",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងយ៉ូវ",
+      "en": "Krang Yov",
+      "slug": "krang-yov-081005"
+    },
+    "code": {
+      "id": "081005",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080905"
+    ],
+    "geo": {
+      "lat": "11.2733805",
+      "lon": "104.9512566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081006",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រាសាទ",
+      "en": "Prasat",
+      "slug": "prasat-081006"
+    },
+    "code": {
+      "id": "081006",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010304"
+    ],
+    "geo": {
+      "lat": "11.2904552",
+      "lon": "105.1394549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081007",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកអំបិល",
+      "en": "Preaek Ambel",
+      "slug": "preaek-ambel-081007"
+    },
+    "code": {
+      "id": "081007",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080907"
+    ],
+    "geo": {
+      "lat": "11.2426535",
+      "lon": "105.0245185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081008",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកគយ",
+      "en": "Preaek Koy",
+      "slug": "preaek-koy-081008"
+    },
+    "code": {
+      "id": "081008",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030605"
+    ],
+    "geo": {
+      "lat": "11.3534381",
+      "lon": "105.0021243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081010",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្អាងភ្នំ",
+      "en": "S'ang Phnum",
+      "slug": "sang-phnum-081010"
+    },
+    "code": {
+      "id": "081010",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080910"
+    ],
+    "geo": {
+      "lat": "11.3528997",
+      "lon": "104.9746418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081012",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយប្រទាល",
+      "en": "Svay Prateal",
+      "slug": "svay-prateal-081012"
+    },
+    "code": {
+      "id": "081012",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080912"
+    ],
+    "geo": {
+      "lat": "11.3917482",
+      "lon": "105.0134354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081014",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាលន់",
+      "en": "Ta Lon",
+      "slug": "ta-lon-081014"
+    },
+    "code": {
+      "id": "081014",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080914"
+    ],
+    "geo": {
+      "lat": "11.2984655",
+      "lon": "105.0529903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081015",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រើយស្លា",
+      "en": "Traeuy Sla",
+      "slug": "traeuy-sla-081015"
+    },
+    "code": {
+      "id": "081015",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080915"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081016",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកវិល",
+      "en": "Tuek Vil",
+      "slug": "tuek-vil-081016"
+    },
+    "code": {
+      "id": "081016",
+      "iso": null
+    },
+    "parent": {
+      "id": "0810",
+      "level": 2,
+      "name": {
+        "local": "ស្អាង",
+        "en": "S'ang",
+        "slug": "sang-0810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0810",
+        "level": 2,
+        "name": {
+          "local": "ស្អាង",
+          "en": "S'ang",
+          "slug": "sang-0810"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080916"
+    ],
+    "geo": {
+      "lat": "11.306256",
+      "lon": "105.0212672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "01",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "បន្ទាយមានជ័យ",
+    "en": "Banteay Meanchey",
+    "slug": "banteay-meanchey-01"
+  },
+  "code": {
+    "id": "01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "commune": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.7989147",
+    "lon": "102.8862666"
+  },
+  "metadata": {},
+  "source": {}
+}

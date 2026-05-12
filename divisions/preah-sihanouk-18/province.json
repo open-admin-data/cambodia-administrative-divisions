@@ -1,0 +1,30 @@
+{
+  "id": "18",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ព្រះសីហនុ",
+    "en": "Preah Sihanouk",
+    "slug": "preah-sihanouk-18"
+  },
+  "code": {
+    "id": "18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "commune": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.50614075",
+    "lon": "103.26205644863938"
+  },
+  "metadata": {},
+  "source": {}
+}

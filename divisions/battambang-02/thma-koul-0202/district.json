@@ -1,0 +1,47 @@
+{
+  "id": "0202",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ថ្មគោល",
+    "en": "Thma Koul",
+    "slug": "thma-koul-0202"
+  },
+  "code": {
+    "id": "0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.24944415",
+    "lon": "103.07118059476997"
+  },
+  "metadata": {},
+  "source": {}
+}

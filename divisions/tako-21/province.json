@@ -1,0 +1,30 @@
+{
+  "id": "21",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "តាកែវ",
+    "en": "Takéo",
+    "slug": "tako-21"
+  },
+  "code": {
+    "id": "21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 10,
+    "commune": 100
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.93539205",
+    "lon": "104.78988300047047"
+  },
+  "metadata": {},
+  "source": {}
+}

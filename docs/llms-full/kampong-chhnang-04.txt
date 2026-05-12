@@ -1,0 +1,333 @@
+# Kampong Chhnang — Cambodia Administrative Divisions
+
+> 8 districts, 71 communes
+> Code: 04
+> Coordinates: 12.1382025, 104.3354098
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### បរិបូណ៌ (Baribour)
+
+Code: 0401, Coordinates: 12.4389574, 104.4623541
+Communes: 11
+
+#### អញ្ចាញរូង (Anhchanh Rung)
+
+Code: 040101, Postal: 040401, Coordinates: 12.3369001, 104.4141114
+
+#### ចក (Chak)
+
+Code: 040103, Postal: 040403
+
+#### ឆ្នុកទ្រូ (Chhnok Tru)
+
+Code: 040102, Postal: 040402
+
+#### កំពង់ព្រះគគីរ (Kampong Preah Kokir)
+
+Code: 040105, Postal: 040405
+
+#### ខុនរ៉ង (Khon Rang)
+
+Code: 040104, Postal: 040404
+
+#### មេលំ (Melum)
+
+Code: 040106, Postal: 040406
+
+#### ពេជចង្វារ (Pech Changvar)
+
+Code: 040108, Postal: 040408, Coordinates: 12.3695118, 104.3940187
+
+#### ផ្សារ (Phsar)
+
+Code: 040107, Postal: 040407, Coordinates: 12.3811152, 104.4872717
+
+#### ពន្លៃ (Ponley)
+
+Code: 040110, Postal: 010203, Coordinates: 12.4391108, 104.4620248
+
+#### ពពេល (Popel)
+
+Code: 040109, Postal: 040409, Coordinates: 12.4266442, 104.4508388
+
+#### ត្រពាំងចាន់ (Trapeang Chan)
+
+Code: 040111, Postal: 040411
+
+### ជលគីរី (Chol Kiri)
+
+Code: 0402, Coordinates: 12.1593491, 104.8815344
+Communes: 5
+
+#### ជលសា (Chol Sar)
+
+Code: 040201, Postal: 040301
+
+#### កំពង់អុស (Kampong Ous)
+
+Code: 040203, Postal: 040303, Coordinates: 12.2041109, 104.7627522
+
+#### កោះថ្កូវ (Kaoh Thkov)
+
+Code: 040202, Postal: 040302, Coordinates: 12.0691223, 104.7807827
+
+#### ពាមឆ្កោក (Peam Chhkaok)
+
+Code: 040204, Postal: 040304, Coordinates: 12.2199876, 104.8337504
+
+#### ព្រៃគ្រី (Prey Kri)
+
+Code: 040205, Postal: 040305, Coordinates: 12.1529024, 104.8727306
+
+### កំពង់ឆ្នាំង (Kampong Chhnang)
+
+Code: 0403, Coordinates: 12.2536026, 104.6658389
+Communes: 4
+
+#### ប្អេរ (B&#39;er)
+
+Code: 040303, Postal: 040803, Coordinates: 12.2527484, 104.6647913
+
+#### កំពង់ឆ្នាំង (Kampong Chhnang)
+
+Code: 040302, Postal: 040802, Coordinates: 12.2367105, 104.6701824
+
+#### ខ្សាម (Khsam)
+
+Code: 040304, Postal: 040804, Coordinates: 12.2576722, 104.6634467
+
+#### ផ្សារឆ្នាំង (Phsar Chhnang)
+
+Code: 040301, Postal: 040801, Coordinates: 12.2679871, 104.6809852
+
+### កំពង់លែង (Kampong Leaeng)
+
+Code: 0404, Coordinates: 12.2741853, 104.7254311
+Communes: 9
+
+#### ច្រណូក (Chranouk)
+
+Code: 040401, Postal: 040601, Coordinates: 12.4150306, 104.7500912
+
+#### ដារ (Dar)
+
+Code: 040402, Postal: 040602
+
+#### កំពង់ហៅ (Kampong Hau)
+
+Code: 040403, Postal: 040603
+
+#### ផ្លូវទូក (Phlov Tuk)
+
+Code: 040404, Postal: 040604
+
+#### ពោធិ៍ (Pou)
+
+Code: 040405, Postal: 040605
+
+#### ប្រឡាយមាស (Pralay Meas)
+
+Code: 040406, Postal: 040606
+
+#### សំរោងសែន (Samraong Saen)
+
+Code: 040407, Postal: 040607, Coordinates: 12.3442536, 104.8466726
+
+#### ស្វាយរំពារ (Svay Rumpear)
+
+Code: 040408, Postal: 050214, Coordinates: 12.3270806, 104.7907344
+
+#### ត្រងិល (Trangel)
+
+Code: 040409, Postal: 040609
+
+### កំពង់ត្រឡាច (Kampong Tralach)
+
+Code: 0405, Coordinates: 11.9384963, 104.7136203
+Communes: 10
+
+#### អំពិលទឹក (Ampil Tuek)
+
+Code: 040501, Postal: 040201
+
+#### ឈូកស (Chhuk Sa)
+
+Code: 040502, Postal: 040202, Coordinates: 12.0138056, 104.665659
+
+#### ច្រេស (Chres)
+
+Code: 040503, Postal: 040203
+
+#### កំពង់ត្រឡាច (Kampong Tralach)
+
+Code: 040504, Postal: 040204, Coordinates: 11.9104309, 104.7733695
+
+#### លង្វែក (Longveaek)
+
+Code: 040505, Postal: 040205, Coordinates: 11.8703074, 104.7465631
+
+#### អូរឫស្សី (Ou Ruessei)
+
+Code: 040506, Postal: 120301, Coordinates: 11.9353592, 104.7219294
+
+#### ពានី (Peani)
+
+Code: 040507, Postal: 040207
+
+#### សែប (Saeb)
+
+Code: 040508, Postal: 040208, Coordinates: 12.0577491, 104.7265356
+
+#### តាជេស (Ta Ches)
+
+Code: 040509, Postal: 040209, Coordinates: 12.0134513, 104.7454602
+
+#### ថ្មឥដ្ឋ (Thma Edth)
+
+Code: 040510, Postal: 040210
+
+### រលាប្អៀរ (Rolea B&#39;ier)
+
+Code: 0406, Coordinates: 12.2059838, 104.6613026
+Communes: 14
+
+#### អណ្ដូងស្នាយ (Andoung Snay)
+
+Code: 040601, Postal: 040701, Coordinates: 12.1312569, 104.7096132
+
+#### បន្ទាយព្រាល (Banteay Preal)
+
+Code: 040602, Postal: 040702, Coordinates: 12.2702913, 104.5495679
+
+#### ជើងគ្រាវ (Cheung Kreav)
+
+Code: 040603, Postal: 040703, Coordinates: 12.0931876, 104.6415839
+
+#### ជ្រៃបាក់ (Chrey Bak)
+
+Code: 040604, Postal: 040704
+
+#### គោកបន្ទាយ (Kouk Banteay)
+
+Code: 040605, Postal: 040705
+
+#### ក្រាំងលាវ (Krang Leav)
+
+Code: 040606, Postal: 040706, Coordinates: 12.2186946, 104.5499132
+
+#### ភ្នំក្រាំងដីមាស (Phnom Kraing Dey Meas)
+
+Code: 040614, Postal: 40614
+
+#### ពង្រ (Pongro)
+
+Code: 040607, Postal: 030707
+
+#### ប្រស្នឹប (Prasnoeb)
+
+Code: 040608, Postal: 040708
+
+#### ព្រៃមូល (Prey Mul)
+
+Code: 040609, Postal: 040709, Coordinates: 12.1590731, 104.5974116
+
+#### រលាប្អៀរ (Rolea B&#39;ier)
+
+Code: 040610, Postal: 040710, Coordinates: 12.1536229, 104.6508956
+
+#### ស្រែថ្មី (Srae Thmei)
+
+Code: 040611, Postal: 040711
+
+#### ស្វាយជ្រុំ (Svay Chrum)
+
+Code: 040612, Postal: 040712, Coordinates: 12.2982422, 104.5991443
+
+#### ទឹកហូត (Tuek Hout)
+
+Code: 040613, Postal: 040713, Coordinates: 12.1099019, 104.7312846
+
+### សាមគ្គីមានជ័យ (Sameakki Mean Chey)
+
+Code: 0407, Coordinates: 11.8772162, 104.6041473
+Communes: 9
+
+#### ឈានឡើង (Chhean Laeung)
+
+Code: 040701, Postal: 040501, Coordinates: 11.8018054, 104.4420963
+
+#### ខ្នារឆ្មារ (Khnar Chhmar)
+
+Code: 040702, Postal: 040502, Coordinates: 12.0050979, 104.620222
+
+#### ក្រាំងល្វា (Krang Lvea)
+
+Code: 040703, Postal: 040503
+
+#### ពាម (Peam)
+
+Code: 040704, Postal: 040504
+
+#### សេដ្ឋី (Sedthei)
+
+Code: 040705, Postal: 040505, Coordinates: 11.875465, 104.6724695
+
+#### ស្វាយ (Svay)
+
+Code: 040706, Postal: 040506, Coordinates: 11.8322777, 104.6937336
+
+#### ស្វាយជុក (Svay Chuk)
+
+Code: 040707, Postal: 040507
+
+#### ត្បែងខ្ពស់ (Tbaeng Khpos)
+
+Code: 040708, Postal: 040508, Coordinates: 11.8789393, 104.6092482
+
+#### ធ្លកវៀន (Thlok Vien)
+
+Code: 040709, Postal: 040509, Coordinates: 11.9534432, 104.6489216
+
+### ទឹកផុស (Tuek Phos)
+
+Code: 0408, Coordinates: 12.052069, 104.5259324
+Communes: 9
+
+#### អភិវឌ្ឍន៍ (Akphivoadth)
+
+Code: 040801, Postal: 040101, Coordinates: 12.0051548, 104.5684027
+
+#### ចោងម៉ោង (Chaong Maong)
+
+Code: 040803, Postal: 040103
+
+#### ជៀប (Chieb)
+
+Code: 040802, Postal: 040102, Coordinates: 12.0040809, 104.4252602
+
+#### ក្បាលទឹក (Kbal Tuek)
+
+Code: 040804, Postal: 040104, Coordinates: 11.9489927, 104.3230088
+
+#### ក្តុលសែនជ័យ (Kdol Saen Chey)
+
+Code: 040809, Postal: 040109
+
+#### ខ្លុងពពក (Khlong Popok)
+
+Code: 040805, Postal: 040105, Coordinates: 12.0412394, 104.4744987
+
+#### ក្រាំងស្គារ (Krang Skear)
+
+Code: 040806, Postal: 040106, Coordinates: 12.1961782, 104.332644
+
+#### តាំងក្រសាំង (Tang Krasang)
+
+Code: 040807, Postal: 030110, Coordinates: 12.1064498, 104.5538744
+
+#### ទួលខ្ពស់ (Tuol Khpos)
+
+Code: 040808, Postal: 040108, Coordinates: 11.9862216, 104.3932745
+

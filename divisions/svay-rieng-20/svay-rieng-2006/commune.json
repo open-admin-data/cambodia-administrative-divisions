@@ -1,0 +1,394 @@
+[
+  {
+    "id": "200605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចេក",
+      "en": "Chek",
+      "slug": "chek-200605"
+    },
+    "code": {
+      "id": "200605",
+      "iso": null
+    },
+    "parent": {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-2006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-2006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200705"
+    ],
+    "geo": {
+      "lat": "11.1203022",
+      "lon": "105.7790733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គយត្របែក",
+      "en": "Koy Trabaek",
+      "slug": "koy-trabaek-200603"
+    },
+    "code": {
+      "id": "200603",
+      "iso": null
+    },
+    "parent": {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-2006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-2006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200703"
+    ],
+    "geo": {
+      "lat": "11.0675106",
+      "lon": "105.808064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍តាហោ",
+      "en": "Pou Ta Hao",
+      "slug": "pou-ta-hao-200604"
+    },
+    "code": {
+      "id": "200604",
+      "iso": null
+    },
+    "parent": {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-2006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-2006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200704"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃឆ្លាក់",
+      "en": "Prey Chhlak",
+      "slug": "prey-chhlak-200602"
+    },
+    "code": {
+      "id": "200602",
+      "iso": null
+    },
+    "parent": {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-2006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-2006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200702"
+    ],
+    "geo": {
+      "lat": "11.0988596",
+      "lon": "105.7934805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សង្ឃរ័",
+      "en": "Sangkhoar",
+      "slug": "sangkhoar-200607"
+    },
+    "code": {
+      "id": "200607",
+      "iso": null
+    },
+    "parent": {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-2006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-2006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200707"
+    ],
+    "geo": {
+      "lat": "11.1141204",
+      "lon": "105.819995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយរៀង",
+      "en": "Svay Rieng",
+      "slug": "svay-rieng-200601"
+    },
+    "code": {
+      "id": "200601",
+      "iso": null
+    },
+    "parent": {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-2006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-2006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200701"
+    ],
+    "geo": {
+      "lat": "11.0805569",
+      "lon": "105.7985323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយតឿ",
+      "en": "Svay Toea",
+      "slug": "svay-toea-200606"
+    },
+    "code": {
+      "id": "200606",
+      "iso": null
+    },
+    "parent": {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-2006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-2006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200706"
+    ],
+    "geo": {
+      "lat": "11.0444759",
+      "lon": "105.8593247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

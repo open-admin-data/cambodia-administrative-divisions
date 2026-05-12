@@ -1,0 +1,674 @@
+[
+  {
+    "id": "250201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈូក",
+      "en": "Chhuk",
+      "slug": "chhuk-250201"
+    },
+    "code": {
+      "id": "250201",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250201"
+    ],
+    "geo": {
+      "lat": "12.1549457",
+      "lon": "105.7402648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជំនីក",
+      "en": "Chumnik",
+      "slug": "chumnik-250202"
+    },
+    "code": {
+      "id": "250202",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250202"
+    ],
+    "geo": {
+      "lat": "12.2513472",
+      "lon": "105.8076504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ទ្រាស",
+      "en": "Kampong Treas",
+      "slug": "kampong-treas-250203"
+    },
+    "code": {
+      "id": "250203",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250203"
+    ],
+    "geo": {
+      "lat": "12.1235799",
+      "lon": "105.546447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះពីរ",
+      "en": "Kaoh Pir",
+      "slug": "kaoh-pir-250204"
+    },
+    "code": {
+      "id": "250204",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250204"
+    ],
+    "geo": {
+      "lat": "12.1411778",
+      "lon": "105.5466077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រូចឆ្មារ",
+      "en": "Krouch Chhmar",
+      "slug": "krouch-chhmar-250205"
+    },
+    "code": {
+      "id": "250205",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250205"
+    ],
+    "geo": {
+      "lat": "12.2848784",
+      "lon": "105.6373925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ឺស១",
+      "en": "Peus Muoy",
+      "slug": "peus-muoy-250206"
+    },
+    "code": {
+      "id": "250206",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250206"
+    ],
+    "geo": {
+      "lat": "12.2461046",
+      "lon": "105.731037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ើស២",
+      "en": "Peus Pir",
+      "slug": "peus-pir-250207"
+    },
+    "code": {
+      "id": "250207",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកអាជី",
+      "en": "Preaek A chi",
+      "slug": "preaek-a-chi-250208"
+    },
+    "code": {
+      "id": "250208",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រការខ្នុរ",
+      "en": "Roka Khnor",
+      "slug": "roka-khnor-250209"
+    },
+    "code": {
+      "id": "250209",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250209"
+    ],
+    "geo": {
+      "lat": "12.2472992",
+      "lon": "105.772531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយឃ្លាំង",
+      "en": "Svay Khleang",
+      "slug": "svay-khleang-250210"
+    },
+    "code": {
+      "id": "250210",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250210"
+    ],
+    "geo": {
+      "lat": "12.268829",
+      "lon": "105.6573384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ្រា",
+      "en": "Trea",
+      "slug": "trea-250211"
+    },
+    "code": {
+      "id": "250211",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060713"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250212",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលស្នួល",
+      "en": "Tuol Snuol",
+      "slug": "tuol-snuol-250212"
+    },
+    "code": {
+      "id": "250212",
+      "iso": null
+    },
+    "parent": {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "local": "ក្រូចឆ្មារ",
+        "en": "Krouch Chhmar",
+        "slug": "krouch-chhmar-2502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2502",
+        "level": 2,
+        "name": {
+          "local": "ក្រូចឆ្មារ",
+          "en": "Krouch Chhmar",
+          "slug": "krouch-chhmar-2502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250212"
+    ],
+    "geo": {
+      "lat": "12.1660204",
+      "lon": "105.6435581"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,499 @@
+# Phnom Penh — Cambodia Administrative Divisions
+
+> 14 districts, 105 communes
+> Code: 12
+> Coordinates: 11.5730391, 104.857807
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### បឹងកេងកង (Boeng Keng Kang)
+
+Code: 1213, Coordinates: 11.5489263, 104.9113011
+Communes: 7
+
+#### បឹងកេងកងទី ៣ (Boeng Keng Kang Ti Bei)
+
+Code: 121303, Postal: 120104, Coordinates: 11.547771, 104.9178497
+
+#### បឹងកេងកងទី ១ (Boeng Keng Kang Ti Muoy)
+
+Code: 121301, Postal: 120102, Coordinates: 11.5504554, 104.9249988
+
+#### បឹងកេងកងទី ២ (Boeng Keng Kang Ti Pir)
+
+Code: 121302, Postal: 120103, Coordinates: 11.5529917, 104.9184799
+
+#### អូឡាំពិក (Olympic)
+
+Code: 121304, Postal: 120105, Coordinates: 11.5532352, 104.9133669
+
+#### ទំនប់ទឹក (Tumnob Tuek)
+
+Code: 121305, Postal: 120108, Coordinates: 11.54573, 104.9049028
+
+#### ទួលស្វាយព្រៃទី ១ (Tuol Svay Prey Ti Muoy)
+
+Code: 121306, Postal: 120106
+
+#### ទួលស្វាយព្រៃទី ២ (Tuol Svay Prey Ti Pir)
+
+Code: 121307, Postal: 120107, Coordinates: 11.5543617, 104.9062018
+
+### ចំការមន (Chamkar Mon)
+
+Code: 1201, Coordinates: 11.5373071, 104.9208767
+Communes: 5
+
+#### បឹងត្របែក (Boeng Trabaek)
+
+Code: 120111, Postal: 120111, Coordinates: 11.5406943, 104.922449
+
+#### ផ្សារដើមថ្កូវ (Phsar Daeum Thkov)
+
+Code: 120112, Postal: 120112, Coordinates: 11.5307758, 104.9192416
+
+#### ទន្លេបាសាក់ (Tonle Basak)
+
+Code: 120101, Postal: 120101, Coordinates: 11.5509405, 104.9359091
+
+#### ទួលទំពូងទី ១ (Tuol Tumpung Ti Muoy)
+
+Code: 120110, Postal: 120109, Coordinates: 11.5402098, 104.9171345
+
+#### ទួលទំពូងទី ២ (Tuol Tumpung Ti Pir)
+
+Code: 120109, Postal: 120110, Coordinates: 11.5390817, 104.911736
+
+### ច្បារអំពៅ (Chbar Ampov)
+
+Code: 1212, Coordinates: 11.5228263, 104.9667447
+Communes: 8
+
+#### ច្បារអំពៅទី ២ (Chbar Ampov Ti Pir)
+
+Code: 121202, Postal: 121202, Coordinates: 11.5360096, 104.9381036
+
+#### ច្បារអំពៅទី ១ (Chhbar Ampov Ti Muoy)
+
+Code: 121201, Postal: 121201, Coordinates: 11.5298382, 104.9385287
+
+#### ក្បាលកោះ (Kbal Kaoh)
+
+Code: 121207, Postal: 121207, Coordinates: 11.5036877, 105.0102142
+
+#### និរោធ (Nirouth)
+
+Code: 121203, Postal: 121203, Coordinates: 11.5262469, 104.9537196
+
+#### ព្រែកឯង (Preaek Aeng)
+
+Code: 121206, Postal: 121206, Coordinates: 11.5289849, 104.9886913
+
+#### ព្រែកប្រា (Preaek Pra)
+
+Code: 121204, Postal: 121204, Coordinates: 11.5063174, 104.9477173
+
+#### ព្រែកថ្មី (Preaek Thmei)
+
+Code: 121208, Postal: 121208, Coordinates: 11.4703998, 104.9820909
+
+#### វាលស្បូវ (Veal Sbov)
+
+Code: 121205, Postal: 121205, Coordinates: 11.5310124, 104.9733348
+
+### ជ្រោយចង្វារ (Chrouy Changvar)
+
+Code: 1210, Coordinates: 11.6586259, 104.9092633
+Communes: 5
+
+#### បាក់ខែង (Bak Kaeng)
+
+Code: 121005, Postal: 121005, Coordinates: 11.6815354, 104.9205709
+
+#### ជ្រោយចង្វារ (Chrouy Changvar)
+
+Code: 121001, Postal: 121001, Coordinates: 11.5894218, 104.9270911
+
+#### កោះដាច់ (Kaoh Dach)
+
+Code: 121004, Postal: 121004, Coordinates: 11.6647479, 104.9363037
+
+#### ព្រែកលៀប (Preaek Lieb)
+
+Code: 121002, Postal: 121002, Coordinates: 11.6456062, 104.9170732
+
+#### ព្រែកតាសេក (Preaek Ta Sek)
+
+Code: 121003, Postal: 121003, Coordinates: 11.6555149, 104.8841571
+
+### ដង្កោ (Dangkao)
+
+Code: 1205, Coordinates: 11.5057732, 104.891422
+Communes: 12
+
+#### ជើងឯក (Cheung Aek)
+
+Code: 120515, Postal: 120508, Coordinates: 11.4882678, 104.9036406
+
+#### ដង្កោ (Dangkao)
+
+Code: 120501, Postal: 120501, Coordinates: 11.4960888, 104.8863087
+
+#### គងនយ (Kong Noy)
+
+Code: 120516, Postal: 120509, Coordinates: 11.4381788, 104.8400571
+
+#### ក្រាំងពង្រ (Krang Pongro)
+
+Code: 120512, Postal: 120505, Coordinates: 11.4467139, 104.8042486
+
+#### ពងទឹក (Pong Tuek)
+
+Code: 120507, Postal: 120502, Coordinates: 11.476319, 104.8236934
+
+#### ព្រែកកំពឹស (Preaek Kampues)
+
+Code: 120517, Postal: 120510, Coordinates: 11.4462201, 104.9022203
+
+#### ព្រៃស (Prey Sa)
+
+Code: 120510, Postal: 120504, Coordinates: 11.4964374, 104.8618029
+
+#### ព្រៃវែង (Prey Veaeng)
+
+Code: 120508, Postal: 120503, Coordinates: 11.475629, 104.8397681
+
+#### រលួស (Roluos)
+
+Code: 120518, Postal: 120511, Coordinates: 11.4357024, 104.8727746
+
+#### សាក់សំពៅ (Sak Sampov)
+
+Code: 120514, Postal: 120507, Coordinates: 11.4445966, 104.8348848
+
+#### ស្ពានថ្ម (Spean Thma)
+
+Code: 120519, Postal: 120512, Coordinates: 11.4628105, 104.874518
+
+#### ទៀន (Tien)
+
+Code: 120520, Postal: 120513, Coordinates: 11.4392438, 104.8567289
+
+### ដូនពេញ (Doun Penh)
+
+Code: 1202, Coordinates: 11.5772693, 104.9194273
+Communes: 11
+
+#### បឹងរាំង (Boeng Reang)
+
+Code: 120204, Postal: 021102, Coordinates: 11.5606982, 104.9218237
+
+#### ចតុមុខ (Chakto Mukh)
+
+Code: 120207, Postal: 120207, Coordinates: 11.5589062, 104.9310313
+
+#### ជ័យជំនះ (Chey Chummeah)
+
+Code: 120208, Postal: 120208, Coordinates: 11.5635454, 104.9318758
+
+#### ផ្សារចាស់ (Phsar Chas)
+
+Code: 120209, Postal: 120209, Coordinates: 11.5713455, 104.9261668
+
+#### ផ្សារកណ្ដាលទី១ (Phsar Kandal Ti Muoy)
+
+Code: 120205, Postal: 120205
+
+#### ផ្សារកណ្ដាលទី២ (Phsar Kandal Ti Pir)
+
+Code: 120206, Postal: 120206
+
+#### ផ្សារថ្មីទី ៣ (Phsar Thmei Ti Bei)
+
+Code: 120203, Postal: 120203, Coordinates: 11.5664641, 104.923734
+
+#### ផ្សារថ្មីទី ១ (Phsar Thmei Ti Muoy)
+
+Code: 120201, Postal: 120201, Coordinates: 11.5708489, 104.9214864
+
+#### ផ្សារថ្មីទី ២ (Phsar Thmei Ti Pir)
+
+Code: 120202, Postal: 120202, Coordinates: 11.5690196, 104.9194883
+
+#### ស្រះចក (Srah Chak)
+
+Code: 120210, Postal: 120210, Coordinates: 11.5837416, 104.9198536
+
+#### វត្ដភ្នំ (Voat Phnum)
+
+Code: 120211, Postal: 120211
+
+### កំបូល (Kamboul)
+
+Code: 1214, Coordinates: 11.5363753, 104.770603
+Communes: 7
+
+#### បឹងធំ (Boeng Thum)
+
+Code: 121406, Postal: 120907, Coordinates: 11.4767247, 104.771594
+
+#### កំបូល (Kamboul)
+
+Code: 121401, Postal: 120905, Coordinates: 11.5416595, 104.7746396
+
+#### កន្ទោក (Kantaok)
+
+Code: 121402, Postal: 120906, Coordinates: 11.5061345, 104.7833627
+
+#### ឪឡោក (Ovlaok)
+
+Code: 121403, Postal: 120904, Coordinates: 11.5691298, 104.7456644
+
+#### ភ្លើងឆេះរទេះ (Phleung Chheh Roteh)
+
+Code: 121405, Postal: 120908, Coordinates: 11.4940305, 104.8050835
+
+#### ប្រទះឡាង (Prateah Lang)
+
+Code: 121407, Postal: 120506, Coordinates: 11.4690007, 104.7923055
+
+#### ស្នោរ (Snaor)
+
+Code: 121404, Postal: 120903
+
+### មានជ័យ (Mean Chey)
+
+Code: 1206, Coordinates: 11.5315089, 104.8984702
+Communes: 7
+
+#### បឹងទំពុនទី១ (Boeng Tumpun 1)
+
+Code: 120611, Postal: 120606, Coordinates: 11.5334694, 104.9058902
+
+#### បឹងទំពុនទី២ (Boeng Tumpun 2)
+
+Code: 120612, Postal: 120607, Coordinates: 11.5229125, 104.9093281
+
+#### ចាក់អង្រែក្រោម (Chak Angrae Kraom)
+
+Code: 120607, Postal: 120602, Coordinates: 11.5041187, 104.9354496
+
+#### ចាក់អង្រែលើ (Chak Angrae Leu)
+
+Code: 120606, Postal: 120601, Coordinates: 11.5204875, 104.9302511
+
+#### ស្ទឹងមានជ័យទី១ (Stueng Mean chey 1)
+
+Code: 120608, Postal: 120603, Coordinates: 11.5429278, 104.8880421
+
+#### ស្ទឹងមានជ័យទី២ (Stueng Mean chey 2)
+
+Code: 120609, Postal: 120604, Coordinates: 11.5343626, 104.8922394
+
+#### ស្ទឹងមានជ័យទី៣ (Stueng Mean chey 3)
+
+Code: 120610, Postal: 120605, Coordinates: 11.5347705, 104.8761117
+
+### ព្រែកព្នៅ (Praek Pnov)
+
+Code: 1211, Coordinates: 11.6591915, 104.8608617
+Communes: 5
+
+#### គោករកា (Kouk Roka)
+
+Code: 121104, Postal: 121104, Coordinates: 11.5992797, 104.8184632
+
+#### ពញាពន់ (Ponhea Pon)
+
+Code: 121102, Postal: 121102, Coordinates: 11.6551695, 104.7929146
+
+#### ពន្សាំង (Ponsang)
+
+Code: 121105, Postal: 121105, Coordinates: 11.6333603, 104.7648233
+
+#### ព្រែកព្នៅ (Preaek Phnov)
+
+Code: 121101, Postal: 121101, Coordinates: 11.6653243, 104.8552509
+
+#### សំរោង (Samraong)
+
+Code: 121103, Postal: 010404, Coordinates: 11.6854873, 104.8351562
+
+### ៧មករា (Prampir Meakkakra)
+
+Code: 1203, Coordinates: 11.5637649, 104.9106689
+Communes: 8
+
+#### បឹងព្រលឹត (Boeng Proluet)
+
+Code: 120308, Postal: 120308, Coordinates: 11.5595067, 104.9173953
+
+#### មិត្ដភាព (Mittapheap)
+
+Code: 120306, Postal: 120306
+
+#### មនោរម្យ (Monourom)
+
+Code: 120305, Postal: 050602, Coordinates: 11.5694231, 104.9171913
+
+#### អូរឫស្សីទី ៣ (Ou Ruessei Ti Bei)
+
+Code: 120303, Postal: 120303
+
+#### អូរឫស្សីទី ៤ (Ou Ruessei Ti Buon)
+
+Code: 120304, Postal: 120304
+
+#### អូរឫស្សីទី ១ (Ou Ruessei Ti Muoy)
+
+Code: 120301, Postal: 120301
+
+#### អូរឫស្សីទី ២ (Ou Ruessei Ti Pir)
+
+Code: 120302, Postal: 120302
+
+#### វាលវង់ (Veal Vong)
+
+Code: 120307, Postal: 120307, Coordinates: 11.5624743, 104.9094089
+
+### ពោធិ៍សែនជ័យ (Pur SenChey)
+
+Code: 1209, Coordinates: 11.5538562, 104.826722
+Communes: 7
+
+#### ចោមចៅទី១ (Chaom Chau 1)
+
+Code: 120914, Postal: 120909, Coordinates: 11.5234572, 104.8605232
+
+#### ចោមចៅទី២ (Chaom Chau 2)
+
+Code: 120915, Postal: 120910, Coordinates: 11.5187076, 104.8335396
+
+#### ចោមចៅទី៣ (Chaom Chau 3)
+
+Code: 120916, Postal: 120911, Coordinates: 11.5356956, 104.8186051
+
+#### កាកាបទី១ (Kakab 1)
+
+Code: 120917, Postal: 120912, Coordinates: 11.5543778, 104.8499764
+
+#### កាកាបទី២ (Kakab 2)
+
+Code: 120918, Postal: 120913, Coordinates: 11.5616803, 104.8312223
+
+#### សំរោងក្រោម (Samraong Kraom)
+
+Code: 120906, Postal: 120901, Coordinates: 11.5751626, 104.8086026
+
+#### ត្រពាំងក្រសាំង (Trapeang Krasang)
+
+Code: 120901, Postal: 120902, Coordinates: 11.553532, 104.795792
+
+### ឫស្សីកែវ (Russey Keo)
+
+Code: 1207, Coordinates: 11.6287927, 104.9037583
+Communes: 7
+
+#### ច្រាំងចំរេះទី ១ (Chrang Chamreh Ti Muoy)
+
+Code: 120711, Postal: 120704
+
+#### ច្រាំងចំរេះទី ២ (Chrang Chamreh Ti Pir)
+
+Code: 120712, Postal: 120705
+
+#### គីឡូម៉ែត្រលេខ៦ (Kilomaetr Lekh Prammuoy)
+
+Code: 120704, Postal: 120704, Coordinates: 11.6192823, 104.9051856
+
+#### ឫស្សីកែវ (Ruessei Kaev)
+
+Code: 120706, Postal: 120703
+
+#### ស្វាយប៉ាក (Svay Pak)
+
+Code: 120703, Postal: 120701, Coordinates: 11.6465889, 104.8693076
+
+#### ទួលសង្កែទី១ (Tuol Sangkae 1)
+
+Code: 120713, Postal: 120706, Coordinates: 11.5916578, 104.912739
+
+#### ទួលសង្កែទី២ (Tuol Sangkae 2)
+
+Code: 120714, Postal: 120707, Coordinates: 11.5994337, 104.8955952
+
+### សែនសុខ (Sen Sok)
+
+Code: 1208, Coordinates: 11.5785557, 104.8692475
+Communes: 6
+
+#### ឃ្មួញ (Khmuonh)
+
+Code: 120803, Postal: 120803, Coordinates: 11.6222282, 104.8593363
+
+#### គោកឃ្លាង (Kouk Khleang)
+
+Code: 120809, Postal: 120806, Coordinates: 11.583963, 104.8608338
+
+#### ក្រាំងធ្នង់ (Krang Thnong)
+
+Code: 120807, Postal: 120804, Coordinates: 11.5857656, 104.8379604
+
+#### អូរបែកក្អម (Ou Baek K&#39;am)
+
+Code: 120808, Postal: 120805, Coordinates: 11.5508326, 104.8746526
+
+#### ភ្នំពេញថ្មី (Phnom Penh Thmei)
+
+Code: 120801, Postal: 120801, Coordinates: 11.5831082, 104.8765566
+
+#### ទឹកថ្លា (Tuek Thla)
+
+Code: 120802, Postal: 120802, Coordinates: 11.5643021, 104.8774145
+
+### ទួលគោក (Tuol Kouk)
+
+Code: 1204, Coordinates: 11.5738692, 104.8996872
+Communes: 10
+
+#### បឹងកក់ទី ១ (Boeng Kak Ti Muoy)
+
+Code: 120407, Postal: 120407, Coordinates: 11.5829536, 104.8974246
+
+#### បឹងកក់ទី ២ (Boeng Kak Ti Pir)
+
+Code: 120408, Postal: 120408, Coordinates: 11.5764495, 104.8919929
+
+#### បឹងសាឡាង (Boeng Salang)
+
+Code: 120410, Postal: 120410, Coordinates: 11.5533121, 104.8979144
+
+#### ផ្សារដើមគរ (Phsar Daeum Kor)
+
+Code: 120409, Postal: 120409, Coordinates: 11.5578276, 104.9042409
+
+#### ផ្សារដេប៉ូទី ៣ (Phsar Depou Ti Bei)
+
+Code: 120403, Postal: 120403, Coordinates: 11.5626152, 104.904571
+
+#### ផ្សារដេប៉ូទី ១ (Phsar Depou Ti Muoy)
+
+Code: 120401, Postal: 120401, Coordinates: 11.5690209, 104.9029362
+
+#### ផ្សារដេប៉ូទី ២ (Phsar Depou Ti Pir)
+
+Code: 120402, Postal: 120402, Coordinates: 11.5656231, 104.9031949
+
+#### ទឹកល្អក់ទី ៣ (Tuek L&#39;ak Ti Bei)
+
+Code: 120406, Postal: 120406, Coordinates: 11.5574506, 104.891708
+
+#### ទឹកល្អក់ទី ១ (Tuek L&#39;ak Ti Muoy)
+
+Code: 120404, Postal: 120404, Coordinates: 11.5674848, 104.8940296
+
+#### ទឹកល្អក់ទី ២ (Tuek L&#39;ak Ti Pir)
+
+Code: 120405, Postal: 120405, Coordinates: 11.5637832, 104.8955587
+

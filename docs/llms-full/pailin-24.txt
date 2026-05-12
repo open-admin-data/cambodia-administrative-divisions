@@ -1,0 +1,51 @@
+# Pailin — Cambodia Administrative Divisions
+
+> 2 districts, 8 communes
+> Code: 24
+> Coordinates: 12.89053285, 102.62946042446026
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### ប៉ៃលិន (Pailin)
+
+Code: 2401, Coordinates: 12.8551384, 102.6051776
+Communes: 4
+
+#### បរយ៉ាខា (Bar Yakha)
+
+Code: 240104, Postal: 230204, Coordinates: 12.7461952, 102.5412761
+
+#### អូរតាវ៉ៅ (Ou Ta Vau)
+
+Code: 240102, Postal: 230202, Coordinates: 12.8124764, 102.7164961
+
+#### ប៉ៃលិន (Pailin)
+
+Code: 240101, Postal: 230201, Coordinates: 12.8551703, 102.6089534
+
+#### ទួលល្វា (Tuol Lvea)
+
+Code: 240103, Postal: 230203, Coordinates: 12.8677609, 102.5878346
+
+### សាលាក្រៅ (Sala Krau)
+
+Code: 2402, Coordinates: 13.003529050000001, 102.66415391806129
+Communes: 4
+
+#### អូរអណ្ដូង (Ou Andoung)
+
+Code: 240204, Postal: 230104, Coordinates: 12.9847715, 102.742028
+
+#### សាលាក្រៅ (Sala Krau)
+
+Code: 240201, Postal: 230101, Coordinates: 12.9531813, 102.5471719
+
+#### ស្ទឹងកាច់ (Stueng Kach)
+
+Code: 240203, Postal: 230103, Coordinates: 12.898362, 102.591169
+
+#### ស្ទឹងត្រង់ (Stueng Trang)
+
+Code: 240202, Postal: 230102, Coordinates: 13.0286066, 102.6552588
+

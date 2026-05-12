@@ -1,0 +1,30 @@
+{
+  "id": "13",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ព្រះវិហារ",
+    "en": "Preah Vihear",
+    "slug": "preah-vihear-13"
+  },
+  "code": {
+    "id": "13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8,
+    "commune": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.746298150000001",
+    "lon": "104.97403002709669"
+  },
+  "metadata": {},
+  "source": {}
+}

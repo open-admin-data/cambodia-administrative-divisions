@@ -1,0 +1,282 @@
+[
+  {
+    "id": "171402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វាក្រាំង",
+      "en": "Lvea Krang",
+      "slug": "lvea-krang-171402"
+    },
+    "code": {
+      "id": "171402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1714",
+      "level": 2,
+      "name": {
+        "local": "វ៉ារិន",
+        "en": "Varin",
+        "slug": "varin-1714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1714",
+        "level": 2,
+        "name": {
+          "local": "វ៉ារិន",
+          "en": "Varin",
+          "slug": "varin-1714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170102"
+    ],
+    "geo": {
+      "lat": "13.8447522",
+      "lon": "103.8869945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រាសាទ",
+      "en": "Prasat",
+      "slug": "prasat-171401"
+    },
+    "code": {
+      "id": "171401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1714",
+      "level": 2,
+      "name": {
+        "local": "វ៉ារិន",
+        "en": "Varin",
+        "slug": "varin-1714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1714",
+        "level": 2,
+        "name": {
+          "local": "វ៉ារិន",
+          "en": "Varin",
+          "slug": "varin-1714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010304"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែណូយ",
+      "en": "Srae Nouy",
+      "slug": "srae-nouy-171403"
+    },
+    "code": {
+      "id": "171403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1714",
+      "level": 2,
+      "name": {
+        "local": "វ៉ារិន",
+        "en": "Varin",
+        "slug": "varin-1714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1714",
+        "level": 2,
+        "name": {
+          "local": "វ៉ារិន",
+          "en": "Varin",
+          "slug": "varin-1714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170103"
+    ],
+    "geo": {
+      "lat": "13.8035648",
+      "lon": "104.0301387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយ ស",
+      "en": "Svay Sa",
+      "slug": "svay-sa-171404"
+    },
+    "code": {
+      "id": "171404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1714",
+      "level": 2,
+      "name": {
+        "local": "វ៉ារិន",
+        "en": "Varin",
+        "slug": "varin-1714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1714",
+        "level": 2,
+        "name": {
+          "local": "វ៉ារិន",
+          "en": "Varin",
+          "slug": "varin-1714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150110"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វ៉ារិន",
+      "en": "Varin",
+      "slug": "varin-171405"
+    },
+    "code": {
+      "id": "171405",
+      "iso": null
+    },
+    "parent": {
+      "id": "1714",
+      "level": 2,
+      "name": {
+        "local": "វ៉ារិន",
+        "en": "Varin",
+        "slug": "varin-1714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1714",
+        "level": 2,
+        "name": {
+          "local": "វ៉ារិន",
+          "en": "Varin",
+          "slug": "varin-1714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170105"
+    ],
+    "geo": {
+      "lat": "13.8710045",
+      "lon": "103.8334093"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

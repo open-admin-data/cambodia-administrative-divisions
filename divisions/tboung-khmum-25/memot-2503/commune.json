@@ -1,0 +1,786 @@
+[
+  {
+    "id": "250301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចាន់មូល",
+      "en": "Chan Mul",
+      "slug": "chan-mul-250301"
+    },
+    "code": {
+      "id": "250301",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250301"
+    ],
+    "geo": {
+      "lat": "11.7375289",
+      "lon": "106.2423666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាំ",
+      "en": "Choam",
+      "slug": "choam-250302"
+    },
+    "code": {
+      "id": "250302",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250302"
+    ],
+    "geo": {
+      "lat": "11.7290037",
+      "lon": "106.2712022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាំក្រវៀន",
+      "en": "Choam Kravien",
+      "slug": "choam-kravien-250303"
+    },
+    "code": {
+      "id": "250303",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250303"
+    ],
+    "geo": {
+      "lat": "11.7673982",
+      "lon": "106.3387138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាំតាម៉ៅ",
+      "en": "Choam Ta Mau",
+      "slug": "choam-ta-mau-250304"
+    },
+    "code": {
+      "id": "250304",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250304"
+    ],
+    "geo": {
+      "lat": "11.8971753",
+      "lon": "106.2562277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដារ",
+      "en": "Dar",
+      "slug": "dar-250305"
+    },
+    "code": {
+      "id": "250305",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040602"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពាន់",
+      "en": "Kampoan",
+      "slug": "kampoan-250306"
+    },
+    "code": {
+      "id": "250306",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250306"
+    ],
+    "geo": {
+      "lat": "11.928626",
+      "lon": "106.0982652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គគីរ",
+      "en": "Kokir",
+      "slug": "kokir-250307"
+    },
+    "code": {
+      "id": "250307",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060110"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេមង",
+      "en": "Memong",
+      "slug": "memong-250308"
+    },
+    "code": {
+      "id": "250308",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250307"
+    ],
+    "geo": {
+      "lat": "11.8978964",
+      "lon": "106.1777961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេមត់",
+      "en": "Memot",
+      "slug": "memot-250309"
+    },
+    "code": {
+      "id": "250309",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250308"
+    ],
+    "geo": {
+      "lat": "11.8293213",
+      "lon": "106.1763033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រំចេក",
+      "en": "Rumchek",
+      "slug": "rumchek-250310"
+    },
+    "code": {
+      "id": "250310",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030512"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250311",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រូង",
+      "en": "Rung",
+      "slug": "rung-250311"
+    },
+    "code": {
+      "id": "250311",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250309"
+    ],
+    "geo": {
+      "lat": "11.7577942",
+      "lon": "106.192969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250312",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទន្លូង",
+      "en": "Tonlung",
+      "slug": "tonlung-250312"
+    },
+    "code": {
+      "id": "250312",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250312"
+    ],
+    "geo": {
+      "lat": "11.8969836",
+      "lon": "106.3388685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250313",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រមូង",
+      "en": "Tramung",
+      "slug": "tramung-250313"
+    },
+    "code": {
+      "id": "250313",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250311"
+    ],
+    "geo": {
+      "lat": "11.8150464",
+      "lon": "106.2031446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250314",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ្រៀក",
+      "en": "Triek",
+      "slug": "triek-250314"
+    },
+    "code": {
+      "id": "250314",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "មេមត់",
+        "en": "Memot",
+        "slug": "memot-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "មេមត់",
+          "en": "Memot",
+          "slug": "memot-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250313"
+    ],
+    "geo": {
+      "lat": "11.783419",
+      "lon": "106.1464301"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

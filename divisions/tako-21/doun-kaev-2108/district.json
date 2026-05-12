@@ -1,0 +1,47 @@
+{
+  "id": "2108",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ដូនកែវ",
+    "en": "Doun Kaev",
+    "slug": "doun-kaev-2108"
+  },
+  "code": {
+    "id": "2108",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "តាកែវ",
+      "en": "Takéo",
+      "slug": "tako-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "តាកែវ",
+        "en": "Takéo",
+        "slug": "tako-21"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.9875805",
+    "lon": "104.7830181"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "id": "141301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គរទ្រេត",
+      "en": "Angkor Tret",
+      "slug": "angkor-tret-141301"
+    },
+    "code": {
+      "id": "141301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140801"
+    ],
+    "geo": {
+      "lat": "11.5520565",
+      "lon": "105.4551277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាខ្លាង",
+      "en": "Chea Khlang",
+      "slug": "chea-khlang-141302"
+    },
+    "code": {
+      "id": "141302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140802"
+    ],
+    "geo": {
+      "lat": "11.5893883",
+      "lon": "105.4645228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃ",
+      "en": "Chrey",
+      "slug": "chrey-141303"
+    },
+    "code": {
+      "id": "141303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020204"
+    ],
+    "geo": {
+      "lat": "11.6582984",
+      "lon": "105.1685733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំរីពួន",
+      "en": "Damrei Puon",
+      "slug": "damrei-puon-141304"
+    },
+    "code": {
+      "id": "141304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140804"
+    ],
+    "geo": {
+      "lat": "11.5062868",
+      "lon": "105.4437919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេបុណ្យ",
+      "en": "Me Bon",
+      "slug": "me-bon-141305"
+    },
+    "code": {
+      "id": "141305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140805"
+    ],
+    "geo": {
+      "lat": "11.5469428",
+      "lon": "105.390977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពានរោង",
+      "en": "Pean Roung",
+      "slug": "pean-roung-141306"
+    },
+    "code": {
+      "id": "141306",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140806"
+    ],
+    "geo": {
+      "lat": "11.4640429",
+      "lon": "105.5347479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពពឺស",
+      "en": "Popueus",
+      "slug": "popueus-141307"
+    },
+    "code": {
+      "id": "141307",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140807"
+    ],
+    "geo": {
+      "lat": "11.5802122",
+      "lon": "105.3551063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃខ្លា",
+      "en": "Prey Khla",
+      "slug": "prey-khla-141308"
+    },
+    "code": {
+      "id": "141308",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140808"
+    ],
+    "geo": {
+      "lat": "11.6297517",
+      "lon": "105.4257511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-141309"
+    },
+    "code": {
+      "id": "141309",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយអន្ទរ",
+      "en": "Svay Antor",
+      "slug": "svay-antor-141310"
+    },
+    "code": {
+      "id": "141310",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140810"
+    ],
+    "geo": {
+      "lat": "11.5696618",
+      "lon": "105.4200242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "141311",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកថ្លា",
+      "en": "Tuek Thla",
+      "slug": "tuek-thla-141311"
+    },
+    "code": {
+      "id": "141311",
+      "iso": null
+    },
+    "parent": {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយអន្ទរ",
+        "en": "Svay Antor",
+        "slug": "svay-antor-1413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1413",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយអន្ទរ",
+          "en": "Svay Antor",
+          "slug": "svay-antor-1413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120802"
+    ],
+    "geo": {
+      "lat": "11.3820685",
+      "lon": "105.4509218"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

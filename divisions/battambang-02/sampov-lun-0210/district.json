@@ -1,0 +1,47 @@
+{
+  "id": "0210",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សំពៅលូន",
+    "en": "Sampov Lun",
+    "slug": "sampov-lun-0210"
+  },
+  "code": {
+    "id": "0210",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.419025099999999",
+    "lon": "102.5236318714496"
+  },
+  "metadata": {},
+  "source": {}
+}

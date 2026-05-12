@@ -1,0 +1,562 @@
+[
+  {
+    "id": "060101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាក់ស្នា",
+      "en": "Bak Sna",
+      "slug": "bak-sna-060101"
+    },
+    "code": {
+      "id": "060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060101"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បល្ល័ង្គ",
+      "en": "Ballangk",
+      "slug": "ballangk-060102"
+    },
+    "code": {
+      "id": "060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060102"
+    ],
+    "geo": {
+      "lat": "12.5003795",
+      "lon": "105.1252719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បារាយណ៍",
+      "en": "Baray",
+      "slug": "baray-060103"
+    },
+    "code": {
+      "id": "060103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030801"
+    ],
+    "geo": {
+      "lat": "12.3953723",
+      "lon": "105.0832527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹង",
+      "en": "Boeng",
+      "slug": "boeng-060104"
+    },
+    "code": {
+      "id": "060104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060104"
+    ],
+    "geo": {
+      "lat": "12.4291778",
+      "lon": "105.1185656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចើងដើង",
+      "en": "Chaeung Daeung",
+      "slug": "chaeung-daeung-060105"
+    },
+    "code": {
+      "id": "060105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060105"
+    ],
+    "geo": {
+      "lat": "12.4647151",
+      "lon": "105.191432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈូកខ្សាច់",
+      "en": "Chhuk Khsach",
+      "slug": "chhuk-khsach-060107"
+    },
+    "code": {
+      "id": "060107",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060107"
+    ],
+    "geo": {
+      "lat": "12.3980122",
+      "lon": "105.1250609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចុងដូង",
+      "en": "Chong Doung",
+      "slug": "chong-doung-060108"
+    },
+    "code": {
+      "id": "060108",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060108"
+    ],
+    "geo": {
+      "lat": "12.4612001",
+      "lon": "105.0314856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គគីធំ",
+      "en": "Kokir Thum",
+      "slug": "kokir-thum-060110"
+    },
+    "code": {
+      "id": "060110",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060111",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រវ៉ា",
+      "en": "Krava",
+      "slug": "krava-060111"
+    },
+    "code": {
+      "id": "060111",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060111"
+    ],
+    "geo": {
+      "lat": "12.4964378",
+      "lon": "105.2480888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060117",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្នោតជុំ",
+      "en": "Tnaot Chum",
+      "slug": "tnaot-chum-060117"
+    },
+    "code": {
+      "id": "060117",
+      "iso": null
+    },
+    "parent": {
+      "id": "0601",
+      "level": 2,
+      "name": {
+        "local": "បារាយណ៍",
+        "en": "Baray",
+        "slug": "baray-0601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0601",
+        "level": 2,
+        "name": {
+          "local": "បារាយណ៍",
+          "en": "Baray",
+          "slug": "baray-0601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060117"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

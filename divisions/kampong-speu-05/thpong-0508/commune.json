@@ -1,0 +1,394 @@
+[
+  {
+    "id": "050801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អមលាំង",
+      "en": "Amleang",
+      "slug": "amleang-050801"
+    },
+    "code": {
+      "id": "050801",
+      "iso": null
+    },
+    "parent": {
+      "id": "0508",
+      "level": 2,
+      "name": {
+        "local": "ថ្ពង",
+        "en": "Thpong",
+        "slug": "thpong-0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0508",
+        "level": 2,
+        "name": {
+          "local": "ថ្ពង",
+          "en": "Thpong",
+          "slug": "thpong-0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050601"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មនោរម្យ",
+      "en": "Monourom",
+      "slug": "monourom-050802"
+    },
+    "code": {
+      "id": "050802",
+      "iso": null
+    },
+    "parent": {
+      "id": "0508",
+      "level": 2,
+      "name": {
+        "local": "ថ្ពង",
+        "en": "Thpong",
+        "slug": "thpong-0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0508",
+        "level": 2,
+        "name": {
+          "local": "ថ្ពង",
+          "en": "Thpong",
+          "slug": "thpong-0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050602"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រាំបីមុម",
+      "en": "Prambei Mum",
+      "slug": "prambei-mum-050804"
+    },
+    "code": {
+      "id": "050804",
+      "iso": null
+    },
+    "parent": {
+      "id": "0508",
+      "level": 2,
+      "name": {
+        "local": "ថ្ពង",
+        "en": "Thpong",
+        "slug": "thpong-0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0508",
+        "level": 2,
+        "name": {
+          "local": "ថ្ពង",
+          "en": "Thpong",
+          "slug": "thpong-0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050603"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រុងរឿង",
+      "en": "Rung Roeang",
+      "slug": "rung-roeang-050805"
+    },
+    "code": {
+      "id": "050805",
+      "iso": null
+    },
+    "parent": {
+      "id": "0508",
+      "level": 2,
+      "name": {
+        "local": "ថ្ពង",
+        "en": "Thpong",
+        "slug": "thpong-0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0508",
+        "level": 2,
+        "name": {
+          "local": "ថ្ពង",
+          "en": "Thpong",
+          "slug": "thpong-0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050604"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050806",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ័ពមាន",
+      "en": "Toap Mean",
+      "slug": "toap-mean-050806"
+    },
+    "code": {
+      "id": "050806",
+      "iso": null
+    },
+    "parent": {
+      "id": "0508",
+      "level": 2,
+      "name": {
+        "local": "ថ្ពង",
+        "en": "Thpong",
+        "slug": "thpong-0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0508",
+        "level": 2,
+        "name": {
+          "local": "ថ្ពង",
+          "en": "Thpong",
+          "slug": "thpong-0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050605"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050807",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាលពន់",
+      "en": "Veal Pon",
+      "slug": "veal-pon-050807"
+    },
+    "code": {
+      "id": "050807",
+      "iso": null
+    },
+    "parent": {
+      "id": "0508",
+      "level": 2,
+      "name": {
+        "local": "ថ្ពង",
+        "en": "Thpong",
+        "slug": "thpong-0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0508",
+        "level": 2,
+        "name": {
+          "local": "ថ្ពង",
+          "en": "Thpong",
+          "slug": "thpong-0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050606"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050808",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "យាអង្គ",
+      "en": "Yea Angk",
+      "slug": "yea-angk-050808"
+    },
+    "code": {
+      "id": "050808",
+      "iso": null
+    },
+    "parent": {
+      "id": "0508",
+      "level": 2,
+      "name": {
+        "local": "ថ្ពង",
+        "en": "Thpong",
+        "slug": "thpong-0508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0508",
+        "level": 2,
+        "name": {
+          "local": "ថ្ពង",
+          "en": "Thpong",
+          "slug": "thpong-0508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050607"
+    ],
+    "geo": {
+      "lat": "11.630876",
+      "lon": "104.4282736"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

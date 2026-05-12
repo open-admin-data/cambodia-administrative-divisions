@@ -1,0 +1,47 @@
+{
+  "id": "1709",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ប្រាសាទបាគង",
+    "en": "Prasat Bakong",
+    "slug": "prasat-bakong-1709"
+  },
+  "code": {
+    "id": "1709",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.3421471",
+    "lon": "103.9978446"
+  },
+  "metadata": {},
+  "source": {}
+}

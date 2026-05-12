@@ -1,0 +1,562 @@
+[
+  {
+    "id": "020304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំការសំរោង",
+      "en": "Chomkar Somraong",
+      "slug": "chomkar-somraong-020304"
+    },
+    "code": {
+      "id": "020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021404"
+    ],
+    "geo": {
+      "lat": "13.1202732",
+      "lon": "103.1832381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្ដុលដូនទាវ",
+      "en": "Kdol Doun Teav",
+      "slug": "kdol-doun-teav-020306"
+    },
+    "code": {
+      "id": "020306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021406"
+    ],
+    "geo": {
+      "lat": "13.1400053",
+      "lon": "103.2031241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរចារ",
+      "en": "Ou Char",
+      "slug": "ou-char-020309"
+    },
+    "code": {
+      "id": "020309",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021409"
+    ],
+    "geo": {
+      "lat": "13.1042093",
+      "lon": "103.1682675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរម៉ាល់",
+      "en": "Ou Mal",
+      "slug": "ou-mal-020307"
+    },
+    "code": {
+      "id": "020307",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021407"
+    ],
+    "geo": {
+      "lat": "13.0731686",
+      "lon": "103.134455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកព្រះស្ដេច",
+      "en": "Prek Preah Sdach",
+      "slug": "prek-preah-sdach-020302"
+    },
+    "code": {
+      "id": "020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021402"
+    ],
+    "geo": {
+      "lat": "13.0880979",
+      "lon": "103.2088323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រតនៈ",
+      "en": "Rottanak",
+      "slug": "rottanak-020303"
+    },
+    "code": {
+      "id": "020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021403"
+    ],
+    "geo": {
+      "lat": "13.1004825",
+      "lon": "103.213829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្លាកែត",
+      "en": "Sla Ket",
+      "slug": "sla-ket-020305"
+    },
+    "code": {
+      "id": "020305",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021405"
+    ],
+    "geo": {
+      "lat": "13.1272408",
+      "lon": "103.1924282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយប៉ោ",
+      "en": "Svay Por",
+      "slug": "svay-por-020310"
+    },
+    "code": {
+      "id": "020310",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021410"
+    ],
+    "geo": {
+      "lat": "13.0934306",
+      "lon": "103.1967875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលតាឯក",
+      "en": "Tuol Ta Ek",
+      "slug": "tuol-ta-ek-020301"
+    },
+    "code": {
+      "id": "020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021401"
+    ],
+    "geo": {
+      "lat": "13.0933619",
+      "lon": "103.1868626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វត្ដគរ",
+      "en": "Wat Kor",
+      "slug": "wat-kor-020308"
+    },
+    "code": {
+      "id": "020308",
+      "iso": null
+    },
+    "parent": {
+      "id": "0203",
+      "level": 2,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0203",
+        "level": 2,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-0203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021408"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

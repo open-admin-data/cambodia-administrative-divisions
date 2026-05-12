@@ -1,0 +1,562 @@
+[
+  {
+    "id": "100601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បុសលាវ",
+      "en": "Bos Leav",
+      "slug": "bos-leav-100601"
+    },
+    "code": {
+      "id": "100601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100501"
+    ],
+    "geo": {
+      "lat": "12.3774308",
+      "lon": "106.0597966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចង្ក្រង់",
+      "en": "Changkrang",
+      "slug": "changkrang-100602"
+    },
+    "code": {
+      "id": "100602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100502"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដារ",
+      "en": "Dar",
+      "slug": "dar-100603"
+    },
+    "code": {
+      "id": "100603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040602"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កន្ទួត",
+      "en": "Kantuot",
+      "slug": "kantuot-100604"
+    },
+    "code": {
+      "id": "100604",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100504"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះច្រែង",
+      "en": "Kaoh Chraeng",
+      "slug": "kaoh-chraeng-100606"
+    },
+    "code": {
+      "id": "100606",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100506"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោលាប់",
+      "en": "Kou Loab",
+      "slug": "kou-loab-100605"
+    },
+    "code": {
+      "id": "100605",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100505"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបុក",
+      "en": "Sambok",
+      "slug": "sambok-100607"
+    },
+    "code": {
+      "id": "100607",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100507"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មអណ្ដើក",
+      "en": "Thma Andaeuk",
+      "slug": "thma-andaeuk-100608"
+    },
+    "code": {
+      "id": "100608",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100508"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មគ្រែ",
+      "en": "Thma Kreae",
+      "slug": "thma-kreae-100609"
+    },
+    "code": {
+      "id": "100609",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100509"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100610",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មី",
+      "en": "Thmei",
+      "slug": "thmei-100610"
+    },
+    "code": {
+      "id": "100610",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "ចិត្របុរី",
+        "en": "Chetr Borei",
+        "slug": "chetr-borei-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "ចិត្របុរី",
+          "en": "Chetr Borei",
+          "slug": "chetr-borei-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010503"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

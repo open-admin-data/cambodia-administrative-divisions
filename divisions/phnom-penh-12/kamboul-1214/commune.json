@@ -1,0 +1,394 @@
+[
+  {
+    "id": "121406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងធំ",
+      "en": "Boeng Thum",
+      "slug": "boeng-thum-121406"
+    },
+    "code": {
+      "id": "121406",
+      "iso": null
+    },
+    "parent": {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "កំបូល",
+        "en": "Kamboul",
+        "slug": "kamboul-1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1214",
+        "level": 2,
+        "name": {
+          "local": "កំបូល",
+          "en": "Kamboul",
+          "slug": "kamboul-1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120907"
+    ],
+    "geo": {
+      "lat": "11.4767247",
+      "lon": "104.771594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំបូល",
+      "en": "Kamboul",
+      "slug": "kamboul-121401"
+    },
+    "code": {
+      "id": "121401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "កំបូល",
+        "en": "Kamboul",
+        "slug": "kamboul-1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1214",
+        "level": 2,
+        "name": {
+          "local": "កំបូល",
+          "en": "Kamboul",
+          "slug": "kamboul-1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120905"
+    ],
+    "geo": {
+      "lat": "11.5416595",
+      "lon": "104.7746396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កន្ទោក",
+      "en": "Kantaok",
+      "slug": "kantaok-121402"
+    },
+    "code": {
+      "id": "121402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "កំបូល",
+        "en": "Kamboul",
+        "slug": "kamboul-1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1214",
+        "level": 2,
+        "name": {
+          "local": "កំបូល",
+          "en": "Kamboul",
+          "slug": "kamboul-1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120906"
+    ],
+    "geo": {
+      "lat": "11.5061345",
+      "lon": "104.7833627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឪឡោក",
+      "en": "Ovlaok",
+      "slug": "ovlaok-121403"
+    },
+    "code": {
+      "id": "121403",
+      "iso": null
+    },
+    "parent": {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "កំបូល",
+        "en": "Kamboul",
+        "slug": "kamboul-1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1214",
+        "level": 2,
+        "name": {
+          "local": "កំបូល",
+          "en": "Kamboul",
+          "slug": "kamboul-1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120904"
+    ],
+    "geo": {
+      "lat": "11.5691298",
+      "lon": "104.7456644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្លើងឆេះរទេះ",
+      "en": "Phleung Chheh Roteh",
+      "slug": "phleung-chheh-roteh-121405"
+    },
+    "code": {
+      "id": "121405",
+      "iso": null
+    },
+    "parent": {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "កំបូល",
+        "en": "Kamboul",
+        "slug": "kamboul-1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1214",
+        "level": 2,
+        "name": {
+          "local": "កំបូល",
+          "en": "Kamboul",
+          "slug": "kamboul-1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120908"
+    ],
+    "geo": {
+      "lat": "11.4940305",
+      "lon": "104.8050835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រទះឡាង",
+      "en": "Prateah Lang",
+      "slug": "prateah-lang-121407"
+    },
+    "code": {
+      "id": "121407",
+      "iso": null
+    },
+    "parent": {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "កំបូល",
+        "en": "Kamboul",
+        "slug": "kamboul-1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1214",
+        "level": 2,
+        "name": {
+          "local": "កំបូល",
+          "en": "Kamboul",
+          "slug": "kamboul-1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120506"
+    ],
+    "geo": {
+      "lat": "11.4690007",
+      "lon": "104.7923055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្នោរ",
+      "en": "Snaor",
+      "slug": "snaor-121404"
+    },
+    "code": {
+      "id": "121404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "កំបូល",
+        "en": "Kamboul",
+        "slug": "kamboul-1214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1214",
+        "level": 2,
+        "name": {
+          "local": "កំបូល",
+          "en": "Kamboul",
+          "slug": "kamboul-1214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120903"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

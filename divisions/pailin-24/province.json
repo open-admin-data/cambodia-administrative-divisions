@@ -1,0 +1,30 @@
+{
+  "id": "24",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ប៉ៃលិន",
+    "en": "Pailin",
+    "slug": "pailin-24"
+  },
+  "code": {
+    "id": "24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.89053285",
+    "lon": "102.62946042446026"
+  },
+  "metadata": {},
+  "source": {}
+}

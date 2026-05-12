@@ -1,0 +1,130 @@
+# Oddar Meanchey — Cambodia Administrative Divisions
+
+> 5 districts, 24 communes
+> Code: 22
+> Coordinates: 14.1585631, 103.78279595655918
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### អន្លង់វែង (Anlong Veaeng)
+
+Code: 2201, Coordinates: 14.2331742, 104.0812013
+Communes: 5
+
+#### អន្លង់វែង (Anlong Veaeng)
+
+Code: 220101, Postal: 240101
+
+#### លំទង (Lumtong)
+
+Code: 220106, Postal: 240105
+
+#### ថ្លាត (Thlat)
+
+Code: 220105, Postal: 240104, Coordinates: 14.0370715, 104.1192635
+
+#### ត្រពាំងប្រីយ៍ (Trapeang Prei)
+
+Code: 220104, Postal: 240103, Coordinates: 14.3138497, 104.111626
+
+#### ត្រពាំងតាវ (Trapeang Tav)
+
+Code: 220103, Postal: 240102
+
+### បន្ទាយអំពិល (Banteay Ampil)
+
+Code: 2202, Coordinates: 14.2333944, 103.1323394
+Communes: 4
+
+#### អំពិល (Ampil)
+
+Code: 220201, Postal: 030501, Coordinates: 14.2361218, 103.1256045
+
+#### បេង (Beng)
+
+Code: 220202, Postal: 240202
+
+#### គោកខ្ពស់ (Kouk Khpos)
+
+Code: 220203, Postal: 240203, Coordinates: 14.2504269, 103.3555497
+
+#### គោកមន (Kouk Mon)
+
+Code: 220204, Postal: 240204, Coordinates: 14.1617182, 103.2813975
+
+### ចុងកាល់ (Chong Kal)
+
+Code: 2203, Coordinates: 13.9544791, 103.5702722
+Communes: 4
+
+#### ជើងទៀន (Cheung Tien)
+
+Code: 220301, Postal: 240301, Coordinates: 13.9438035, 103.4725973
+
+#### ចុងកាល់ (Chong Kal)
+
+Code: 220302, Postal: 240302, Coordinates: 13.9536721, 103.5739859
+
+#### ក្រសាំង (Krasang)
+
+Code: 220303, Postal: 200410
+
+#### ពង្រ (Pongro)
+
+Code: 220304, Postal: 030707
+
+### សំរោង (Samraong)
+
+Code: 2204, Coordinates: 14.1758059, 103.5092331
+Communes: 5
+
+#### បន្សាយរាក់ (Bansay Reak)
+
+Code: 220401, Postal: 240501, Coordinates: 14.232583, 103.4632418
+
+#### បុស្បូវ (Bos Sbov)
+
+Code: 220402, Postal: 010309
+
+#### កូនក្រៀល (Koun Kriel)
+
+Code: 220403, Postal: 240503, Coordinates: 14.3017036, 103.6257734
+
+#### អូរស្មាច់ (Ou Smach)
+
+Code: 220405, Postal: 240505, Coordinates: 14.4141518, 103.6934515
+
+#### សំរោង (Samraong)
+
+Code: 220404, Postal: 010404
+
+### ត្រពាំងប្រាសាទ (Trapeang Prasat)
+
+Code: 2205, Coordinates: 14.1953083, 104.3562242
+Communes: 6
+
+#### បាក់អន្លូង (Bak Anloung)
+
+Code: 220501, Postal: 240401, Coordinates: 14.2336847, 104.400239
+
+#### អូរស្វាយ (Ou Svay)
+
+Code: 220503, Postal: 030510
+
+#### ផ្អាវ (Ph&#39;av)
+
+Code: 220502, Postal: 030106, Coordinates: 14.225063, 104.1892055
+
+#### ព្រះប្រឡាយ (Preah Pralay)
+
+Code: 220504, Postal: 240404, Coordinates: 14.3268638, 104.4093375
+
+#### ត្រពាំងប្រាសាទ (Trapeang Prasat)
+
+Code: 220506, Postal: 240406
+
+#### ទំនប់ដាច់ (Tumnob Dach)
+
+Code: 220505, Postal: 240405
+

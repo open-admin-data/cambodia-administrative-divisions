@@ -1,0 +1,450 @@
+[
+  {
+    "id": "170910",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពិល",
+      "en": "Ampil",
+      "slug": "ampil-170910"
+    },
+    "code": {
+      "id": "170910",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទបាគង",
+        "en": "Prasat Bakong",
+        "slug": "prasat-bakong-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទបាគង",
+          "en": "Prasat Bakong",
+          "slug": "prasat-bakong-1709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាគង",
+      "en": "Bakong",
+      "slug": "bakong-170902"
+    },
+    "code": {
+      "id": "170902",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទបាគង",
+        "en": "Prasat Bakong",
+        "slug": "prasat-bakong-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទបាគង",
+          "en": "Prasat Bakong",
+          "slug": "prasat-bakong-1709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ភ្លុក",
+      "en": "Kampong Phluk",
+      "slug": "kampong-phluk-170904"
+    },
+    "code": {
+      "id": "170904",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទបាគង",
+        "en": "Prasat Bakong",
+        "slug": "prasat-bakong-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទបាគង",
+          "en": "Prasat Bakong",
+          "slug": "prasat-bakong-1709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170503"
+    ],
+    "geo": {
+      "lat": "13.2086011",
+      "lon": "103.9736729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដែក",
+      "en": "Kandaek",
+      "slug": "kandaek-170906"
+    },
+    "code": {
+      "id": "170906",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទបាគង",
+        "en": "Prasat Bakong",
+        "slug": "prasat-bakong-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទបាគង",
+          "en": "Prasat Bakong",
+          "slug": "prasat-bakong-1709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170505"
+    ],
+    "geo": {
+      "lat": "13.3541043",
+      "lon": "103.9166961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កន្ទ្រាំង",
+      "en": "Kantreang",
+      "slug": "kantreang-170905"
+    },
+    "code": {
+      "id": "170905",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទបាគង",
+        "en": "Prasat Bakong",
+        "slug": "prasat-bakong-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទបាគង",
+          "en": "Prasat Bakong",
+          "slug": "prasat-bakong-1709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170504"
+    ],
+    "geo": {
+      "lat": "13.3574704",
+      "lon": "104.0360225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170907",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មានជ័យ",
+      "en": "Mean Chey",
+      "slug": "mean-chey-170907"
+    },
+    "code": {
+      "id": "170907",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទបាគង",
+        "en": "Prasat Bakong",
+        "slug": "prasat-bakong-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទបាគង",
+          "en": "Prasat Bakong",
+          "slug": "prasat-bakong-1709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020906"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170908",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រលួស",
+      "en": "Roluos",
+      "slug": "roluos-170908"
+    },
+    "code": {
+      "id": "170908",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទបាគង",
+        "en": "Prasat Bakong",
+        "slug": "prasat-bakong-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទបាគង",
+          "en": "Prasat Bakong",
+          "slug": "prasat-bakong-1709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120511"
+    ],
+    "geo": {
+      "lat": "13.3281826",
+      "lon": "103.9961188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170909",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងធំ",
+      "en": "Trapeang Thum",
+      "slug": "trapeang-thum-170909"
+    },
+    "code": {
+      "id": "170909",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "ប្រាសាទបាគង",
+        "en": "Prasat Bakong",
+        "slug": "prasat-bakong-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "ប្រាសាទបាគង",
+          "en": "Prasat Bakong",
+          "slug": "prasat-bakong-1709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170508"
+    ],
+    "geo": {
+      "lat": "13.2998353",
+      "lon": "104.0509708"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

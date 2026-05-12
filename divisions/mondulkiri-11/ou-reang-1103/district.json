@@ -1,0 +1,47 @@
+{
+  "id": "1103",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "អូររាំង",
+    "en": "Ou Reang",
+    "slug": "ou-reang-1103"
+  },
+  "code": {
+    "id": "1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "មណ្ឌលគិរី",
+      "en": "Mondulkiri",
+      "slug": "mondulkiri-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "មណ្ឌលគិរី",
+        "en": "Mondulkiri",
+        "slug": "mondulkiri-11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.3320472",
+    "lon": "107.1645963"
+  },
+  "metadata": {},
+  "source": {}
+}

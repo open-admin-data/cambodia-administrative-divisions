@@ -1,0 +1,562 @@
+[
+  {
+    "id": "140601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គរអង្គ",
+      "en": "Angkor Angk",
+      "slug": "angkor-angk-140601"
+    },
+    "code": {
+      "id": "140601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140201"
+    ],
+    "geo": {
+      "lat": "11.1625459",
+      "lon": "105.29309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ប្រាសាទ",
+      "en": "Kampong Prasat",
+      "slug": "kampong-prasat-140602"
+    },
+    "code": {
+      "id": "140602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140202"
+    ],
+    "geo": {
+      "lat": "11.0166133",
+      "lon": "105.2636074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះចេក",
+      "en": "Kaoh Chek",
+      "slug": "kaoh-chek-140603"
+    },
+    "code": {
+      "id": "140603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140203"
+    ],
+    "geo": {
+      "lat": "11.0602563",
+      "lon": "105.2122743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះរកា",
+      "en": "Kaoh Roka",
+      "slug": "kaoh-roka-140604"
+    },
+    "code": {
+      "id": "140604",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030506"
+    ],
+    "geo": {
+      "lat": "10.9549525",
+      "lon": "105.1902271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះសំពៅ",
+      "en": "Kaoh Sampov",
+      "slug": "kaoh-sampov-140605"
+    },
+    "code": {
+      "id": "140605",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140205"
+    ],
+    "geo": {
+      "lat": "10.9235224",
+      "lon": "105.3072591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងតាយ៉ង",
+      "en": "Krang Ta Yang",
+      "slug": "krang-ta-yang-140606"
+    },
+    "code": {
+      "id": "140606",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140206"
+    ],
+    "geo": {
+      "lat": "11.0471244",
+      "lon": "105.2755745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកក្របៅ",
+      "en": "Preaek Krabau",
+      "slug": "preaek-krabau-140607"
+    },
+    "code": {
+      "id": "140607",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030606"
+    ],
+    "geo": {
+      "lat": "11.1950912",
+      "lon": "105.2674729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកសំបួរ",
+      "en": "Preaek Sambuor",
+      "slug": "preaek-sambuor-140608"
+    },
+    "code": {
+      "id": "140608",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140208"
+    ],
+    "geo": {
+      "lat": "11.0040455",
+      "lon": "105.2034364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីស្រុក",
+      "en": "Ruessei Srok",
+      "slug": "ruessei-srok-140609"
+    },
+    "code": {
+      "id": "140609",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "034311"
+    ],
+    "geo": {
+      "lat": "10.983515",
+      "lon": "105.2898319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140610",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយភ្លោះ",
+      "en": "Svay Phluoh",
+      "slug": "svay-phluoh-140610"
+    },
+    "code": {
+      "id": "140610",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "ពាមជរ",
+        "en": "Peam Chor",
+        "slug": "peam-chor-1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "ពាមជរ",
+          "en": "Peam Chor",
+          "slug": "peam-chor-1406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140210"
+    ],
+    "geo": {
+      "lat": "11.1405255",
+      "lon": "105.2533273"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

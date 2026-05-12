@@ -1,0 +1,47 @@
+{
+  "id": "0407",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សាមគ្គីមានជ័យ",
+    "en": "Sameakki Mean Chey",
+    "slug": "sameakki-mean-chey-0407"
+  },
+  "code": {
+    "id": "0407",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ឆ្នាំង",
+      "en": "Kampong Chhnang",
+      "slug": "kampong-chhnang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.8772162",
+    "lon": "104.6041473"
+  },
+  "metadata": {},
+  "source": {}
+}

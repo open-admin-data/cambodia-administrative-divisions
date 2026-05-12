@@ -1,0 +1,300 @@
+# Tboung Khmum — Cambodia Administrative Divisions
+
+> 7 districts, 64 communes
+> Code: 25
+> Coordinates: 11.950072599999999, 105.824571891073
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### តំបែរ (Dambae)
+
+Code: 2501, Coordinates: 12.0178626, 105.8900919
+Communes: 7
+
+#### ចុងជាច (Chong Cheach)
+
+Code: 250101, Postal: 250101, Coordinates: 11.9125421, 105.8610698
+
+#### តំបែរ (Dambae)
+
+Code: 250102, Postal: 250102, Coordinates: 12.0486908, 105.8520972
+
+#### គោកស្រុក (Kouk Srok)
+
+Code: 250103, Postal: 250103, Coordinates: 11.9747657, 105.9021924
+
+#### នាងទើត (Neang Teut)
+
+Code: 250104, Postal: 250104, Coordinates: 11.8869427, 105.8508845
+
+#### សេដា (Seda)
+
+Code: 250105, Postal: 160406, Coordinates: 12.1710475, 105.8650239
+
+#### ត្រពាំងព្រីង (Trapeang Pring)
+
+Code: 250106, Postal: 250107, Coordinates: 12.0530022, 105.9320115
+
+#### ទឹកជ្រៅ (Tuek Chrov)
+
+Code: 250107, Postal: 250106, Coordinates: 11.9002642, 105.9866422
+
+### ក្រូចឆ្មារ (Krouch Chhmar)
+
+Code: 2502, Coordinates: 12.2739218, 105.6499844
+Communes: 12
+
+#### ឈូក (Chhuk)
+
+Code: 250201, Postal: 250201, Coordinates: 12.1549457, 105.7402648
+
+#### ជំនីក (Chumnik)
+
+Code: 250202, Postal: 250202, Coordinates: 12.2513472, 105.8076504
+
+#### កំពង់ទ្រាស (Kampong Treas)
+
+Code: 250203, Postal: 250203, Coordinates: 12.1235799, 105.546447
+
+#### កោះពីរ (Kaoh Pir)
+
+Code: 250204, Postal: 250204, Coordinates: 12.1411778, 105.5466077
+
+#### ក្រូចឆ្មារ (Krouch Chhmar)
+
+Code: 250205, Postal: 250205, Coordinates: 12.2848784, 105.6373925
+
+#### ប៉ឺស១ (Peus Muoy)
+
+Code: 250206, Postal: 250206, Coordinates: 12.2461046, 105.731037
+
+#### ប៉ើស២ (Peus Pir)
+
+Code: 250207, Postal: 250207
+
+#### ព្រែកអាជី (Preaek A chi)
+
+Code: 250208, Postal: 250208
+
+#### រការខ្នុរ (Roka Khnor)
+
+Code: 250209, Postal: 250209, Coordinates: 12.2472992, 105.772531
+
+#### ស្វាយឃ្លាំង (Svay Khleang)
+
+Code: 250210, Postal: 250210, Coordinates: 12.268829, 105.6573384
+
+#### ទ្រា (Trea)
+
+Code: 250211, Postal: 060713
+
+#### ទួលស្នួល (Tuol Snuol)
+
+Code: 250212, Postal: 250212, Coordinates: 12.1660204, 105.6435581
+
+### មេមត់ (Memot)
+
+Code: 2503, Coordinates: 11.822536, 106.1767776
+Communes: 14
+
+#### ចាន់មូល (Chan Mul)
+
+Code: 250301, Postal: 250301, Coordinates: 11.7375289, 106.2423666
+
+#### ជាំ (Choam)
+
+Code: 250302, Postal: 250302, Coordinates: 11.7290037, 106.2712022
+
+#### ជាំក្រវៀន (Choam Kravien)
+
+Code: 250303, Postal: 250303, Coordinates: 11.7673982, 106.3387138
+
+#### ជាំតាម៉ៅ (Choam Ta Mau)
+
+Code: 250304, Postal: 250304, Coordinates: 11.8971753, 106.2562277
+
+#### ដារ (Dar)
+
+Code: 250305, Postal: 040602
+
+#### កំពាន់ (Kampoan)
+
+Code: 250306, Postal: 250306, Coordinates: 11.928626, 106.0982652
+
+#### គគីរ (Kokir)
+
+Code: 250307, Postal: 060110
+
+#### មេមង (Memong)
+
+Code: 250308, Postal: 250307, Coordinates: 11.8978964, 106.1777961
+
+#### មេមត់ (Memot)
+
+Code: 250309, Postal: 250308, Coordinates: 11.8293213, 106.1763033
+
+#### រំចេក (Rumchek)
+
+Code: 250310, Postal: 030512
+
+#### រូង (Rung)
+
+Code: 250311, Postal: 250309, Coordinates: 11.7577942, 106.192969
+
+#### ទន្លូង (Tonlung)
+
+Code: 250312, Postal: 250312, Coordinates: 11.8969836, 106.3388685
+
+#### ត្រមូង (Tramung)
+
+Code: 250313, Postal: 250311, Coordinates: 11.8150464, 106.2031446
+
+#### ទ្រៀក (Triek)
+
+Code: 250314, Postal: 250313, Coordinates: 11.783419, 106.1464301
+
+### អូររាំងឪ (Ou Reang Ov)
+
+Code: 2504, Coordinates: 11.7951086, 105.5020062
+Communes: 7
+
+#### អំពិលតាពក (Ampil Ta Pok)
+
+Code: 250401, Postal: 250401, Coordinates: 11.8045193, 105.4850084
+
+#### ចក (Chak)
+
+Code: 250402, Postal: 040403, Coordinates: 11.7760701, 105.5980628
+
+#### ដំរិល (Damril)
+
+Code: 250403, Postal: 250404, Coordinates: 11.820668, 105.6225272
+
+#### គងជ័យ (Kong Chey)
+
+Code: 250404, Postal: 250405, Coordinates: 11.7700489, 105.5063952
+
+#### មៀន (Mien)
+
+Code: 250405, Postal: 030808, Coordinates: 11.8113068, 105.4359286
+
+#### ព្រះធាតុ (Preah Theat)
+
+Code: 250406, Postal: 250406, Coordinates: 11.8782152, 105.4923566
+
+#### ទួលសូភី (Tuol Souphi)
+
+Code: 250407, Postal: 250407, Coordinates: 11.8195605, 105.5493649
+
+### ពញាក្រែក (Ponhea Kraek)
+
+Code: 2505, Coordinates: 11.7937455, 105.8777537
+Communes: 8
+
+#### ដូនតី (Dountei)
+
+Code: 250501, Postal: 250501, Coordinates: 11.755725, 105.7217814
+
+#### កក់ (Kak)
+
+Code: 250502, Postal: 050213, Coordinates: 11.639985, 105.8288324
+
+#### កណ្ដោលជ្រុំ (Kandaol Chrum)
+
+Code: 250503, Postal: 250503, Coordinates: 11.8286792, 105.7823332
+
+#### កោងកាង (Kaong Kang)
+
+Code: 250504, Postal: 250504, Coordinates: 11.7905768, 105.8404517
+
+#### ក្រែក (Kraek)
+
+Code: 250505, Postal: 250505, Coordinates: 11.7667471, 105.9304438
+
+#### ពពេល (Popel)
+
+Code: 250506, Postal: 040409, Coordinates: 11.8314206, 105.8650922
+
+#### ត្រពាំងផ្លុង (Trapeang Phlong)
+
+Code: 250507, Postal: 250507, Coordinates: 11.6946857, 105.9683325
+
+#### វាលម្លូរ (Veal Mlu)
+
+Code: 250508, Postal: 250508, Coordinates: 11.837329, 105.8932962
+
+### សួង (Suong)
+
+Code: 2506, Coordinates: 11.9114877, 105.6532755
+Communes: 2
+
+#### សួង (Suong)
+
+Code: 250601, Postal: 250702, Coordinates: 11.9112146, 105.651749
+
+#### វិហារលួង (Vihear Luong)
+
+Code: 250602, Postal: 080811, Coordinates: 11.9558136, 105.6764461
+
+### ត្បូងឃ្មុំ (Tboung Khmum)
+
+Code: 2507, Coordinates: 11.8914565, 105.7756828
+Communes: 14
+
+#### អញ្ចើម (Anhchaeum)
+
+Code: 250701, Postal: 250601, Coordinates: 11.8352603, 105.6838238
+
+#### បឹងព្រួល (Boeng Pruol)
+
+Code: 250702, Postal: 250602, Coordinates: 12.0568269, 105.5521259
+
+#### ជីគរ (Chikor)
+
+Code: 250703, Postal: 250603, Coordinates: 11.8472409, 105.6264097
+
+#### ជីរោទ៍ ទី១ (Chirou Ti Muoy)
+
+Code: 250704, Postal: 250604, Coordinates: 12.0211372, 105.4998421
+
+#### ជីរោទ៍ ទី២ (Chirou Ti Pir)
+
+Code: 250705, Postal: 250605, Coordinates: 12.0211372, 105.4998421
+
+#### ជប់ (Chob)
+
+Code: 250706, Postal: 250606, Coordinates: 11.914365, 105.6254787
+
+#### គរ (Kor)
+
+Code: 250707, Postal: 030805, Coordinates: 11.9756491, 105.7428114
+
+#### ល្ងៀង (Lngieng)
+
+Code: 250708, Postal: 250608, Coordinates: 11.9438421, 105.7446858
+
+#### មង់រៀវ (Mong Riev)
+
+Code: 250709, Postal: 250609, Coordinates: 11.8924135, 105.6425797
+
+#### ពាមជីលាំង (Peam Chileang)
+
+Code: 250710, Postal: 250610
+
+#### រកាពប្រាំ (Roka Po Pram)
+
+Code: 250711, Postal: 250611, Coordinates: 12.0779881, 105.6896871
+
+#### ស្រឡប់ (Sralab)
+
+Code: 250712, Postal: 250612, Coordinates: 11.8769066, 105.7420154
+
+#### ថ្មពេជ្រ (Thma Pech)
+
+Code: 250713, Postal: 250613, Coordinates: 12.0377391, 105.615499
+
+#### ទន្លេបិទ (Tonle Bet)
+
+Code: 250714, Postal: 250614, Coordinates: 11.9608226, 105.4770383
+

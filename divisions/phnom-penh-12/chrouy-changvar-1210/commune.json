@@ -1,0 +1,282 @@
+[
+  {
+    "id": "121005",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាក់ខែង",
+      "en": "Bak Kaeng",
+      "slug": "bak-kaeng-121005"
+    },
+    "code": {
+      "id": "121005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "ជ្រោយចង្វារ",
+        "en": "Chrouy Changvar",
+        "slug": "chrouy-changvar-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "ជ្រោយចង្វារ",
+          "en": "Chrouy Changvar",
+          "slug": "chrouy-changvar-1210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121005"
+    ],
+    "geo": {
+      "lat": "11.6815354",
+      "lon": "104.9205709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121001",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រោយចង្វារ",
+      "en": "Chrouy Changvar",
+      "slug": "chrouy-changvar-121001"
+    },
+    "code": {
+      "id": "121001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "ជ្រោយចង្វារ",
+        "en": "Chrouy Changvar",
+        "slug": "chrouy-changvar-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "ជ្រោយចង្វារ",
+          "en": "Chrouy Changvar",
+          "slug": "chrouy-changvar-1210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121001"
+    ],
+    "geo": {
+      "lat": "11.5894218",
+      "lon": "104.9270911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121004",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះដាច់",
+      "en": "Kaoh Dach",
+      "slug": "kaoh-dach-121004"
+    },
+    "code": {
+      "id": "121004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "ជ្រោយចង្វារ",
+        "en": "Chrouy Changvar",
+        "slug": "chrouy-changvar-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "ជ្រោយចង្វារ",
+          "en": "Chrouy Changvar",
+          "slug": "chrouy-changvar-1210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121004"
+    ],
+    "geo": {
+      "lat": "11.6647479",
+      "lon": "104.9363037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121002",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកលៀប",
+      "en": "Preaek Lieb",
+      "slug": "preaek-lieb-121002"
+    },
+    "code": {
+      "id": "121002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "ជ្រោយចង្វារ",
+        "en": "Chrouy Changvar",
+        "slug": "chrouy-changvar-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "ជ្រោយចង្វារ",
+          "en": "Chrouy Changvar",
+          "slug": "chrouy-changvar-1210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121002"
+    ],
+    "geo": {
+      "lat": "11.6456062",
+      "lon": "104.9170732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "121003",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកតាសេក",
+      "en": "Preaek Ta Sek",
+      "slug": "preaek-ta-sek-121003"
+    },
+    "code": {
+      "id": "121003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "ជ្រោយចង្វារ",
+        "en": "Chrouy Changvar",
+        "slug": "chrouy-changvar-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "ជ្រោយចង្វារ",
+          "en": "Chrouy Changvar",
+          "slug": "chrouy-changvar-1210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121003"
+    ],
+    "geo": {
+      "lat": "11.6555149",
+      "lon": "104.8841571"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

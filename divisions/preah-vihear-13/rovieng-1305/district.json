@@ -1,0 +1,47 @@
+{
+  "id": "1305",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "រវៀង",
+    "en": "Rovieng",
+    "slug": "rovieng-1305"
+  },
+  "code": {
+    "id": "1305",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ព្រះវិហារ",
+      "en": "Preah Vihear",
+      "slug": "preah-vihear-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.3488486",
+    "lon": "105.1084435"
+  },
+  "metadata": {},
+  "source": {}
+}

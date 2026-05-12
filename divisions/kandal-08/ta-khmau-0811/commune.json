@@ -1,0 +1,562 @@
+[
+  {
+    "id": "081103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដើមមៀន",
+      "en": "Doeum Mien",
+      "slug": "doeum-mien-081103"
+    },
+    "code": {
+      "id": "081103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081103"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់សំណាញ់",
+      "en": "Kampong Samnanh",
+      "slug": "kampong-samnanh-081106"
+    },
+    "code": {
+      "id": "081106",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081106"
+    ],
+    "geo": {
+      "lat": "11.4604168",
+      "lon": "104.9421504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះអន្លង់ចិន",
+      "en": "Kaoh Anlong Chen",
+      "slug": "kaoh-anlong-chen-081108"
+    },
+    "code": {
+      "id": "081108",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080902"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកហូរ",
+      "en": "Prek Ho",
+      "slug": "prek-ho-081105"
+    },
+    "code": {
+      "id": "081105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081105"
+    ],
+    "geo": {
+      "lat": "11.4531924",
+      "lon": "104.9296561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកឫស្សី",
+      "en": "Prek Ruessey",
+      "slug": "prek-ruessey-081102"
+    },
+    "code": {
+      "id": "081102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081102"
+    ],
+    "geo": {
+      "lat": "11.4715306",
+      "lon": "104.9378177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាខ្ពស់",
+      "en": "Roka Khpos",
+      "slug": "roka-khpos-081110"
+    },
+    "code": {
+      "id": "081110",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080909"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សិត្បូ",
+      "en": "Setbou",
+      "slug": "setbou-081109"
+    },
+    "code": {
+      "id": "081109",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080911"
+    ],
+    "geo": {
+      "lat": "11.415416",
+      "lon": "105.0391531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយរលំ",
+      "en": "Svay Rolum",
+      "slug": "svay-rolum-081107"
+    },
+    "code": {
+      "id": "081107",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080913"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាក្ដុល",
+      "en": "Ta Kdol",
+      "slug": "ta-kdol-081101"
+    },
+    "code": {
+      "id": "081101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081101"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាខ្មៅ",
+      "en": "Ta Khmao",
+      "slug": "ta-khmao-081104"
+    },
+    "code": {
+      "id": "081104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0811",
+      "level": 2,
+      "name": {
+        "local": "តាខ្មៅ",
+        "en": "Ta Khmau",
+        "slug": "ta-khmau-0811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0811",
+        "level": 2,
+        "name": {
+          "local": "តាខ្មៅ",
+          "en": "Ta Khmau",
+          "slug": "ta-khmau-0811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "081104"
+    ],
+    "geo": {
+      "lat": "11.464181",
+      "lon": "104.9541577"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "id": "1501",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បាកាន",
+      "en": "Bakan",
+      "slug": "bakan-1501"
+    },
+    "code": {
+      "id": "1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.6030184",
+      "lon": "103.7904079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1502",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កណ្ដៀង",
+      "en": "Kandieng",
+      "slug": "kandieng-1502"
+    },
+    "code": {
+      "id": "1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5898656",
+      "lon": "103.9571307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1503",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ក្រគរ",
+      "en": "Krakor",
+      "slug": "krakor-1503"
+    },
+    "code": {
+      "id": "1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5287279",
+      "lon": "104.2100448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1504",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ភ្នំក្រវ៉ាញ",
+      "en": "Phnum Kravanh",
+      "slug": "phnum-kravanh-1504"
+    },
+    "code": {
+      "id": "1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.3505536",
+      "lon": "103.7641348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពោធិ៍សាត់",
+      "en": "Pursat",
+      "slug": "pursat-1505"
+    },
+    "code": {
+      "id": "1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5377547",
+      "lon": "103.9178235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "តាលោសែនជ័យ",
+      "en": "Ta Lou Senchey",
+      "slug": "ta-lou-senchey-1507"
+    },
+    "code": {
+      "id": "1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "វាលវែង",
+      "en": "Veal Veaeng",
+      "slug": "veal-veaeng-1506"
+    },
+    "code": {
+      "id": "1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.234079",
+      "lon": "103.1238576"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

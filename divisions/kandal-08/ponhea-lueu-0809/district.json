@@ -1,0 +1,47 @@
+{
+  "id": "0809",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ពញាឮ",
+    "en": "Ponhea Lueu",
+    "slug": "ponhea-lueu-0809"
+  },
+  "code": {
+    "id": "0809",
+    "iso": null
+  },
+  "parent": {
+    "id": "08",
+    "level": 1,
+    "name": {
+      "local": "កណ្តាល",
+      "en": "Kandal",
+      "slug": "kandal-08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "08",
+      "level": 1,
+      "name": {
+        "local": "កណ្តាល",
+        "en": "Kandal",
+        "slug": "kandal-08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.8197347",
+    "lon": "104.7974776"
+  },
+  "metadata": {},
+  "source": {}
+}

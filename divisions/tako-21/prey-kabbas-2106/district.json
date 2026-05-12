@@ -1,0 +1,47 @@
+{
+  "id": "2106",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ព្រៃកប្បាស",
+    "en": "Prey Kabbas",
+    "slug": "prey-kabbas-2106"
+  },
+  "code": {
+    "id": "2106",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "តាកែវ",
+      "en": "Takéo",
+      "slug": "tako-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "តាកែវ",
+        "en": "Takéo",
+        "slug": "tako-21"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.1556469",
+    "lon": "104.9528949"
+  },
+  "metadata": {},
+  "source": {}
+}

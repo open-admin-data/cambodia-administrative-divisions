@@ -1,0 +1,450 @@
+[
+  {
+    "id": "120308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងព្រលឹត",
+      "en": "Boeng Proluet",
+      "slug": "boeng-proluet-120308"
+    },
+    "code": {
+      "id": "120308",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "៧មករា",
+        "en": "Prampir Meakkakra",
+        "slug": "prampir-meakkakra-1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "៧មករា",
+          "en": "Prampir Meakkakra",
+          "slug": "prampir-meakkakra-1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120308"
+    ],
+    "geo": {
+      "lat": "11.5595067",
+      "lon": "104.9173953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មិត្ដភាព",
+      "en": "Mittapheap",
+      "slug": "mittapheap-120306"
+    },
+    "code": {
+      "id": "120306",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "៧មករា",
+        "en": "Prampir Meakkakra",
+        "slug": "prampir-meakkakra-1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "៧មករា",
+          "en": "Prampir Meakkakra",
+          "slug": "prampir-meakkakra-1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120306"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មនោរម្យ",
+      "en": "Monourom",
+      "slug": "monourom-120305"
+    },
+    "code": {
+      "id": "120305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "៧មករា",
+        "en": "Prampir Meakkakra",
+        "slug": "prampir-meakkakra-1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "៧មករា",
+          "en": "Prampir Meakkakra",
+          "slug": "prampir-meakkakra-1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050602"
+    ],
+    "geo": {
+      "lat": "11.5694231",
+      "lon": "104.9171913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឫស្សីទី ៣",
+      "en": "Ou Ruessei Ti Bei",
+      "slug": "ou-ruessei-ti-bei-120303"
+    },
+    "code": {
+      "id": "120303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "៧មករា",
+        "en": "Prampir Meakkakra",
+        "slug": "prampir-meakkakra-1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "៧មករា",
+          "en": "Prampir Meakkakra",
+          "slug": "prampir-meakkakra-1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120303"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឫស្សីទី ៤",
+      "en": "Ou Ruessei Ti Buon",
+      "slug": "ou-ruessei-ti-buon-120304"
+    },
+    "code": {
+      "id": "120304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "៧មករា",
+        "en": "Prampir Meakkakra",
+        "slug": "prampir-meakkakra-1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "៧មករា",
+          "en": "Prampir Meakkakra",
+          "slug": "prampir-meakkakra-1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120304"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឫស្សីទី ១",
+      "en": "Ou Ruessei Ti Muoy",
+      "slug": "ou-ruessei-ti-muoy-120301"
+    },
+    "code": {
+      "id": "120301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "៧មករា",
+        "en": "Prampir Meakkakra",
+        "slug": "prampir-meakkakra-1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "៧មករា",
+          "en": "Prampir Meakkakra",
+          "slug": "prampir-meakkakra-1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120301"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឫស្សីទី ២",
+      "en": "Ou Ruessei Ti Pir",
+      "slug": "ou-ruessei-ti-pir-120302"
+    },
+    "code": {
+      "id": "120302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "៧មករា",
+        "en": "Prampir Meakkakra",
+        "slug": "prampir-meakkakra-1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "៧មករា",
+          "en": "Prampir Meakkakra",
+          "slug": "prampir-meakkakra-1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120302"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាលវង់",
+      "en": "Veal Vong",
+      "slug": "veal-vong-120307"
+    },
+    "code": {
+      "id": "120307",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "៧មករា",
+        "en": "Prampir Meakkakra",
+        "slug": "prampir-meakkakra-1203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "៧មករា",
+          "en": "Prampir Meakkakra",
+          "slug": "prampir-meakkakra-1203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120307"
+    ],
+    "geo": {
+      "lat": "11.5624743",
+      "lon": "104.9094089"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

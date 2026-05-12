@@ -1,0 +1,582 @@
+# Kandal — Cambodia Administrative Divisions
+
+> 13 districts, 127 communes
+> Code: 08
+> Coordinates: 11.396262499999999, 105.02078685074581
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### អរិយក្សត្រ (Akreiy Ksatr)
+
+Code: 0813
+Communes: 11
+
+#### អរិយក្សត្រ (Akreiy Ksatr)
+
+Code: 081307, Postal: 080601
+
+#### បាក់ដាវ (Bak Dav)
+
+Code: 081301, Postal: 080201
+
+#### បារុង (Barong)
+
+Code: 081311, Postal: 080602
+
+#### កោះឧកញ៉ាតី (Kaoh Oknha Tei)
+
+Code: 081302, Postal: 080205
+
+#### ពាមឧកញ៉ាអុង (Peam Oknha Ong)
+
+Code: 081309, Postal: 080607
+
+#### ព្រែកអំពិល (Preaek Ampil)
+
+Code: 081303, Postal: 080207
+
+#### ព្រែកក្មេង (Preaek Kmeng)
+
+Code: 081310, Postal: 080609
+
+#### ព្រែកលួង (Preaek Luong)
+
+Code: 081304, Postal: 080208
+
+#### ព្រែកតាកូវ (Preaek Ta kov)
+
+Code: 081305, Postal: 080209
+
+#### សារិកាកែវ (Sarikakaev)
+
+Code: 081308, Postal: 080613
+
+#### ស្វាយជ្រំ (Svay Chrum)
+
+Code: 081306, Postal: 040712
+
+### អង្គស្នួល (Angk Snuol)
+
+Code: 0808, Coordinates: 11.5078333, 104.7157787
+Communes: 10
+
+#### បែកចាន (Baek Chan)
+
+Code: 080801, Postal: 080101
+
+#### ឆក់ឈើនាង (Chhak Chheu Neang)
+
+Code: 080803, Postal: 080102, Coordinates: 11.5363008, 104.733911
+
+#### ដំណាក់អំពិល (Damnak Ampil)
+
+Code: 080804, Postal: 080103, Coordinates: 11.5184607, 104.6737586
+
+#### ក្រាំងម្កាក់ (Krang Mkak)
+
+Code: 080807, Postal: 080104
+
+#### លំហាច (Lumhach)
+
+Code: 080808, Postal: 080105, Coordinates: 11.4763915, 104.6739166
+
+#### ម្កាក់ (Mkak)
+
+Code: 080809, Postal: 010803, Coordinates: 11.6429433, 104.7240956
+
+#### ពើក (Peuk)
+
+Code: 080811, Postal: 080107, Coordinates: 11.5072193, 104.7163259
+
+#### ព្រៃពួច (Prey Puoch)
+
+Code: 080813, Postal: 080108
+
+#### សំរោងលើ (Samraong Leu)
+
+Code: 080814, Postal: 070305, Coordinates: 11.5660238, 104.6940089
+
+#### ទួលព្រេជ (Tuol Prech)
+
+Code: 080816, Postal: 080110, Coordinates: 11.609557, 104.7137945
+
+### កណ្ដាលស្ទឹង (Kandal Stueng)
+
+Code: 0801, Coordinates: 11.4110928, 104.8330526
+Communes: 18
+
+#### អំពៅព្រៃ (Ampov Prey)
+
+Code: 080101, Postal: 080301, Coordinates: 11.3834721, 104.8936276
+
+#### អន្លង់រមៀត (Anlong Romiet)
+
+Code: 080102, Postal: 080302, Coordinates: 11.4268166, 104.7971422
+
+#### បារគូ (Barku)
+
+Code: 080103, Postal: 080303, Coordinates: 11.4213693, 104.8183187
+
+#### បឹងខ្យាង (Boeng Khyang)
+
+Code: 080104, Postal: 080304, Coordinates: 11.3652017, 104.8742007
+
+#### ជើងកើប (Cheung Kaeub)
+
+Code: 080105, Postal: 080305, Coordinates: 11.4277915, 104.8871852
+
+#### ដើមឫស (Daeum Rues)
+
+Code: 080106, Postal: 080306, Coordinates: 11.4310321, 104.7776218
+
+#### កណ្ដោក (Kandaok)
+
+Code: 080107, Postal: 080307, Coordinates: 11.4015431, 104.9045064
+
+#### គោកត្រប់ (Kouk Trab)
+
+Code: 080109, Postal: 080309, Coordinates: 11.401015, 104.8403161
+
+#### ព្រែករកា (Preaek Roka)
+
+Code: 080115, Postal: 080311, Coordinates: 11.3563662, 104.8499474
+
+#### ព្រែកស្លែង (Preaek Slaeng)
+
+Code: 080116, Postal: 080312, Coordinates: 11.367044, 104.88839
+
+#### ព្រះពុទ្ធ (Preah Putth)
+
+Code: 080113, Postal: 080310, Coordinates: 11.4274182, 104.8460346
+
+#### រកា (Roka)
+
+Code: 080117, Postal: 020804
+
+#### រលាំងកែន (Roleang Kaen)
+
+Code: 080118, Postal: 080314, Coordinates: 11.4507163, 104.6754851
+
+#### សៀមរាប (Siem Reap)
+
+Code: 080122, Postal: 171209, Coordinates: 11.4012453, 104.8638561
+
+#### ត្បែង (Tbaeng)
+
+Code: 080125, Postal: 060208, Coordinates: 11.3555327, 104.7717454
+
+#### ថ្មី (Thmei)
+
+Code: 080108, Postal: 010503
+
+#### ត្រពាំងវែង (Trapeang Veaeng)
+
+Code: 080127, Postal: 080317
+
+#### ទ្រា (Trea)
+
+Code: 080128, Postal: 060713, Coordinates: 11.3737718, 104.8165372
+
+### កោះធំ (Kaoh Thum)
+
+Code: 0804, Coordinates: 11.1256716, 105.0555595
+Communes: 6
+
+#### កំពង់កុង (Kampong Kong)
+
+Code: 080403, Postal: 080403, Coordinates: 11.1447093, 105.0792244
+
+#### កោះធំ ‹ក› (Kaoh Thum Ka)
+
+Code: 080404, Postal: 080404, Coordinates: 11.169556, 105.0733794
+
+#### កោះធំ ‹ខ› (Kaoh Thum Kha)
+
+Code: 080405, Postal: 080404, Coordinates: 11.1904953, 105.0569539
+
+#### លើកដែក (Leuk Daek)
+
+Code: 080407, Postal: 080406, Coordinates: 11.1297939, 105.1316811
+
+#### ពោធិ៍បាន (Pouthi Ban)
+
+Code: 080408, Postal: 080407, Coordinates: 11.2123468, 105.0962018
+
+#### ព្រែកថ្មី (Preaek Thmei)
+
+Code: 080411, Postal: 121208, Coordinates: 11.1297483, 105.0568867
+
+### ខ្សាច់កណ្ដាល (Khsach Kandal)
+
+Code: 0803, Coordinates: 11.7503523, 105.0169623
+Communes: 12
+
+#### ជ័យធំ (Chey Thum)
+
+Code: 080302, Postal: 080202, Coordinates: 11.725452, 105.1207161
+
+#### កំពង់ចំលង (Kampong Chamlang)
+
+Code: 080303, Postal: 080203
+
+#### កោះចូរ៉ាម (Kaoh Chouram)
+
+Code: 080304, Postal: 080204, Coordinates: 11.8249229, 105.0173203
+
+#### ព្រែកតាមាក់ (Preaek Ta Meak)
+
+Code: 080310, Postal: 080210
+
+#### ព្រះប្រសប់ (Preah Prasab)
+
+Code: 080306, Postal: 080206, Coordinates: 11.7740435, 105.0258702
+
+#### ពុកឫស្សី (Puk Ruessei)
+
+Code: 080311, Postal: 80311
+
+#### រកាជន្លឹង (Roka Chonlueng)
+
+Code: 080312, Postal: 080212, Coordinates: 11.7369758, 105.0745018
+
+#### សន្លុង (Sanlung)
+
+Code: 080313, Postal: 080213, Coordinates: 11.6880824, 105.0673048
+
+#### ស៊ីធរ (Sithor)
+
+Code: 080314, Postal: 080214, Coordinates: 11.6735261, 105.1034641
+
+#### ស្វាយរមៀត (Svay Romiet)
+
+Code: 080316, Postal: 080216, Coordinates: 11.7943507, 105.0159691
+
+#### តាឯក (Ta Aek)
+
+Code: 080317, Postal: 080217, Coordinates: 11.8328896, 105.0257458
+
+#### វិហារសួគ៌ (Vihear Suork)
+
+Code: 080318, Postal: 080218, Coordinates: 11.6692751, 105.066954
+
+### កៀនស្វាយ (Kien Svay)
+
+Code: 0802, Coordinates: 11.5099783, 105.0499924
+Communes: 8
+
+#### បន្ទាយដែក (Banteay Daek)
+
+Code: 080201, Postal: 081001
+
+#### ឈើទាល (Chheu Teal)
+
+Code: 080202, Postal: 020104
+
+#### ដីឥដ្ឋ (Dei Edth)
+
+Code: 080203, Postal: 081003, Coordinates: 11.4951009, 105.097744
+
+#### កំពង់ស្វាយ (Kampong Svay)
+
+Code: 080204, Postal: 010801, Coordinates: 11.4242235, 105.0544472
+
+#### គគីរ (Kokir)
+
+Code: 080206, Postal: 060110, Coordinates: 11.5069608, 105.0574279
+
+#### គគីរធំ (Kokir Thum)
+
+Code: 080207, Postal: 081006, Coordinates: 11.3375284, 105.2415774
+
+#### ភូមិធំ (Phum Thum)
+
+Code: 080208, Postal: 080608, Coordinates: 11.5107159, 105.1887109
+
+#### សំរោងធំ (Samraong Thum)
+
+Code: 080211, Postal: 081008, Coordinates: 11.4141629, 105.2220026
+
+### លើកដែក (Leuk Daek)
+
+Code: 0805, Coordinates: 11.1778929, 105.2277136
+Communes: 7
+
+#### ក្អមសំណរ (K&#39;am Samnar)
+
+Code: 080502, Postal: 080502, Coordinates: 10.9485694, 105.1791344
+
+#### កំពង់ភ្នំ (Kampong Phnum)
+
+Code: 080501, Postal: 080501, Coordinates: 11.2813634, 105.262609
+
+#### ខ្ពបអាទាវ (Khpob Ateav)
+
+Code: 080503, Postal: 080503, Coordinates: 11.0702211, 105.1898013
+
+#### ពាមរាំង (Peam Reang)
+
+Code: 080504, Postal: 080504, Coordinates: 11.1169441, 105.2082499
+
+#### ព្រែកដាច់ (Preaek Dach)
+
+Code: 080505, Postal: 080505, Coordinates: 11.1752934, 105.2296738
+
+#### ព្រែកទន្លាប់ (Preaek Tonloab)
+
+Code: 080506, Postal: 080506, Coordinates: 11.2421236, 105.2704082
+
+#### សណ្ដារ (Sandar)
+
+Code: 080507, Postal: 080507, Coordinates: 10.9972722, 105.1820496
+
+### ល្វាឯម (Lvea Aem)
+
+Code: 0806, Coordinates: 11.5430427, 105.0485316
+Communes: 10
+
+#### បឹងគ្រំ (Boeng Krum)
+
+Code: 080603, Postal: 080603, Coordinates: 11.4795981, 105.1701939
+
+#### កោះកែវ (Kaoh Kaev)
+
+Code: 080604, Postal: 080604, Coordinates: 11.443779, 105.216592
+
+#### កោះរះ (Kaoh Reah)
+
+Code: 080605, Postal: 080605, Coordinates: 11.5294733, 105.0853628
+
+#### ល្វាសរ (Lvea Sar)
+
+Code: 080606, Postal: 080606, Coordinates: 11.4525022, 105.1949315
+
+#### ភូមិធំ (Phum Thum)
+
+Code: 080608, Postal: 080608, Coordinates: 11.5107159, 105.1887109
+
+#### ព្រែករៃ (Preaek Rey)
+
+Code: 080610, Postal: 080610, Coordinates: 11.5266973, 105.140201
+
+#### ព្រែកឫស្សី (Preaek Ruessei)
+
+Code: 080611, Postal: 080611, Coordinates: 11.4512911, 105.2523686
+
+#### សំបួរ (Sambuor)
+
+Code: 080612, Postal: 010110, Coordinates: 11.4302867, 105.243366
+
+#### ថ្មគរ (Thma Kor)
+
+Code: 080614, Postal: 080614, Coordinates: 11.5101159, 105.1121728
+
+#### ទឹកឃ្លាំង (Tuek Khleang)
+
+Code: 080615, Postal: 080615, Coordinates: 11.4970498, 105.1410705
+
+### មុខកំពូល (Mukh Kampul)
+
+Code: 0807, Coordinates: 11.72978, 104.9664012
+Communes: 7
+
+#### ព្រែកអញ្ចាញ (Preaek Anhchanh)
+
+Code: 080703, Postal: 080701, Coordinates: 11.7367562, 104.9686607
+
+#### ព្រែកដំបង (Preaek Dambang)
+
+Code: 080704, Postal: 080702, Coordinates: 11.8218247, 104.9768632
+
+#### រកាកោង ទី ១ (Roka Kong Ti Muoy)
+
+Code: 080707, Postal: 080703, Coordinates: 11.8411311, 104.9800047
+
+#### រកាកោង ទី ២ (Roka Kong Ti Pir)
+
+Code: 080708, Postal: 080704, Coordinates: 11.8411311, 104.9800047
+
+#### ឫស្សីជ្រោយ (Ruessei Chrouy)
+
+Code: 080709, Postal: 080705, Coordinates: 11.7867958, 105.0041847
+
+#### សំបួរមាស (Sambuor Meas)
+
+Code: 080710, Postal: 030403, Coordinates: 11.7206205, 104.8852846
+
+#### ស្វាយអំពារ (Svay Ampear)
+
+Code: 080711, Postal: 080707, Coordinates: 11.8155051, 104.9480853
+
+### ពញាឮ (Ponhea Lueu)
+
+Code: 0809, Coordinates: 11.8197347, 104.7974776
+Communes: 11
+
+#### ឈ្វាំង (Chhveang)
+
+Code: 080901, Postal: 080801, Coordinates: 11.6786645, 104.7814478
+
+#### ជ្រៃលាស់ (Chrey Loas)
+
+Code: 080902, Postal: 080802, Coordinates: 11.7043285, 104.7694823
+
+#### កំពង់ហ្លួង (Kampong Luong)
+
+Code: 080903, Postal: 080803, Coordinates: 11.8285625, 104.7964474
+
+#### កំពង់អុស (Kampong Os)
+
+Code: 080904, Postal: 080804, Coordinates: 11.7802946, 104.8527402
+
+#### កោះចិន (Kaoh Chen)
+
+Code: 080905, Postal: 080805, Coordinates: 11.8323871, 104.8145451
+
+#### ភ្នំបាត (Phnum Bat)
+
+Code: 080906, Postal: 080806, Coordinates: 11.7667749, 104.7822058
+
+#### ផ្សារដែក (Phsar Daek)
+
+Code: 080911, Postal: 080809
+
+#### ពញាឮ (Ponhea Lueu)
+
+Code: 080907, Postal: 080807, Coordinates: 11.7872229, 104.8211423
+
+#### ព្រែកតាទែន (Preaek Ta Teaen)
+
+Code: 080910, Postal: 080808
+
+#### ទំនប់ធំ (Tumnob Thum)
+
+Code: 080913, Postal: 080810, Coordinates: 11.7460778, 104.7393028
+
+#### វិហារហ្លួង (Vihear Luong)
+
+Code: 080914, Postal: 080811, Coordinates: 11.8264345, 104.7730495
+
+### ស្អាង (S&#39;ang)
+
+Code: 0810, Coordinates: 11.3605612, 105.0037187
+Communes: 12
+
+#### កោះខែល (Kaoh Khael)
+
+Code: 081003, Postal: 080903, Coordinates: 11.2679729, 105.0276183
+
+#### កោះខ្សាច់ទន្លា (Kaoh Khsach Tonlea)
+
+Code: 081004, Postal: 080904, Coordinates: 11.3174496, 105.0508747
+
+#### ខ្ពប (Khpob)
+
+Code: 081001, Postal: 080901, Coordinates: 11.2652824, 105.0378246
+
+#### ក្រាំងយ៉ូវ (Krang Yov)
+
+Code: 081005, Postal: 080905, Coordinates: 11.2733805, 104.9512566
+
+#### ប្រាសាទ (Prasat)
+
+Code: 081006, Postal: 010304, Coordinates: 11.2904552, 105.1394549
+
+#### ព្រែកអំបិល (Preaek Ambel)
+
+Code: 081007, Postal: 080907, Coordinates: 11.2426535, 105.0245185
+
+#### ព្រែកគយ (Preaek Koy)
+
+Code: 081008, Postal: 030605, Coordinates: 11.3534381, 105.0021243
+
+#### ស្អាងភ្នំ (S&#39;ang Phnum)
+
+Code: 081010, Postal: 080910, Coordinates: 11.3528997, 104.9746418
+
+#### ស្វាយប្រទាល (Svay Prateal)
+
+Code: 081012, Postal: 080912, Coordinates: 11.3917482, 105.0134354
+
+#### តាលន់ (Ta Lon)
+
+Code: 081014, Postal: 080914, Coordinates: 11.2984655, 105.0529903
+
+#### ត្រើយស្លា (Traeuy Sla)
+
+Code: 081015, Postal: 080915
+
+#### ទឹកវិល (Tuek Vil)
+
+Code: 081016, Postal: 080916, Coordinates: 11.306256, 105.0212672
+
+### សំពៅពូន (Sampeou Poun)
+
+Code: 0812
+Communes: 5
+
+#### ឈើខ្មៅ (Chheu Kmau)
+
+Code: 081201, Postal: 080401
+
+#### ជ្រោយតាកែវ (Chrouy Ta Kaev)
+
+Code: 081204, Postal: 080402
+
+#### ព្រែកជ្រៃ (Preaek Chrey)
+
+Code: 081202, Postal: 080408
+
+#### ព្រែកស្ដី (Preaek Sdei)
+
+Code: 081203, Postal: 080409
+
+#### សំពៅពូន (Sampeou Poun)
+
+Code: 081205, Postal: 080411, Coordinates: 10.9968832, 105.044052
+
+### តាខ្មៅ (Ta Khmau)
+
+Code: 0811, Coordinates: 11.4687395, 104.9451162
+Communes: 10
+
+#### ដើមមៀន (Doeum Mien)
+
+Code: 081103, Postal: 081103
+
+#### កំពង់សំណាញ់ (Kampong Samnanh)
+
+Code: 081106, Postal: 081106, Coordinates: 11.4604168, 104.9421504
+
+#### កោះអន្លង់ចិន (Kaoh Anlong Chen)
+
+Code: 081108, Postal: 080902
+
+#### ព្រែកហូរ (Prek Ho)
+
+Code: 081105, Postal: 081105, Coordinates: 11.4531924, 104.9296561
+
+#### ព្រែកឫស្សី (Prek Ruessey)
+
+Code: 081102, Postal: 081102, Coordinates: 11.4715306, 104.9378177
+
+#### រកាខ្ពស់ (Roka Khpos)
+
+Code: 081110, Postal: 080909
+
+#### សិត្បូ (Setbou)
+
+Code: 081109, Postal: 080911, Coordinates: 11.415416, 105.0391531
+
+#### ស្វាយរលំ (Svay Rolum)
+
+Code: 081107, Postal: 080913
+
+#### តាក្ដុល (Ta Kdol)
+
+Code: 081101, Postal: 081101
+
+#### តាខ្មៅ (Ta Khmao)
+
+Code: 081104, Postal: 081104, Coordinates: 11.464181, 104.9541577
+

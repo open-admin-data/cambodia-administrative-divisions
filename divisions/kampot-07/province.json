@@ -1,0 +1,30 @@
+{
+  "id": "07",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "កំពត",
+    "en": "Kampot",
+    "slug": "kampot-07"
+  },
+  "code": {
+    "id": "07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "commune": 93
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.6314754",
+    "lon": "104.132637"
+  },
+  "metadata": {},
+  "source": {}
+}

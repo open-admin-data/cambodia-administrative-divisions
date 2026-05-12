@@ -1,0 +1,562 @@
+[
+  {
+    "id": "080603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងគ្រំ",
+      "en": "Boeng Krum",
+      "slug": "boeng-krum-080603"
+    },
+    "code": {
+      "id": "080603",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080603"
+    ],
+    "geo": {
+      "lat": "11.4795981",
+      "lon": "105.1701939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះកែវ",
+      "en": "Kaoh Kaev",
+      "slug": "kaoh-kaev-080604"
+    },
+    "code": {
+      "id": "080604",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080604"
+    ],
+    "geo": {
+      "lat": "11.443779",
+      "lon": "105.216592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះរះ",
+      "en": "Kaoh Reah",
+      "slug": "kaoh-reah-080605"
+    },
+    "code": {
+      "id": "080605",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080605"
+    ],
+    "geo": {
+      "lat": "11.5294733",
+      "lon": "105.0853628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វាសរ",
+      "en": "Lvea Sar",
+      "slug": "lvea-sar-080606"
+    },
+    "code": {
+      "id": "080606",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080606"
+    ],
+    "geo": {
+      "lat": "11.4525022",
+      "lon": "105.1949315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភូមិធំ",
+      "en": "Phum Thum",
+      "slug": "phum-thum-080608"
+    },
+    "code": {
+      "id": "080608",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080608"
+    ],
+    "geo": {
+      "lat": "11.5107159",
+      "lon": "105.1887109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080610",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែករៃ",
+      "en": "Preaek Rey",
+      "slug": "preaek-rey-080610"
+    },
+    "code": {
+      "id": "080610",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080610"
+    ],
+    "geo": {
+      "lat": "11.5266973",
+      "lon": "105.140201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080611",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកឫស្សី",
+      "en": "Preaek Ruessei",
+      "slug": "preaek-ruessei-080611"
+    },
+    "code": {
+      "id": "080611",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080611"
+    ],
+    "geo": {
+      "lat": "11.4512911",
+      "lon": "105.2523686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080612",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរ",
+      "en": "Sambuor",
+      "slug": "sambuor-080612"
+    },
+    "code": {
+      "id": "080612",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010110"
+    ],
+    "geo": {
+      "lat": "11.4302867",
+      "lon": "105.243366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080614",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មគរ",
+      "en": "Thma Kor",
+      "slug": "thma-kor-080614"
+    },
+    "code": {
+      "id": "080614",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080614"
+    ],
+    "geo": {
+      "lat": "11.5101159",
+      "lon": "105.1121728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080615",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកឃ្លាំង",
+      "en": "Tuek Khleang",
+      "slug": "tuek-khleang-080615"
+    },
+    "code": {
+      "id": "080615",
+      "iso": null
+    },
+    "parent": {
+      "id": "0806",
+      "level": 2,
+      "name": {
+        "local": "ល្វាឯម",
+        "en": "Lvea Aem",
+        "slug": "lvea-aem-0806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0806",
+        "level": 2,
+        "name": {
+          "local": "ល្វាឯម",
+          "en": "Lvea Aem",
+          "slug": "lvea-aem-0806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080615"
+    ],
+    "geo": {
+      "lat": "11.4970498",
+      "lon": "105.1410705"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "110501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មនោរម្យ",
+      "en": "Monourom",
+      "slug": "monourom-110501"
+    },
+    "code": {
+      "id": "110501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "local": "សែនមនោរម្យ",
+        "en": "Saen Monourom",
+        "slug": "saen-monourom-1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1105",
+        "level": 2,
+        "name": {
+          "local": "សែនមនោរម្យ",
+          "en": "Saen Monourom",
+          "slug": "saen-monourom-1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050602"
+    ],
+    "geo": {
+      "lat": "12.4589267",
+      "lon": "107.1705911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រមនា",
+      "en": "Romonea",
+      "slug": "romonea-110504"
+    },
+    "code": {
+      "id": "110504",
+      "iso": null
+    },
+    "parent": {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "local": "សែនមនោរម្យ",
+        "en": "Saen Monourom",
+        "slug": "saen-monourom-1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1105",
+        "level": 2,
+        "name": {
+          "local": "សែនមនោរម្យ",
+          "en": "Saen Monourom",
+          "slug": "saen-monourom-1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110504"
+    ],
+    "geo": {
+      "lat": "12.4418002",
+      "lon": "107.1985063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សុខដុម",
+      "en": "Sokh Dom",
+      "slug": "sokh-dom-110502"
+    },
+    "code": {
+      "id": "110502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "local": "សែនមនោរម្យ",
+        "en": "Saen Monourom",
+        "slug": "saen-monourom-1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1105",
+        "level": 2,
+        "name": {
+          "local": "សែនមនោរម្យ",
+          "en": "Saen Monourom",
+          "slug": "saen-monourom-1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110502"
+    ],
+    "geo": {
+      "lat": "12.4694228",
+      "lon": "107.1927459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ពានមានជ័យ",
+      "en": "Spean Mean Chey",
+      "slug": "spean-mean-chey-110503"
+    },
+    "code": {
+      "id": "110503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "local": "សែនមនោរម្យ",
+        "en": "Saen Monourom",
+        "slug": "saen-monourom-1105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1105",
+        "level": 2,
+        "name": {
+          "local": "សែនមនោរម្យ",
+          "en": "Saen Monourom",
+          "slug": "saen-monourom-1105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110503"
+    ],
+    "geo": {
+      "lat": "12.4969369",
+      "lon": "107.2480359"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

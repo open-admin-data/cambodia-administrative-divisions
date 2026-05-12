@@ -1,0 +1,842 @@
+[
+  {
+    "id": "031301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បារាយណ៍",
+      "en": "Baray",
+      "slug": "baray-031301"
+    },
+    "code": {
+      "id": "031301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030801"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងណាយ",
+      "en": "Boeng Nay",
+      "slug": "boeng-nay-031302"
+    },
+    "code": {
+      "id": "031302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030802"
+    ],
+    "geo": {
+      "lat": "12.1072806",
+      "lon": "105.1655876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃវៀន",
+      "en": "Chrey Vien",
+      "slug": "chrey-vien-031303"
+    },
+    "code": {
+      "id": "031303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030803"
+    ],
+    "geo": {
+      "lat": "12.0581791",
+      "lon": "105.2576474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្វិតធំ",
+      "en": "Khvet Thum",
+      "slug": "khvet-thum-031304"
+    },
+    "code": {
+      "id": "031304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030804"
+    ],
+    "geo": {
+      "lat": "12.0596174",
+      "lon": "105.2173085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គរ",
+      "en": "Kor",
+      "slug": "kor-031305"
+    },
+    "code": {
+      "id": "031305",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030805"
+    ],
+    "geo": {
+      "lat": "12.0953677",
+      "lon": "105.3118021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រូច",
+      "en": "Krouch",
+      "slug": "krouch-031306"
+    },
+    "code": {
+      "id": "031306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030806"
+    ],
+    "geo": {
+      "lat": "12.1351062",
+      "lon": "105.1915647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វា",
+      "en": "Lvea",
+      "slug": "lvea-031307"
+    },
+    "code": {
+      "id": "031307",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020303"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មៀន",
+      "en": "Mien",
+      "slug": "mien-031308"
+    },
+    "code": {
+      "id": "031308",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030808"
+    ],
+    "geo": {
+      "lat": "12.0212606",
+      "lon": "105.3014109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃឈរ",
+      "en": "Prey Chhor",
+      "slug": "prey-chhor-031309"
+    },
+    "code": {
+      "id": "031309",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030809"
+    ],
+    "geo": {
+      "lat": "12.0781561",
+      "lon": "105.1889974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031311",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-031311"
+    },
+    "code": {
+      "id": "031311",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": "12.0607274",
+      "lon": "105.1493395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សូរសែន្យ",
+      "en": "Sour Saen",
+      "slug": "sour-saen-031310"
+    },
+    "code": {
+      "id": "031310",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030810"
+    ],
+    "geo": {
+      "lat": "12.0832937",
+      "lon": "105.1438075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031312",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រង៉ែ",
+      "en": "Sragnae",
+      "slug": "sragnae-031312"
+    },
+    "code": {
+      "id": "031312",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030812"
+    ],
+    "geo": {
+      "lat": "12.0607274",
+      "lon": "105.1493395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031313",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មពូន",
+      "en": "Thma Pun",
+      "slug": "thma-pun-031313"
+    },
+    "code": {
+      "id": "031313",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030813"
+    ],
+    "geo": {
+      "lat": "12.161179",
+      "lon": "105.2477613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031314",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តុងរ៉ុង",
+      "en": "Tong Rong",
+      "slug": "tong-rong-031314"
+    },
+    "code": {
+      "id": "031314",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030814"
+    ],
+    "geo": {
+      "lat": "12.0381184",
+      "lon": "105.2092735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "031315",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងព្រះ",
+      "en": "Trapeang Preah",
+      "slug": "trapeang-preah-031315"
+    },
+    "code": {
+      "id": "031315",
+      "iso": null
+    },
+    "parent": {
+      "id": "0313",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃឈរ",
+        "en": "Prey Chhor",
+        "slug": "prey-chhor-0313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0313",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃឈរ",
+          "en": "Prey Chhor",
+          "slug": "prey-chhor-0313"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030815"
+    ],
+    "geo": {
+      "lat": "12.1061415",
+      "lon": "105.2901571"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

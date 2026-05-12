@@ -1,0 +1,506 @@
+[
+  {
+    "id": "060601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈើទាល",
+      "en": "Chheu Teal",
+      "slug": "chheu-teal-060601"
+    },
+    "code": {
+      "id": "060601",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020104"
+    ],
+    "geo": {
+      "lat": "13.0597952",
+      "lon": "105.2373508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដងកាំបិត",
+      "en": "Dang Kambet",
+      "slug": "dang-kambet-060602"
+    },
+    "code": {
+      "id": "060602",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060502"
+    ],
+    "geo": {
+      "lat": "13.2250992",
+      "lon": "105.2611324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្លែង",
+      "en": "Klaeng",
+      "slug": "klaeng-060603"
+    },
+    "code": {
+      "id": "060603",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060503"
+    ],
+    "geo": {
+      "lat": "12.9910898",
+      "lon": "105.2400162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មានជ័យ",
+      "en": "Mean Chey",
+      "slug": "mean-chey-060605"
+    },
+    "code": {
+      "id": "060605",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020906"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មានរិទ្ធ",
+      "en": "Mean Rith",
+      "slug": "mean-rith-060604"
+    },
+    "code": {
+      "id": "060604",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060504"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ងន",
+      "en": "Ngan",
+      "slug": "ngan-060606"
+    },
+    "code": {
+      "id": "060606",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060506"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សណ្ដាន់",
+      "en": "Sandan",
+      "slug": "sandan-060607"
+    },
+    "code": {
+      "id": "060607",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060507"
+    ],
+    "geo": {
+      "lat": "13.1048784",
+      "lon": "105.2483289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សុចិត្រ",
+      "en": "Sochet",
+      "slug": "sochet-060608"
+    },
+    "code": {
+      "id": "060608",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060508"
+    ],
+    "geo": {
+      "lat": "12.8909307",
+      "lon": "105.5586113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទំរីង",
+      "en": "Tum Ring",
+      "slug": "tum-ring-060609"
+    },
+    "code": {
+      "id": "060609",
+      "iso": null
+    },
+    "parent": {
+      "id": "0606",
+      "level": 2,
+      "name": {
+        "local": "សណ្ដាន់",
+        "en": "Sandan",
+        "slug": "sandan-0606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0606",
+        "level": 2,
+        "name": {
+          "local": "សណ្ដាន់",
+          "en": "Sandan",
+          "slug": "sandan-0606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060509"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

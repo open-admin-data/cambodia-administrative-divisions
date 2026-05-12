@@ -1,0 +1,406 @@
+# Kampong Speu — Cambodia Administrative Divisions
+
+> 9 districts, 88 communes
+> Code: 05
+> Coordinates: 11.57753675, 104.27140233242656
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### ឱរ៉ាល់ (Aural)
+
+Code: 0504, Coordinates: 11.777897450000001, 104.01083834230268
+Communes: 5
+
+#### ហោងសំណំ (Haong Samnam)
+
+Code: 050401, Postal: 050701
+
+#### រស្មីសាមគ្គី (Reaksmei Sameakki)
+
+Code: 050402, Postal: 050702, Coordinates: 11.5617581, 104.1233667
+
+#### សង្កែសាទប (Sangkae Satob)
+
+Code: 050404, Postal: 050704, Coordinates: 11.6880365, 104.1290285
+
+#### តាសាល (Ta Sal)
+
+Code: 050405, Postal: 050705
+
+#### ត្រពាំងជោ (Trapeang Chour)
+
+Code: 050403, Postal: 050703
+
+### បរសេដ្ឋ (Basedth)
+
+Code: 0501, Coordinates: 11.200398, 104.50433350548424
+Communes: 15
+
+#### បរសេដ្ឋ (Basedth)
+
+Code: 050101, Postal: 050201, Coordinates: 11.1539595, 104.5236984
+
+#### កក់ (Kak)
+
+Code: 050113, Postal: 050213
+
+#### កាត់ភ្លុក (Kat Phluk)
+
+Code: 050102, Postal: 050202, Coordinates: 11.2001827, 104.4457469
+
+#### និទាន (Nitean)
+
+Code: 050103, Postal: 050203, Coordinates: 11.1402441, 104.6299702
+
+#### ភក្ដី (Pheakdei)
+
+Code: 050104, Postal: 050204, Coordinates: 11.1553023, 104.4116615
+
+#### ភារីមានជ័យ (Pheari Mean Chey)
+
+Code: 050105, Postal: 050205, Coordinates: 11.1910389, 104.6135784
+
+#### ផុង (Phong)
+
+Code: 050106, Postal: 050206, Coordinates: 11.1343547, 104.4617134
+
+#### ពោធិអង្ក្រង (Pou Angkrang)
+
+Code: 050107, Postal: 050207, Coordinates: 11.094354, 104.6564414
+
+#### ពោធិ៍ចំរើន (Pou Chamraeun)
+
+Code: 050108, Postal: 050208, Coordinates: 11.1038082, 104.5748858
+
+#### ពោធិ៍ម្រាល (Pou Mreal)
+
+Code: 050109, Postal: 050209, Coordinates: 11.1440266, 104.574696
+
+#### ព្រះខែ (Preah Khae)
+
+Code: 050115, Postal: 050215, Coordinates: 11.201828, 104.4943118
+
+#### ស្វាយចចិប (Svay Chacheb)
+
+Code: 050110, Postal: 050210, Coordinates: 11.2654266, 104.4965998
+
+#### ស្វាយរំពារ (Svay Rumpear)
+
+Code: 050114, Postal: 050214, Coordinates: 11.2242473, 104.571354
+
+#### ទួលអំពិល (Tuol Ampil)
+
+Code: 050111, Postal: 050211, Coordinates: 11.1841486, 104.6587663
+
+#### ទួលសាលា (Tuol Sala)
+
+Code: 050112, Postal: 050212, Coordinates: 11.2444226, 104.5372605
+
+### ច្បារមន (Chbar Mon)
+
+Code: 0502, Coordinates: 11.4647156, 104.5194625
+Communes: 5
+
+#### ច្បារមន (Chbar Mon)
+
+Code: 050201, Postal: 050801, Coordinates: 11.4856849, 104.4899504
+
+#### កណ្ដោលដុំ (Kandaol Dom)
+
+Code: 050202, Postal: 050802, Coordinates: 11.4447539, 104.4866022
+
+#### រការធំ (Rokar Thum)
+
+Code: 050203, Postal: 050803, Coordinates: 11.4706855, 104.5297485
+
+#### សុព័រទេព (Sopoar Tep)
+
+Code: 050204, Postal: 050804, Coordinates: 11.4751266, 104.5536036
+
+#### ស្វាយក្រវ៉ាន់ (Svay Kravan)
+
+Code: 050205, Postal: 050805, Coordinates: 11.4572465, 104.5211293
+
+### គងពិសី (Kong Pisei)
+
+Code: 0503, Coordinates: 11.3106024, 104.62320857080852
+Communes: 13
+
+#### អង្គពពេល (Angk Popel)
+
+Code: 050301, Postal: 050301
+
+#### ជង្រុក (Chongruk)
+
+Code: 050302, Postal: 050302, Coordinates: 11.3069976, 104.6947583
+
+#### មហាឫស្សី (Moha Ruessei)
+
+Code: 050303, Postal: 050303, Coordinates: 11.2529946, 104.6670889
+
+#### ពេជ្រមុនី (Pechr Muni)
+
+Code: 050304, Postal: 050304, Coordinates: 11.3626686, 104.6218239
+
+#### ព្រះនិព្វាន (Preah Nipean)
+
+Code: 050305, Postal: 050305, Coordinates: 11.4094579, 104.7568669
+
+#### ព្រៃញាតិ (Prey Nheat)
+
+Code: 050306, Postal: 050306, Coordinates: 11.3564991, 104.6612712
+
+#### ព្រៃវិហារ (Prey Vihear)
+
+Code: 050307, Postal: 050307, Coordinates: 11.2218977, 104.6683202
+
+#### រកាកោះ (Roka Kaoh)
+
+Code: 050308, Postal: 050308, Coordinates: 11.4117453, 104.6818052
+
+#### ស្ដុក (Sdok)
+
+Code: 050309, Postal: 050309, Coordinates: 11.2393173, 104.6054411
+
+#### ស្នំក្រពើ (Snam Krapeu)
+
+Code: 050310, Postal: 050310, Coordinates: 11.2710902, 104.6426161
+
+#### ស្រង់ (Srang)
+
+Code: 050311, Postal: 050311, Coordinates: 11.3109341, 104.5966945
+
+#### ទឹកល្អក់ (Tuek L&#39;ak)
+
+Code: 050312, Postal: 120404, Coordinates: 11.3361836, 104.623732
+
+#### វាល (Veal)
+
+Code: 050313, Postal: 050313
+
+### ឧដុង្គម៉ែជ័យ (Odongk Maechay)
+
+Code: 0509
+Communes: 5
+
+#### ក្សេមក្សាន្ដ (Khsem Khsant)
+
+Code: 050905, Postal: 050404, Coordinates: 11.6837497, 104.7002298
+
+#### ព្រះស្រែ (Preah Srae)
+
+Code: 050904, Postal: 050407
+
+#### ត្រាចទង (Trach Tong)
+
+Code: 050903, Postal: 050409
+
+#### វាលពង់ (Veal Pong)
+
+Code: 050902, Postal: 050410
+
+#### វាំងចាស់ (Veang Chas)
+
+Code: 050901, Postal: 050411
+
+### ភ្នំស្រួច (Phnum Sruoch)
+
+Code: 0506, Coordinates: 11.310279900000001, 104.25317703358202
+Communes: 13
+
+#### ចំបក់ (Chambak)
+
+Code: 050601, Postal: 050501, Coordinates: 11.3875106, 104.117303
+
+#### ជាំសង្កែ (Choam Sangkae)
+
+Code: 050602, Postal: 050502
+
+#### ដំបូករូង (Dambouk Rung)
+
+Code: 050603, Postal: 050503, Coordinates: 11.2791442, 104.3005451
+
+#### គិរីវន្ដ (Kiri Voan)
+
+Code: 050604, Postal: 050504
+
+#### ក្រាំងដីវ៉ាយ (Krang Dei Vay)
+
+Code: 050605, Postal: 050505
+
+#### មហាសាំង (Moha Sang)
+
+Code: 050606, Postal: 050506
+
+#### អូរ (Ou)
+
+Code: 050607, Postal: 050507
+
+#### ព្រៃក្មេង (Prey Kmeng)
+
+Code: 050609, Postal: 050509, Coordinates: 11.3123868, 104.4331552
+
+#### ព្រៃរំដួល (Prey Rumduol)
+
+Code: 050608, Postal: 050508
+
+#### តាំងសំរោង (Tang Samraong)
+
+Code: 050610, Postal: 050510
+
+#### តាំងស្យា (Tang Sya)
+
+Code: 050611, Postal: 050511, Coordinates: 11.4362262, 104.3536624
+
+#### ត្រែងត្រយឹង (Traeng Trayueng)
+
+Code: 050613, Postal: 050512, Coordinates: 11.2772495, 104.2126101
+
+#### យាយម៉ៅពេជ្យនិល (Yeay Mao Pichnil)
+
+Code: 050614, Postal: 50614
+
+### សាមគ្គីមុនីជ័យ (Samkkei Munichay)
+
+Code: 0510
+Communes: 10
+
+#### ចាន់សែន (Chan Saen)
+
+Code: 051001, Postal: 050401
+
+#### ជើងរាស់ (Cheung Roas)
+
+Code: 051002, Postal: 050402, Coordinates: 11.6452542, 104.5954089
+
+#### ជំពូព្រឹក្ស (Chumpu Proeks)
+
+Code: 051003, Postal: 050403, Coordinates: 11.5789978, 104.4476671
+
+#### ដំណាក់រាំង (Damnak Reang)
+
+Code: 051008, Postal: 050413
+
+#### ក្រាំងចេក (Krang Chek)
+
+Code: 051004, Postal: 050405
+
+#### មានជ័យ (Mean Chey)
+
+Code: 051005, Postal: 020906
+
+#### ពាំងល្វា (Peang Lvea)
+
+Code: 051009, Postal: 050414, Coordinates: 11.5812311, 104.5964161
+
+#### ភ្នំតូច (Phnom Touch)
+
+Code: 051010, Postal: 050415, Coordinates: 11.5864722, 104.6663353
+
+#### ព្រៃក្រសាំង (Prey Krasang)
+
+Code: 051006, Postal: 050408
+
+#### យុទ្ធសាមគ្គី (Yutth Sameakki)
+
+Code: 051007, Postal: 050412
+
+### សំរោងទង (Samraong Tong)
+
+Code: 0507, Coordinates: 11.45044745, 104.60617304001704
+Communes: 15
+
+#### កាហែង (Kahaeng)
+
+Code: 050702, Postal: 050102
+
+#### ខ្ទុំក្រាំង (Khtum Krang)
+
+Code: 050703, Postal: 050103
+
+#### ក្រាំងអំពិល (Krang Ampil)
+
+Code: 050704, Postal: 070802, Coordinates: 11.3529788, 104.5391359
+
+#### ព្នាយ (Pneay)
+
+Code: 050705, Postal: 050105
+
+#### រលាំងចក (Roleang Chak)
+
+Code: 050701, Postal: 050101
+
+#### រលាំងគ្រើល (Roleang Kreul)
+
+Code: 050706, Postal: 050106, Coordinates: 11.4475101, 104.6114551
+
+#### សែនដី (Saen Dei)
+
+Code: 050709, Postal: 050109, Coordinates: 11.399649, 104.583215
+
+#### សំបូរ (Sambour)
+
+Code: 050708, Postal: 030107
+
+#### សំរោងទង (Samrong Tong)
+
+Code: 050707, Postal: 050107, Coordinates: 11.5090344, 104.5990036
+
+#### ស្គុះ (Skuh)
+
+Code: 050710, Postal: 050110
+
+#### តាំងក្រូច (Tang Krouch)
+
+Code: 050711, Postal: 050111
+
+#### ធម្មតាអរ (Thummoda Ar)
+
+Code: 050712, Postal: 050112
+
+#### ត្រពាំងគង (Trapeang Kong)
+
+Code: 050713, Postal: 050113
+
+#### ទំព័រមាស (Tumpoar Meas)
+
+Code: 050714, Postal: 050114
+
+#### វល្លិសរ (Voa Sar)
+
+Code: 050715, Postal: 050115
+
+### ថ្ពង (Thpong)
+
+Code: 0508, Coordinates: 11.758617300000001, 104.34032516738003
+Communes: 7
+
+#### អមលាំង (Amleang)
+
+Code: 050801, Postal: 050601
+
+#### មនោរម្យ (Monourom)
+
+Code: 050802, Postal: 050602
+
+#### ប្រាំបីមុម (Prambei Mum)
+
+Code: 050804, Postal: 050603
+
+#### រុងរឿង (Rung Roeang)
+
+Code: 050805, Postal: 050604
+
+#### ទ័ពមាន (Toap Mean)
+
+Code: 050806, Postal: 050605
+
+#### វាលពន់ (Veal Pon)
+
+Code: 050807, Postal: 050606
+
+#### យាអង្គ (Yea Angk)
+
+Code: 050808, Postal: 050607, Coordinates: 11.630876, 104.4282736
+

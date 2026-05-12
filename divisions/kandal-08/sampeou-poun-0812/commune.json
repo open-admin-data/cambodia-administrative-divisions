@@ -1,0 +1,282 @@
+[
+  {
+    "id": "081201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈើខ្មៅ",
+      "en": "Chheu Kmau",
+      "slug": "chheu-kmau-081201"
+    },
+    "code": {
+      "id": "081201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0812",
+      "level": 2,
+      "name": {
+        "local": "សំពៅពូន",
+        "en": "Sampeou Poun",
+        "slug": "sampeou-poun-0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0812",
+        "level": 2,
+        "name": {
+          "local": "សំពៅពូន",
+          "en": "Sampeou Poun",
+          "slug": "sampeou-poun-0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080401"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រោយតាកែវ",
+      "en": "Chrouy Ta Kaev",
+      "slug": "chrouy-ta-kaev-081204"
+    },
+    "code": {
+      "id": "081204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0812",
+      "level": 2,
+      "name": {
+        "local": "សំពៅពូន",
+        "en": "Sampeou Poun",
+        "slug": "sampeou-poun-0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0812",
+        "level": 2,
+        "name": {
+          "local": "សំពៅពូន",
+          "en": "Sampeou Poun",
+          "slug": "sampeou-poun-0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080402"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកជ្រៃ",
+      "en": "Preaek Chrey",
+      "slug": "preaek-chrey-081202"
+    },
+    "code": {
+      "id": "081202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0812",
+      "level": 2,
+      "name": {
+        "local": "សំពៅពូន",
+        "en": "Sampeou Poun",
+        "slug": "sampeou-poun-0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0812",
+        "level": 2,
+        "name": {
+          "local": "សំពៅពូន",
+          "en": "Sampeou Poun",
+          "slug": "sampeou-poun-0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080408"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកស្ដី",
+      "en": "Preaek Sdei",
+      "slug": "preaek-sdei-081203"
+    },
+    "code": {
+      "id": "081203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0812",
+      "level": 2,
+      "name": {
+        "local": "សំពៅពូន",
+        "en": "Sampeou Poun",
+        "slug": "sampeou-poun-0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0812",
+        "level": 2,
+        "name": {
+          "local": "សំពៅពូន",
+          "en": "Sampeou Poun",
+          "slug": "sampeou-poun-0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080409"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "081205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំពៅពូន",
+      "en": "Sampeou Poun",
+      "slug": "sampeou-poun-081205"
+    },
+    "code": {
+      "id": "081205",
+      "iso": null
+    },
+    "parent": {
+      "id": "0812",
+      "level": 2,
+      "name": {
+        "local": "សំពៅពូន",
+        "en": "Sampeou Poun",
+        "slug": "sampeou-poun-0812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0812",
+        "level": 2,
+        "name": {
+          "local": "សំពៅពូន",
+          "en": "Sampeou Poun",
+          "slug": "sampeou-poun-0812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080411"
+    ],
+    "geo": {
+      "lat": "10.9968832",
+      "lon": "105.044052"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

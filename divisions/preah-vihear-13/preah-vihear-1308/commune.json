@@ -1,0 +1,114 @@
+[
+  {
+    "id": "130801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ប្រណាក",
+      "en": "Kampong Pranak",
+      "slug": "kampong-pranak-130801"
+    },
+    "code": {
+      "id": "130801",
+      "iso": null
+    },
+    "parent": {
+      "id": "1308",
+      "level": 2,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-1308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1308",
+        "level": 2,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-1308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130801"
+    ],
+    "geo": {
+      "lat": "13.8114603",
+      "lon": "104.9781388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ាលហាល",
+      "en": "Pal Hal",
+      "slug": "pal-hal-130802"
+    },
+    "code": {
+      "id": "130802",
+      "iso": null
+    },
+    "parent": {
+      "id": "1308",
+      "level": 2,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-1308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1308",
+        "level": 2,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-1308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130802"
+    ],
+    "geo": {
+      "lat": "13.7470325",
+      "lon": "104.9766422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

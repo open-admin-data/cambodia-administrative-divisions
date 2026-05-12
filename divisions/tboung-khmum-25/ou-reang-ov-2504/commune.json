@@ -1,0 +1,394 @@
+[
+  {
+    "id": "250401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អំពិលតាពក",
+      "en": "Ampil Ta Pok",
+      "slug": "ampil-ta-pok-250401"
+    },
+    "code": {
+      "id": "250401",
+      "iso": null
+    },
+    "parent": {
+      "id": "2504",
+      "level": 2,
+      "name": {
+        "local": "អូររាំងឪ",
+        "en": "Ou Reang Ov",
+        "slug": "ou-reang-ov-2504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2504",
+        "level": 2,
+        "name": {
+          "local": "អូររាំងឪ",
+          "en": "Ou Reang Ov",
+          "slug": "ou-reang-ov-2504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250401"
+    ],
+    "geo": {
+      "lat": "11.8045193",
+      "lon": "105.4850084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចក",
+      "en": "Chak",
+      "slug": "chak-250402"
+    },
+    "code": {
+      "id": "250402",
+      "iso": null
+    },
+    "parent": {
+      "id": "2504",
+      "level": 2,
+      "name": {
+        "local": "អូររាំងឪ",
+        "en": "Ou Reang Ov",
+        "slug": "ou-reang-ov-2504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2504",
+        "level": 2,
+        "name": {
+          "local": "អូររាំងឪ",
+          "en": "Ou Reang Ov",
+          "slug": "ou-reang-ov-2504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040403"
+    ],
+    "geo": {
+      "lat": "11.7760701",
+      "lon": "105.5980628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំរិល",
+      "en": "Damril",
+      "slug": "damril-250403"
+    },
+    "code": {
+      "id": "250403",
+      "iso": null
+    },
+    "parent": {
+      "id": "2504",
+      "level": 2,
+      "name": {
+        "local": "អូររាំងឪ",
+        "en": "Ou Reang Ov",
+        "slug": "ou-reang-ov-2504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2504",
+        "level": 2,
+        "name": {
+          "local": "អូររាំងឪ",
+          "en": "Ou Reang Ov",
+          "slug": "ou-reang-ov-2504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250404"
+    ],
+    "geo": {
+      "lat": "11.820668",
+      "lon": "105.6225272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គងជ័យ",
+      "en": "Kong Chey",
+      "slug": "kong-chey-250404"
+    },
+    "code": {
+      "id": "250404",
+      "iso": null
+    },
+    "parent": {
+      "id": "2504",
+      "level": 2,
+      "name": {
+        "local": "អូររាំងឪ",
+        "en": "Ou Reang Ov",
+        "slug": "ou-reang-ov-2504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2504",
+        "level": 2,
+        "name": {
+          "local": "អូររាំងឪ",
+          "en": "Ou Reang Ov",
+          "slug": "ou-reang-ov-2504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250405"
+    ],
+    "geo": {
+      "lat": "11.7700489",
+      "lon": "105.5063952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មៀន",
+      "en": "Mien",
+      "slug": "mien-250405"
+    },
+    "code": {
+      "id": "250405",
+      "iso": null
+    },
+    "parent": {
+      "id": "2504",
+      "level": 2,
+      "name": {
+        "local": "អូររាំងឪ",
+        "en": "Ou Reang Ov",
+        "slug": "ou-reang-ov-2504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2504",
+        "level": 2,
+        "name": {
+          "local": "អូររាំងឪ",
+          "en": "Ou Reang Ov",
+          "slug": "ou-reang-ov-2504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030808"
+    ],
+    "geo": {
+      "lat": "11.8113068",
+      "lon": "105.4359286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះធាតុ",
+      "en": "Preah Theat",
+      "slug": "preah-theat-250406"
+    },
+    "code": {
+      "id": "250406",
+      "iso": null
+    },
+    "parent": {
+      "id": "2504",
+      "level": 2,
+      "name": {
+        "local": "អូររាំងឪ",
+        "en": "Ou Reang Ov",
+        "slug": "ou-reang-ov-2504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2504",
+        "level": 2,
+        "name": {
+          "local": "អូររាំងឪ",
+          "en": "Ou Reang Ov",
+          "slug": "ou-reang-ov-2504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250406"
+    ],
+    "geo": {
+      "lat": "11.8782152",
+      "lon": "105.4923566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលសូភី",
+      "en": "Tuol Souphi",
+      "slug": "tuol-souphi-250407"
+    },
+    "code": {
+      "id": "250407",
+      "iso": null
+    },
+    "parent": {
+      "id": "2504",
+      "level": 2,
+      "name": {
+        "local": "អូររាំងឪ",
+        "en": "Ou Reang Ov",
+        "slug": "ou-reang-ov-2504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2504",
+        "level": 2,
+        "name": {
+          "local": "អូររាំងឪ",
+          "en": "Ou Reang Ov",
+          "slug": "ou-reang-ov-2504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250407"
+    ],
+    "geo": {
+      "lat": "11.8195605",
+      "lon": "105.5493649"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

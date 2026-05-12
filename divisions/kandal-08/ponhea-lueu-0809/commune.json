@@ -1,0 +1,618 @@
+[
+  {
+    "id": "080901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈ្វាំង",
+      "en": "Chhveang",
+      "slug": "chhveang-080901"
+    },
+    "code": {
+      "id": "080901",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080801"
+    ],
+    "geo": {
+      "lat": "11.6786645",
+      "lon": "104.7814478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃលាស់",
+      "en": "Chrey Loas",
+      "slug": "chrey-loas-080902"
+    },
+    "code": {
+      "id": "080902",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080802"
+    ],
+    "geo": {
+      "lat": "11.7043285",
+      "lon": "104.7694823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ហ្លួង",
+      "en": "Kampong Luong",
+      "slug": "kampong-luong-080903"
+    },
+    "code": {
+      "id": "080903",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080803"
+    ],
+    "geo": {
+      "lat": "11.8285625",
+      "lon": "104.7964474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់អុស",
+      "en": "Kampong Os",
+      "slug": "kampong-os-080904"
+    },
+    "code": {
+      "id": "080904",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080804"
+    ],
+    "geo": {
+      "lat": "11.7802946",
+      "lon": "104.8527402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះចិន",
+      "en": "Kaoh Chen",
+      "slug": "kaoh-chen-080905"
+    },
+    "code": {
+      "id": "080905",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080805"
+    ],
+    "geo": {
+      "lat": "11.8323871",
+      "lon": "104.8145451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំបាត",
+      "en": "Phnum Bat",
+      "slug": "phnum-bat-080906"
+    },
+    "code": {
+      "id": "080906",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080806"
+    ],
+    "geo": {
+      "lat": "11.7667749",
+      "lon": "104.7822058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080911",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារដែក",
+      "en": "Phsar Daek",
+      "slug": "phsar-daek-080911"
+    },
+    "code": {
+      "id": "080911",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080809"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080907",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពញាឮ",
+      "en": "Ponhea Lueu",
+      "slug": "ponhea-lueu-080907"
+    },
+    "code": {
+      "id": "080907",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080807"
+    ],
+    "geo": {
+      "lat": "11.7872229",
+      "lon": "104.8211423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080910",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកតាទែន",
+      "en": "Preaek Ta Teaen",
+      "slug": "preaek-ta-teaen-080910"
+    },
+    "code": {
+      "id": "080910",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080808"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080913",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទំនប់ធំ",
+      "en": "Tumnob Thum",
+      "slug": "tumnob-thum-080913"
+    },
+    "code": {
+      "id": "080913",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080810"
+    ],
+    "geo": {
+      "lat": "11.7460778",
+      "lon": "104.7393028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080914",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វិហារហ្លួង",
+      "en": "Vihear Luong",
+      "slug": "vihear-luong-080914"
+    },
+    "code": {
+      "id": "080914",
+      "iso": null
+    },
+    "parent": {
+      "id": "0809",
+      "level": 2,
+      "name": {
+        "local": "ពញាឮ",
+        "en": "Ponhea Lueu",
+        "slug": "ponhea-lueu-0809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0809",
+        "level": 2,
+        "name": {
+          "local": "ពញាឮ",
+          "en": "Ponhea Lueu",
+          "slug": "ponhea-lueu-0809"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080811"
+    ],
+    "geo": {
+      "lat": "11.8264345",
+      "lon": "104.7730495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

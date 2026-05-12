@@ -1,0 +1,30 @@
+{
+  "id": "25",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ត្បូងឃ្មុំ",
+    "en": "Tboung Khmum",
+    "slug": "tboung-khmum-25"
+  },
+  "code": {
+    "id": "25",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "commune": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.950072599999999",
+    "lon": "105.824571891073"
+  },
+  "metadata": {},
+  "source": {}
+}

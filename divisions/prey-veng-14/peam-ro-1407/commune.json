@@ -1,0 +1,450 @@
+[
+  {
+    "id": "140701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាបោង",
+      "en": "Ba Baong",
+      "slug": "ba-baong-140701"
+    },
+    "code": {
+      "id": "140701",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "ពាមរក៍",
+        "en": "Peam Ro",
+        "slug": "peam-ro-1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "ពាមរក៍",
+          "en": "Peam Ro",
+          "slug": "peam-ro-1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140301"
+    ],
+    "geo": {
+      "lat": "11.3871045",
+      "lon": "105.3316875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្លិចប្រាសាទ",
+      "en": "Banlich Prasat",
+      "slug": "banlich-prasat-140702"
+    },
+    "code": {
+      "id": "140702",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "ពាមរក៍",
+        "en": "Peam Ro",
+        "slug": "peam-ro-1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "ពាមរក៍",
+          "en": "Peam Ro",
+          "slug": "peam-ro-1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140302"
+    ],
+    "geo": {
+      "lat": "11.2835194",
+      "lon": "105.3010318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អ្នកលឿង",
+      "en": "Neak Loeang",
+      "slug": "neak-loeang-140703"
+    },
+    "code": {
+      "id": "140703",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "ពាមរក៍",
+        "en": "Peam Ro",
+        "slug": "peam-ro-1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "ពាមរក៍",
+          "en": "Peam Ro",
+          "slug": "peam-ro-1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140303"
+    ],
+    "geo": {
+      "lat": "11.2561869",
+      "lon": "105.3070983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមមានជ័យ",
+      "en": "Peam Mean Chey",
+      "slug": "peam-mean-chey-140704"
+    },
+    "code": {
+      "id": "140704",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "ពាមរក៍",
+        "en": "Peam Ro",
+        "slug": "peam-ro-1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "ពាមរក៍",
+          "en": "Peam Ro",
+          "slug": "peam-ro-1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140304"
+    ],
+    "geo": {
+      "lat": "11.3571226",
+      "lon": "105.2687874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមរក៍",
+      "en": "Peam Ro",
+      "slug": "peam-ro-140705"
+    },
+    "code": {
+      "id": "140705",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "ពាមរក៍",
+        "en": "Peam Ro",
+        "slug": "peam-ro-1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "ពាមរក៍",
+          "en": "Peam Ro",
+          "slug": "peam-ro-1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140305"
+    ],
+    "geo": {
+      "lat": "11.3262347",
+      "lon": "105.3092489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកខ្សាយ ក",
+      "en": "Preaek Khsay Ka",
+      "slug": "preaek-khsay-ka-140706"
+    },
+    "code": {
+      "id": "140706",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "ពាមរក៍",
+        "en": "Peam Ro",
+        "slug": "peam-ro-1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "ពាមរក៍",
+          "en": "Peam Ro",
+          "slug": "peam-ro-1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140306"
+    ],
+    "geo": {
+      "lat": "11.2793982",
+      "lon": "105.2826604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកខ្សាយ ខ",
+      "en": "Preaek Khsay Kha",
+      "slug": "preaek-khsay-kha-140707"
+    },
+    "code": {
+      "id": "140707",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "ពាមរក៍",
+        "en": "Peam Ro",
+        "slug": "peam-ro-1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "ពាមរក៍",
+          "en": "Peam Ro",
+          "slug": "peam-ro-1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140307"
+    ],
+    "geo": {
+      "lat": "11.2626961",
+      "lon": "105.2850733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃកណ្ដៀង",
+      "en": "Prey Kandieng",
+      "slug": "prey-kandieng-140708"
+    },
+    "code": {
+      "id": "140708",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "ពាមរក៍",
+        "en": "Peam Ro",
+        "slug": "peam-ro-1407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "ពាមរក៍",
+          "en": "Peam Ro",
+          "slug": "peam-ro-1407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140308"
+    ],
+    "geo": {
+      "lat": "11.4129644",
+      "lon": "105.3460581"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

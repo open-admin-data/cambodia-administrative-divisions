@@ -1,0 +1,47 @@
+{
+  "id": "0404",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កំពង់លែង",
+    "en": "Kampong Leaeng",
+    "slug": "kampong-leaeng-0404"
+  },
+  "code": {
+    "id": "0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "04",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ឆ្នាំង",
+      "en": "Kampong Chhnang",
+      "slug": "kampong-chhnang-04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "04",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ឆ្នាំង",
+        "en": "Kampong Chhnang",
+        "slug": "kampong-chhnang-04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.2741853",
+    "lon": "104.7254311"
+  },
+  "metadata": {},
+  "source": {}
+}

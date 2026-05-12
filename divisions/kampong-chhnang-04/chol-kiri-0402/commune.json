@@ -1,0 +1,282 @@
+[
+  {
+    "id": "040201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជលសា",
+      "en": "Chol Sar",
+      "slug": "chol-sar-040201"
+    },
+    "code": {
+      "id": "040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0402",
+      "level": 2,
+      "name": {
+        "local": "ជលគីរី",
+        "en": "Chol Kiri",
+        "slug": "chol-kiri-0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0402",
+        "level": 2,
+        "name": {
+          "local": "ជលគីរី",
+          "en": "Chol Kiri",
+          "slug": "chol-kiri-0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040301"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់អុស",
+      "en": "Kampong Ous",
+      "slug": "kampong-ous-040203"
+    },
+    "code": {
+      "id": "040203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0402",
+      "level": 2,
+      "name": {
+        "local": "ជលគីរី",
+        "en": "Chol Kiri",
+        "slug": "chol-kiri-0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0402",
+        "level": 2,
+        "name": {
+          "local": "ជលគីរី",
+          "en": "Chol Kiri",
+          "slug": "chol-kiri-0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040303"
+    ],
+    "geo": {
+      "lat": "12.2041109",
+      "lon": "104.7627522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះថ្កូវ",
+      "en": "Kaoh Thkov",
+      "slug": "kaoh-thkov-040202"
+    },
+    "code": {
+      "id": "040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0402",
+      "level": 2,
+      "name": {
+        "local": "ជលគីរី",
+        "en": "Chol Kiri",
+        "slug": "chol-kiri-0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0402",
+        "level": 2,
+        "name": {
+          "local": "ជលគីរី",
+          "en": "Chol Kiri",
+          "slug": "chol-kiri-0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040302"
+    ],
+    "geo": {
+      "lat": "12.0691223",
+      "lon": "104.7807827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមឆ្កោក",
+      "en": "Peam Chhkaok",
+      "slug": "peam-chhkaok-040204"
+    },
+    "code": {
+      "id": "040204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0402",
+      "level": 2,
+      "name": {
+        "local": "ជលគីរី",
+        "en": "Chol Kiri",
+        "slug": "chol-kiri-0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0402",
+        "level": 2,
+        "name": {
+          "local": "ជលគីរី",
+          "en": "Chol Kiri",
+          "slug": "chol-kiri-0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040304"
+    ],
+    "geo": {
+      "lat": "12.2199876",
+      "lon": "104.8337504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "040205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃគ្រី",
+      "en": "Prey Kri",
+      "slug": "prey-kri-040205"
+    },
+    "code": {
+      "id": "040205",
+      "iso": null
+    },
+    "parent": {
+      "id": "0402",
+      "level": 2,
+      "name": {
+        "local": "ជលគីរី",
+        "en": "Chol Kiri",
+        "slug": "chol-kiri-0402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "04",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ឆ្នាំង",
+          "en": "Kampong Chhnang",
+          "slug": "kampong-chhnang-04"
+        }
+      },
+      {
+        "id": "0402",
+        "level": 2,
+        "name": {
+          "local": "ជលគីរី",
+          "en": "Chol Kiri",
+          "slug": "chol-kiri-0402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040305"
+    ],
+    "geo": {
+      "lat": "12.1529024",
+      "lon": "104.8727306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

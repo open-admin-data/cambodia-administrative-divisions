@@ -1,0 +1,47 @@
+{
+  "id": "1204",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ទួលគោក",
+    "en": "Tuol Kouk",
+    "slug": "tuol-kouk-1204"
+  },
+  "code": {
+    "id": "1204",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "ភ្នំពេញ",
+      "en": "Phnom Penh",
+      "slug": "phnom-penh-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5738692",
+    "lon": "104.8996872"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,236 @@
+# Kratié — Cambodia Administrative Divisions
+
+> 7 districts, 48 communes
+> Code: 10
+> Coordinates: 12.678301699999999, 106.05817329824376
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### ចិត្របុរី (Chetr Borei)
+
+Code: 1006, Coordinates: 12.4680352, 106.1742334
+Communes: 10
+
+#### បុសលាវ (Bos Leav)
+
+Code: 100601, Postal: 100501, Coordinates: 12.3774308, 106.0597966
+
+#### ចង្ក្រង់ (Changkrang)
+
+Code: 100602, Postal: 100502
+
+#### ដារ (Dar)
+
+Code: 100603, Postal: 040602
+
+#### កន្ទួត (Kantuot)
+
+Code: 100604, Postal: 100504
+
+#### កោះច្រែង (Kaoh Chraeng)
+
+Code: 100606, Postal: 100506
+
+#### គោលាប់ (Kou Loab)
+
+Code: 100605, Postal: 100505
+
+#### សំបុក (Sambok)
+
+Code: 100607, Postal: 100507
+
+#### ថ្មអណ្ដើក (Thma Andaeuk)
+
+Code: 100608, Postal: 100508
+
+#### ថ្មគ្រែ (Thma Kreae)
+
+Code: 100609, Postal: 100509
+
+#### ថ្មី (Thmei)
+
+Code: 100610, Postal: 010503
+
+### ឆ្លូង (Chhloung)
+
+Code: 1001, Coordinates: 12.2570238, 105.9606057
+Communes: 8
+
+#### ឆ្លូង (Chhloung)
+
+Code: 100101, Postal: 100101, Coordinates: 12.2522126, 105.9775534
+
+#### ដំរីផុង (Damrei Phong)
+
+Code: 100102, Postal: 100102, Coordinates: 12.2006895, 106.1436793
+
+#### ហាន់ជ័យ (Han Chey)
+
+Code: 100103, Postal: 100103, Coordinates: 12.2289532, 105.9462198
+
+#### កំពង់ដំរី (Kampong Damrei)
+
+Code: 100104, Postal: 100104, Coordinates: 12.0462451, 106.1881101
+
+#### កញ្ជរ (Kanhchor)
+
+Code: 100105, Postal: 150203, Coordinates: 12.3234059, 106.0479358
+
+#### ខ្សាច់អណ្ដែត (Khsach Andeth)
+
+Code: 100106, Postal: 100106, Coordinates: 12.2518546, 105.852774
+
+#### ពង្រ (Pongro)
+
+Code: 100107, Postal: 030707
+
+#### ព្រែកសាម៉ាន់ (Preaek Saman)
+
+Code: 100108, Postal: 100108, Coordinates: 12.2648775, 106.0757749
+
+### ក្រចេះ (Kracheh)
+
+Code: 1002, Coordinates: 12.4889566, 106.0200894
+Communes: 5
+
+#### កោះទ្រង់ (Kaoh Trong)
+
+Code: 100207, Postal: 100601, Coordinates: 12.4969818, 105.9954607
+
+#### ក្រចេះ (Kracheh)
+
+Code: 100209, Postal: 100603, Coordinates: 12.4925011, 106.0196934
+
+#### ក្រគរ (Krakor)
+
+Code: 100208, Postal: 100602, Coordinates: 12.5102171, 106.0164294
+
+#### អូរឫស្សី (Ou Ruessei)
+
+Code: 100210, Postal: 120301, Coordinates: 12.4968563, 106.0381253
+
+#### រកាកណ្ដាល (Roka Kandal)
+
+Code: 100211, Postal: 100605, Coordinates: 12.4587372, 106.0298212
+
+### អូរគ្រៀងសែនជ័យ (Ou Krieng Saenchey)
+
+Code: 1007
+Communes: 5
+
+#### ក្បាលដំរី (Kbal Damrei)
+
+Code: 100701, Postal: 100303
+
+#### អូរគ្រៀង (Ou Krieng)
+
+Code: 100702, Postal: 100305
+
+#### អូរកណ្តៀរសែនជ័យ (Oukondear Senchey)
+
+Code: 100703, Postal: 100703
+
+#### រលួសមានជ័យ (Roluos Mean Chey)
+
+Code: 100704, Postal: 100306
+
+#### ស្រែជិះ (Srae Chis)
+
+Code: 100705, Postal: 100309
+
+### ព្រែកប្រសព្វ (Prek Prasab)
+
+Code: 1003, Coordinates: 12.3504569, 106.0298985
+Communes: 8
+
+#### ចំបក់ (Chambâk)
+
+Code: 100301, Postal: 050501
+
+#### ជ្រោយបន្ទាយ (Chrouy Banteay)
+
+Code: 100302, Postal: 100402
+
+#### កំពង់គរ (Kampong Kor)
+
+Code: 100303, Postal: 100403
+
+#### កោះតាស៊ុយ (Koh Ta Suy)
+
+Code: 100304, Postal: 100404
+
+#### ព្រែកប្រសព្វ (Preaek Prasab)
+
+Code: 100305, Postal: 100405
+
+#### ឫស្សីកែវ (Russey Keo)
+
+Code: 100306, Postal: 100406
+
+#### សោប (Saob)
+
+Code: 100307, Postal: 100407
+
+#### តាម៉ៅ (Ta Mao)
+
+Code: 100308, Postal: 100408
+
+### សំបូរ (Sambour)
+
+Code: 1004, Coordinates: 12.7751998, 105.965196
+Communes: 6
+
+#### បឹងចារ (Boeng Char)
+
+Code: 100401, Postal: 100301, Coordinates: 13.0033206, 105.8290298
+
+#### កំពង់ចាម (Kampong Cham)
+
+Code: 100402, Postal: 030402, Coordinates: 12.8320034, 105.9251971
+
+#### កោះខ្ញែរ (Kaoh Khnhaer)
+
+Code: 100404, Postal: 100304, Coordinates: 12.8327361, 106.0038238
+
+#### សំបូរ (Sambour)
+
+Code: 100407, Postal: 030107
+
+#### សណ្ដាន់ (Sandan)
+
+Code: 100408, Postal: 060507, Coordinates: 12.721574, 106.0763003
+
+#### វឌ្ឍនៈ (Voadthonak)
+
+Code: 100410, Postal: 100310
+
+### ស្នួល (Snuol)
+
+Code: 1005, Coordinates: 12.0722176, 106.4204015
+Communes: 6
+
+#### ឃ្សឹម (Khsuem)
+
+Code: 100501, Postal: 100201, Coordinates: 12.2501562, 106.4247363
+
+#### គ្រញូងសែនជ័យ (Kronhoung Saen Chey)
+
+Code: 100506, Postal: 100206
+
+#### ពីរធ្នូ (Pir Thnu)
+
+Code: 100502, Postal: 100202, Coordinates: 12.0444887, 106.4725118
+
+#### ស្នួល (Snuol)
+
+Code: 100503, Postal: 100203
+
+#### ស្រែចារ (Srae Char)
+
+Code: 100504, Postal: 100204, Coordinates: 12.0015177, 106.3412959
+
+#### ស្វាយជ្រះ (Svay Chreah)
+
+Code: 100505, Postal: 100205, Coordinates: 12.3030172, 106.3009003
+

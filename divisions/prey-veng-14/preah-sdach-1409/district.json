@@ -1,0 +1,47 @@
+{
+  "id": "1409",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ព្រះស្ដេច",
+    "en": "Preah Sdach",
+    "slug": "preah-sdach-1409"
+  },
+  "code": {
+    "id": "1409",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "ព្រៃវែង",
+      "en": "Prey Veng",
+      "slug": "prey-veng-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.1187656",
+    "lon": "105.3769965"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "110202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អ បួនលើ",
+      "en": "A Buon Leu",
+      "slug": "a-buon-leu-110202"
+    },
+    "code": {
+      "id": "110202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "កោះញែក",
+        "en": "Kaoh Nheaek",
+        "slug": "kaoh-nheaek-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "កោះញែក",
+          "en": "Kaoh Nheaek",
+          "slug": "kaoh-nheaek-1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ណងឃីលិក",
+      "en": "Nang Khi Lik",
+      "slug": "nang-khi-lik-110201"
+    },
+    "code": {
+      "id": "110201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "កោះញែក",
+        "en": "Kaoh Nheaek",
+        "slug": "kaoh-nheaek-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "កោះញែក",
+          "en": "Kaoh Nheaek",
+          "slug": "kaoh-nheaek-1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110201"
+    ],
+    "geo": {
+      "lat": "13.2365884",
+      "lon": "107.1414917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រយ៉",
+      "en": "Roya",
+      "slug": "roya-110203"
+    },
+    "code": {
+      "id": "110203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "កោះញែក",
+        "en": "Kaoh Nheaek",
+        "slug": "kaoh-nheaek-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "កោះញែក",
+          "en": "Kaoh Nheaek",
+          "slug": "kaoh-nheaek-1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110203"
+    ],
+    "geo": {
+      "lat": "13.0859955",
+      "lon": "106.6291304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សុខសាន្ដ",
+      "en": "Sokh Sant",
+      "slug": "sokh-sant-110204"
+    },
+    "code": {
+      "id": "110204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "កោះញែក",
+        "en": "Kaoh Nheaek",
+        "slug": "kaoh-nheaek-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "កោះញែក",
+          "en": "Kaoh Nheaek",
+          "slug": "kaoh-nheaek-1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែហ៊ុយ",
+      "en": "Srae Huy",
+      "slug": "srae-huy-110205"
+    },
+    "code": {
+      "id": "110205",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "កោះញែក",
+        "en": "Kaoh Nheaek",
+        "slug": "kaoh-nheaek-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "កោះញែក",
+          "en": "Kaoh Nheaek",
+          "slug": "kaoh-nheaek-1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110205"
+    ],
+    "geo": {
+      "lat": "13.084105",
+      "lon": "107.0563047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែសង្គម",
+      "en": "Srae Sangkum",
+      "slug": "srae-sangkum-110206"
+    },
+    "code": {
+      "id": "110206",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "កោះញែក",
+        "en": "Kaoh Nheaek",
+        "slug": "kaoh-nheaek-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "មណ្ឌលគិរី",
+          "en": "Mondulkiri",
+          "slug": "mondulkiri-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "កោះញែក",
+          "en": "Kaoh Nheaek",
+          "slug": "kaoh-nheaek-1102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110206"
+    ],
+    "geo": {
+      "lat": "12.9554119",
+      "lon": "107.2819121"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

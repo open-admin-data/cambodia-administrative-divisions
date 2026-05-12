@@ -1,0 +1,282 @@
+[
+  {
+    "id": "190301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកមាស",
+      "en": "Preaek Meas",
+      "slug": "preaek-meas-190301"
+    },
+    "code": {
+      "id": "190301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "local": "សៀមប៉ាង",
+        "en": "Siem Pang",
+        "slug": "siem-pang-1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1903",
+        "level": 2,
+        "name": {
+          "local": "សៀមប៉ាង",
+          "en": "Siem Pang",
+          "slug": "siem-pang-1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190301"
+    ],
+    "geo": {
+      "lat": "14.1126876",
+      "lon": "106.3252897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សន្ដិភាព",
+      "en": "Santepheap",
+      "slug": "santepheap-190303"
+    },
+    "code": {
+      "id": "190303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "local": "សៀមប៉ាង",
+        "en": "Siem Pang",
+        "slug": "siem-pang-1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1903",
+        "level": 2,
+        "name": {
+          "local": "សៀមប៉ាង",
+          "en": "Siem Pang",
+          "slug": "siem-pang-1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021004"
+    ],
+    "geo": {
+      "lat": "14.1605187",
+      "lon": "106.4297386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សេកុង",
+      "en": "Sekong",
+      "slug": "sekong-190302"
+    },
+    "code": {
+      "id": "190302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "local": "សៀមប៉ាង",
+        "en": "Siem Pang",
+        "slug": "siem-pang-1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1903",
+        "level": 2,
+        "name": {
+          "local": "សៀមប៉ាង",
+          "en": "Siem Pang",
+          "slug": "siem-pang-1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190302"
+    ],
+    "geo": {
+      "lat": "14.1159767",
+      "lon": "106.3944257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែសំបូរ",
+      "en": "Srae Sambour",
+      "slug": "srae-sambour-190304"
+    },
+    "code": {
+      "id": "190304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "local": "សៀមប៉ាង",
+        "en": "Siem Pang",
+        "slug": "siem-pang-1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1903",
+        "level": 2,
+        "name": {
+          "local": "សៀមប៉ាង",
+          "en": "Siem Pang",
+          "slug": "siem-pang-1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190304"
+    ],
+    "geo": {
+      "lat": "14.0016407",
+      "lon": "106.1994429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មកែវ",
+      "en": "Tma Kaev",
+      "slug": "tma-kaev-190305"
+    },
+    "code": {
+      "id": "190305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "local": "សៀមប៉ាង",
+        "en": "Siem Pang",
+        "slug": "siem-pang-1903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1903",
+        "level": 2,
+        "name": {
+          "local": "សៀមប៉ាង",
+          "en": "Siem Pang",
+          "slug": "siem-pang-1903"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190305"
+    ],
+    "geo": {
+      "lat": "14.1675692",
+      "lon": "106.3524929"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

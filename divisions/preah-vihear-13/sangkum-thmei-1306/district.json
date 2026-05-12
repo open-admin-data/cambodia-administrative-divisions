@@ -1,0 +1,47 @@
+{
+  "id": "1306",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សង្គមថ្មី",
+    "en": "Sangkum Thmei",
+    "slug": "sangkum-thmei-1306"
+  },
+  "code": {
+    "id": "1306",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ព្រះវិហារ",
+      "en": "Preah Vihear",
+      "slug": "preah-vihear-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.5817856",
+    "lon": "104.9046589"
+  },
+  "metadata": {},
+  "source": {}
+}

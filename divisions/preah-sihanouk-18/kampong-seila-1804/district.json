@@ -1,0 +1,47 @@
+{
+  "id": "1804",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កំពង់សីលា",
+    "en": "Kampong Seila",
+    "slug": "kampong-seila-1804"
+  },
+  "code": {
+    "id": "1804",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "ព្រះសីហនុ",
+      "en": "Preah Sihanouk",
+      "slug": "preah-sihanouk-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "ព្រះសីហនុ",
+        "en": "Preah Sihanouk",
+        "slug": "preah-sihanouk-18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.16935005",
+    "lon": "103.96776650807777"
+  },
+  "metadata": {},
+  "source": {}
+}

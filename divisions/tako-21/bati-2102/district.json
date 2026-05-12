@@ -1,0 +1,47 @@
+{
+  "id": "2102",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បាទី",
+    "en": "Bati",
+    "slug": "bati-2102"
+  },
+  "code": {
+    "id": "2102",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "តាកែវ",
+      "en": "Takéo",
+      "slug": "tako-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "តាកែវ",
+        "en": "Takéo",
+        "slug": "tako-21"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.2407943",
+    "lon": "104.8119577"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "070301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បានៀវ",
+      "en": "Baniev",
+      "slug": "baniev-070301"
+    },
+    "code": {
+      "id": "070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070101"
+    ],
+    "geo": {
+      "lat": "10.7860473",
+      "lon": "104.4834576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងនិមល",
+      "en": "Boeng Nimol",
+      "slug": "boeng-nimol-070303"
+    },
+    "code": {
+      "id": "070303",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070103"
+    ],
+    "geo": {
+      "lat": "10.8096022",
+      "lon": "104.4158446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឈូក",
+      "en": "Chhuk",
+      "slug": "chhuk-070304"
+    },
+    "code": {
+      "id": "070304",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070315",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តេជោអភិវឌ្ឍន៍",
+      "en": "Dechou Akphivoadth",
+      "slug": "dechou-akphivoadth-070315"
+    },
+    "code": {
+      "id": "070315",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070115"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូនយ៉យ",
+      "en": "Doun Yay",
+      "slug": "doun-yay-070305"
+    },
+    "code": {
+      "id": "070305",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070105"
+    ],
+    "geo": {
+      "lat": "10.7861134",
+      "lon": "104.4484444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងស្បូវ",
+      "en": "Krang Sbov",
+      "slug": "krang-sbov-070306"
+    },
+    "code": {
+      "id": "070306",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070106"
+    ],
+    "geo": {
+      "lat": "10.7984279",
+      "lon": "104.5133488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងស្នាយ",
+      "en": "Krang Snay",
+      "slug": "krang-snay-070307"
+    },
+    "code": {
+      "id": "070307",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070107"
+    ],
+    "geo": {
+      "lat": "10.8549452",
+      "lon": "104.4896537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្បើក",
+      "en": "Lbaeuk",
+      "slug": "lbaeuk-070308"
+    },
+    "code": {
+      "id": "070308",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070108"
+    ],
+    "geo": {
+      "lat": "10.803637",
+      "lon": "104.3073463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មានជ័យ",
+      "en": "Mean Chey",
+      "slug": "mean-chey-070310"
+    },
+    "code": {
+      "id": "070310",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020906"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070311",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "នារាយណ៍",
+      "en": "Neareay",
+      "slug": "neareay-070311"
+    },
+    "code": {
+      "id": "070311",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070111"
+    ],
+    "geo": {
+      "lat": "10.8779793",
+      "lon": "104.530545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070312",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សត្វពង",
+      "en": "Satv Pong",
+      "slug": "satv-pong-070312"
+    },
+    "code": {
+      "id": "070312",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070112"
+    ],
+    "geo": {
+      "lat": "10.8223695",
+      "lon": "104.4548621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាកែន",
+      "en": "Takaen",
+      "slug": "takaen-070302"
+    },
+    "code": {
+      "id": "070302",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070102"
+    ],
+    "geo": {
+      "lat": "10.9312349",
+      "lon": "104.3028683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070314",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រមែង",
+      "en": "Tramaeng",
+      "slug": "tramaeng-070314"
+    },
+    "code": {
+      "id": "070314",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070114"
+    ],
+    "geo": {
+      "lat": "10.8434556",
+      "lon": "104.5087408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070313",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងបី",
+      "en": "Trapeang Bei",
+      "slug": "trapeang-bei-070313"
+    },
+    "code": {
+      "id": "070313",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070113"
+    ],
+    "geo": {
+      "lat": "10.7903621",
+      "lon": "104.3540552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងភ្លាំង",
+      "en": "Trapeang Phleang",
+      "slug": "trapeang-phleang-070309"
+    },
+    "code": {
+      "id": "070309",
+      "iso": null
+    },
+    "parent": {
+      "id": "0703",
+      "level": 2,
+      "name": {
+        "local": "ឈូក",
+        "en": "Chhuk",
+        "slug": "chhuk-0703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0703",
+        "level": 2,
+        "name": {
+          "local": "ឈូក",
+          "en": "Chhuk",
+          "slug": "chhuk-0703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070109"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

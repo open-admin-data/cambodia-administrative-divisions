@@ -1,0 +1,450 @@
+[
+  {
+    "id": "250501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដូនតី",
+      "en": "Dountei",
+      "slug": "dountei-250501"
+    },
+    "code": {
+      "id": "250501",
+      "iso": null
+    },
+    "parent": {
+      "id": "2505",
+      "level": 2,
+      "name": {
+        "local": "ពញាក្រែក",
+        "en": "Ponhea Kraek",
+        "slug": "ponhea-kraek-2505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2505",
+        "level": 2,
+        "name": {
+          "local": "ពញាក្រែក",
+          "en": "Ponhea Kraek",
+          "slug": "ponhea-kraek-2505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250501"
+    ],
+    "geo": {
+      "lat": "11.755725",
+      "lon": "105.7217814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កក់",
+      "en": "Kak",
+      "slug": "kak-250502"
+    },
+    "code": {
+      "id": "250502",
+      "iso": null
+    },
+    "parent": {
+      "id": "2505",
+      "level": 2,
+      "name": {
+        "local": "ពញាក្រែក",
+        "en": "Ponhea Kraek",
+        "slug": "ponhea-kraek-2505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2505",
+        "level": 2,
+        "name": {
+          "local": "ពញាក្រែក",
+          "en": "Ponhea Kraek",
+          "slug": "ponhea-kraek-2505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050213"
+    ],
+    "geo": {
+      "lat": "11.639985",
+      "lon": "105.8288324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដោលជ្រុំ",
+      "en": "Kandaol Chrum",
+      "slug": "kandaol-chrum-250503"
+    },
+    "code": {
+      "id": "250503",
+      "iso": null
+    },
+    "parent": {
+      "id": "2505",
+      "level": 2,
+      "name": {
+        "local": "ពញាក្រែក",
+        "en": "Ponhea Kraek",
+        "slug": "ponhea-kraek-2505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2505",
+        "level": 2,
+        "name": {
+          "local": "ពញាក្រែក",
+          "en": "Ponhea Kraek",
+          "slug": "ponhea-kraek-2505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250503"
+    ],
+    "geo": {
+      "lat": "11.8286792",
+      "lon": "105.7823332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោងកាង",
+      "en": "Kaong Kang",
+      "slug": "kaong-kang-250504"
+    },
+    "code": {
+      "id": "250504",
+      "iso": null
+    },
+    "parent": {
+      "id": "2505",
+      "level": 2,
+      "name": {
+        "local": "ពញាក្រែក",
+        "en": "Ponhea Kraek",
+        "slug": "ponhea-kraek-2505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2505",
+        "level": 2,
+        "name": {
+          "local": "ពញាក្រែក",
+          "en": "Ponhea Kraek",
+          "slug": "ponhea-kraek-2505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250504"
+    ],
+    "geo": {
+      "lat": "11.7905768",
+      "lon": "105.8404517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រែក",
+      "en": "Kraek",
+      "slug": "kraek-250505"
+    },
+    "code": {
+      "id": "250505",
+      "iso": null
+    },
+    "parent": {
+      "id": "2505",
+      "level": 2,
+      "name": {
+        "local": "ពញាក្រែក",
+        "en": "Ponhea Kraek",
+        "slug": "ponhea-kraek-2505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2505",
+        "level": 2,
+        "name": {
+          "local": "ពញាក្រែក",
+          "en": "Ponhea Kraek",
+          "slug": "ponhea-kraek-2505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250505"
+    ],
+    "geo": {
+      "lat": "11.7667471",
+      "lon": "105.9304438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពពេល",
+      "en": "Popel",
+      "slug": "popel-250506"
+    },
+    "code": {
+      "id": "250506",
+      "iso": null
+    },
+    "parent": {
+      "id": "2505",
+      "level": 2,
+      "name": {
+        "local": "ពញាក្រែក",
+        "en": "Ponhea Kraek",
+        "slug": "ponhea-kraek-2505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2505",
+        "level": 2,
+        "name": {
+          "local": "ពញាក្រែក",
+          "en": "Ponhea Kraek",
+          "slug": "ponhea-kraek-2505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040409"
+    ],
+    "geo": {
+      "lat": "11.8314206",
+      "lon": "105.8650922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងផ្លុង",
+      "en": "Trapeang Phlong",
+      "slug": "trapeang-phlong-250507"
+    },
+    "code": {
+      "id": "250507",
+      "iso": null
+    },
+    "parent": {
+      "id": "2505",
+      "level": 2,
+      "name": {
+        "local": "ពញាក្រែក",
+        "en": "Ponhea Kraek",
+        "slug": "ponhea-kraek-2505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2505",
+        "level": 2,
+        "name": {
+          "local": "ពញាក្រែក",
+          "en": "Ponhea Kraek",
+          "slug": "ponhea-kraek-2505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250507"
+    ],
+    "geo": {
+      "lat": "11.6946857",
+      "lon": "105.9683325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250508",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាលម្លូរ",
+      "en": "Veal Mlu",
+      "slug": "veal-mlu-250508"
+    },
+    "code": {
+      "id": "250508",
+      "iso": null
+    },
+    "parent": {
+      "id": "2505",
+      "level": 2,
+      "name": {
+        "local": "ពញាក្រែក",
+        "en": "Ponhea Kraek",
+        "slug": "ponhea-kraek-2505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2505",
+        "level": 2,
+        "name": {
+          "local": "ពញាក្រែក",
+          "en": "Ponhea Kraek",
+          "slug": "ponhea-kraek-2505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250508"
+    ],
+    "geo": {
+      "lat": "11.837329",
+      "lon": "105.8932962"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

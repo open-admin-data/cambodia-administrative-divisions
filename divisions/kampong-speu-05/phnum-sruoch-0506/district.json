@@ -1,0 +1,47 @@
+{
+  "id": "0506",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ភ្នំស្រួច",
+    "en": "Phnum Sruoch",
+    "slug": "phnum-sruoch-0506"
+  },
+  "code": {
+    "id": "0506",
+    "iso": null
+  },
+  "parent": {
+    "id": "05",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ស្ពឺ",
+      "en": "Kampong Speu",
+      "slug": "kampong-speu-05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "05",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ស្ពឺ",
+        "en": "Kampong Speu",
+        "slug": "kampong-speu-05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.310279900000001",
+    "lon": "104.25317703358202"
+  },
+  "metadata": {},
+  "source": {}
+}

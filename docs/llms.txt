@@ -1,0 +1,102 @@
+# Cambodia Administrative Divisions
+
+> Open dataset of Cambodia's administrative hierarchy:
+> 25 provinces, 210 districts, 1,652 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 25
+- Total districts: 210
+- Total communes: 1,652
+- Coordinates: included (all levels)
+- Last updated: 2026-05-12
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/data/all-district.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Banteay Meanchey](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/banteay-meanchey-01/) — 9 districts, 67 communes
+- [Battambang](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/battambang-02/) — 14 districts, 103 communes
+- [Kampong Cham](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/kampong-cham-03/) — 10 districts, 109 communes
+- [Kampong Chhnang](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/kampong-chhnang-04/) — 8 districts, 71 communes
+- [Kampong Speu](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/kampong-speu-05/) — 9 districts, 88 communes
+- [Kampong Thom](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/kampong-thom-06/) — 9 districts, 81 communes
+- [Kampot](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/kampot-07/) — 9 districts, 93 communes
+- [Kandal](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/kandal-08/) — 13 districts, 127 communes
+- [Koh Kong](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/koh-kong-09/) — 7 districts, 29 communes
+- [Kratié](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/krati-10/) — 7 districts, 48 communes
+- [Mondulkiri](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/mondulkiri-11/) — 5 districts, 21 communes
+- [Phnom Penh](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/phnom-penh-12/) — 14 districts, 105 communes
+- [Preah Vihear](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/preah-vihear-13/) — 8 districts, 51 communes
+- [Prey Veng](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/prey-veng-14/) — 13 districts, 116 communes
+- [Pursat](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/pursat-15/) — 7 districts, 49 communes
+- [Ratanakiri](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/ratanakiri-16/) — 9 districts, 50 communes
+- [Siem Reap](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/siem-reap-17/) — 13 districts, 100 communes
+- [Preah Sihanouk](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/preah-sihanouk-18/) — 6 districts, 29 communes
+- [Stung Treng](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/stung-treng-19/) — 6 districts, 34 communes
+- [Svay Rieng](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/svay-rieng-20/) — 8 districts, 80 communes
+- [Takéo](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/tako-21/) — 10 districts, 100 communes
+- [Oddar Meanchey](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/oddar-meanchey-22/) — 5 districts, 24 communes
+- [Kep](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/kep-23/) — 2 districts, 5 communes
+- [Pailin](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/pailin-24/) — 2 districts, 8 communes
+- [Tboung Khmum](https://github.com/open-admin-data/cambodia-administrative-divisions/tree/main/divisions/tboung-khmum-25/) — 7 districts, 64 communes
+
+## Per-Province Full Data
+
+- [Banteay Meanchey](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/banteay-meanchey-01.txt)
+- [Battambang](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/battambang-02.txt)
+- [Kampong Cham](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/kampong-cham-03.txt)
+- [Kampong Chhnang](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/kampong-chhnang-04.txt)
+- [Kampong Speu](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/kampong-speu-05.txt)
+- [Kampong Thom](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/kampong-thom-06.txt)
+- [Kampot](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/kampot-07.txt)
+- [Kandal](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/kandal-08.txt)
+- [Koh Kong](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/koh-kong-09.txt)
+- [Kratié](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/krati-10.txt)
+- [Mondulkiri](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/mondulkiri-11.txt)
+- [Phnom Penh](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/phnom-penh-12.txt)
+- [Preah Vihear](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/preah-vihear-13.txt)
+- [Prey Veng](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/prey-veng-14.txt)
+- [Pursat](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/pursat-15.txt)
+- [Ratanakiri](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/ratanakiri-16.txt)
+- [Siem Reap](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/siem-reap-17.txt)
+- [Preah Sihanouk](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/preah-sihanouk-18.txt)
+- [Stung Treng](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/stung-treng-19.txt)
+- [Svay Rieng](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/svay-rieng-20.txt)
+- [Takéo](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/tako-21.txt)
+- [Oddar Meanchey](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/oddar-meanchey-22.txt)
+- [Kep](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/kep-23.txt)
+- [Pailin](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/pailin-24.txt)
+- [Tboung Khmum](https://raw.githubusercontent.com/open-admin-data/cambodia-administrative-divisions/main/docs/llms-full/tboung-khmum-25.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (district), 3 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Cambodia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/cambodia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

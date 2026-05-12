@@ -1,0 +1,282 @@
+[
+  {
+    "id": "021104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បារាំងធ្លាក់",
+      "en": "Barang Thleak",
+      "slug": "barang-thleak-021104"
+    },
+    "code": {
+      "id": "021104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំព្រឹក",
+        "en": "Phnum Proek",
+        "slug": "phnum-proek-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំព្រឹក",
+          "en": "Phnum Proek",
+          "slug": "phnum-proek-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021304"
+    ],
+    "geo": {
+      "lat": "13.3530398",
+      "lon": "102.3643067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បួរ",
+      "en": "Bour",
+      "slug": "bour-021103"
+    },
+    "code": {
+      "id": "021103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំព្រឹក",
+        "en": "Phnum Proek",
+        "slug": "phnum-proek-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំព្រឹក",
+          "en": "Phnum Proek",
+          "slug": "phnum-proek-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021303"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូររំដួល",
+      "en": "Ou Rumduol",
+      "slug": "ou-rumduol-021105"
+    },
+    "code": {
+      "id": "021105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំព្រឹក",
+        "en": "Phnum Proek",
+        "slug": "phnum-proek-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំព្រឹក",
+          "en": "Phnum Proek",
+          "slug": "phnum-proek-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021305"
+    ],
+    "geo": {
+      "lat": "13.2597461",
+      "lon": "102.5507983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពេជ្រចិន្ដា",
+      "en": "Pech Chenda",
+      "slug": "pech-chenda-021102"
+    },
+    "code": {
+      "id": "021102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំព្រឹក",
+        "en": "Phnum Proek",
+        "slug": "phnum-proek-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំព្រឹក",
+          "en": "Phnum Proek",
+          "slug": "phnum-proek-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021302"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "021101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំព្រឹក",
+      "en": "Phnum Proek",
+      "slug": "phnum-proek-021101"
+    },
+    "code": {
+      "id": "021101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0211",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំព្រឹក",
+        "en": "Phnum Proek",
+        "slug": "phnum-proek-0211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0211",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំព្រឹក",
+          "en": "Phnum Proek",
+          "slug": "phnum-proek-0211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021301"
+    ],
+    "geo": {
+      "lat": "13.3152192",
+      "lon": "102.5440886"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

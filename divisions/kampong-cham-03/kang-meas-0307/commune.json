@@ -1,0 +1,618 @@
+[
+  {
+    "id": "030701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គរបាន",
+      "en": "Angkor Ban",
+      "slug": "angkor-ban-030701"
+    },
+    "code": {
+      "id": "030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កងតាណឹង",
+      "en": "Kang Ta Noeng",
+      "slug": "kang-ta-noeng-030702"
+    },
+    "code": {
+      "id": "030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030602"
+    ],
+    "geo": {
+      "lat": "11.855232",
+      "lon": "105.0598026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្ចៅ",
+      "en": "Khchau",
+      "slug": "khchau-030703"
+    },
+    "code": {
+      "id": "030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030603"
+    ],
+    "geo": {
+      "lat": "11.9105438",
+      "lon": "105.1337964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមជីកង",
+      "en": "Peam Chi Kang",
+      "slug": "peam-chi-kang-030704"
+    },
+    "code": {
+      "id": "030704",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030604"
+    ],
+    "geo": {
+      "lat": "11.9451152",
+      "lon": "105.2690367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកកុយ",
+      "en": "Preaek Koy",
+      "slug": "preaek-koy-030705"
+    },
+    "code": {
+      "id": "030705",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030605"
+    ],
+    "geo": {
+      "lat": "11.9175797",
+      "lon": "105.0220817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកក្របៅ",
+      "en": "Preaek Krabau",
+      "slug": "preaek-krabau-030706"
+    },
+    "code": {
+      "id": "030706",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030606"
+    ],
+    "geo": {
+      "lat": "11.9942173",
+      "lon": "105.2642707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រាយប៉ាយ",
+      "en": "Reay Pay",
+      "slug": "reay-pay-030707"
+    },
+    "code": {
+      "id": "030707",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030607"
+    ],
+    "geo": {
+      "lat": "11.9445464",
+      "lon": "105.1005185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាអារ",
+      "en": "Roka Ar",
+      "slug": "roka-ar-030708"
+    },
+    "code": {
+      "id": "030708",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030608"
+    ],
+    "geo": {
+      "lat": "11.8736322",
+      "lon": "105.1246752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាគយ",
+      "en": "Roka Koy",
+      "slug": "roka-koy-030709"
+    },
+    "code": {
+      "id": "030709",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030609"
+    ],
+    "geo": {
+      "lat": "11.9601471",
+      "lon": "105.3026154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030710",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ដៅ",
+      "en": "Sdau",
+      "slug": "sdau-030710"
+    },
+    "code": {
+      "id": "030710",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020701"
+    ],
+    "geo": {
+      "lat": "11.863772",
+      "lon": "105.0274673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030711",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សូរគង",
+      "en": "Sour Kong",
+      "slug": "sour-kong-030711"
+    },
+    "code": {
+      "id": "030711",
+      "iso": null
+    },
+    "parent": {
+      "id": "0307",
+      "level": 2,
+      "name": {
+        "local": "កងមាស",
+        "en": "Kang Meas",
+        "slug": "kang-meas-0307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0307",
+        "level": 2,
+        "name": {
+          "local": "កងមាស",
+          "en": "Kang Meas",
+          "slug": "kang-meas-0307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030611"
+    ],
+    "geo": {
+      "lat": "11.9611184",
+      "lon": "105.1627908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

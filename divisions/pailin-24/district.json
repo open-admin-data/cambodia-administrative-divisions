@@ -1,0 +1,96 @@
+[
+  {
+    "id": "2401",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ប៉ៃលិន",
+      "en": "Pailin",
+      "slug": "pailin-2401"
+    },
+    "code": {
+      "id": "2401",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ប៉ៃលិន",
+        "en": "Pailin",
+        "slug": "pailin-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.8551384",
+      "lon": "102.6051776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2402",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សាលាក្រៅ",
+      "en": "Sala Krau",
+      "slug": "sala-krau-2402"
+    },
+    "code": {
+      "id": "2402",
+      "iso": null
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ប៉ៃលិន",
+        "en": "Pailin",
+        "slug": "pailin-24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.003529050000001",
+      "lon": "102.66415391806129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

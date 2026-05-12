@@ -1,0 +1,226 @@
+[
+  {
+    "id": "090101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អណ្ដូងទឹក",
+      "en": "Andoung Tuek",
+      "slug": "andoung-tuek-090101"
+    },
+    "code": {
+      "id": "090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0901",
+      "level": 2,
+      "name": {
+        "local": "បុទុមសាគរ",
+        "en": "Botum Sakor",
+        "slug": "botum-sakor-0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0901",
+        "level": 2,
+        "name": {
+          "local": "បុទុមសាគរ",
+          "en": "Botum Sakor",
+          "slug": "botum-sakor-0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090101"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដោល",
+      "en": "Kandaol",
+      "slug": "kandaol-090102"
+    },
+    "code": {
+      "id": "090102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0901",
+      "level": 2,
+      "name": {
+        "local": "បុទុមសាគរ",
+        "en": "Botum Sakor",
+        "slug": "botum-sakor-0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0901",
+        "level": 2,
+        "name": {
+          "local": "បុទុមសាគរ",
+          "en": "Botum Sakor",
+          "slug": "botum-sakor-0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090102"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តានូន",
+      "en": "Ta Noun",
+      "slug": "ta-noun-090103"
+    },
+    "code": {
+      "id": "090103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0901",
+      "level": 2,
+      "name": {
+        "local": "បុទុមសាគរ",
+        "en": "Botum Sakor",
+        "slug": "botum-sakor-0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0901",
+        "level": 2,
+        "name": {
+          "local": "បុទុមសាគរ",
+          "en": "Botum Sakor",
+          "slug": "botum-sakor-0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090103"
+    ],
+    "geo": {
+      "lat": "10.9622477",
+      "lon": "103.251013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្មស",
+      "en": "Thma Sa",
+      "slug": "thma-sa-090104"
+    },
+    "code": {
+      "id": "090104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0901",
+      "level": 2,
+      "name": {
+        "local": "បុទុមសាគរ",
+        "en": "Botum Sakor",
+        "slug": "botum-sakor-0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0901",
+        "level": 2,
+        "name": {
+          "local": "បុទុមសាគរ",
+          "en": "Botum Sakor",
+          "slug": "botum-sakor-0901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090104"
+    ],
+    "geo": {
+      "lat": "10.8972827",
+      "lon": "103.4049675"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

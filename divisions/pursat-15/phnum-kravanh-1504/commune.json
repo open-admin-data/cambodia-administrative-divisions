@@ -1,0 +1,338 @@
+[
+  {
+    "id": "150401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាក់ចិញ្ចៀន",
+      "en": "Bak Chenhchien",
+      "slug": "bak-chenhchien-150401"
+    },
+    "code": {
+      "id": "150401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំក្រវ៉ាញ",
+        "en": "Phnum Kravanh",
+        "slug": "phnum-kravanh-1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំក្រវ៉ាញ",
+          "en": "Phnum Kravanh",
+          "slug": "phnum-kravanh-1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លាច",
+      "en": "Leach",
+      "slug": "leach-150402"
+    },
+    "code": {
+      "id": "150402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំក្រវ៉ាញ",
+        "en": "Phnum Kravanh",
+        "slug": "phnum-kravanh-1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំក្រវ៉ាញ",
+          "en": "Phnum Kravanh",
+          "slug": "phnum-kravanh-1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150502"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រងិល",
+      "en": "Prongil",
+      "slug": "prongil-150404"
+    },
+    "code": {
+      "id": "150404",
+      "iso": null
+    },
+    "parent": {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំក្រវ៉ាញ",
+        "en": "Phnum Kravanh",
+        "slug": "phnum-kravanh-1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំក្រវ៉ាញ",
+          "en": "Phnum Kravanh",
+          "slug": "phnum-kravanh-1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150504"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាត",
+      "en": "Rokat",
+      "slug": "rokat-150405"
+    },
+    "code": {
+      "id": "150405",
+      "iso": null
+    },
+    "parent": {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំក្រវ៉ាញ",
+        "en": "Phnum Kravanh",
+        "slug": "phnum-kravanh-1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំក្រវ៉ាញ",
+          "en": "Phnum Kravanh",
+          "slug": "phnum-kravanh-1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150505"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-150407"
+    },
+    "code": {
+      "id": "150407",
+      "iso": null
+    },
+    "parent": {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំក្រវ៉ាញ",
+        "en": "Phnum Kravanh",
+        "slug": "phnum-kravanh-1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំក្រវ៉ាញ",
+          "en": "Phnum Kravanh",
+          "slug": "phnum-kravanh-1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150406",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សន្ទ្រែ",
+      "en": "Santreae",
+      "slug": "santreae-150406"
+    },
+    "code": {
+      "id": "150406",
+      "iso": null
+    },
+    "parent": {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "local": "ភ្នំក្រវ៉ាញ",
+        "en": "Phnum Kravanh",
+        "slug": "phnum-kravanh-1504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "local": "ភ្នំក្រវ៉ាញ",
+          "en": "Phnum Kravanh",
+          "slug": "phnum-kravanh-1504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150506"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

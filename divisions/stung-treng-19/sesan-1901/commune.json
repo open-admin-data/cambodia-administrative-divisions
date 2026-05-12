@@ -1,0 +1,394 @@
+[
+  {
+    "id": "190101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំភុន",
+      "en": "Kamphun",
+      "slug": "kamphun-190101"
+    },
+    "code": {
+      "id": "190101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "local": "សេសាន",
+        "en": "Sesan",
+        "slug": "sesan-1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1901",
+        "level": 2,
+        "name": {
+          "local": "សេសាន",
+          "en": "Sesan",
+          "slug": "sesan-1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190101"
+    ],
+    "geo": {
+      "lat": "13.4715077",
+      "lon": "106.1264255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្បាលរមាស",
+      "en": "Kbal Romeas",
+      "slug": "kbal-romeas-190102"
+    },
+    "code": {
+      "id": "190102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "local": "សេសាន",
+        "en": "Sesan",
+        "slug": "sesan-1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1901",
+        "level": 2,
+        "name": {
+          "local": "សេសាន",
+          "en": "Sesan",
+          "slug": "sesan-1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190102"
+    ],
+    "geo": {
+      "lat": "13.4230872",
+      "lon": "106.2810754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្លុក",
+      "en": "Phluk",
+      "slug": "phluk-190103"
+    },
+    "code": {
+      "id": "190103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "local": "សេសាន",
+        "en": "Sesan",
+        "slug": "sesan-1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1901",
+        "level": 2,
+        "name": {
+          "local": "សេសាន",
+          "en": "Sesan",
+          "slug": "sesan-1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190103"
+    ],
+    "geo": {
+      "lat": "13.564736",
+      "lon": "106.1724369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សាមឃួយ",
+      "en": "Samkhuoy",
+      "slug": "samkhuoy-190104"
+    },
+    "code": {
+      "id": "190104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "local": "សេសាន",
+        "en": "Sesan",
+        "slug": "sesan-1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1901",
+        "level": 2,
+        "name": {
+          "local": "សេសាន",
+          "en": "Sesan",
+          "slug": "sesan-1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190104"
+    ],
+    "geo": {
+      "lat": "13.5750179",
+      "lon": "106.0929005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ដៅ",
+      "en": "Sdau",
+      "slug": "sdau-190105"
+    },
+    "code": {
+      "id": "190105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "local": "សេសាន",
+        "en": "Sesan",
+        "slug": "sesan-1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1901",
+        "level": 2,
+        "name": {
+          "local": "សេសាន",
+          "en": "Sesan",
+          "slug": "sesan-1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020701"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែគរ",
+      "en": "Srae Kor",
+      "slug": "srae-kor-190106"
+    },
+    "code": {
+      "id": "190106",
+      "iso": null
+    },
+    "parent": {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "local": "សេសាន",
+        "en": "Sesan",
+        "slug": "sesan-1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1901",
+        "level": 2,
+        "name": {
+          "local": "សេសាន",
+          "en": "Sesan",
+          "slug": "sesan-1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190106"
+    ],
+    "geo": {
+      "lat": "13.6521968",
+      "lon": "106.3619771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាឡាត",
+      "en": "Ta Lat",
+      "slug": "ta-lat-190107"
+    },
+    "code": {
+      "id": "190107",
+      "iso": null
+    },
+    "parent": {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "local": "សេសាន",
+        "en": "Sesan",
+        "slug": "sesan-1901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1901",
+        "level": 2,
+        "name": {
+          "local": "សេសាន",
+          "en": "Sesan",
+          "slug": "sesan-1901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190107"
+    ],
+    "geo": {
+      "lat": "13.6676474",
+      "lon": "106.493793"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

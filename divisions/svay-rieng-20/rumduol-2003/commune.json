@@ -1,0 +1,562 @@
+[
+  {
+    "id": "200301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បុសមន",
+      "en": "Bos Mon",
+      "slug": "bos-mon-200301"
+    },
+    "code": {
+      "id": "200301",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200301"
+    ],
+    "geo": {
+      "lat": "11.2377494",
+      "lon": "105.8876762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រុងពពេល",
+      "en": "Chrung Popel",
+      "slug": "chrung-popel-200304"
+    },
+    "code": {
+      "id": "200304",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200304"
+    ],
+    "geo": {
+      "lat": "11.242168",
+      "lon": "105.8172881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់អំពិល",
+      "en": "Kampong Ampil",
+      "slug": "kampong-ampil-200305"
+    },
+    "code": {
+      "id": "200305",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200305"
+    ],
+    "geo": {
+      "lat": "11.280151",
+      "lon": "105.8279184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ចក",
+      "en": "Kampong Chak",
+      "slug": "kampong-chak-200303"
+    },
+    "code": {
+      "id": "200303",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200303"
+    ],
+    "geo": {
+      "lat": "11.1601126",
+      "lon": "105.8223108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម៉ឺនជ័យ",
+      "en": "Meun Chey",
+      "slug": "meun-chey-200306"
+    },
+    "code": {
+      "id": "200306",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200306"
+    ],
+    "geo": {
+      "lat": "11.2268943",
+      "lon": "105.7480069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពងទឹក",
+      "en": "Pong Tuek",
+      "slug": "pong-tuek-200307"
+    },
+    "code": {
+      "id": "200307",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120502"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សង្កែ",
+      "en": "Sangkae",
+      "slug": "sangkae-200308"
+    },
+    "code": {
+      "id": "200308",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130203"
+    ],
+    "geo": {
+      "lat": "11.2072905",
+      "lon": "105.8194584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200309",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយចេក",
+      "en": "Svay Chek",
+      "slug": "svay-chek-200309"
+    },
+    "code": {
+      "id": "200309",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010604"
+    ],
+    "geo": {
+      "lat": "11.1840948",
+      "lon": "105.7819301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធ្មា",
+      "en": "Thmea",
+      "slug": "thmea-200302"
+    },
+    "code": {
+      "id": "200302",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130105"
+    ],
+    "geo": {
+      "lat": "11.2641482",
+      "lon": "105.7412797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200310",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថ្នាធ្នង់",
+      "en": "Thna Thnong",
+      "slug": "thna-thnong-200310"
+    },
+    "code": {
+      "id": "200310",
+      "iso": null
+    },
+    "parent": {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "local": "រំដួល",
+        "en": "Rumduol",
+        "slug": "rumduol-2003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "local": "រំដួល",
+          "en": "Rumduol",
+          "slug": "rumduol-2003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200310"
+    ],
+    "geo": {
+      "lat": "11.2742329",
+      "lon": "105.8739887"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

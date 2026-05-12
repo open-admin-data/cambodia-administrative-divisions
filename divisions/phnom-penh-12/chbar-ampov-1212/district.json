@@ -1,0 +1,47 @@
+{
+  "id": "1212",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ច្បារអំពៅ",
+    "en": "Chbar Ampov",
+    "slug": "chbar-ampov-1212"
+  },
+  "code": {
+    "id": "1212",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "ភ្នំពេញ",
+      "en": "Phnom Penh",
+      "slug": "phnom-penh-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5228263",
+    "lon": "104.9667447"
+  },
+  "metadata": {},
+  "source": {}
+}

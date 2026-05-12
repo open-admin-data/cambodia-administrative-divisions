@@ -1,0 +1,282 @@
+[
+  {
+    "id": "050201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្បារមន",
+      "en": "Chbar Mon",
+      "slug": "chbar-mon-050201"
+    },
+    "code": {
+      "id": "050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0502",
+      "level": 2,
+      "name": {
+        "local": "ច្បារមន",
+        "en": "Chbar Mon",
+        "slug": "chbar-mon-0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0502",
+        "level": 2,
+        "name": {
+          "local": "ច្បារមន",
+          "en": "Chbar Mon",
+          "slug": "chbar-mon-0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050801"
+    ],
+    "geo": {
+      "lat": "11.4856849",
+      "lon": "104.4899504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដោលដុំ",
+      "en": "Kandaol Dom",
+      "slug": "kandaol-dom-050202"
+    },
+    "code": {
+      "id": "050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0502",
+      "level": 2,
+      "name": {
+        "local": "ច្បារមន",
+        "en": "Chbar Mon",
+        "slug": "chbar-mon-0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0502",
+        "level": 2,
+        "name": {
+          "local": "ច្បារមន",
+          "en": "Chbar Mon",
+          "slug": "chbar-mon-0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050802"
+    ],
+    "geo": {
+      "lat": "11.4447539",
+      "lon": "104.4866022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រការធំ",
+      "en": "Rokar Thum",
+      "slug": "rokar-thum-050203"
+    },
+    "code": {
+      "id": "050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0502",
+      "level": 2,
+      "name": {
+        "local": "ច្បារមន",
+        "en": "Chbar Mon",
+        "slug": "chbar-mon-0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0502",
+        "level": 2,
+        "name": {
+          "local": "ច្បារមន",
+          "en": "Chbar Mon",
+          "slug": "chbar-mon-0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050803"
+    ],
+    "geo": {
+      "lat": "11.4706855",
+      "lon": "104.5297485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សុព័រទេព",
+      "en": "Sopoar Tep",
+      "slug": "sopoar-tep-050204"
+    },
+    "code": {
+      "id": "050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0502",
+      "level": 2,
+      "name": {
+        "local": "ច្បារមន",
+        "en": "Chbar Mon",
+        "slug": "chbar-mon-0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0502",
+        "level": 2,
+        "name": {
+          "local": "ច្បារមន",
+          "en": "Chbar Mon",
+          "slug": "chbar-mon-0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050804"
+    ],
+    "geo": {
+      "lat": "11.4751266",
+      "lon": "104.5536036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយក្រវ៉ាន់",
+      "en": "Svay Kravan",
+      "slug": "svay-kravan-050205"
+    },
+    "code": {
+      "id": "050205",
+      "iso": null
+    },
+    "parent": {
+      "id": "0502",
+      "level": 2,
+      "name": {
+        "local": "ច្បារមន",
+        "en": "Chbar Mon",
+        "slug": "chbar-mon-0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0502",
+        "level": 2,
+        "name": {
+          "local": "ច្បារមន",
+          "en": "Chbar Mon",
+          "slug": "chbar-mon-0502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050805"
+    ],
+    "geo": {
+      "lat": "11.4572465",
+      "lon": "104.5211293"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

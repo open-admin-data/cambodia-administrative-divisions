@@ -1,0 +1,30 @@
+{
+  "id": "11",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "មណ្ឌលគិរី",
+    "en": "Mondulkiri",
+    "slug": "mondulkiri-11"
+  },
+  "code": {
+    "id": "11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "commune": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.7396454",
+    "lon": "107.00882593208544"
+  },
+  "metadata": {},
+  "source": {}
+}

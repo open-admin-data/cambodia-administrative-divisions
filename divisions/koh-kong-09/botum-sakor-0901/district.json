@@ -1,0 +1,47 @@
+{
+  "id": "0901",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បុទុមសាគរ",
+    "en": "Botum Sakor",
+    "slug": "botum-sakor-0901"
+  },
+  "code": {
+    "id": "0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "09",
+    "level": 1,
+    "name": {
+      "local": "កោះកុង",
+      "en": "Koh Kong",
+      "slug": "koh-kong-09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.1910731",
+    "lon": "103.4626525"
+  },
+  "metadata": {},
+  "source": {}
+}

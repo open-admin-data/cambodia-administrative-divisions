@@ -1,0 +1,47 @@
+{
+  "id": "0208",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សង្កែ",
+    "en": "Sangkae",
+    "slug": "sangkae-0208"
+  },
+  "code": {
+    "id": "0208",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.0744566",
+    "lon": "103.2438673"
+  },
+  "metadata": {},
+  "source": {}
+}

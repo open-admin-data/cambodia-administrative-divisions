@@ -1,0 +1,170 @@
+[
+  {
+    "id": "070901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងទូក",
+      "en": "Boeng Tuk",
+      "slug": "boeng-tuk-070901"
+    },
+    "code": {
+      "id": "070901",
+      "iso": null
+    },
+    "parent": {
+      "id": "0709",
+      "level": 2,
+      "name": {
+        "local": "បូកគោ",
+        "en": "Bokor",
+        "slug": "bokor-0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0709",
+        "level": 2,
+        "name": {
+          "local": "បូកគោ",
+          "en": "Bokor",
+          "slug": "bokor-0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070201"
+    ],
+    "geo": {
+      "lat": "10.5668686",
+      "lon": "104.1272214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះតូច",
+      "en": "Kaoh Touch",
+      "slug": "kaoh-touch-070902"
+    },
+    "code": {
+      "id": "070902",
+      "iso": null
+    },
+    "parent": {
+      "id": "0709",
+      "level": 2,
+      "name": {
+        "local": "បូកគោ",
+        "en": "Bokor",
+        "slug": "bokor-0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0709",
+        "level": 2,
+        "name": {
+          "local": "បូកគោ",
+          "en": "Bokor",
+          "slug": "bokor-0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកត្នោត",
+      "en": "Preaek Tnoat",
+      "slug": "preaek-tnoat-070903"
+    },
+    "code": {
+      "id": "070903",
+      "iso": null
+    },
+    "parent": {
+      "id": "0709",
+      "level": 2,
+      "name": {
+        "local": "បូកគោ",
+        "en": "Bokor",
+        "slug": "bokor-0709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0709",
+        "level": 2,
+        "name": {
+          "local": "បូកគោ",
+          "en": "Bokor",
+          "slug": "bokor-0709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

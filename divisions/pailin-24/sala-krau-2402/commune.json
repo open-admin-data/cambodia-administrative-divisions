@@ -1,0 +1,226 @@
+[
+  {
+    "id": "240204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរអណ្ដូង",
+      "en": "Ou Andoung",
+      "slug": "ou-andoung-240204"
+    },
+    "code": {
+      "id": "240204",
+      "iso": null
+    },
+    "parent": {
+      "id": "2402",
+      "level": 2,
+      "name": {
+        "local": "សាលាក្រៅ",
+        "en": "Sala Krau",
+        "slug": "sala-krau-2402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      },
+      {
+        "id": "2402",
+        "level": 2,
+        "name": {
+          "local": "សាលាក្រៅ",
+          "en": "Sala Krau",
+          "slug": "sala-krau-2402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "230104"
+    ],
+    "geo": {
+      "lat": "12.9847715",
+      "lon": "102.742028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សាលាក្រៅ",
+      "en": "Sala Krau",
+      "slug": "sala-krau-240201"
+    },
+    "code": {
+      "id": "240201",
+      "iso": null
+    },
+    "parent": {
+      "id": "2402",
+      "level": 2,
+      "name": {
+        "local": "សាលាក្រៅ",
+        "en": "Sala Krau",
+        "slug": "sala-krau-2402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      },
+      {
+        "id": "2402",
+        "level": 2,
+        "name": {
+          "local": "សាលាក្រៅ",
+          "en": "Sala Krau",
+          "slug": "sala-krau-2402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "230101"
+    ],
+    "geo": {
+      "lat": "12.9531813",
+      "lon": "102.5471719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ទឹងកាច់",
+      "en": "Stueng Kach",
+      "slug": "stueng-kach-240203"
+    },
+    "code": {
+      "id": "240203",
+      "iso": null
+    },
+    "parent": {
+      "id": "2402",
+      "level": 2,
+      "name": {
+        "local": "សាលាក្រៅ",
+        "en": "Sala Krau",
+        "slug": "sala-krau-2402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      },
+      {
+        "id": "2402",
+        "level": 2,
+        "name": {
+          "local": "សាលាក្រៅ",
+          "en": "Sala Krau",
+          "slug": "sala-krau-2402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "230103"
+    ],
+    "geo": {
+      "lat": "12.898362",
+      "lon": "102.591169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ទឹងត្រង់",
+      "en": "Stueng Trang",
+      "slug": "stueng-trang-240202"
+    },
+    "code": {
+      "id": "240202",
+      "iso": null
+    },
+    "parent": {
+      "id": "2402",
+      "level": 2,
+      "name": {
+        "local": "សាលាក្រៅ",
+        "en": "Sala Krau",
+        "slug": "sala-krau-2402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ប៉ៃលិន",
+          "en": "Pailin",
+          "slug": "pailin-24"
+        }
+      },
+      {
+        "id": "2402",
+        "level": 2,
+        "name": {
+          "local": "សាលាក្រៅ",
+          "en": "Sala Krau",
+          "slug": "sala-krau-2402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "230102"
+    ],
+    "geo": {
+      "lat": "13.0286066",
+      "lon": "102.6552588"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

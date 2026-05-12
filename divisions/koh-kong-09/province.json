@@ -1,0 +1,30 @@
+{
+  "id": "09",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "កោះកុង",
+    "en": "Koh Kong",
+    "slug": "koh-kong-09"
+  },
+  "code": {
+    "id": "09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "commune": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.6813417",
+    "lon": "103.0258043"
+  },
+  "metadata": {},
+  "source": {}
+}

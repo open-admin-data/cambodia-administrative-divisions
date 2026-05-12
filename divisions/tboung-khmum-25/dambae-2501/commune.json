@@ -1,0 +1,394 @@
+[
+  {
+    "id": "250101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចុងជាច",
+      "en": "Chong Cheach",
+      "slug": "chong-cheach-250101"
+    },
+    "code": {
+      "id": "250101",
+      "iso": null
+    },
+    "parent": {
+      "id": "2501",
+      "level": 2,
+      "name": {
+        "local": "តំបែរ",
+        "en": "Dambae",
+        "slug": "dambae-2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2501",
+        "level": 2,
+        "name": {
+          "local": "តំបែរ",
+          "en": "Dambae",
+          "slug": "dambae-2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250101"
+    ],
+    "geo": {
+      "lat": "11.9125421",
+      "lon": "105.8610698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តំបែរ",
+      "en": "Dambae",
+      "slug": "dambae-250102"
+    },
+    "code": {
+      "id": "250102",
+      "iso": null
+    },
+    "parent": {
+      "id": "2501",
+      "level": 2,
+      "name": {
+        "local": "តំបែរ",
+        "en": "Dambae",
+        "slug": "dambae-2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2501",
+        "level": 2,
+        "name": {
+          "local": "តំបែរ",
+          "en": "Dambae",
+          "slug": "dambae-2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250102"
+    ],
+    "geo": {
+      "lat": "12.0486908",
+      "lon": "105.8520972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គោកស្រុក",
+      "en": "Kouk Srok",
+      "slug": "kouk-srok-250103"
+    },
+    "code": {
+      "id": "250103",
+      "iso": null
+    },
+    "parent": {
+      "id": "2501",
+      "level": 2,
+      "name": {
+        "local": "តំបែរ",
+        "en": "Dambae",
+        "slug": "dambae-2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2501",
+        "level": 2,
+        "name": {
+          "local": "តំបែរ",
+          "en": "Dambae",
+          "slug": "dambae-2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250103"
+    ],
+    "geo": {
+      "lat": "11.9747657",
+      "lon": "105.9021924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "នាងទើត",
+      "en": "Neang Teut",
+      "slug": "neang-teut-250104"
+    },
+    "code": {
+      "id": "250104",
+      "iso": null
+    },
+    "parent": {
+      "id": "2501",
+      "level": 2,
+      "name": {
+        "local": "តំបែរ",
+        "en": "Dambae",
+        "slug": "dambae-2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2501",
+        "level": 2,
+        "name": {
+          "local": "តំបែរ",
+          "en": "Dambae",
+          "slug": "dambae-2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250104"
+    ],
+    "geo": {
+      "lat": "11.8869427",
+      "lon": "105.8508845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សេដា",
+      "en": "Seda",
+      "slug": "seda-250105"
+    },
+    "code": {
+      "id": "250105",
+      "iso": null
+    },
+    "parent": {
+      "id": "2501",
+      "level": 2,
+      "name": {
+        "local": "តំបែរ",
+        "en": "Dambae",
+        "slug": "dambae-2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2501",
+        "level": 2,
+        "name": {
+          "local": "តំបែរ",
+          "en": "Dambae",
+          "slug": "dambae-2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160406"
+    ],
+    "geo": {
+      "lat": "12.1710475",
+      "lon": "105.8650239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងព្រីង",
+      "en": "Trapeang Pring",
+      "slug": "trapeang-pring-250106"
+    },
+    "code": {
+      "id": "250106",
+      "iso": null
+    },
+    "parent": {
+      "id": "2501",
+      "level": 2,
+      "name": {
+        "local": "តំបែរ",
+        "en": "Dambae",
+        "slug": "dambae-2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2501",
+        "level": 2,
+        "name": {
+          "local": "តំបែរ",
+          "en": "Dambae",
+          "slug": "dambae-2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250107"
+    ],
+    "geo": {
+      "lat": "12.0530022",
+      "lon": "105.9320115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកជ្រៅ",
+      "en": "Tuek Chrov",
+      "slug": "tuek-chrov-250107"
+    },
+    "code": {
+      "id": "250107",
+      "iso": null
+    },
+    "parent": {
+      "id": "2501",
+      "level": 2,
+      "name": {
+        "local": "តំបែរ",
+        "en": "Dambae",
+        "slug": "dambae-2501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      },
+      {
+        "id": "2501",
+        "level": 2,
+        "name": {
+          "local": "តំបែរ",
+          "en": "Dambae",
+          "slug": "dambae-2501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "250106"
+    ],
+    "geo": {
+      "lat": "11.9002642",
+      "lon": "105.9866422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

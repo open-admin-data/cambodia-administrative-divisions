@@ -1,0 +1,450 @@
+[
+  {
+    "id": "060908",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អណ្ដូងពោធិ៍",
+      "en": "Andoung Pou",
+      "slug": "andoung-pou-060908"
+    },
+    "code": {
+      "id": "060908",
+      "iso": null
+    },
+    "parent": {
+      "id": "0609",
+      "level": 2,
+      "name": {
+        "local": "តាំងគោក",
+        "en": "Tang Kouk",
+        "slug": "tang-kouk-0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0609",
+        "level": 2,
+        "name": {
+          "local": "តាំងគោក",
+          "en": "Tang Kouk",
+          "slug": "tang-kouk-0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060112"
+    ],
+    "geo": {
+      "lat": "12.2933354",
+      "lon": "105.1489656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រនាង",
+      "en": "Chraneang",
+      "slug": "chraneang-060902"
+    },
+    "code": {
+      "id": "060902",
+      "iso": null
+    },
+    "parent": {
+      "id": "0609",
+      "level": 2,
+      "name": {
+        "local": "តាំងគោក",
+        "en": "Tang Kouk",
+        "slug": "tang-kouk-0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0609",
+        "level": 2,
+        "name": {
+          "local": "តាំងគោក",
+          "en": "Tang Kouk",
+          "slug": "tang-kouk-0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060106"
+    ],
+    "geo": {
+      "lat": "12.2492617",
+      "lon": "105.1543905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រលង",
+      "en": "Chrolong",
+      "slug": "chrolong-060903"
+    },
+    "code": {
+      "id": "060903",
+      "iso": null
+    },
+    "parent": {
+      "id": "0609",
+      "level": 2,
+      "name": {
+        "local": "តាំងគោក",
+        "en": "Tang Kouk",
+        "slug": "tang-kouk-0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0609",
+        "level": 2,
+        "name": {
+          "local": "តាំងគោក",
+          "en": "Tang Kouk",
+          "slug": "tang-kouk-0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060109"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពង្រ",
+      "en": "Pongro",
+      "slug": "pongro-060901"
+    },
+    "code": {
+      "id": "060901",
+      "iso": null
+    },
+    "parent": {
+      "id": "0609",
+      "level": 2,
+      "name": {
+        "local": "តាំងគោក",
+        "en": "Tang Kouk",
+        "slug": "tang-kouk-0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0609",
+        "level": 2,
+        "name": {
+          "local": "តាំងគោក",
+          "en": "Tang Kouk",
+          "slug": "tang-kouk-0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030707"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សូយោង",
+      "en": "Sou Young",
+      "slug": "sou-young-060905"
+    },
+    "code": {
+      "id": "060905",
+      "iso": null
+    },
+    "parent": {
+      "id": "0609",
+      "level": 2,
+      "name": {
+        "local": "តាំងគោក",
+        "en": "Tang Kouk",
+        "slug": "tang-kouk-0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0609",
+        "level": 2,
+        "name": {
+          "local": "តាំងគោក",
+          "en": "Tang Kouk",
+          "slug": "tang-kouk-0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060114"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រឡៅ",
+      "en": "Sralau",
+      "slug": "sralau-060906"
+    },
+    "code": {
+      "id": "060906",
+      "iso": null
+    },
+    "parent": {
+      "id": "0609",
+      "level": 2,
+      "name": {
+        "local": "តាំងគោក",
+        "en": "Tang Kouk",
+        "slug": "tang-kouk-0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0609",
+        "level": 2,
+        "name": {
+          "local": "តាំងគោក",
+          "en": "Tang Kouk",
+          "slug": "tang-kouk-0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060115"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060907",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយភ្លើង",
+      "en": "Svay Phleung",
+      "slug": "svay-phleung-060907"
+    },
+    "code": {
+      "id": "060907",
+      "iso": null
+    },
+    "parent": {
+      "id": "0609",
+      "level": 2,
+      "name": {
+        "local": "តាំងគោក",
+        "en": "Tang Kouk",
+        "slug": "tang-kouk-0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0609",
+        "level": 2,
+        "name": {
+          "local": "តាំងគោក",
+          "en": "Tang Kouk",
+          "slug": "tang-kouk-0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060116"
+    ],
+    "geo": {
+      "lat": "12.2423545",
+      "lon": "105.1387052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ្រៀល",
+      "en": "Triel",
+      "slug": "triel-060904"
+    },
+    "code": {
+      "id": "060904",
+      "iso": null
+    },
+    "parent": {
+      "id": "0609",
+      "level": 2,
+      "name": {
+        "local": "តាំងគោក",
+        "en": "Tang Kouk",
+        "slug": "tang-kouk-0609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0609",
+        "level": 2,
+        "name": {
+          "local": "តាំងគោក",
+          "en": "Tang Kouk",
+          "slug": "tang-kouk-0609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060118"
+    ],
+    "geo": {
+      "lat": "12.3320015",
+      "lon": "105.10717"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

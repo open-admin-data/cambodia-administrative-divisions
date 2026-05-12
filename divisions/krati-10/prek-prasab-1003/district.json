@@ -1,0 +1,47 @@
+{
+  "id": "1003",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ព្រែកប្រសព្វ",
+    "en": "Prek Prasab",
+    "slug": "prek-prasab-1003"
+  },
+  "code": {
+    "id": "1003",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "ក្រចេះ",
+      "en": "Kratié",
+      "slug": "krati-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "ក្រចេះ",
+        "en": "Kratié",
+        "slug": "krati-10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.3504569",
+    "lon": "106.0298985"
+  },
+  "metadata": {},
+  "source": {}
+}

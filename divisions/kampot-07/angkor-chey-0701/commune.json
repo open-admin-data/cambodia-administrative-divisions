@@ -1,0 +1,618 @@
+[
+  {
+    "id": "070101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គភ្នំតូច",
+      "en": "Angk Phnum Touch",
+      "slug": "angk-phnum-touch-070101"
+    },
+    "code": {
+      "id": "070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070401"
+    ],
+    "geo": {
+      "lat": "10.8151201",
+      "lon": "104.6823746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គរជ័យ",
+      "en": "Ankor Chey",
+      "slug": "ankor-chey-070102"
+    },
+    "code": {
+      "id": "070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070402"
+    ],
+    "geo": {
+      "lat": "10.8219822",
+      "lon": "104.6521087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំប៉ី",
+      "en": "Champei",
+      "slug": "champei-070103"
+    },
+    "code": {
+      "id": "070103",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210802"
+    ],
+    "geo": {
+      "lat": "10.8943714",
+      "lon": "104.6495944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដើមដូង",
+      "en": "Daeum Doung",
+      "slug": "daeum-doung-070106"
+    },
+    "code": {
+      "id": "070106",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070406"
+    ],
+    "geo": {
+      "lat": "10.7054358",
+      "lon": "104.651842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំបូកខ្ពស់",
+      "en": "Dambouk Khpos",
+      "slug": "dambouk-khpos-070104"
+    },
+    "code": {
+      "id": "070104",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070404"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដានគោម",
+      "en": "Dan Koum",
+      "slug": "dan-koum-070105"
+    },
+    "code": {
+      "id": "070105",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070405"
+    ],
+    "geo": {
+      "lat": "10.8361062",
+      "lon": "104.5812428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម្រោម",
+      "en": "Mroum",
+      "slug": "mroum-070107"
+    },
+    "code": {
+      "id": "070107",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070407"
+    ],
+    "geo": {
+      "lat": "10.7381994",
+      "lon": "104.664772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នំកុង",
+      "en": "Phnum Kong",
+      "slug": "phnum-kong-070108"
+    },
+    "code": {
+      "id": "070108",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070408"
+    ],
+    "geo": {
+      "lat": "10.7660369",
+      "lon": "104.6335848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រភ្នំ",
+      "en": "Praphnum",
+      "slug": "praphnum-070109"
+    },
+    "code": {
+      "id": "070109",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070409"
+    ],
+    "geo": {
+      "lat": "10.8442567",
+      "lon": "104.6496726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំឡាញ",
+      "en": "Samlanh",
+      "slug": "samlanh-070110"
+    },
+    "code": {
+      "id": "070110",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070410"
+    ],
+    "geo": {
+      "lat": "10.8702524",
+      "lon": "104.6474939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "070111",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តានី",
+      "en": "Tani",
+      "slug": "tani-070111"
+    },
+    "code": {
+      "id": "070111",
+      "iso": null
+    },
+    "parent": {
+      "id": "0701",
+      "level": 2,
+      "name": {
+        "local": "អង្គរជ័យ",
+        "en": "Angkor Chey",
+        "slug": "angkor-chey-0701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "07",
+        "level": 1,
+        "name": {
+          "local": "កំពត",
+          "en": "Kampot",
+          "slug": "kampot-07"
+        }
+      },
+      {
+        "id": "0701",
+        "level": 2,
+        "name": {
+          "local": "អង្គរជ័យ",
+          "en": "Angkor Chey",
+          "slug": "angkor-chey-0701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070411"
+    ],
+    "geo": {
+      "lat": "10.7924475",
+      "lon": "104.6602167"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

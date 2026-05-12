@@ -1,0 +1,338 @@
+[
+  {
+    "id": "200103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចន្ទ្រា",
+      "en": "Chantrea",
+      "slug": "chantrea-200103"
+    },
+    "code": {
+      "id": "200103",
+      "iso": null
+    },
+    "parent": {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "local": "ចន្ទ្រា",
+        "en": "Chantrea",
+        "slug": "chantrea-2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "local": "ចន្ទ្រា",
+          "en": "Chantrea",
+          "slug": "chantrea-2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200101"
+    ],
+    "geo": {
+      "lat": "10.8724737",
+      "lon": "106.0811825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រេស",
+      "en": "Chres",
+      "slug": "chres-200104"
+    },
+    "code": {
+      "id": "200104",
+      "iso": null
+    },
+    "parent": {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "local": "ចន្ទ្រា",
+        "en": "Chantrea",
+        "slug": "chantrea-2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "local": "ចន្ទ្រា",
+          "en": "Chantrea",
+          "slug": "chantrea-2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មេ សរថ្ងក",
+      "en": "Me Sar Thngak",
+      "slug": "me-sar-thngak-200105"
+    },
+    "code": {
+      "id": "200105",
+      "iso": null
+    },
+    "parent": {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "local": "ចន្ទ្រា",
+        "en": "Chantrea",
+        "slug": "chantrea-2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "local": "ចន្ទ្រា",
+          "en": "Chantrea",
+          "slug": "chantrea-2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200103"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃគគីរ",
+      "en": "Prey Kokir",
+      "slug": "prey-kokir-200108"
+    },
+    "code": {
+      "id": "200108",
+      "iso": null
+    },
+    "parent": {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "local": "ចន្ទ្រា",
+        "en": "Chantrea",
+        "slug": "chantrea-2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "local": "ចន្ទ្រា",
+          "en": "Chantrea",
+          "slug": "chantrea-2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200104"
+    ],
+    "geo": {
+      "lat": "11.0133381",
+      "lon": "106.062309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-200109"
+    },
+    "code": {
+      "id": "200109",
+      "iso": null
+    },
+    "parent": {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "local": "ចន្ទ្រា",
+        "en": "Chantrea",
+        "slug": "chantrea-2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "local": "ចន្ទ្រា",
+          "en": "Chantrea",
+          "slug": "chantrea-2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": "10.9283646",
+      "lon": "106.1285716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលស្ដី",
+      "en": "Tuol Sdei",
+      "slug": "tuol-sdei-200110"
+    },
+    "code": {
+      "id": "200110",
+      "iso": null
+    },
+    "parent": {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "local": "ចន្ទ្រា",
+        "en": "Chantrea",
+        "slug": "chantrea-2001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "local": "ចន្ទ្រា",
+          "en": "Chantrea",
+          "slug": "chantrea-2001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200106"
+    ],
+    "geo": {
+      "lat": "10.8841797",
+      "lon": "106.1314316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

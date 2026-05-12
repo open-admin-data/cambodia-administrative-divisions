@@ -1,0 +1,282 @@
+[
+  {
+    "id": "180602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បិតត្រាង",
+      "en": "Bet Trang",
+      "slug": "bet-trang-180602"
+    },
+    "code": {
+      "id": "180602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សោម",
+        "en": "Kampong Soam",
+        "slug": "kampong-soam-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សោម",
+          "en": "Kampong Soam",
+          "slug": "kampong-soam-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180103"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងតាព្រហ្ម",
+      "en": "Boeng Ta Prum",
+      "slug": "boeng-ta-prum-180604"
+    },
+    "code": {
+      "id": "180604",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សោម",
+        "en": "Kampong Soam",
+        "slug": "kampong-soam-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សោម",
+          "en": "Kampong Soam",
+          "slug": "kampong-soam-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180102"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរជ្រៅ",
+      "en": "Ou Chrov",
+      "slug": "ou-chrov-180605"
+    },
+    "code": {
+      "id": "180605",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សោម",
+        "en": "Kampong Soam",
+        "slug": "kampong-soam-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សោម",
+          "en": "Kampong Soam",
+          "slug": "kampong-soam-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180105"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរឧកញ៉ាហេង",
+      "en": "Ou Oknha Heng",
+      "slug": "ou-oknha-heng-180603"
+    },
+    "code": {
+      "id": "180603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សោម",
+        "en": "Kampong Soam",
+        "slug": "kampong-soam-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សោម",
+          "en": "Kampong Soam",
+          "slug": "kampong-soam-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180106"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រាម",
+      "en": "Ream",
+      "slug": "ream-180601"
+    },
+    "code": {
+      "id": "180601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "កំពង់សោម",
+        "en": "Kampong Soam",
+        "slug": "kampong-soam-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "កំពង់សោម",
+          "en": "Kampong Soam",
+          "slug": "kampong-soam-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180108"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

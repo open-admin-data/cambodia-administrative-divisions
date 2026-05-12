@@ -1,0 +1,30 @@
+{
+  "id": "06",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "កំពង់ធំ",
+    "en": "Kampong Thom",
+    "slug": "kampong-thom-06"
+  },
+  "code": {
+    "id": "06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "commune": 81
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.6687923",
+    "lon": "104.8879197"
+  },
+  "metadata": {},
+  "source": {}
+}

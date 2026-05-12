@@ -1,0 +1,47 @@
+{
+  "id": "1501",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បាកាន",
+    "en": "Bakan",
+    "slug": "bakan-1501"
+  },
+  "code": {
+    "id": "1501",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "ពោធិ៍សាត់",
+      "en": "Pursat",
+      "slug": "pursat-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.6030184",
+    "lon": "103.7904079"
+  },
+  "metadata": {},
+  "source": {}
+}

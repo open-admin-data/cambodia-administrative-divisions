@@ -1,0 +1,226 @@
+[
+  {
+    "id": "180103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "៣",
+      "en": "Bei",
+      "slug": "bei-180103"
+    },
+    "code": {
+      "id": "180103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "ព្រះសីហនុ",
+        "en": "Preah Sihanouk",
+        "slug": "preah-sihanouk-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110105"
+    ],
+    "geo": {
+      "lat": "10.6309814",
+      "lon": "103.5056848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "៤",
+      "en": "Buon",
+      "slug": "buon-180104"
+    },
+    "code": {
+      "id": "180104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "ព្រះសីហនុ",
+        "en": "Preah Sihanouk",
+        "slug": "preah-sihanouk-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110105"
+    ],
+    "geo": {
+      "lat": "10.621312",
+      "lon": "103.540018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លេខ១",
+      "en": "lek Muoy",
+      "slug": "lek-muoy-180101"
+    },
+    "code": {
+      "id": "180101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "ព្រះសីហនុ",
+        "en": "Preah Sihanouk",
+        "slug": "preah-sihanouk-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180401"
+    ],
+    "geo": {
+      "lat": "10.6335741",
+      "lon": "103.5473182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "២",
+      "en": "Pir",
+      "slug": "pir-180102"
+    },
+    "code": {
+      "id": "180102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "ព្រះសីហនុ",
+        "en": "Preah Sihanouk",
+        "slug": "preah-sihanouk-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-1801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "110105"
+    ],
+    "geo": {
+      "lat": "10.6243135",
+      "lon": "103.5214582"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

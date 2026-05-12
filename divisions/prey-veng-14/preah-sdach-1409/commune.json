@@ -1,0 +1,618 @@
+[
+  {
+    "id": "140901",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គររាជ្យ",
+      "en": "Angkor Reach",
+      "slug": "angkor-reach-140901"
+    },
+    "code": {
+      "id": "140901",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140401"
+    ],
+    "geo": {
+      "lat": "11.0885772",
+      "lon": "105.3854569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140902",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្ទាយចក្រី",
+      "en": "Banteay Chakrei",
+      "slug": "banteay-chakrei-140902"
+    },
+    "code": {
+      "id": "140902",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140402"
+    ],
+    "geo": {
+      "lat": "10.9664785",
+      "lon": "105.4213565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140903",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងដោល",
+      "en": "Boeng Daol",
+      "slug": "boeng-daol-140903"
+    },
+    "code": {
+      "id": "140903",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140403"
+    ],
+    "geo": {
+      "lat": "11.0847449",
+      "lon": "105.3160531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140904",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជៃកំពក",
+      "en": "Chey Kampok",
+      "slug": "chey-kampok-140904"
+    },
+    "code": {
+      "id": "140904",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140404"
+    ],
+    "geo": {
+      "lat": "11.1270842",
+      "lon": "105.3643322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140905",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់សឹង",
+      "en": "Kampong Soeng",
+      "slug": "kampong-soeng-140905"
+    },
+    "code": {
+      "id": "140905",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140405"
+    ],
+    "geo": {
+      "lat": "11.2015727",
+      "lon": "105.3309332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140906",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងស្វាយ",
+      "en": "Krang Svay",
+      "slug": "krang-svay-140906"
+    },
+    "code": {
+      "id": "140906",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140406"
+    ],
+    "geo": {
+      "lat": "11.1595536",
+      "lon": "105.440767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140907",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វា",
+      "en": "Lvea",
+      "slug": "lvea-140907"
+    },
+    "code": {
+      "id": "140907",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020303"
+    ],
+    "geo": {
+      "lat": "11.1707184",
+      "lon": "105.3888088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140908",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះស្ដេច",
+      "en": "Preah Sdach",
+      "slug": "preah-sdach-140908"
+    },
+    "code": {
+      "id": "140908",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140408"
+    ],
+    "geo": {
+      "lat": "10.9895403",
+      "lon": "105.341213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140909",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រាធរ",
+      "en": "Reathor",
+      "slug": "reathor-140909"
+    },
+    "code": {
+      "id": "140909",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140409"
+    ],
+    "geo": {
+      "lat": "11.1100562",
+      "lon": "105.3119555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140910",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រំចេក",
+      "en": "Rumchek",
+      "slug": "rumchek-140910"
+    },
+    "code": {
+      "id": "140910",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030512"
+    ],
+    "geo": {
+      "lat": "11.1976633",
+      "lon": "105.3607983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140911",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សេនារាជឧត្ដម",
+      "en": "Sena Reach Otdam",
+      "slug": "sena-reach-otdam-140911"
+    },
+    "code": {
+      "id": "140911",
+      "iso": null
+    },
+    "parent": {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "ព្រះស្ដេច",
+        "en": "Preah Sdach",
+        "slug": "preah-sdach-1409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1409",
+        "level": 2,
+        "name": {
+          "local": "ព្រះស្ដេច",
+          "en": "Preah Sdach",
+          "slug": "preah-sdach-1409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "140411"
+    ],
+    "geo": {
+      "lat": "11.0934754",
+      "lon": "105.4365365"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

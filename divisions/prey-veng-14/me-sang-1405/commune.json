@@ -1,0 +1,450 @@
+[
+  {
+    "id": "140501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អង្គរសរ",
+      "en": "Angkor Sar",
+      "slug": "angkor-sar-140501"
+    },
+    "code": {
+      "id": "140501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "មេសាង",
+        "en": "Me Sang",
+        "slug": "me-sang-1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1405",
+        "level": 2,
+        "name": {
+          "local": "មេសាង",
+          "en": "Me Sang",
+          "slug": "me-sang-1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141001"
+    ],
+    "geo": {
+      "lat": "11.2510372",
+      "lon": "105.6188096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជីផុច",
+      "en": "Chi Phoch",
+      "slug": "chi-phoch-140503"
+    },
+    "code": {
+      "id": "140503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "មេសាង",
+        "en": "Me Sang",
+        "slug": "me-sang-1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1405",
+        "level": 2,
+        "name": {
+          "local": "មេសាង",
+          "en": "Me Sang",
+          "slug": "me-sang-1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141003"
+    ],
+    "geo": {
+      "lat": "11.3271375",
+      "lon": "105.5463284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រេស",
+      "en": "Chres",
+      "slug": "chres-140502"
+    },
+    "code": {
+      "id": "140502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "មេសាង",
+        "en": "Me Sang",
+        "slug": "me-sang-1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1405",
+        "level": 2,
+        "name": {
+          "local": "មេសាង",
+          "en": "Me Sang",
+          "slug": "me-sang-1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040203"
+    ],
+    "geo": {
+      "lat": "11.3412069",
+      "lon": "105.6232827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃឃ្នេស",
+      "en": "Prey Khnes",
+      "slug": "prey-khnes-140504"
+    },
+    "code": {
+      "id": "140504",
+      "iso": null
+    },
+    "parent": {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "មេសាង",
+        "en": "Me Sang",
+        "slug": "me-sang-1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1405",
+        "level": 2,
+        "name": {
+          "local": "មេសាង",
+          "en": "Me Sang",
+          "slug": "me-sang-1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141004"
+    ],
+    "geo": {
+      "lat": "11.3671177",
+      "lon": "105.4909778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃរំដេង",
+      "en": "Prey Rumdeng",
+      "slug": "prey-rumdeng-140505"
+    },
+    "code": {
+      "id": "140505",
+      "iso": null
+    },
+    "parent": {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "មេសាង",
+        "en": "Me Sang",
+        "slug": "me-sang-1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1405",
+        "level": 2,
+        "name": {
+          "local": "មេសាង",
+          "en": "Me Sang",
+          "slug": "me-sang-1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141005"
+    ],
+    "geo": {
+      "lat": "11.3074898",
+      "lon": "105.6018617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃទទឹង",
+      "en": "Prey Totueng",
+      "slug": "prey-totueng-140506"
+    },
+    "code": {
+      "id": "140506",
+      "iso": null
+    },
+    "parent": {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "មេសាង",
+        "en": "Me Sang",
+        "slug": "me-sang-1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1405",
+        "level": 2,
+        "name": {
+          "local": "មេសាង",
+          "en": "Me Sang",
+          "slug": "me-sang-1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141006"
+    ],
+    "geo": {
+      "lat": "11.4329968",
+      "lon": "105.5964958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយជ្រុំ",
+      "en": "Svay Chrum",
+      "slug": "svay-chrum-140507"
+    },
+    "code": {
+      "id": "140507",
+      "iso": null
+    },
+    "parent": {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "មេសាង",
+        "en": "Me Sang",
+        "slug": "me-sang-1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1405",
+        "level": 2,
+        "name": {
+          "local": "មេសាង",
+          "en": "Me Sang",
+          "slug": "me-sang-1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040712"
+    ],
+    "geo": {
+      "lat": "11.4186875",
+      "lon": "105.5530924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "140508",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងស្រែ",
+      "en": "Trapeang Srae",
+      "slug": "trapeang-srae-140508"
+    },
+    "code": {
+      "id": "140508",
+      "iso": null
+    },
+    "parent": {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "មេសាង",
+        "en": "Me Sang",
+        "slug": "me-sang-1405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      },
+      {
+        "id": "1405",
+        "level": 2,
+        "name": {
+          "local": "មេសាង",
+          "en": "Me Sang",
+          "slug": "me-sang-1405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "141008"
+    ],
+    "geo": {
+      "lat": "11.2756564",
+      "lon": "105.5508049"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

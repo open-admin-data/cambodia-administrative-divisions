@@ -1,0 +1,30 @@
+{
+  "id": "05",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "កំពង់ស្ពឺ",
+    "en": "Kampong Speu",
+    "slug": "kampong-speu-05"
+  },
+  "code": {
+    "id": "05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "commune": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.57753675",
+    "lon": "104.27140233242656"
+  },
+  "metadata": {},
+  "source": {}
+}

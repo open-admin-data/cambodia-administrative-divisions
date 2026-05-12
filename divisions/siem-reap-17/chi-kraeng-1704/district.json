@@ -1,0 +1,47 @@
+{
+  "id": "1704",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ជីក្រែង",
+    "en": "Chi Kraeng",
+    "slug": "chi-kraeng-1704"
+  },
+  "code": {
+    "id": "1704",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.1627418",
+    "lon": "104.32432059828129"
+  },
+  "metadata": {},
+  "source": {}
+}

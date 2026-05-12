@@ -1,0 +1,47 @@
+{
+  "id": "1608",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "តាវែង",
+    "en": "Ta Veaeng",
+    "slug": "ta-veaeng-1608"
+  },
+  "code": {
+    "id": "1608",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "រតនគិរី",
+      "en": "Ratanakiri",
+      "slug": "ratanakiri-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.0472873",
+    "lon": "107.1080429"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,155 @@
+# Preah Sihanouk — Cambodia Administrative Divisions
+
+> 6 districts, 29 communes
+> Code: 18
+> Coordinates: 10.50614075, 103.26205644863938
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### កំពង់សីលា (Kampong Seila)
+
+Code: 1804, Coordinates: 11.16935005, 103.96776650807777
+Communes: 4
+
+#### ចំការហ្លួង (Chamkar Luong)
+
+Code: 180401, Postal: 180301, Coordinates: 11.0450828, 103.8532482
+
+#### កំពង់សីលា (Kampong Seila)
+
+Code: 180402, Postal: 180302, Coordinates: 11.1063006, 103.9185374
+
+#### អូរបាក់រទេះ (Ou Bak Roteh)
+
+Code: 180403, Postal: 180303, Coordinates: 11.1559908, 103.9947474
+
+#### ស្ទឹងឆាយ (Stueng Chhay)
+
+Code: 180404, Postal: 180304, Coordinates: 10.9555236, 103.8448134
+
+### កំពង់សោម (Kampong Soam)
+
+Code: 1806
+Communes: 5
+
+#### បិតត្រាង (Bet Trang)
+
+Code: 180602, Postal: 180103
+
+#### បឹងតាព្រហ្ម (Boeng Ta Prum)
+
+Code: 180604, Postal: 180102
+
+#### អូរជ្រៅ (Ou Chrov)
+
+Code: 180605, Postal: 180105
+
+#### អូរឧកញ៉ាហេង (Ou Oknha Heng)
+
+Code: 180603, Postal: 180106
+
+#### រាម (Ream)
+
+Code: 180601, Postal: 180108
+
+### កោះរ៉ុង (Kaoh Rung)
+
+Code: 1805
+Communes: 2
+
+#### កោះរ៉ុង (Kaoh Rung)
+
+Code: 180501, Postal: 180405
+
+#### កោះរ៉ុងសន្លឹម (Koah Rung Sonlem)
+
+Code: 180502, Postal: 180406
+
+### ព្រះសីហនុ (Preah Sihanouk)
+
+Code: 1801, Coordinates: 10.6220485, 103.5223365
+Communes: 4
+
+#### ៣ (Bei)
+
+Code: 180103, Postal: 110105, Coordinates: 10.6309814, 103.5056848
+
+#### ៤ (Buon)
+
+Code: 180104, Postal: 110105, Coordinates: 10.621312, 103.540018
+
+#### លេខ១ (lek Muoy)
+
+Code: 180101, Postal: 180401, Coordinates: 10.6335741, 103.5473182
+
+#### ២ (Pir)
+
+Code: 180102, Postal: 110105, Coordinates: 10.6243135, 103.5214582
+
+### ព្រៃនប់ (Prey Nob)
+
+Code: 1802, Coordinates: 10.7198067, 103.8161797853434
+Communes: 10
+
+#### អណ្ដូងថ្ម (Andoung Thma)
+
+Code: 180201, Postal: 180101, Coordinates: 10.6621697, 103.791636
+
+#### ជើងគោ (Cheung Kou)
+
+Code: 180204, Postal: 180104, Coordinates: 10.75064, 103.8033992
+
+#### ព្រៃនប់ (Prey Nob)
+
+Code: 180207, Postal: 180107, Coordinates: 10.6325512, 103.7838726
+
+#### សាមគ្គី (Sameakki)
+
+Code: 180209, Postal: 060306, Coordinates: 10.8127514, 103.8732733
+
+#### សំរុង (Samrong)
+
+Code: 180210, Postal: 180110, Coordinates: 10.6860446, 103.8072299
+
+#### តានៃ (Ta Ney)
+
+Code: 180215, Postal: 180115
+
+#### ទឹកល្អក់ (Tuek L&#39;ak)
+
+Code: 180211, Postal: 120404, Coordinates: 10.7097458, 103.8916438
+
+#### ទឹកថ្លា (Tuek Thla)
+
+Code: 180212, Postal: 120802, Coordinates: 10.6609642, 103.9158397
+
+#### ទួលទទឹង (Tuol Totueng)
+
+Code: 180213, Postal: 180113, Coordinates: 10.6440776, 103.7870504
+
+#### វាលរេញ (Veal Renh)
+
+Code: 180214, Postal: 180114, Coordinates: 10.705124, 103.8190054
+
+### ស្ទឹងហាវ (Stueng Hav)
+
+Code: 1803, Coordinates: 10.7432829, 103.6200444
+Communes: 4
+
+#### កែវផុស (Kaev Phos)
+
+Code: 180304, Postal: 180204, Coordinates: 10.8916702, 103.7180696
+
+#### កំពេញ (Kampenh)
+
+Code: 180301, Postal: 180201, Coordinates: 10.7379303, 103.6188203
+
+#### អូរត្រេះ (Ou Treh)
+
+Code: 180302, Postal: 180202, Coordinates: 10.7282298, 103.6259351
+
+#### ទំនប់រលក (Tumnob Rolok)
+
+Code: 180303, Postal: 180203, Coordinates: 10.708616, 103.6797461
+

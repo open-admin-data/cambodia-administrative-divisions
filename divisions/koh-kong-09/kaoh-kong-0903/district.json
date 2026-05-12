@@ -1,0 +1,47 @@
+{
+  "id": "0903",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កោះកុង",
+    "en": "Kaoh Kong",
+    "slug": "kaoh-kong-0903"
+  },
+  "code": {
+    "id": "0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "09",
+    "level": 1,
+    "name": {
+      "local": "កោះកុង",
+      "en": "Koh Kong",
+      "slug": "koh-kong-09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.4560302",
+    "lon": "103.122046"
+  },
+  "metadata": {},
+  "source": {}
+}

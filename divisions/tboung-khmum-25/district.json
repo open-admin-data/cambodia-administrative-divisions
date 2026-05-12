@@ -1,0 +1,331 @@
+[
+  {
+    "id": "2501",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "តំបែរ",
+      "en": "Dambae",
+      "slug": "dambae-2501"
+    },
+    "code": {
+      "id": "2501",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.0178626",
+      "lon": "105.8900919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2502",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ក្រូចឆ្មារ",
+      "en": "Krouch Chhmar",
+      "slug": "krouch-chhmar-2502"
+    },
+    "code": {
+      "id": "2502",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2739218",
+      "lon": "105.6499844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2503",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "មេមត់",
+      "en": "Memot",
+      "slug": "memot-2503"
+    },
+    "code": {
+      "id": "2503",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.822536",
+      "lon": "106.1767776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2504",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "អូររាំងឪ",
+      "en": "Ou Reang Ov",
+      "slug": "ou-reang-ov-2504"
+    },
+    "code": {
+      "id": "2504",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7951086",
+      "lon": "105.5020062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2505",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពញាក្រែក",
+      "en": "Ponhea Kraek",
+      "slug": "ponhea-kraek-2505"
+    },
+    "code": {
+      "id": "2505",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7937455",
+      "lon": "105.8777537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2506",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "សួង",
+      "en": "Suong",
+      "slug": "suong-2506"
+    },
+    "code": {
+      "id": "2506",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.9114877",
+      "lon": "105.6532755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2507",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ត្បូងឃ្មុំ",
+      "en": "Tboung Khmum",
+      "slug": "tboung-khmum-2507"
+    },
+    "code": {
+      "id": "2507",
+      "iso": null
+    },
+    "parent": {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ត្បូងឃ្មុំ",
+          "en": "Tboung Khmum",
+          "slug": "tboung-khmum-25"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8914565",
+      "lon": "105.7756828"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

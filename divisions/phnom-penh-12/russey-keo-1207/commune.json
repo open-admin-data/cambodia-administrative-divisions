@@ -1,0 +1,394 @@
+[
+  {
+    "id": "120711",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រាំងចំរេះទី ១",
+      "en": "Chrang Chamreh Ti Muoy",
+      "slug": "chrang-chamreh-ti-muoy-120711"
+    },
+    "code": {
+      "id": "120711",
+      "iso": null
+    },
+    "parent": {
+      "id": "1207",
+      "level": 2,
+      "name": {
+        "local": "ឫស្សីកែវ",
+        "en": "Russey Keo",
+        "slug": "russey-keo-1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1207",
+        "level": 2,
+        "name": {
+          "local": "ឫស្សីកែវ",
+          "en": "Russey Keo",
+          "slug": "russey-keo-1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120704"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120712",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រាំងចំរេះទី ២",
+      "en": "Chrang Chamreh Ti Pir",
+      "slug": "chrang-chamreh-ti-pir-120712"
+    },
+    "code": {
+      "id": "120712",
+      "iso": null
+    },
+    "parent": {
+      "id": "1207",
+      "level": 2,
+      "name": {
+        "local": "ឫស្សីកែវ",
+        "en": "Russey Keo",
+        "slug": "russey-keo-1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1207",
+        "level": 2,
+        "name": {
+          "local": "ឫស្សីកែវ",
+          "en": "Russey Keo",
+          "slug": "russey-keo-1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120705"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គីឡូម៉ែត្រលេខ៦",
+      "en": "Kilomaetr Lekh Prammuoy",
+      "slug": "kilomaetr-lekh-prammuoy-120704"
+    },
+    "code": {
+      "id": "120704",
+      "iso": null
+    },
+    "parent": {
+      "id": "1207",
+      "level": 2,
+      "name": {
+        "local": "ឫស្សីកែវ",
+        "en": "Russey Keo",
+        "slug": "russey-keo-1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1207",
+        "level": 2,
+        "name": {
+          "local": "ឫស្សីកែវ",
+          "en": "Russey Keo",
+          "slug": "russey-keo-1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120704"
+    ],
+    "geo": {
+      "lat": "11.6192823",
+      "lon": "104.9051856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីកែវ",
+      "en": "Ruessei Kaev",
+      "slug": "ruessei-kaev-120706"
+    },
+    "code": {
+      "id": "120706",
+      "iso": null
+    },
+    "parent": {
+      "id": "1207",
+      "level": 2,
+      "name": {
+        "local": "ឫស្សីកែវ",
+        "en": "Russey Keo",
+        "slug": "russey-keo-1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1207",
+        "level": 2,
+        "name": {
+          "local": "ឫស្សីកែវ",
+          "en": "Russey Keo",
+          "slug": "russey-keo-1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120703"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយប៉ាក",
+      "en": "Svay Pak",
+      "slug": "svay-pak-120703"
+    },
+    "code": {
+      "id": "120703",
+      "iso": null
+    },
+    "parent": {
+      "id": "1207",
+      "level": 2,
+      "name": {
+        "local": "ឫស្សីកែវ",
+        "en": "Russey Keo",
+        "slug": "russey-keo-1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1207",
+        "level": 2,
+        "name": {
+          "local": "ឫស្សីកែវ",
+          "en": "Russey Keo",
+          "slug": "russey-keo-1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120701"
+    ],
+    "geo": {
+      "lat": "11.6465889",
+      "lon": "104.8693076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120713",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលសង្កែទី១",
+      "en": "Tuol Sangkae 1",
+      "slug": "tuol-sangkae-1-120713"
+    },
+    "code": {
+      "id": "120713",
+      "iso": null
+    },
+    "parent": {
+      "id": "1207",
+      "level": 2,
+      "name": {
+        "local": "ឫស្សីកែវ",
+        "en": "Russey Keo",
+        "slug": "russey-keo-1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1207",
+        "level": 2,
+        "name": {
+          "local": "ឫស្សីកែវ",
+          "en": "Russey Keo",
+          "slug": "russey-keo-1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120706"
+    ],
+    "geo": {
+      "lat": "11.5916578",
+      "lon": "104.912739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120714",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលសង្កែទី២",
+      "en": "Tuol Sangkae 2",
+      "slug": "tuol-sangkae-2-120714"
+    },
+    "code": {
+      "id": "120714",
+      "iso": null
+    },
+    "parent": {
+      "id": "1207",
+      "level": 2,
+      "name": {
+        "local": "ឫស្សីកែវ",
+        "en": "Russey Keo",
+        "slug": "russey-keo-1207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1207",
+        "level": 2,
+        "name": {
+          "local": "ឫស្សីកែវ",
+          "en": "Russey Keo",
+          "slug": "russey-keo-1207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120707"
+    ],
+    "geo": {
+      "lat": "11.5994337",
+      "lon": "104.8955952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

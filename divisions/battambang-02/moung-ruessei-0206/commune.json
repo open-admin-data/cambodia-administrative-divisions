@@ -1,0 +1,506 @@
+[
+  {
+    "id": "020605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រៃ",
+      "en": "Chrey",
+      "slug": "chrey-020605"
+    },
+    "code": {
+      "id": "020605",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020204"
+    ],
+    "geo": {
+      "lat": "13.1105699",
+      "lon": "103.1379846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កកោះ",
+      "en": "Kakaoh",
+      "slug": "kakaoh-020607"
+    },
+    "code": {
+      "id": "020607",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060604"
+    ],
+    "geo": {
+      "lat": "12.841635",
+      "lon": "103.3985451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គារ",
+      "en": "Kear",
+      "slug": "kear-020602"
+    },
+    "code": {
+      "id": "020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020502"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020601",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មោង",
+      "en": "Moung",
+      "slug": "moung-020601"
+    },
+    "code": {
+      "id": "020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020501"
+    ],
+    "geo": {
+      "lat": "12.7818303",
+      "lon": "103.3703221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃស្វាយ",
+      "en": "Prey Svay",
+      "slug": "prey-svay-020603"
+    },
+    "code": {
+      "id": "020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020503"
+    ],
+    "geo": {
+      "lat": "12.7133149",
+      "lon": "103.5475094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃតូច",
+      "en": "Prey Touch",
+      "slug": "prey-touch-020608"
+    },
+    "code": {
+      "id": "020608",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020506"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020609",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "របស់មង្គល",
+      "en": "Robas Mongkol",
+      "slug": "robas-mongkol-020609"
+    },
+    "code": {
+      "id": "020609",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020507"
+    ],
+    "geo": {
+      "lat": "12.7492808",
+      "lon": "103.3852526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីក្រាំង",
+      "en": "Ruessei Krang",
+      "slug": "ruessei-krang-020604"
+    },
+    "code": {
+      "id": "020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20604"
+    ],
+    "geo": {
+      "lat": "12.700295",
+      "lon": "103.6043616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាលាស់",
+      "en": "Ta Loas",
+      "slug": "ta-loas-020606"
+    },
+    "code": {
+      "id": "020606",
+      "iso": null
+    },
+    "parent": {
+      "id": "0206",
+      "level": 2,
+      "name": {
+        "local": "មោងឫស្សី",
+        "en": "Moung Ruessei",
+        "slug": "moung-ruessei-0206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0206",
+        "level": 2,
+        "name": {
+          "local": "មោងឫស្សី",
+          "en": "Moung Ruessei",
+          "slug": "moung-ruessei-0206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020505"
+    ],
+    "geo": {
+      "lat": "12.805141",
+      "lon": "103.4604668"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

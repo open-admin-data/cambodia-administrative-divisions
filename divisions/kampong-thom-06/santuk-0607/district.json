@@ -1,0 +1,47 @@
+{
+  "id": "0607",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សន្ទុក",
+    "en": "Santuk",
+    "slug": "santuk-0607"
+  },
+  "code": {
+    "id": "0607",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ធំ",
+      "en": "Kampong Thom",
+      "slug": "kampong-thom-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.5628043",
+    "lon": "105.049388"
+  },
+  "metadata": {},
+  "source": {}
+}

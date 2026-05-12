@@ -1,0 +1,47 @@
+{
+  "id": "0207",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "រតនមណ្ឌល",
+    "en": "Rotonak Mondol",
+    "slug": "rotonak-mondol-0207"
+  },
+  "code": {
+    "id": "0207",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.9086418",
+    "lon": "102.8824003119087"
+  },
+  "metadata": {},
+  "source": {}
+}

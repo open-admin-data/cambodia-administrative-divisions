@@ -1,0 +1,47 @@
+{
+  "id": "1603",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បរកែវ",
+    "en": "Bar Kaev",
+    "slug": "bar-kaev-1603"
+  },
+  "code": {
+    "id": "1603",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "រតនគិរី",
+      "en": "Ratanakiri",
+      "slug": "ratanakiri-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "រតនគិរី",
+        "en": "Ratanakiri",
+        "slug": "ratanakiri-16"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.6868898",
+    "lon": "107.2144802"
+  },
+  "metadata": {},
+  "source": {}
+}

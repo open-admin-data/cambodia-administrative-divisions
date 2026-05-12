@@ -1,0 +1,613 @@
+[
+  {
+    "id": "1401",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បាភ្នំ",
+      "en": "Ba Phnum",
+      "slug": "ba-phnum-1401"
+    },
+    "code": {
+      "id": "1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.2580467",
+      "lon": "105.3989267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កំចាយមារ",
+      "en": "Kamchay Mear",
+      "slug": "kamchay-mear-1402"
+    },
+    "code": {
+      "id": "1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5744182",
+      "lon": "105.662875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កំពង់ត្របែក",
+      "en": "Kampong Trabaek",
+      "slug": "kampong-trabaek-1403"
+    },
+    "code": {
+      "id": "1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1401552",
+      "lon": "105.4780783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កញ្ជ្រៀច",
+      "en": "Kanhchriech",
+      "slug": "kanhchriech-1404"
+    },
+    "code": {
+      "id": "1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6889825",
+      "lon": "105.5581607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1405",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "មេសាង",
+      "en": "Me Sang",
+      "slug": "me-sang-1405"
+    },
+    "code": {
+      "id": "1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.3247044",
+      "lon": "105.5766407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពារាំង",
+      "en": "Pea Reang",
+      "slug": "pea-reang-1408"
+    },
+    "code": {
+      "id": "1408",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.6633953",
+      "lon": "105.2289245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពាមជរ",
+      "en": "Peam Chor",
+      "slug": "peam-chor-1406"
+    },
+    "code": {
+      "id": "1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1079466",
+      "lon": "105.2245017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1407",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពាមរក៍",
+      "en": "Peam Ro",
+      "slug": "peam-ro-1407"
+    },
+    "code": {
+      "id": "1407",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.3186652",
+      "lon": "105.2809166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1409",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ព្រះស្ដេច",
+      "en": "Preah Sdach",
+      "slug": "preah-sdach-1409"
+    },
+    "code": {
+      "id": "1409",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1187656",
+      "lon": "105.3769965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ព្រៃវែង",
+      "en": "Prey Veng",
+      "slug": "prey-veng-1410"
+    },
+    "code": {
+      "id": "1410",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.4826844",
+      "lon": "105.3251212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1411",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ពោធិ៍រៀង",
+      "en": "Pur Rieng",
+      "slug": "pur-rieng-1411"
+    },
+    "code": {
+      "id": "1411",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5213787",
+      "lon": "105.3571127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1412",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស៊ីធរកណ្ដាល",
+      "en": "Sithor Kandal",
+      "slug": "sithor-kandal-1412"
+    },
+    "code": {
+      "id": "1412",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7740666",
+      "lon": "105.380774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1413",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្វាយអន្ទរ",
+      "en": "Svay Antor",
+      "slug": "svay-antor-1413"
+    },
+    "code": {
+      "id": "1413",
+      "iso": null
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "ព្រៃវែង",
+          "en": "Prey Veng",
+          "slug": "prey-veng-14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.5729124",
+      "lon": "105.4252384"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

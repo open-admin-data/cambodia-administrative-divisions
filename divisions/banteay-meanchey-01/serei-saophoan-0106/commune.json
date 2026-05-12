@@ -1,0 +1,394 @@
+[
+  {
+    "id": "010602",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ស្វាយ",
+      "en": "Kampong Svay",
+      "slug": "kampong-svay-010602"
+    },
+    "code": {
+      "id": "010602",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "សិរីសោភ័ណ",
+        "en": "Serei Saophoan",
+        "slug": "serei-saophoan-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "សិរីសោភ័ណ",
+          "en": "Serei Saophoan",
+          "slug": "serei-saophoan-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010801"
+    ],
+    "geo": {
+      "lat": "13.6175852",
+      "lon": "102.9648068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010603",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះពងសត្វ",
+      "en": "Kaoh Pong Satv",
+      "slug": "kaoh-pong-satv-010603"
+    },
+    "code": {
+      "id": "010603",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "សិរីសោភ័ណ",
+        "en": "Serei Saophoan",
+        "slug": "serei-saophoan-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "សិរីសោភ័ណ",
+          "en": "Serei Saophoan",
+          "slug": "serei-saophoan-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010802"
+    ],
+    "geo": {
+      "lat": "13.5780457",
+      "lon": "103.0368099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010604",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម្កាក់",
+      "en": "Mkak",
+      "slug": "mkak-010604"
+    },
+    "code": {
+      "id": "010604",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "សិរីសោភ័ណ",
+        "en": "Serei Saophoan",
+        "slug": "serei-saophoan-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "សិរីសោភ័ណ",
+          "en": "Serei Saophoan",
+          "slug": "serei-saophoan-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010803"
+    ],
+    "geo": {
+      "lat": "13.6708318",
+      "lon": "102.9620529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010605",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរអំបិល",
+      "en": "Ou Ambel",
+      "slug": "ou-ambel-010605"
+    },
+    "code": {
+      "id": "010605",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "សិរីសោភ័ណ",
+        "en": "Serei Saophoan",
+        "slug": "serei-saophoan-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "សិរីសោភ័ណ",
+          "en": "Serei Saophoan",
+          "slug": "serei-saophoan-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010804"
+    ],
+    "geo": {
+      "lat": "13.5575298",
+      "lon": "102.9315361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010606",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ភ្នៀត",
+      "en": "Phniet",
+      "slug": "phniet-010606"
+    },
+    "code": {
+      "id": "010606",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "សិរីសោភ័ណ",
+        "en": "Serei Saophoan",
+        "slug": "serei-saophoan-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "សិរីសោភ័ណ",
+          "en": "Serei Saophoan",
+          "slug": "serei-saophoan-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010805"
+    ],
+    "geo": {
+      "lat": "13.6174063",
+      "lon": "103.0487352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010607",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះពន្លា",
+      "en": "Preah Ponlea",
+      "slug": "preah-ponlea-010607"
+    },
+    "code": {
+      "id": "010607",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "សិរីសោភ័ណ",
+        "en": "Serei Saophoan",
+        "slug": "serei-saophoan-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "សិរីសោភ័ណ",
+          "en": "Serei Saophoan",
+          "slug": "serei-saophoan-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200204"
+    ],
+    "geo": {
+      "lat": "13.5828301",
+      "lon": "102.9863153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "010608",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកថ្លា",
+      "en": "Tuek Thla",
+      "slug": "tuek-thla-010608"
+    },
+    "code": {
+      "id": "010608",
+      "iso": null
+    },
+    "parent": {
+      "id": "0106",
+      "level": 2,
+      "name": {
+        "local": "សិរីសោភ័ណ",
+        "en": "Serei Saophoan",
+        "slug": "serei-saophoan-0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "01",
+        "level": 1,
+        "name": {
+          "local": "បន្ទាយមានជ័យ",
+          "en": "Banteay Meanchey",
+          "slug": "banteay-meanchey-01"
+        }
+      },
+      {
+        "id": "0106",
+        "level": 2,
+        "name": {
+          "local": "សិរីសោភ័ណ",
+          "en": "Serei Saophoan",
+          "slug": "serei-saophoan-0106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120802"
+    ],
+    "geo": {
+      "lat": "13.5819882",
+      "lon": "102.9081956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "100501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឃ្សឹម",
+      "en": "Khsuem",
+      "slug": "khsuem-100501"
+    },
+    "code": {
+      "id": "100501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "local": "ស្នួល",
+        "en": "Snuol",
+        "slug": "snuol-1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "local": "ស្នួល",
+          "en": "Snuol",
+          "slug": "snuol-1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100201"
+    ],
+    "geo": {
+      "lat": "12.2501562",
+      "lon": "106.4247363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គ្រញូងសែនជ័យ",
+      "en": "Kronhoung Saen Chey",
+      "slug": "kronhoung-saen-chey-100506"
+    },
+    "code": {
+      "id": "100506",
+      "iso": null
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "local": "ស្នួល",
+        "en": "Snuol",
+        "slug": "snuol-1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "local": "ស្នួល",
+          "en": "Snuol",
+          "slug": "snuol-1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពីរធ្នូ",
+      "en": "Pir Thnu",
+      "slug": "pir-thnu-100502"
+    },
+    "code": {
+      "id": "100502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "local": "ស្នួល",
+        "en": "Snuol",
+        "slug": "snuol-1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "local": "ស្នួល",
+          "en": "Snuol",
+          "slug": "snuol-1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100202"
+    ],
+    "geo": {
+      "lat": "12.0444887",
+      "lon": "106.4725118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្នួល",
+      "en": "Snuol",
+      "slug": "snuol-100503"
+    },
+    "code": {
+      "id": "100503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "local": "ស្នួល",
+        "en": "Snuol",
+        "slug": "snuol-1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "local": "ស្នួល",
+          "en": "Snuol",
+          "slug": "snuol-1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែចារ",
+      "en": "Srae Char",
+      "slug": "srae-char-100504"
+    },
+    "code": {
+      "id": "100504",
+      "iso": null
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "local": "ស្នួល",
+        "en": "Snuol",
+        "slug": "snuol-1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "local": "ស្នួល",
+          "en": "Snuol",
+          "slug": "snuol-1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100204"
+    ],
+    "geo": {
+      "lat": "12.0015177",
+      "lon": "106.3412959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយជ្រះ",
+      "en": "Svay Chreah",
+      "slug": "svay-chreah-100505"
+    },
+    "code": {
+      "id": "100505",
+      "iso": null
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "local": "ស្នួល",
+        "en": "Snuol",
+        "slug": "snuol-1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "local": "ស្នួល",
+          "en": "Snuol",
+          "slug": "snuol-1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100205"
+    ],
+    "geo": {
+      "lat": "12.3030172",
+      "lon": "106.3009003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

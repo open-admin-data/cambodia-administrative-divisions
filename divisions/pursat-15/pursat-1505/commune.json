@@ -1,0 +1,394 @@
+[
+  {
+    "id": "150508",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្ទាយដី",
+      "en": "Banteay Dei",
+      "slug": "banteay-dei-150508"
+    },
+    "code": {
+      "id": "150508",
+      "iso": null
+    },
+    "parent": {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1505",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150607"
+    ],
+    "geo": {
+      "lat": "12.544952",
+      "lon": "103.927071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំរើនផល",
+      "en": "Chamraeun Phal",
+      "slug": "chamraeun-phal-150501"
+    },
+    "code": {
+      "id": "150501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1505",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150601"
+    ],
+    "geo": {
+      "lat": "12.4904969",
+      "lon": "103.8508964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លលកស",
+      "en": "Lolok Sa",
+      "slug": "lolok-sa-150503"
+    },
+    "code": {
+      "id": "150503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1505",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150602"
+    ],
+    "geo": {
+      "lat": "12.5120065",
+      "lon": "103.8282351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្ទះព្រៃ",
+      "en": "Phteah Prey",
+      "slug": "phteah-prey-150504"
+    },
+    "code": {
+      "id": "150504",
+      "iso": null
+    },
+    "parent": {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1505",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150603"
+    ],
+    "geo": {
+      "lat": "12.5436786",
+      "lon": "103.915241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃញី",
+      "en": "Prey Nhi",
+      "slug": "prey-nhi-150505"
+    },
+    "code": {
+      "id": "150505",
+      "iso": null
+    },
+    "parent": {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1505",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150604"
+    ],
+    "geo": {
+      "lat": "12.5339671",
+      "lon": "103.9241096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រលាប",
+      "en": "Roleab",
+      "slug": "roleab-150506"
+    },
+    "code": {
+      "id": "150506",
+      "iso": null
+    },
+    "parent": {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1505",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150605"
+    ],
+    "geo": {
+      "lat": "12.4893112",
+      "lon": "103.9178823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "150507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយអាត់",
+      "en": "Svay At",
+      "slug": "svay-at-150507"
+    },
+    "code": {
+      "id": "150507",
+      "iso": null
+    },
+    "parent": {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-1505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-15"
+        }
+      },
+      {
+        "id": "1505",
+        "level": 2,
+        "name": {
+          "local": "ពោធិ៍សាត់",
+          "en": "Pursat",
+          "slug": "pursat-1505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "150606"
+    ],
+    "geo": {
+      "lat": "12.5279742",
+      "lon": "103.882306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

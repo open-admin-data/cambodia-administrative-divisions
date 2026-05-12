@@ -1,0 +1,842 @@
+[
+  {
+    "id": "050702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាហែង",
+      "en": "Kahaeng",
+      "slug": "kahaeng-050702"
+    },
+    "code": {
+      "id": "050702",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050102"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្ទុំក្រាំង",
+      "en": "Khtum Krang",
+      "slug": "khtum-krang-050703"
+    },
+    "code": {
+      "id": "050703",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050103"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រាំងអំពិល",
+      "en": "Krang Ampil",
+      "slug": "krang-ampil-050704"
+    },
+    "code": {
+      "id": "050704",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "070802"
+    ],
+    "geo": {
+      "lat": "11.3529788",
+      "lon": "104.5391359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្នាយ",
+      "en": "Pneay",
+      "slug": "pneay-050705"
+    },
+    "code": {
+      "id": "050705",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050105"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រលាំងចក",
+      "en": "Roleang Chak",
+      "slug": "roleang-chak-050701"
+    },
+    "code": {
+      "id": "050701",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050101"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រលាំងគ្រើល",
+      "en": "Roleang Kreul",
+      "slug": "roleang-kreul-050706"
+    },
+    "code": {
+      "id": "050706",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050106"
+    ],
+    "geo": {
+      "lat": "11.4475101",
+      "lon": "104.6114551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សែនដី",
+      "en": "Saen Dei",
+      "slug": "saen-dei-050709"
+    },
+    "code": {
+      "id": "050709",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050109"
+    ],
+    "geo": {
+      "lat": "11.399649",
+      "lon": "104.583215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបូរ",
+      "en": "Sambour",
+      "slug": "sambour-050708"
+    },
+    "code": {
+      "id": "050708",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030107"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោងទង",
+      "en": "Samrong Tong",
+      "slug": "samrong-tong-050707"
+    },
+    "code": {
+      "id": "050707",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050107"
+    ],
+    "geo": {
+      "lat": "11.5090344",
+      "lon": "104.5990036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050710",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្គុះ",
+      "en": "Skuh",
+      "slug": "skuh-050710"
+    },
+    "code": {
+      "id": "050710",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050110"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050711",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាំងក្រូច",
+      "en": "Tang Krouch",
+      "slug": "tang-krouch-050711"
+    },
+    "code": {
+      "id": "050711",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050111"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050712",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធម្មតាអរ",
+      "en": "Thummoda Ar",
+      "slug": "thummoda-ar-050712"
+    },
+    "code": {
+      "id": "050712",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050112"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050713",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងគង",
+      "en": "Trapeang Kong",
+      "slug": "trapeang-kong-050713"
+    },
+    "code": {
+      "id": "050713",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050113"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050714",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទំព័រមាស",
+      "en": "Tumpoar Meas",
+      "slug": "tumpoar-meas-050714"
+    },
+    "code": {
+      "id": "050714",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050114"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050715",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វល្លិសរ",
+      "en": "Voa Sar",
+      "slug": "voa-sar-050715"
+    },
+    "code": {
+      "id": "050715",
+      "iso": null
+    },
+    "parent": {
+      "id": "0507",
+      "level": 2,
+      "name": {
+        "local": "សំរោងទង",
+        "en": "Samraong Tong",
+        "slug": "samraong-tong-0507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0507",
+        "level": 2,
+        "name": {
+          "local": "សំរោងទង",
+          "en": "Samraong Tong",
+          "slug": "samraong-tong-0507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050115"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

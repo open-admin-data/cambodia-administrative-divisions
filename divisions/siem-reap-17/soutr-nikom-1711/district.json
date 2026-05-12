@@ -1,0 +1,47 @@
+{
+  "id": "1711",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "សូទ្រនិគម",
+    "en": "Soutr Nikom",
+    "slug": "soutr-nikom-1711"
+  },
+  "code": {
+    "id": "1711",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.2376056",
+    "lon": "104.1354139"
+  },
+  "metadata": {},
+  "source": {}
+}

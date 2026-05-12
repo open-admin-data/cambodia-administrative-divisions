@@ -1,0 +1,674 @@
+[
+  {
+    "id": "130509",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រក្សា",
+      "en": "Reaksa",
+      "slug": "reaksa-130509"
+    },
+    "code": {
+      "id": "130509",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130509"
+    ],
+    "geo": {
+      "lat": "13.5571159",
+      "lon": "105.1290481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រស្មី",
+      "en": "Reaksmei",
+      "slug": "reaksmei-130502"
+    },
+    "code": {
+      "id": "130502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130502"
+    ],
+    "geo": {
+      "lat": "13.3828624",
+      "lon": "105.1264503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130508",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រៀបរយ",
+      "en": "Rieb Roy",
+      "slug": "rieb-roy-130508"
+    },
+    "code": {
+      "id": "130508",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130508"
+    ],
+    "geo": {
+      "lat": "13.35764",
+      "lon": "105.2848226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រីករាយ",
+      "en": "Rik Reay",
+      "slug": "rik-reay-130505"
+    },
+    "code": {
+      "id": "130505",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130505"
+    ],
+    "geo": {
+      "lat": "13.4096602",
+      "lon": "105.142626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "របៀប",
+      "en": "Robieb",
+      "slug": "robieb-130501"
+    },
+    "code": {
+      "id": "130501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130501"
+    ],
+    "geo": {
+      "lat": "13.3841009",
+      "lon": "105.1102982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រហ័ស",
+      "en": "Rohas",
+      "slug": "rohas-130503"
+    },
+    "code": {
+      "id": "130503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130503"
+    ],
+    "geo": {
+      "lat": "13.3607871",
+      "lon": "105.1290095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130512",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រមណីយ",
+      "en": "Romoneiy",
+      "slug": "romoneiy-130512"
+    },
+    "code": {
+      "id": "130512",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130512"
+    ],
+    "geo": {
+      "lat": "13.2791443",
+      "lon": "105.0033654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130511",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រមទម",
+      "en": "Romtum",
+      "slug": "romtum-130511"
+    },
+    "code": {
+      "id": "130511",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130511"
+    ],
+    "geo": {
+      "lat": "13.4034277",
+      "lon": "105.0218758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130507",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រតនៈ",
+      "en": "Rotanak",
+      "slug": "rotanak-130507"
+    },
+    "code": {
+      "id": "130507",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "021403"
+    ],
+    "geo": {
+      "lat": "13.3519233",
+      "lon": "105.2063717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130510",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រំដោះ",
+      "en": "Rumdaoh",
+      "slug": "rumdaoh-130510"
+    },
+    "code": {
+      "id": "130510",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130510"
+    ],
+    "geo": {
+      "lat": "13.5249095",
+      "lon": "105.0312768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130504",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រុងរឿង",
+      "en": "Rung Roeang",
+      "slug": "rung-roeang-130504"
+    },
+    "code": {
+      "id": "130504",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050604"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រួសរាន់",
+      "en": "Ruos Roan",
+      "slug": "ruos-roan-130506"
+    },
+    "code": {
+      "id": "130506",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "រវៀង",
+        "en": "Rovieng",
+        "slug": "rovieng-1305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "រវៀង",
+          "en": "Rovieng",
+          "slug": "rovieng-1305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130506"
+    ],
+    "geo": {
+      "lat": "13.4371609",
+      "lon": "105.2003451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

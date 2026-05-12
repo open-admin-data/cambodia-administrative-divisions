@@ -1,0 +1,47 @@
+{
+  "id": "1303",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ជាំក្សាន្ដ",
+    "en": "Choam Ksant",
+    "slug": "choam-ksant-1303"
+  },
+  "code": {
+    "id": "1303",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ព្រះវិហារ",
+      "en": "Preah Vihear",
+      "slug": "preah-vihear-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.2172713",
+    "lon": "104.9430841"
+  },
+  "metadata": {},
+  "source": {}
+}

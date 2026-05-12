@@ -1,0 +1,47 @@
+{
+  "id": "0212",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កំរៀង",
+    "en": "Kamrieng",
+    "slug": "kamrieng-0212"
+  },
+  "code": {
+    "id": "0212",
+    "iso": null
+  },
+  "parent": {
+    "id": "02",
+    "level": 1,
+    "name": {
+      "local": "បាត់ដំបង",
+      "en": "Battambang",
+      "slug": "battambang-02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "02",
+      "level": 1,
+      "name": {
+        "local": "បាត់ដំបង",
+        "en": "Battambang",
+        "slug": "battambang-02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.0899494",
+    "lon": "102.51831760938151"
+  },
+  "metadata": {},
+  "source": {}
+}

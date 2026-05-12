@@ -1,0 +1,282 @@
+[
+  {
+    "id": "170301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្នារសណ្ដាយ",
+      "en": "Khnar Sanday",
+      "slug": "khnar-sanday-170301"
+    },
+    "code": {
+      "id": "170301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយស្រី",
+        "en": "Banteay Srei",
+        "slug": "banteay-srei-1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយស្រី",
+          "en": "Banteay Srei",
+          "slug": "banteay-srei-1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170301"
+    ],
+    "geo": {
+      "lat": "13.607641",
+      "lon": "103.9840472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឃុនរាម",
+      "en": "Khun Ream",
+      "slug": "khun-ream-170302"
+    },
+    "code": {
+      "id": "170302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយស្រី",
+        "en": "Banteay Srei",
+        "slug": "banteay-srei-1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយស្រី",
+          "en": "Banteay Srei",
+          "slug": "banteay-srei-1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170902"
+    ],
+    "geo": {
+      "lat": "13.6365",
+      "lon": "103.9911537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះដាក់",
+      "en": "Preah Dak",
+      "slug": "preah-dak-170303"
+    },
+    "code": {
+      "id": "170303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយស្រី",
+        "en": "Banteay Srei",
+        "slug": "banteay-srei-1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយស្រី",
+          "en": "Banteay Srei",
+          "slug": "banteay-srei-1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170903"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រំចេក",
+      "en": "Rumchek",
+      "slug": "rumchek-170304"
+    },
+    "code": {
+      "id": "170304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយស្រី",
+        "en": "Banteay Srei",
+        "slug": "banteay-srei-1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយស្រី",
+          "en": "Banteay Srei",
+          "slug": "banteay-srei-1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030512"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "170306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្បែង",
+      "en": "Tbaeng",
+      "slug": "tbaeng-170306"
+    },
+    "code": {
+      "id": "170306",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "បន្ទាយស្រី",
+        "en": "Banteay Srei",
+        "slug": "banteay-srei-1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "បន្ទាយស្រី",
+          "en": "Banteay Srei",
+          "slug": "banteay-srei-1703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060208"
+    ],
+    "geo": {
+      "lat": "13.5114032",
+      "lon": "104.010698"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

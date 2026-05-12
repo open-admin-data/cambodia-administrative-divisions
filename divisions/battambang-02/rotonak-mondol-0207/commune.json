@@ -1,0 +1,282 @@
+[
+  {
+    "id": "020702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អណ្ដើកហែប",
+      "en": "Andaeuk Haeb",
+      "slug": "andaeuk-haeb-020702"
+    },
+    "code": {
+      "id": "020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "0207",
+      "level": 2,
+      "name": {
+        "local": "រតនមណ្ឌល",
+        "en": "Rotonak Mondol",
+        "slug": "rotonak-mondol-0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0207",
+        "level": 2,
+        "name": {
+          "local": "រតនមណ្ឌល",
+          "en": "Rotonak Mondol",
+          "slug": "rotonak-mondol-0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020702"
+    ],
+    "geo": {
+      "lat": "12.8291887",
+      "lon": "103.0087115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្លូវមាស",
+      "en": "Phlov Meas",
+      "slug": "phlov-meas-020703"
+    },
+    "code": {
+      "id": "020703",
+      "iso": null
+    },
+    "parent": {
+      "id": "0207",
+      "level": 2,
+      "name": {
+        "local": "រតនមណ្ឌល",
+        "en": "Rotonak Mondol",
+        "slug": "rotonak-mondol-0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0207",
+        "level": 2,
+        "name": {
+          "local": "រតនមណ្ឌល",
+          "en": "Rotonak Mondol",
+          "slug": "rotonak-mondol-0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020703"
+    ],
+    "geo": {
+      "lat": "12.7823285",
+      "lon": "102.8669054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រស្មីសង្ហារ",
+      "en": "Reaksmei Songha",
+      "slug": "reaksmei-songha-020705"
+    },
+    "code": {
+      "id": "020705",
+      "iso": null
+    },
+    "parent": {
+      "id": "0207",
+      "level": 2,
+      "name": {
+        "local": "រតនមណ្ឌល",
+        "en": "Rotonak Mondol",
+        "slug": "rotonak-mondol-0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0207",
+        "level": 2,
+        "name": {
+          "local": "រតនមណ្ឌល",
+          "en": "Rotonak Mondol",
+          "slug": "rotonak-mondol-0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020705"
+    ],
+    "geo": {
+      "lat": "13.0055759",
+      "lon": "102.783254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្ដៅ",
+      "en": "Sdau",
+      "slug": "sdau-020701"
+    },
+    "code": {
+      "id": "020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "0207",
+      "level": 2,
+      "name": {
+        "local": "រតនមណ្ឌល",
+        "en": "Rotonak Mondol",
+        "slug": "rotonak-mondol-0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0207",
+        "level": 2,
+        "name": {
+          "local": "រតនមណ្ឌល",
+          "en": "Rotonak Mondol",
+          "slug": "rotonak-mondol-0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020701"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "020704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រែង",
+      "en": "Traeng",
+      "slug": "traeng-020704"
+    },
+    "code": {
+      "id": "020704",
+      "iso": null
+    },
+    "parent": {
+      "id": "0207",
+      "level": 2,
+      "name": {
+        "local": "រតនមណ្ឌល",
+        "en": "Rotonak Mondol",
+        "slug": "rotonak-mondol-0207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "02",
+        "level": 1,
+        "name": {
+          "local": "បាត់ដំបង",
+          "en": "Battambang",
+          "slug": "battambang-02"
+        }
+      },
+      {
+        "id": "0207",
+        "level": 2,
+        "name": {
+          "local": "រតនមណ្ឌល",
+          "en": "Rotonak Mondol",
+          "slug": "rotonak-mondol-0207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "020704"
+    ],
+    "geo": {
+      "lat": "12.8586283",
+      "lon": "102.8984533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

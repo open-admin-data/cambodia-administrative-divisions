@@ -1,0 +1,39 @@
+# Kep — Cambodia Administrative Divisions
+
+> 2 districts, 5 communes
+> Code: 23
+> Coordinates: 10.402153949999999, 104.26506181616313
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### ដំណាក់ចង្អើរ (Damnak Chang&#39;aeur)
+
+Code: 2301, Coordinates: 10.526653, 104.36731
+Communes: 2
+
+#### អង្កោល (Angkaol)
+
+Code: 230101, Postal: 220101, Coordinates: 10.469856, 104.3970136
+
+#### ពងទឹក (Pong Tuek)
+
+Code: 230103, Postal: 120502, Coordinates: 10.5290985, 104.3688898
+
+### កែប (Kep)
+
+Code: 2302, Coordinates: 10.4860396, 104.3148207
+Communes: 3
+
+#### កែប (Kep)
+
+Code: 230201, Postal: 220201, Coordinates: 10.5080718, 104.3324058
+
+#### អូរក្រសារ (Ou Krasar)
+
+Code: 230203, Postal: 220203, Coordinates: 10.5501459, 104.290741
+
+#### ព្រៃធំ (Prey Thum)
+
+Code: 230202, Postal: 200205, Coordinates: 10.5411187, 104.3199066
+

@@ -1,0 +1,47 @@
+{
+  "id": "2505",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ពញាក្រែក",
+    "en": "Ponhea Kraek",
+    "slug": "ponhea-kraek-2505"
+  },
+  "code": {
+    "id": "2505",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "ត្បូងឃ្មុំ",
+      "en": "Tboung Khmum",
+      "slug": "tboung-khmum-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ត្បូងឃ្មុំ",
+        "en": "Tboung Khmum",
+        "slug": "tboung-khmum-25"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.7937455",
+    "lon": "105.8777537"
+  },
+  "metadata": {},
+  "source": {}
+}

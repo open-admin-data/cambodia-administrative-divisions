@@ -1,0 +1,338 @@
+[
+  {
+    "id": "160301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កក់",
+      "en": "Kak",
+      "slug": "kak-160301"
+    },
+    "code": {
+      "id": "160301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "local": "បរកែវ",
+        "en": "Bar Kaev",
+        "slug": "bar-kaev-1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "បរកែវ",
+          "en": "Bar Kaev",
+          "slug": "bar-kaev-1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កិះចុង",
+      "en": "Keh Chong",
+      "slug": "keh-chong-160302"
+    },
+    "code": {
+      "id": "160302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "local": "បរកែវ",
+        "en": "Bar Kaev",
+        "slug": "bar-kaev-1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "បរកែវ",
+          "en": "Bar Kaev",
+          "slug": "bar-kaev-1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160202"
+    ],
+    "geo": {
+      "lat": "13.7682129",
+      "lon": "107.2412875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឡាមីញ",
+      "en": "La Minh",
+      "slug": "la-minh-160303"
+    },
+    "code": {
+      "id": "160303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "local": "បរកែវ",
+        "en": "Bar Kaev",
+        "slug": "bar-kaev-1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "បរកែវ",
+          "en": "Bar Kaev",
+          "slug": "bar-kaev-1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លុងឃុង",
+      "en": "Lung Khung",
+      "slug": "lung-khung-160304"
+    },
+    "code": {
+      "id": "160304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "local": "បរកែវ",
+        "en": "Bar Kaev",
+        "slug": "bar-kaev-1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "បរកែវ",
+          "en": "Bar Kaev",
+          "slug": "bar-kaev-1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160204"
+    ],
+    "geo": {
+      "lat": "13.6500276",
+      "lon": "107.1086324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស៊ើង",
+      "en": "Saeung",
+      "slug": "saeung-160305"
+    },
+    "code": {
+      "id": "160305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "local": "បរកែវ",
+        "en": "Bar Kaev",
+        "slug": "bar-kaev-1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "បរកែវ",
+          "en": "Bar Kaev",
+          "slug": "bar-kaev-1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160205"
+    ],
+    "geo": {
+      "lat": "13.6741968",
+      "lon": "107.2466389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទីងចាក់",
+      "en": "Ting Chak",
+      "slug": "ting-chak-160306"
+    },
+    "code": {
+      "id": "160306",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "local": "បរកែវ",
+        "en": "Bar Kaev",
+        "slug": "bar-kaev-1603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "បរកែវ",
+          "en": "Bar Kaev",
+          "slug": "bar-kaev-1603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160206"
+    ],
+    "geo": {
+      "lat": "13.7209542",
+      "lon": "107.1112586"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

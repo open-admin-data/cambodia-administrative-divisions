@@ -1,0 +1,47 @@
+{
+  "id": "1307",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ត្បែងមានជ័យ",
+    "en": "Tbaeng Mean Chey",
+    "slug": "tbaeng-mean-chey-1307"
+  },
+  "code": {
+    "id": "1307",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ព្រះវិហារ",
+      "en": "Preah Vihear",
+      "slug": "preah-vihear-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ព្រះវិហារ",
+        "en": "Preah Vihear",
+        "slug": "preah-vihear-13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.8569139",
+    "lon": "105.0217438"
+  },
+  "metadata": {},
+  "source": {}
+}

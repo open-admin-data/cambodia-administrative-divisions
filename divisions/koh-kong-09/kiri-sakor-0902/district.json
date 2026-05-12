@@ -1,0 +1,47 @@
+{
+  "id": "0902",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "គិរីសាគរ",
+    "en": "Kiri Sakor",
+    "slug": "kiri-sakor-0902"
+  },
+  "code": {
+    "id": "0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "09",
+    "level": 1,
+    "name": {
+      "local": "កោះកុង",
+      "en": "Koh Kong",
+      "slug": "koh-kong-09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "09",
+      "level": 1,
+      "name": {
+        "local": "កោះកុង",
+        "en": "Koh Kong",
+        "slug": "koh-kong-09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.9422524",
+    "lon": "103.1004568"
+  },
+  "metadata": {},
+  "source": {}
+}

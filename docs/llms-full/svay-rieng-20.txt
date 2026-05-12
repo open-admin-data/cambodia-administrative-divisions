@@ -1,0 +1,369 @@
+# Svay Rieng — Cambodia Administrative Divisions
+
+> 8 districts, 80 communes
+> Code: 20
+> Coordinates: 11.1942275, 105.7973275083619
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### បាវិត (Bavet)
+
+Code: 2008, Coordinates: 11.0691272, 106.1436226
+Communes: 5
+
+#### បាទី (Bati)
+
+Code: 200801, Postal: 200801, Coordinates: 11.0295076, 106.1201179
+
+#### បាវិត (Bavet)
+
+Code: 200802, Postal: 200802, Coordinates: 11.0633714, 106.1336367
+
+#### ច្រកម្ទេស (Chrak Mtes)
+
+Code: 200803, Postal: 200803, Coordinates: 11.0685156, 106.0397327
+
+#### ប្រាសាទ (Prasat)
+
+Code: 200804, Postal: 010304, Coordinates: 10.9948293, 106.1763399
+
+#### ព្រៃអង្គុញ (Prey Angkunh)
+
+Code: 200805, Postal: 200805, Coordinates: 11.03516, 106.0150356
+
+### ចន្ទ្រា (Chantrea)
+
+Code: 2001, Coordinates: 10.9949854, 106.1174193
+Communes: 6
+
+#### ចន្ទ្រា (Chantrea)
+
+Code: 200103, Postal: 200101, Coordinates: 10.8724737, 106.0811825
+
+#### ច្រេស (Chres)
+
+Code: 200104, Postal: 040203
+
+#### មេ សរថ្ងក (Me Sar Thngak)
+
+Code: 200105, Postal: 200103
+
+#### ព្រៃគគីរ (Prey Kokir)
+
+Code: 200108, Postal: 200104, Coordinates: 11.0133381, 106.062309
+
+#### សំរោង (Samraong)
+
+Code: 200109, Postal: 010404, Coordinates: 10.9283646, 106.1285716
+
+#### ទួលស្ដី (Tuol Sdei)
+
+Code: 200110, Postal: 200106, Coordinates: 10.8841797, 106.1314316
+
+### កំពង់រោទិ៍ (Kampong Rou)
+
+Code: 2002, Coordinates: 10.920359, 105.9404897
+Communes: 11
+
+#### បន្ទាយក្រាំង (Banteay Krang)
+
+Code: 200201, Postal: 200201, Coordinates: 10.9430813, 105.8701854
+
+#### ខ្សែត្រ (Khsaetr)
+
+Code: 200203, Postal: 200203, Coordinates: 10.9269907, 105.9854133
+
+#### ញរ (Nhor)
+
+Code: 200202, Postal: 200202, Coordinates: 10.9199656, 105.940332
+
+#### ព្រះពន្លា (Preah Ponlea)
+
+Code: 200204, Postal: 200204, Coordinates: 11.0071492, 105.8694386
+
+#### ព្រៃធំ (Prey Thum)
+
+Code: 200205, Postal: 200205, Coordinates: 10.9816936, 105.8673194
+
+#### រាជមន្ទីរ (Reach Montir)
+
+Code: 200206, Postal: 200206, Coordinates: 10.9193762, 105.9071224
+
+#### សំឡី (Samlei)
+
+Code: 200207, Postal: 200207, Coordinates: 10.9296964, 106.0224282
+
+#### សំយ៉ោង (Samyaong)
+
+Code: 200208, Postal: 200208, Coordinates: 10.9671464, 105.8431557
+
+#### ស្វាយតាយាន (Svay Ta Yean)
+
+Code: 200209, Postal: 200209, Coordinates: 11.0132781, 105.9663807
+
+#### ថ្មី (Thmei)
+
+Code: 200211, Postal: 010503, Coordinates: 10.8767644, 105.9269965
+
+#### ត្នោត (Tnaot)
+
+Code: 200212, Postal: 140108
+
+### រមាសហែក (Romeas Haek)
+
+Code: 2004, Coordinates: 11.41244, 105.7908573
+Communes: 16
+
+#### អំពិល (Ampil)
+
+Code: 200401, Postal: 030501
+
+#### អណ្ដូងពោធិ៍ (Andoung Pou)
+
+Code: 200402, Postal: 060112, Coordinates: 11.3584235, 105.8098294
+
+#### អណ្ដូងត្របែក (Andoung Trabaek)
+
+Code: 200403, Postal: 200403, Coordinates: 11.5678682, 105.7508888
+
+#### អង្គប្រស្រែ (Angk Prasrae)
+
+Code: 200404, Postal: 200404, Coordinates: 11.3105128, 105.8222205
+
+#### ចន្ដ្រី (Chantrei)
+
+Code: 200405, Postal: 200405, Coordinates: 11.2862935, 105.7241119
+
+#### ជ្រៃធំ (Chrey Thum)
+
+Code: 200406, Postal: 200406, Coordinates: 11.4087081, 105.7163131
+
+#### ដូង (Doung)
+
+Code: 200407, Postal: 060301, Coordinates: 11.3381408, 105.8602082
+
+#### កំពង់ត្រាច (Kampong Trach)
+
+Code: 200408, Postal: 200408, Coordinates: 11.4120024, 105.7946617
+
+#### គគីរ (Kokir)
+
+Code: 200409, Postal: 060110
+
+#### ក្រសាំង (Krasang)
+
+Code: 200410, Postal: 200410, Coordinates: 11.5298046, 105.7132448
+
+#### ម្រាម (Mream)
+
+Code: 200412, Postal: 200412, Coordinates: 11.3593014, 105.6732038
+
+#### មុខដា (Mukh Da)
+
+Code: 200411, Postal: 200411, Coordinates: 11.3680061, 105.7174202
+
+#### សម្បត្ដិមានជ័យ (Sambatt Mean Chey)
+
+Code: 200414, Postal: 200414
+
+#### សំបួរ (Sambuor)
+
+Code: 200413, Postal: 010110, Coordinates: 11.0738506, 105.8902314
+
+#### ត្រពាំងស្ដៅ (Trapeang Sdau)
+
+Code: 200415, Postal: 200415, Coordinates: 11.3085635, 105.7549838
+
+#### ត្រស់ (Tras)
+
+Code: 200416, Postal: 200416, Coordinates: 11.5305197, 105.8234169
+
+### រំដួល (Rumduol)
+
+Code: 2003, Coordinates: 11.1593741, 105.8184506
+Communes: 10
+
+#### បុសមន (Bos Mon)
+
+Code: 200301, Postal: 200301, Coordinates: 11.2377494, 105.8876762
+
+#### ជ្រុងពពេល (Chrung Popel)
+
+Code: 200304, Postal: 200304, Coordinates: 11.242168, 105.8172881
+
+#### កំពង់អំពិល (Kampong Ampil)
+
+Code: 200305, Postal: 200305, Coordinates: 11.280151, 105.8279184
+
+#### កំពង់ចក (Kampong Chak)
+
+Code: 200303, Postal: 200303, Coordinates: 11.1601126, 105.8223108
+
+#### ម៉ឺនជ័យ (Meun Chey)
+
+Code: 200306, Postal: 200306, Coordinates: 11.2268943, 105.7480069
+
+#### ពងទឹក (Pong Tuek)
+
+Code: 200307, Postal: 120502
+
+#### សង្កែ (Sangkae)
+
+Code: 200308, Postal: 130203, Coordinates: 11.2072905, 105.8194584
+
+#### ស្វាយចេក (Svay Chek)
+
+Code: 200309, Postal: 010604, Coordinates: 11.1840948, 105.7819301
+
+#### ធ្មា (Thmea)
+
+Code: 200302, Postal: 130105, Coordinates: 11.2641482, 105.7412797
+
+#### ថ្នាធ្នង់ (Thna Thnong)
+
+Code: 200310, Postal: 200310, Coordinates: 11.2742329, 105.8739887
+
+### ស្វាយជ្រំ (Svay Chrum)
+
+Code: 2005, Coordinates: 11.115479, 105.7152969
+Communes: 16
+
+#### អង្គតាសូ (Angk Ta Sou)
+
+Code: 200501, Postal: 200501, Coordinates: 11.2053124, 105.7066129
+
+#### បាសាក់ (Basak)
+
+Code: 200502, Postal: 020605, Coordinates: 11.0419146, 105.8273062
+
+#### ចំបក់ (Chambak)
+
+Code: 200503, Postal: 050501
+
+#### ឈើទាល (Chheu Teal)
+
+Code: 200507, Postal: 020104
+
+#### ដូនស (Doun Sa)
+
+Code: 200508, Postal: 200507, Coordinates: 11.2254407, 105.7151913
+
+#### កំពង់ចំឡង (Kampong Chamlang)
+
+Code: 200504, Postal: 080203, Coordinates: 11.0647328, 105.743515
+
+#### គោកព្រីង (Kouk Pring)
+
+Code: 200509, Postal: 200508, Coordinates: 11.1597544, 105.7020151
+
+#### ក្រោលគោ (Kraol Kou)
+
+Code: 200510, Postal: 200509
+
+#### គ្រួស (Kruos)
+
+Code: 200511, Postal: 200510, Coordinates: 11.0385899, 105.6566334
+
+#### ពោធិរាជ (Pouthi Reach)
+
+Code: 200512, Postal: 200511, Coordinates: 11.1523031, 105.7527221
+
+#### ស្វាយអង្គ (Svay Angk)
+
+Code: 200513, Postal: 200512, Coordinates: 11.1979891, 105.6668175
+
+#### ស្វាយជ្រំ (Svay Chrum)
+
+Code: 200514, Postal: 040712, Coordinates: 11.1216965, 105.7224686
+
+#### ស្វាយធំ (Svay Thum)
+
+Code: 200515, Postal: 200514, Coordinates: 11.0237229, 105.6044672
+
+#### ស្វាយយា (Svay Yea)
+
+Code: 200516, Postal: 200515
+
+#### តាសួស (Ta Suos)
+
+Code: 200505, Postal: 200505, Coordinates: 11.0883959, 105.7050929
+
+#### ធ្លក (Thlok)
+
+Code: 200517, Postal: 200516, Coordinates: 11.1908613, 105.7387409
+
+### ស្វាយរៀង (Svay Rieng)
+
+Code: 2006, Coordinates: 11.080095, 105.7974874
+Communes: 7
+
+#### ចេក (Chek)
+
+Code: 200605, Postal: 200705, Coordinates: 11.1203022, 105.7790733
+
+#### គយត្របែក (Koy Trabaek)
+
+Code: 200603, Postal: 200703, Coordinates: 11.0675106, 105.808064
+
+#### ពោធិ៍តាហោ (Pou Ta Hao)
+
+Code: 200604, Postal: 200704
+
+#### ព្រៃឆ្លាក់ (Prey Chhlak)
+
+Code: 200602, Postal: 200702, Coordinates: 11.0988596, 105.7934805
+
+#### សង្ឃរ័ (Sangkhoar)
+
+Code: 200607, Postal: 200707, Coordinates: 11.1141204, 105.819995
+
+#### ស្វាយរៀង (Svay Rieng)
+
+Code: 200601, Postal: 200701, Coordinates: 11.0805569, 105.7985323
+
+#### ស្វាយតឿ (Svay Toea)
+
+Code: 200606, Postal: 200706, Coordinates: 11.0444759, 105.8593247
+
+### ស្វាយទាប (Svay Teab)
+
+Code: 2007, Coordinates: 11.0488171, 105.8806472
+Communes: 9
+
+#### កណ្ដៀងរាយ (Kandieng Reay)
+
+Code: 200703, Postal: 200602, Coordinates: 11.0619074, 105.9363853
+
+#### គគីសោម (Koki Saom)
+
+Code: 200702, Postal: 200601
+
+#### មនោរម្យ (Monourom)
+
+Code: 200704, Postal: 050602, Coordinates: 11.1043524, 106.0404206
+
+#### ពពែត (Popeaet)
+
+Code: 200705, Postal: 200604, Coordinates: 11.0958696, 106.0004182
+
+#### ប្រសូត្រ (Prasoutr)
+
+Code: 200707, Postal: 200606, Coordinates: 11.008158, 105.9283591
+
+#### ព្រៃតាអី (Prey Ta Ei)
+
+Code: 200706, Postal: 200605, Coordinates: 11.1404447, 105.9862786
+
+#### រមាំងថ្កោល (Romeang Thkaol)
+
+Code: 200708, Postal: 200607, Coordinates: 11.1114818, 105.8555888
+
+#### សំបួរ (Sambuor)
+
+Code: 200709, Postal: 010110, Coordinates: 11.0738506, 105.8902314
+
+#### ស្វាយរំពារ (Svay Rumpear)
+
+Code: 200711, Postal: 050214, Coordinates: 11.1463771, 105.8874816
+

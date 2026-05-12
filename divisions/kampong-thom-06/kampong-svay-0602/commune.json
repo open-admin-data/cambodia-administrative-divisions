@@ -1,0 +1,618 @@
+[
+  {
+    "id": "060201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ័យ",
+      "en": "Chey",
+      "slug": "chey-060201"
+    },
+    "code": {
+      "id": "060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060201"
+    ],
+    "geo": {
+      "lat": "12.8315867",
+      "lon": "104.9436844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំរីស្លាប់",
+      "en": "Damrei Slab",
+      "slug": "damrei-slab-060202"
+    },
+    "code": {
+      "id": "060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060202"
+    ],
+    "geo": {
+      "lat": "12.8999973",
+      "lon": "104.7172841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់គោ",
+      "en": "Kampong Kou",
+      "slug": "kampong-kou-060203"
+    },
+    "code": {
+      "id": "060203",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060203"
+    ],
+    "geo": {
+      "lat": "12.6993397",
+      "lon": "104.7914809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ស្វាយ",
+      "en": "Kampong Svay",
+      "slug": "kampong-svay-060204"
+    },
+    "code": {
+      "id": "060204",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010801"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្ដីដូង",
+      "en": "Kdei Doung",
+      "slug": "kdei-doung-060210"
+    },
+    "code": {
+      "id": "060210",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60210"
+    ],
+    "geo": {
+      "lat": "12.7196358",
+      "lon": "104.856952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060205",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "នីពេជ",
+      "en": "Nipech",
+      "slug": "nipech-060205"
+    },
+    "code": {
+      "id": "060205",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060205"
+    ],
+    "geo": {
+      "lat": "12.9356282",
+      "lon": "104.7799425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060206",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផាត់សណ្ដាយ",
+      "en": "Phat Sanday",
+      "slug": "phat-sanday-060206"
+    },
+    "code": {
+      "id": "060206",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060206"
+    ],
+    "geo": {
+      "lat": "12.6409754",
+      "lon": "104.5162068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃគុយ",
+      "en": "Prey Kuy",
+      "slug": "prey-kuy-060211"
+    },
+    "code": {
+      "id": "060211",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សាន់គ",
+      "en": "San Kor",
+      "slug": "san-kor-060207"
+    },
+    "code": {
+      "id": "060207",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060208",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្បែង",
+      "en": "Tbaeng",
+      "slug": "tbaeng-060208"
+    },
+    "code": {
+      "id": "060208",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060208"
+    ],
+    "geo": {
+      "lat": "12.7923292",
+      "lon": "104.7907521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងឫស្សី",
+      "en": "Trapeang Ruessei",
+      "slug": "trapeang-ruessei-060209"
+    },
+    "code": {
+      "id": "060209",
+      "iso": null
+    },
+    "parent": {
+      "id": "0602",
+      "level": 2,
+      "name": {
+        "local": "កំពង់ស្វាយ",
+        "en": "Kampong Svay",
+        "slug": "kampong-svay-0602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0602",
+        "level": 2,
+        "name": {
+          "local": "កំពង់ស្វាយ",
+          "en": "Kampong Svay",
+          "slug": "kampong-svay-0602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

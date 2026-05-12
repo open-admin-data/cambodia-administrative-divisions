@@ -1,0 +1,282 @@
+[
+  {
+    "id": "171301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងមាលា",
+      "en": "Boeng Mealea",
+      "slug": "boeng-mealea-171301"
+    },
+    "code": {
+      "id": "171301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1713",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយលើ",
+        "en": "Svay Leu",
+        "slug": "svay-leu-1713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1713",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយលើ",
+          "en": "Svay Leu",
+          "slug": "svay-leu-1713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170201"
+    ],
+    "geo": {
+      "lat": "13.4721544",
+      "lon": "104.2260009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កន្ទួត",
+      "en": "Kantuot",
+      "slug": "kantuot-171302"
+    },
+    "code": {
+      "id": "171302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1713",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយលើ",
+        "en": "Svay Leu",
+        "slug": "svay-leu-1713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1713",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយលើ",
+          "en": "Svay Leu",
+          "slug": "svay-leu-1713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100504"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្នងភ្នំ",
+      "en": "Khnang Phnum",
+      "slug": "khnang-phnum-171303"
+    },
+    "code": {
+      "id": "171303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1713",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយលើ",
+        "en": "Svay Leu",
+        "slug": "svay-leu-1713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1713",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយលើ",
+          "en": "Svay Leu",
+          "slug": "svay-leu-1713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយលើ",
+      "en": "Svay Leu",
+      "slug": "svay-leu-171304"
+    },
+    "code": {
+      "id": "171304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1713",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយលើ",
+        "en": "Svay Leu",
+        "slug": "svay-leu-1713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1713",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយលើ",
+          "en": "Svay Leu",
+          "slug": "svay-leu-1713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាសៀម",
+      "en": "Ta Siem",
+      "slug": "ta-siem-171305"
+    },
+    "code": {
+      "id": "171305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1713",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយលើ",
+        "en": "Svay Leu",
+        "slug": "svay-leu-1713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1713",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយលើ",
+          "en": "Svay Leu",
+          "slug": "svay-leu-1713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170205"
+    ],
+    "geo": {
+      "lat": "13.6295432",
+      "lon": "104.2485422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "210801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បារាយណ៍",
+      "en": "Baray",
+      "slug": "baray-210801"
+    },
+    "code": {
+      "id": "210801",
+      "iso": null
+    },
+    "parent": {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "local": "ដូនកែវ",
+        "en": "Doun Kaev",
+        "slug": "doun-kaev-2108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2108",
+        "level": 2,
+        "name": {
+          "local": "ដូនកែវ",
+          "en": "Doun Kaev",
+          "slug": "doun-kaev-2108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030801"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាក្នុង",
+      "en": "Roka Knong",
+      "slug": "roka-knong-210802"
+    },
+    "code": {
+      "id": "210802",
+      "iso": null
+    },
+    "parent": {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "local": "ដូនកែវ",
+        "en": "Doun Kaev",
+        "slug": "doun-kaev-2108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2108",
+        "level": 2,
+        "name": {
+          "local": "ដូនកែវ",
+          "en": "Doun Kaev",
+          "slug": "doun-kaev-2108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "211002"
+    ],
+    "geo": {
+      "lat": "10.9885202",
+      "lon": "104.7826548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រកាក្រៅ",
+      "en": "Roka Krau",
+      "slug": "roka-krau-210803"
+    },
+    "code": {
+      "id": "210803",
+      "iso": null
+    },
+    "parent": {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "local": "ដូនកែវ",
+        "en": "Doun Kaev",
+        "slug": "doun-kaev-2108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2108",
+        "level": 2,
+        "name": {
+          "local": "ដូនកែវ",
+          "en": "Doun Kaev",
+          "slug": "doun-kaev-2108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "211003"
+    ],
+    "geo": {
+      "lat": "10.9795822",
+      "lon": "104.7770238"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

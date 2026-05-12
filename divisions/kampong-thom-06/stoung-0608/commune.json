@@ -1,0 +1,730 @@
+[
+  {
+    "id": "060801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បន្ទាយស្ទោង",
+      "en": "Banteay Stoung",
+      "slug": "banteay-stoung-060801"
+    },
+    "code": {
+      "id": "060801",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060701"
+    ],
+    "geo": {
+      "lat": "12.9299249",
+      "lon": "104.6427698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំណាក្រោម",
+      "en": "Chamna Kraom",
+      "slug": "chamna-kraom-060802"
+    },
+    "code": {
+      "id": "060802",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060702"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំណាលើ",
+      "en": "Chamna Leu",
+      "slug": "chamna-leu-060803"
+    },
+    "code": {
+      "id": "060803",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060703"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ចិនជើង",
+      "en": "Kampong Chen Cheung",
+      "slug": "kampong-chen-cheung-060804"
+    },
+    "code": {
+      "id": "060804",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060704"
+    ],
+    "geo": {
+      "lat": "12.9487569",
+      "lon": "104.5654449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ចិនត្បូង",
+      "en": "Kampong Chen Tboung",
+      "slug": "kampong-chen-tboung-060805"
+    },
+    "code": {
+      "id": "060805",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060705"
+    ],
+    "geo": {
+      "lat": "12.935937",
+      "lon": "104.5705124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060806",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម្សាក្រង",
+      "en": "Msa Krang",
+      "slug": "msa-krang-060806"
+    },
+    "code": {
+      "id": "060806",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060706"
+    ],
+    "geo": {
+      "lat": "12.8770427",
+      "lon": "104.4362007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060807",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមបាង",
+      "en": "Peam Bang",
+      "slug": "peam-bang-060807"
+    },
+    "code": {
+      "id": "060807",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060707"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060808",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពពក",
+      "en": "Popok",
+      "slug": "popok-060808"
+    },
+    "code": {
+      "id": "060808",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060708"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060809",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រឡាយ",
+      "en": "Pralay",
+      "slug": "pralay-060809"
+    },
+    "code": {
+      "id": "060809",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060709"
+    ],
+    "geo": {
+      "lat": "13.027993",
+      "lon": "104.5272603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060810",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រះដំរី",
+      "en": "Preah Damrei",
+      "slug": "preah-damrei-060810"
+    },
+    "code": {
+      "id": "060810",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060710"
+    ],
+    "geo": {
+      "lat": "12.9560581",
+      "lon": "104.6959829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060811",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រុងរឿង",
+      "en": "Rung Roeang",
+      "slug": "rung-roeang-060811"
+    },
+    "code": {
+      "id": "060811",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050604"
+    ],
+    "geo": {
+      "lat": "12.9333934",
+      "lon": "104.6708885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060812",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំព្រោជ",
+      "en": "Samprouch",
+      "slug": "samprouch-060812"
+    },
+    "code": {
+      "id": "060812",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060712"
+    ],
+    "geo": {
+      "lat": "12.8847126",
+      "lon": "104.5419598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "060813",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ្រា",
+      "en": "Trea",
+      "slug": "trea-060813"
+    },
+    "code": {
+      "id": "060813",
+      "iso": null
+    },
+    "parent": {
+      "id": "0608",
+      "level": 2,
+      "name": {
+        "local": "ស្ទោង",
+        "en": "Stoung",
+        "slug": "stoung-0608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "06",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ធំ",
+          "en": "Kampong Thom",
+          "slug": "kampong-thom-06"
+        }
+      },
+      {
+        "id": "0608",
+        "level": 2,
+        "name": {
+          "local": "ស្ទោង",
+          "en": "Stoung",
+          "slug": "stoung-0608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060713"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,175 @@
+# Stung Treng — Cambodia Administrative Divisions
+
+> 6 districts, 34 communes
+> Code: 19
+> Coordinates: 13.852468, 106.0889848986395
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### បុរីអូរស្វាយសែនជ័យ (Borei Ou Svay Senchey)
+
+Code: 1906
+Communes: 3
+
+#### កោះស្នែង (Kaoh Snaeng)
+
+Code: 190602, Postal: 190404
+
+#### អូរស្វាយ (Ou Svay)
+
+Code: 190601, Postal: 030510
+
+#### ព្រះរំកិល (Preah Rumkel)
+
+Code: 190603, Postal: 190408
+
+### សេសាន (Sesan)
+
+Code: 1901, Coordinates: 13.5508885, 106.093824
+Communes: 7
+
+#### កំភុន (Kamphun)
+
+Code: 190101, Postal: 190101, Coordinates: 13.4715077, 106.1264255
+
+#### ក្បាលរមាស (Kbal Romeas)
+
+Code: 190102, Postal: 190102, Coordinates: 13.4230872, 106.2810754
+
+#### ភ្លុក (Phluk)
+
+Code: 190103, Postal: 190103, Coordinates: 13.564736, 106.1724369
+
+#### សាមឃួយ (Samkhuoy)
+
+Code: 190104, Postal: 190104, Coordinates: 13.5750179, 106.0929005
+
+#### ស្ដៅ (Sdau)
+
+Code: 190105, Postal: 020701
+
+#### ស្រែគរ (Srae Kor)
+
+Code: 190106, Postal: 190106, Coordinates: 13.6521968, 106.3619771
+
+#### តាឡាត (Ta Lat)
+
+Code: 190107, Postal: 190107, Coordinates: 13.6676474, 106.493793
+
+### សៀមបូក (Siem Bouk)
+
+Code: 1902, Coordinates: 13.3612164, 105.9594206
+Communes: 7
+
+#### កោះព្រះ (Kaoh Preah)
+
+Code: 190201, Postal: 190201, Coordinates: 13.3034422, 105.9463415
+
+#### កោះសំពាយ (Kaoh Sampeay)
+
+Code: 190202, Postal: 190202, Coordinates: 13.4140477, 105.9768216
+
+#### កោះស្រឡាយ (Kaoh Sralay)
+
+Code: 190203, Postal: 190203, Coordinates: 13.4427247, 105.9097529
+
+#### អូរម្រះ (Ou Mreah)
+
+Code: 190204, Postal: 190204, Coordinates: 13.2933166, 105.9944965
+
+#### អូរឫស្សីកណ្ដាល (Ou Ruessei Kandal)
+
+Code: 190205, Postal: 190205, Coordinates: 13.3887186, 106.0825585
+
+#### សៀមបូក (Siem Bouk)
+
+Code: 190206, Postal: 190206, Coordinates: 13.2870698, 105.9210124
+
+#### ស្រែក្រសាំង (Srae Krasang)
+
+Code: 190207, Postal: 190207, Coordinates: 13.3612399, 106.0052437
+
+### សៀមប៉ាង (Siem Pang)
+
+Code: 1903, Coordinates: 14.1163575, 106.3868945
+Communes: 5
+
+#### ព្រែកមាស (Preaek Meas)
+
+Code: 190301, Postal: 190301, Coordinates: 14.1126876, 106.3252897
+
+#### សន្ដិភាព (Santepheap)
+
+Code: 190303, Postal: 021004, Coordinates: 14.1605187, 106.4297386
+
+#### សេកុង (Sekong)
+
+Code: 190302, Postal: 190302, Coordinates: 14.1159767, 106.3944257
+
+#### ស្រែសំបូរ (Srae Sambour)
+
+Code: 190304, Postal: 190304, Coordinates: 14.0016407, 106.1994429
+
+#### ថ្មកែវ (Tma Kaev)
+
+Code: 190305, Postal: 190305, Coordinates: 14.1675692, 106.3524929
+
+### ស្ទឹងត្រែង (Stueng Traeng)
+
+Code: 1904, Coordinates: 13.5271207, 105.9686727
+Communes: 4
+
+#### ព្រះបាទ (Preah Bat)
+
+Code: 190403, Postal: 190503
+
+#### សាមគ្គី (Sameakki)
+
+Code: 190404, Postal: 060306
+
+#### ស្រះឫស្សី (Srah Ruessei)
+
+Code: 190402, Postal: 190502
+
+#### ស្ទឹងត្រែង (Stueng Traeng)
+
+Code: 190401, Postal: 190501
+
+### ថាឡាបរិវ៉ាត់ (Thala Barivat)
+
+Code: 1905, Coordinates: 13.5717715, 105.941917
+Communes: 8
+
+#### អន្លង់ជ្រៃ (Anlong Chrey)
+
+Code: 190505, Postal: 190405, Coordinates: 13.7325489, 105.6413082
+
+#### អន្លង់ភេ (Anlong Phe)
+
+Code: 190501, Postal: 190401, Coordinates: 13.5586097, 105.6732439
+
+#### ចំការលើ (Chamkar Leu)
+
+Code: 190502, Postal: 190402, Coordinates: 13.5131946, 105.7346964
+
+#### កាំងចាម (Kang Cham)
+
+Code: 190503, Postal: 190403, Coordinates: 13.4142807, 105.866271
+
+#### អូររ៉ៃ (Ou Rai)
+
+Code: 190506, Postal: 190406, Coordinates: 13.487793, 105.9025012
+
+#### សំអាង (Sam Ang)
+
+Code: 190509, Postal: 190409, Coordinates: 13.7253647, 105.8216756
+
+#### ស្រែឫស្សី (Srae Ruessei)
+
+Code: 190510, Postal: 190410, Coordinates: 13.6154477, 105.8473573
+
+#### ថាឡាបរិវ៉ាត់ (Thala Barivat)
+
+Code: 190511, Postal: 190511, Coordinates: 13.5519982, 105.9515046
+

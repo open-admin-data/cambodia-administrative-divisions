@@ -1,0 +1,170 @@
+[
+  {
+    "id": "230201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កែប",
+      "en": "Kep",
+      "slug": "kep-230201"
+    },
+    "code": {
+      "id": "230201",
+      "iso": null
+    },
+    "parent": {
+      "id": "2302",
+      "level": 2,
+      "name": {
+        "local": "កែប",
+        "en": "Kep",
+        "slug": "kep-2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "កែប",
+          "en": "Kep",
+          "slug": "kep-23"
+        }
+      },
+      {
+        "id": "2302",
+        "level": 2,
+        "name": {
+          "local": "កែប",
+          "en": "Kep",
+          "slug": "kep-2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "220201"
+    ],
+    "geo": {
+      "lat": "10.5080718",
+      "lon": "104.3324058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230203",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូរក្រសារ",
+      "en": "Ou Krasar",
+      "slug": "ou-krasar-230203"
+    },
+    "code": {
+      "id": "230203",
+      "iso": null
+    },
+    "parent": {
+      "id": "2302",
+      "level": 2,
+      "name": {
+        "local": "កែប",
+        "en": "Kep",
+        "slug": "kep-2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "កែប",
+          "en": "Kep",
+          "slug": "kep-23"
+        }
+      },
+      {
+        "id": "2302",
+        "level": 2,
+        "name": {
+          "local": "កែប",
+          "en": "Kep",
+          "slug": "kep-2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "220203"
+    ],
+    "geo": {
+      "lat": "10.5501459",
+      "lon": "104.290741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230202",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃធំ",
+      "en": "Prey Thum",
+      "slug": "prey-thum-230202"
+    },
+    "code": {
+      "id": "230202",
+      "iso": null
+    },
+    "parent": {
+      "id": "2302",
+      "level": 2,
+      "name": {
+        "local": "កែប",
+        "en": "Kep",
+        "slug": "kep-2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "កែប",
+          "en": "Kep",
+          "slug": "kep-23"
+        }
+      },
+      {
+        "id": "2302",
+        "level": 2,
+        "name": {
+          "local": "កែប",
+          "en": "Kep",
+          "slug": "kep-2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200205"
+    ],
+    "geo": {
+      "lat": "10.5411187",
+      "lon": "104.3199066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

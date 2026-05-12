@@ -1,0 +1,47 @@
+{
+  "id": "1411",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ពោធិ៍រៀង",
+    "en": "Pur Rieng",
+    "slug": "pur-rieng-1411"
+  },
+  "code": {
+    "id": "1411",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "ព្រៃវែង",
+      "en": "Prey Veng",
+      "slug": "prey-veng-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "ព្រៃវែង",
+        "en": "Prey Veng",
+        "slug": "prey-veng-14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5213787",
+    "lon": "105.3571127"
+  },
+  "metadata": {},
+  "source": {}
+}

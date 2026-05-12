@@ -1,0 +1,47 @@
+{
+  "id": "1507",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "តាលោសែនជ័យ",
+    "en": "Ta Lou Senchey",
+    "slug": "ta-lou-senchey-1507"
+  },
+  "code": {
+    "id": "1507",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "ពោធិ៍សាត់",
+      "en": "Pursat",
+      "slug": "pursat-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "ពោធិ៍សាត់",
+        "en": "Pursat",
+        "slug": "pursat-15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

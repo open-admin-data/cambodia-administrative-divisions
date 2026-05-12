@@ -1,0 +1,30 @@
+{
+  "id": "14",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ព្រៃវែង",
+    "en": "Prey Veng",
+    "slug": "prey-veng-14"
+  },
+  "code": {
+    "id": "14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13,
+    "commune": 116
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.365959700000001",
+    "lon": "105.45572772976189"
+  },
+  "metadata": {},
+  "source": {}
+}

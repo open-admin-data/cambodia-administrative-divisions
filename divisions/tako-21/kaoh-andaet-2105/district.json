@@ -1,0 +1,47 @@
+{
+  "id": "2105",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "កោះអណ្ដែត",
+    "en": "Kaoh Andaet",
+    "slug": "kaoh-andaet-2105"
+  },
+  "code": {
+    "id": "2105",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "តាកែវ",
+      "en": "Takéo",
+      "slug": "tako-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "តាកែវ",
+        "en": "Takéo",
+        "slug": "tako-21"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.7965352",
+    "lon": "104.9482522"
+  },
+  "metadata": {},
+  "source": {}
+}

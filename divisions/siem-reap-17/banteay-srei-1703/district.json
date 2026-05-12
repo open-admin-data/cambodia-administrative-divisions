@@ -1,0 +1,47 @@
+{
+  "id": "1703",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បន្ទាយស្រី",
+    "en": "Banteay Srei",
+    "slug": "banteay-srei-1703"
+  },
+  "code": {
+    "id": "1703",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "សៀមរាប",
+      "en": "Siem Reap",
+      "slug": "siem-reap-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "សៀមរាប",
+        "en": "Siem Reap",
+        "slug": "siem-reap-17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.5958699",
+    "lon": "103.92117104314269"
+  },
+  "metadata": {},
+  "source": {}
+}

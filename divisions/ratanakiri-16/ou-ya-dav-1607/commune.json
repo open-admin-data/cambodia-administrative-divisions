@@ -1,0 +1,394 @@
+[
+  {
+    "id": "160701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បរខាំ",
+      "en": "Bar Kham",
+      "slug": "bar-kham-160701"
+    },
+    "code": {
+      "id": "160701",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "local": "អូរយ៉ាដាវ",
+        "en": "Ou Ya Dav",
+        "slug": "ou-ya-dav-1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "អូរយ៉ាដាវ",
+          "en": "Ou Ya Dav",
+          "slug": "ou-ya-dav-1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160601"
+    ],
+    "geo": {
+      "lat": "13.4714323",
+      "lon": "107.3494043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លំជ័រ",
+      "en": "Lum Choar",
+      "slug": "lum-choar-160702"
+    },
+    "code": {
+      "id": "160702",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "local": "អូរយ៉ាដាវ",
+        "en": "Ou Ya Dav",
+        "slug": "ou-ya-dav-1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "អូរយ៉ាដាវ",
+          "en": "Ou Ya Dav",
+          "slug": "ou-ya-dav-1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160602"
+    ],
+    "geo": {
+      "lat": "13.6902094",
+      "lon": "107.3031586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ាតេ",
+      "en": "Pa Te",
+      "slug": "pa-te-160704"
+    },
+    "code": {
+      "id": "160704",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "local": "អូរយ៉ាដាវ",
+        "en": "Ou Ya Dav",
+        "slug": "ou-ya-dav-1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "អូរយ៉ាដាវ",
+          "en": "Ou Ya Dav",
+          "slug": "ou-ya-dav-1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160604"
+    ],
+    "geo": {
+      "lat": "13.4527362",
+      "lon": "107.4558555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ក់ញ៉ៃ",
+      "en": "Pak Nhai",
+      "slug": "pak-nhai-160703"
+    },
+    "code": {
+      "id": "160703",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "local": "អូរយ៉ាដាវ",
+        "en": "Ou Ya Dav",
+        "slug": "ou-ya-dav-1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "អូរយ៉ាដាវ",
+          "en": "Ou Ya Dav",
+          "slug": "ou-ya-dav-1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160603"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សោមធំ",
+      "en": "Saom Thum",
+      "slug": "saom-thum-160706"
+    },
+    "code": {
+      "id": "160706",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "local": "អូរយ៉ាដាវ",
+        "en": "Ou Ya Dav",
+        "slug": "ou-ya-dav-1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "អូរយ៉ាដាវ",
+          "en": "Ou Ya Dav",
+          "slug": "ou-ya-dav-1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160606"
+    ],
+    "geo": {
+      "lat": "13.7241605",
+      "lon": "107.3860129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សេសាន",
+      "en": "Sesan",
+      "slug": "sesan-160705"
+    },
+    "code": {
+      "id": "160705",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "local": "អូរយ៉ាដាវ",
+        "en": "Ou Ya Dav",
+        "slug": "ou-ya-dav-1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "អូរយ៉ាដាវ",
+          "en": "Ou Ya Dav",
+          "slug": "ou-ya-dav-1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160605"
+    ],
+    "geo": {
+      "lat": "13.7709476",
+      "lon": "107.4208867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "យ៉ាទុង",
+      "en": "Ya Tung",
+      "slug": "ya-tung-160707"
+    },
+    "code": {
+      "id": "160707",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "local": "អូរយ៉ាដាវ",
+        "en": "Ou Ya Dav",
+        "slug": "ou-ya-dav-1607"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "អូរយ៉ាដាវ",
+          "en": "Ou Ya Dav",
+          "slug": "ou-ya-dav-1607"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160607"
+    ],
+    "geo": {
+      "lat": "13.5310476",
+      "lon": "107.5238411"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

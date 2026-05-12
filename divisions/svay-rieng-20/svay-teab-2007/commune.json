@@ -1,0 +1,506 @@
+[
+  {
+    "id": "200703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កណ្ដៀងរាយ",
+      "en": "Kandieng Reay",
+      "slug": "kandieng-reay-200703"
+    },
+    "code": {
+      "id": "200703",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200602"
+    ],
+    "geo": {
+      "lat": "11.0619074",
+      "lon": "105.9363853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "គគីសោម",
+      "en": "Koki Saom",
+      "slug": "koki-saom-200702"
+    },
+    "code": {
+      "id": "200702",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200601"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មនោរម្យ",
+      "en": "Monourom",
+      "slug": "monourom-200704"
+    },
+    "code": {
+      "id": "200704",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050602"
+    ],
+    "geo": {
+      "lat": "11.1043524",
+      "lon": "106.0404206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពពែត",
+      "en": "Popeaet",
+      "slug": "popeaet-200705"
+    },
+    "code": {
+      "id": "200705",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200604"
+    ],
+    "geo": {
+      "lat": "11.0958696",
+      "lon": "106.0004182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រសូត្រ",
+      "en": "Prasoutr",
+      "slug": "prasoutr-200707"
+    },
+    "code": {
+      "id": "200707",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200606"
+    ],
+    "geo": {
+      "lat": "11.008158",
+      "lon": "105.9283591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃតាអី",
+      "en": "Prey Ta Ei",
+      "slug": "prey-ta-ei-200706"
+    },
+    "code": {
+      "id": "200706",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200605"
+    ],
+    "geo": {
+      "lat": "11.1404447",
+      "lon": "105.9862786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រមាំងថ្កោល",
+      "en": "Romeang Thkaol",
+      "slug": "romeang-thkaol-200708"
+    },
+    "code": {
+      "id": "200708",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200607"
+    ],
+    "geo": {
+      "lat": "11.1114818",
+      "lon": "105.8555888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំបួរ",
+      "en": "Sambuor",
+      "slug": "sambuor-200709"
+    },
+    "code": {
+      "id": "200709",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010110"
+    ],
+    "geo": {
+      "lat": "11.0738506",
+      "lon": "105.8902314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200711",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្វាយរំពារ",
+      "en": "Svay Rumpear",
+      "slug": "svay-rumpear-200711"
+    },
+    "code": {
+      "id": "200711",
+      "iso": null
+    },
+    "parent": {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "local": "ស្វាយទាប",
+        "en": "Svay Teab",
+        "slug": "svay-teab-2007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2007",
+        "level": 2,
+        "name": {
+          "local": "ស្វាយទាប",
+          "en": "Svay Teab",
+          "slug": "svay-teab-2007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050214"
+    ],
+    "geo": {
+      "lat": "11.1463771",
+      "lon": "105.8874816"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

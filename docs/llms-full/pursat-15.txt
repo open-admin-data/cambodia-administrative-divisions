@@ -1,0 +1,240 @@
+# Pursat — Cambodia Administrative Divisions
+
+> 7 districts, 49 communes
+> Code: 15
+> Coordinates: 12.4662592, 103.7426829518918
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### បាកាន (Bakan)
+
+Code: 1501, Coordinates: 12.6030184, 103.7904079
+Communes: 9
+
+#### បឹងបត់កណ្ដាល (Boeng Bat Kandaol)
+
+Code: 150101, Postal: 150301
+
+#### បឹងខ្នារ (Boeng Khnar)
+
+Code: 150102, Postal: 150302
+
+#### ខ្នារទទឹង (Khnar Totueng)
+
+Code: 150103, Postal: 150303
+
+#### មេទឹក (Me Tuek)
+
+Code: 150104, Postal: 150304
+
+#### អូរតាប៉ោង (Ou Ta Paong)
+
+Code: 150105, Postal: 150305
+
+#### រំលេច (Rumlech)
+
+Code: 150106, Postal: 140610, Coordinates: 12.597131, 103.6851509
+
+#### ស្នាមព្រះ (Snam Preah)
+
+Code: 150107, Postal: 150307
+
+#### ស្វាយដូនកែវ (Svay Doun Kaev)
+
+Code: 150108, Postal: 150308
+
+#### ត្រពាំងជង (Trapeang chorng)
+
+Code: 150110, Postal: 150310
+
+### កណ្ដៀង (Kandieng)
+
+Code: 1502, Coordinates: 12.5898656, 103.9571307
+Communes: 9
+
+#### អន្លង់វិល (Anlong Vil)
+
+Code: 150201, Postal: 150201
+
+#### កណ្ដៀង (Kandieng)
+
+Code: 150203, Postal: 150202, Coordinates: 12.6102524, 103.9590773
+
+#### កញ្ជរ (Kanhchor)
+
+Code: 150204, Postal: 150203
+
+#### កោះជុំ (Kaoh Chum)
+
+Code: 150210, Postal: 150209, Coordinates: 12.5975774, 103.8980364
+
+#### រាំងទិល (Reang Til)
+
+Code: 150205, Postal: 150204
+
+#### ស្រែស្ដុក (Srae Sdok)
+
+Code: 150206, Postal: 150205, Coordinates: 12.6622444, 103.9499988
+
+#### ស្វាយលួង (Svay Luong)
+
+Code: 150207, Postal: 150206
+
+#### ស្យា (Sya)
+
+Code: 150208, Postal: 150207
+
+#### វាល (Veal)
+
+Code: 150209, Postal: 050313, Coordinates: 12.5506232, 103.9218098
+
+### ក្រគរ (Krakor)
+
+Code: 1503, Coordinates: 12.5287279, 104.2100448
+Communes: 11
+
+#### អន្លង់ត្នោត (Anlong Tnaot)
+
+Code: 150301, Postal: 150101
+
+#### អន្សាចំបក់ (Ansa Chambak)
+
+Code: 150302, Postal: 150102
+
+#### បឹងកន្ទួត (Boeng Kantuot)
+
+Code: 150303, Postal: 150103
+
+#### ឈើតុំ (Chheu Tom)
+
+Code: 150304, Postal: 150104
+
+#### កំពង់លួង (Kampong Luong)
+
+Code: 150305, Postal: 080803
+
+#### កំពង់ពោធិ៍ (Kampong Pou)
+
+Code: 150306, Postal: 150106
+
+#### ក្បាលត្រាច (Kbal Trach)
+
+Code: 150307, Postal: 150107
+
+#### អូរសណ្ដាន់ (Ou Sandan)
+
+Code: 150308, Postal: 150108, Coordinates: 12.5281296, 104.1076827
+
+#### ស្នាអន្សា (Sna Ansa)
+
+Code: 150309, Postal: 150109
+
+#### ស្វាយស (Svay Sa)
+
+Code: 150310, Postal: 150110
+
+#### ត្នោតជុំ (Tnaot Chum)
+
+Code: 150311, Postal: 060117, Coordinates: 12.4306301, 104.0160162
+
+### ភ្នំក្រវ៉ាញ (Phnum Kravanh)
+
+Code: 1504, Coordinates: 12.3505536, 103.7641348
+Communes: 6
+
+#### បាក់ចិញ្ចៀន (Bak Chenhchien)
+
+Code: 150401, Postal: 150501
+
+#### លាច (Leach)
+
+Code: 150402, Postal: 150502
+
+#### ព្រងិល (Prongil)
+
+Code: 150404, Postal: 150504
+
+#### រកាត (Rokat)
+
+Code: 150405, Postal: 150505
+
+#### សំរោង (Samraong)
+
+Code: 150407, Postal: 010404
+
+#### សន្ទ្រែ (Santreae)
+
+Code: 150406, Postal: 150506
+
+### ពោធិ៍សាត់ (Pursat)
+
+Code: 1505, Coordinates: 12.5377547, 103.9178235
+Communes: 7
+
+#### បន្ទាយដី (Banteay Dei)
+
+Code: 150508, Postal: 150607, Coordinates: 12.544952, 103.927071
+
+#### ចំរើនផល (Chamraeun Phal)
+
+Code: 150501, Postal: 150601, Coordinates: 12.4904969, 103.8508964
+
+#### លលកស (Lolok Sa)
+
+Code: 150503, Postal: 150602, Coordinates: 12.5120065, 103.8282351
+
+#### ផ្ទះព្រៃ (Phteah Prey)
+
+Code: 150504, Postal: 150603, Coordinates: 12.5436786, 103.915241
+
+#### ព្រៃញី (Prey Nhi)
+
+Code: 150505, Postal: 150604, Coordinates: 12.5339671, 103.9241096
+
+#### រលាប (Roleab)
+
+Code: 150506, Postal: 150605, Coordinates: 12.4893112, 103.9178823
+
+#### ស្វាយអាត់ (Svay At)
+
+Code: 150507, Postal: 150606, Coordinates: 12.5279742, 103.882306
+
+### តាលោសែនជ័យ (Ta Lou Senchey)
+
+Code: 1507
+Communes: 2
+
+#### ផ្ទះរុង (Phteah Rung)
+
+Code: 150702, Postal: 150503
+
+#### តាលោ (Ta Lou)
+
+Code: 150701, Postal: 150309
+
+### វាលវែង (Veal Veaeng)
+
+Code: 1506, Coordinates: 12.234079, 103.1238576
+Communes: 5
+
+#### អន្លង់រាប (Anlong Reab)
+
+Code: 150603, Postal: 150403
+
+#### ក្រពើពីរ (Krapeu Pir)
+
+Code: 150602, Postal: 150402
+
+#### អូរសោម (Ou Saom)
+
+Code: 150601, Postal: 150401
+
+#### ប្រម៉ោយ (Pramaoy)
+
+Code: 150604, Postal: 150404
+
+#### ថ្មដា (Thma Da)
+
+Code: 150605, Postal: 150405
+

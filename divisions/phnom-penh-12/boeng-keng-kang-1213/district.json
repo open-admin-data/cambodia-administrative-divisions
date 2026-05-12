@@ -1,0 +1,47 @@
+{
+  "id": "1213",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "បឹងកេងកង",
+    "en": "Boeng Keng Kang",
+    "slug": "boeng-keng-kang-1213"
+  },
+  "code": {
+    "id": "1213",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "ភ្នំពេញ",
+      "en": "Phnom Penh",
+      "slug": "phnom-penh-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "ភ្នំពេញ",
+        "en": "Phnom Penh",
+        "slug": "phnom-penh-12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.5489263",
+    "lon": "104.9113011"
+  },
+  "metadata": {},
+  "source": {}
+}

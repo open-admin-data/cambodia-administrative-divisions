@@ -1,0 +1,338 @@
+[
+  {
+    "id": "080403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់កុង",
+      "en": "Kampong Kong",
+      "slug": "kampong-kong-080403"
+    },
+    "code": {
+      "id": "080403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0804",
+      "level": 2,
+      "name": {
+        "local": "កោះធំ",
+        "en": "Kaoh Thum",
+        "slug": "kaoh-thum-0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0804",
+        "level": 2,
+        "name": {
+          "local": "កោះធំ",
+          "en": "Kaoh Thum",
+          "slug": "kaoh-thum-0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080403"
+    ],
+    "geo": {
+      "lat": "11.1447093",
+      "lon": "105.0792244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះធំ ‹ក›",
+      "en": "Kaoh Thum Ka",
+      "slug": "kaoh-thum-ka-080404"
+    },
+    "code": {
+      "id": "080404",
+      "iso": null
+    },
+    "parent": {
+      "id": "0804",
+      "level": 2,
+      "name": {
+        "local": "កោះធំ",
+        "en": "Kaoh Thum",
+        "slug": "kaoh-thum-0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0804",
+        "level": 2,
+        "name": {
+          "local": "កោះធំ",
+          "en": "Kaoh Thum",
+          "slug": "kaoh-thum-0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080404"
+    ],
+    "geo": {
+      "lat": "11.169556",
+      "lon": "105.0733794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះធំ ‹ខ›",
+      "en": "Kaoh Thum Kha",
+      "slug": "kaoh-thum-kha-080405"
+    },
+    "code": {
+      "id": "080405",
+      "iso": null
+    },
+    "parent": {
+      "id": "0804",
+      "level": 2,
+      "name": {
+        "local": "កោះធំ",
+        "en": "Kaoh Thum",
+        "slug": "kaoh-thum-0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0804",
+        "level": 2,
+        "name": {
+          "local": "កោះធំ",
+          "en": "Kaoh Thum",
+          "slug": "kaoh-thum-0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080404"
+    ],
+    "geo": {
+      "lat": "11.1904953",
+      "lon": "105.0569539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080407",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លើកដែក",
+      "en": "Leuk Daek",
+      "slug": "leuk-daek-080407"
+    },
+    "code": {
+      "id": "080407",
+      "iso": null
+    },
+    "parent": {
+      "id": "0804",
+      "level": 2,
+      "name": {
+        "local": "កោះធំ",
+        "en": "Kaoh Thum",
+        "slug": "kaoh-thum-0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0804",
+        "level": 2,
+        "name": {
+          "local": "កោះធំ",
+          "en": "Kaoh Thum",
+          "slug": "kaoh-thum-0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080406"
+    ],
+    "geo": {
+      "lat": "11.1297939",
+      "lon": "105.1316811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080408",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពោធិ៍បាន",
+      "en": "Pouthi Ban",
+      "slug": "pouthi-ban-080408"
+    },
+    "code": {
+      "id": "080408",
+      "iso": null
+    },
+    "parent": {
+      "id": "0804",
+      "level": 2,
+      "name": {
+        "local": "កោះធំ",
+        "en": "Kaoh Thum",
+        "slug": "kaoh-thum-0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0804",
+        "level": 2,
+        "name": {
+          "local": "កោះធំ",
+          "en": "Kaoh Thum",
+          "slug": "kaoh-thum-0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "080407"
+    ],
+    "geo": {
+      "lat": "11.2123468",
+      "lon": "105.0962018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "080411",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកថ្មី",
+      "en": "Preaek Thmei",
+      "slug": "preaek-thmei-080411"
+    },
+    "code": {
+      "id": "080411",
+      "iso": null
+    },
+    "parent": {
+      "id": "0804",
+      "level": 2,
+      "name": {
+        "local": "កោះធំ",
+        "en": "Kaoh Thum",
+        "slug": "kaoh-thum-0804"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "08",
+        "level": 1,
+        "name": {
+          "local": "កណ្តាល",
+          "en": "Kandal",
+          "slug": "kandal-08"
+        }
+      },
+      {
+        "id": "0804",
+        "level": 2,
+        "name": {
+          "local": "កោះធំ",
+          "en": "Kaoh Thum",
+          "slug": "kaoh-thum-0804"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "121208"
+    ],
+    "geo": {
+      "lat": "11.1297483",
+      "lon": "105.0568867"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

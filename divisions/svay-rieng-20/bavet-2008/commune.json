@@ -1,0 +1,282 @@
+[
+  {
+    "id": "200801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាទី",
+      "en": "Bati",
+      "slug": "bati-200801"
+    },
+    "code": {
+      "id": "200801",
+      "iso": null
+    },
+    "parent": {
+      "id": "2008",
+      "level": 2,
+      "name": {
+        "local": "បាវិត",
+        "en": "Bavet",
+        "slug": "bavet-2008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2008",
+        "level": 2,
+        "name": {
+          "local": "បាវិត",
+          "en": "Bavet",
+          "slug": "bavet-2008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200801"
+    ],
+    "geo": {
+      "lat": "11.0295076",
+      "lon": "106.1201179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បាវិត",
+      "en": "Bavet",
+      "slug": "bavet-200802"
+    },
+    "code": {
+      "id": "200802",
+      "iso": null
+    },
+    "parent": {
+      "id": "2008",
+      "level": 2,
+      "name": {
+        "local": "បាវិត",
+        "en": "Bavet",
+        "slug": "bavet-2008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2008",
+        "level": 2,
+        "name": {
+          "local": "បាវិត",
+          "en": "Bavet",
+          "slug": "bavet-2008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200802"
+    ],
+    "geo": {
+      "lat": "11.0633714",
+      "lon": "106.1336367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រកម្ទេស",
+      "en": "Chrak Mtes",
+      "slug": "chrak-mtes-200803"
+    },
+    "code": {
+      "id": "200803",
+      "iso": null
+    },
+    "parent": {
+      "id": "2008",
+      "level": 2,
+      "name": {
+        "local": "បាវិត",
+        "en": "Bavet",
+        "slug": "bavet-2008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2008",
+        "level": 2,
+        "name": {
+          "local": "បាវិត",
+          "en": "Bavet",
+          "slug": "bavet-2008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200803"
+    ],
+    "geo": {
+      "lat": "11.0685156",
+      "lon": "106.0397327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប្រាសាទ",
+      "en": "Prasat",
+      "slug": "prasat-200804"
+    },
+    "code": {
+      "id": "200804",
+      "iso": null
+    },
+    "parent": {
+      "id": "2008",
+      "level": 2,
+      "name": {
+        "local": "បាវិត",
+        "en": "Bavet",
+        "slug": "bavet-2008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2008",
+        "level": 2,
+        "name": {
+          "local": "បាវិត",
+          "en": "Bavet",
+          "slug": "bavet-2008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010304"
+    ],
+    "geo": {
+      "lat": "10.9948293",
+      "lon": "106.1763399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "200805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃអង្គុញ",
+      "en": "Prey Angkunh",
+      "slug": "prey-angkunh-200805"
+    },
+    "code": {
+      "id": "200805",
+      "iso": null
+    },
+    "parent": {
+      "id": "2008",
+      "level": 2,
+      "name": {
+        "local": "បាវិត",
+        "en": "Bavet",
+        "slug": "bavet-2008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      },
+      {
+        "id": "2008",
+        "level": 2,
+        "name": {
+          "local": "បាវិត",
+          "en": "Bavet",
+          "slug": "bavet-2008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200805"
+    ],
+    "geo": {
+      "lat": "11.03516",
+      "lon": "106.0150356"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

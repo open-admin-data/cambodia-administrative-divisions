@@ -1,0 +1,450 @@
+[
+  {
+    "id": "100301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំបក់",
+      "en": "Chambâk",
+      "slug": "chambk-100301"
+    },
+    "code": {
+      "id": "100301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកប្រសព្វ",
+        "en": "Prek Prasab",
+        "slug": "prek-prasab-1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1003",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកប្រសព្វ",
+          "en": "Prek Prasab",
+          "slug": "prek-prasab-1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050501"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជ្រោយបន្ទាយ",
+      "en": "Chrouy Banteay",
+      "slug": "chrouy-banteay-100302"
+    },
+    "code": {
+      "id": "100302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកប្រសព្វ",
+        "en": "Prek Prasab",
+        "slug": "prek-prasab-1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1003",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកប្រសព្វ",
+          "en": "Prek Prasab",
+          "slug": "prek-prasab-1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100402"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់គរ",
+      "en": "Kampong Kor",
+      "slug": "kampong-kor-100303"
+    },
+    "code": {
+      "id": "100303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកប្រសព្វ",
+        "en": "Prek Prasab",
+        "slug": "prek-prasab-1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1003",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកប្រសព្វ",
+          "en": "Prek Prasab",
+          "slug": "prek-prasab-1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100403"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះតាស៊ុយ",
+      "en": "Koh Ta Suy",
+      "slug": "koh-ta-suy-100304"
+    },
+    "code": {
+      "id": "100304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកប្រសព្វ",
+        "en": "Prek Prasab",
+        "slug": "prek-prasab-1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1003",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកប្រសព្វ",
+          "en": "Prek Prasab",
+          "slug": "prek-prasab-1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100404"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកប្រសព្វ",
+      "en": "Preaek Prasab",
+      "slug": "preaek-prasab-100305"
+    },
+    "code": {
+      "id": "100305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកប្រសព្វ",
+        "en": "Prek Prasab",
+        "slug": "prek-prasab-1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1003",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកប្រសព្វ",
+          "en": "Prek Prasab",
+          "slug": "prek-prasab-1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100405"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ឫស្សីកែវ",
+      "en": "Russey Keo",
+      "slug": "russey-keo-100306"
+    },
+    "code": {
+      "id": "100306",
+      "iso": null
+    },
+    "parent": {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកប្រសព្វ",
+        "en": "Prek Prasab",
+        "slug": "prek-prasab-1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1003",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកប្រសព្វ",
+          "en": "Prek Prasab",
+          "slug": "prek-prasab-1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100406"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សោប",
+      "en": "Saob",
+      "slug": "saob-100307"
+    },
+    "code": {
+      "id": "100307",
+      "iso": null
+    },
+    "parent": {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកប្រសព្វ",
+        "en": "Prek Prasab",
+        "slug": "prek-prasab-1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1003",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកប្រសព្វ",
+          "en": "Prek Prasab",
+          "slug": "prek-prasab-1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100407"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាម៉ៅ",
+      "en": "Ta Mao",
+      "slug": "ta-mao-100308"
+    },
+    "code": {
+      "id": "100308",
+      "iso": null
+    },
+    "parent": {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "local": "ព្រែកប្រសព្វ",
+        "en": "Prek Prasab",
+        "slug": "prek-prasab-1003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "ក្រចេះ",
+          "en": "Kratié",
+          "slug": "krati-10"
+        }
+      },
+      {
+        "id": "1003",
+        "level": 2,
+        "name": {
+          "local": "ព្រែកប្រសព្វ",
+          "en": "Prek Prasab",
+          "slug": "prek-prasab-1003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100408"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "17",
+  "level": 1,
+  "level_name": {
+    "local": "ខេត្ត",
+    "en": "Province"
+  },
+  "name": {
+    "local": "សៀមរាប",
+    "en": "Siem Reap",
+    "slug": "siem-reap-17"
+  },
+  "code": {
+    "id": "17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13,
+    "commune": 100
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.314962",
+    "lon": "103.805433"
+  },
+  "metadata": {},
+  "source": {}
+}

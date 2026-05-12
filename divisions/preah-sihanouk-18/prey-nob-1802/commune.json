@@ -1,0 +1,562 @@
+[
+  {
+    "id": "180201",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អណ្ដូងថ្ម",
+      "en": "Andoung Thma",
+      "slug": "andoung-thma-180201"
+    },
+    "code": {
+      "id": "180201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180101"
+    ],
+    "geo": {
+      "lat": "10.6621697",
+      "lon": "103.791636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180204",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងគោ",
+      "en": "Cheung Kou",
+      "slug": "cheung-kou-180204"
+    },
+    "code": {
+      "id": "180204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180104"
+    ],
+    "geo": {
+      "lat": "10.75064",
+      "lon": "103.8033992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180207",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រៃនប់",
+      "en": "Prey Nob",
+      "slug": "prey-nob-180207"
+    },
+    "code": {
+      "id": "180207",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180107"
+    ],
+    "geo": {
+      "lat": "10.6325512",
+      "lon": "103.7838726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180209",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សាមគ្គី",
+      "en": "Sameakki",
+      "slug": "sameakki-180209"
+    },
+    "code": {
+      "id": "180209",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060306"
+    ],
+    "geo": {
+      "lat": "10.8127514",
+      "lon": "103.8732733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180210",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរុង",
+      "en": "Samrong",
+      "slug": "samrong-180210"
+    },
+    "code": {
+      "id": "180210",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180110"
+    ],
+    "geo": {
+      "lat": "10.6860446",
+      "lon": "103.8072299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180215",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តានៃ",
+      "en": "Ta Ney",
+      "slug": "ta-ney-180215"
+    },
+    "code": {
+      "id": "180215",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180115"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180211",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកល្អក់",
+      "en": "Tuek L'ak",
+      "slug": "tuek-lak-180211"
+    },
+    "code": {
+      "id": "180211",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120404"
+    ],
+    "geo": {
+      "lat": "10.7097458",
+      "lon": "103.8916438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180212",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកថ្លា",
+      "en": "Tuek Thla",
+      "slug": "tuek-thla-180212"
+    },
+    "code": {
+      "id": "180212",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120802"
+    ],
+    "geo": {
+      "lat": "10.6609642",
+      "lon": "103.9158397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180213",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលទទឹង",
+      "en": "Tuol Totueng",
+      "slug": "tuol-totueng-180213"
+    },
+    "code": {
+      "id": "180213",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180113"
+    ],
+    "geo": {
+      "lat": "10.6440776",
+      "lon": "103.7870504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180214",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "វាលរេញ",
+      "en": "Veal Renh",
+      "slug": "veal-renh-180214"
+    },
+    "code": {
+      "id": "180214",
+      "iso": null
+    },
+    "parent": {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "ព្រៃនប់",
+        "en": "Prey Nob",
+        "slug": "prey-nob-1802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ព្រះសីហនុ",
+          "en": "Preah Sihanouk",
+          "slug": "preah-sihanouk-18"
+        }
+      },
+      {
+        "id": "1802",
+        "level": 2,
+        "name": {
+          "local": "ព្រៃនប់",
+          "en": "Prey Nob",
+          "slug": "prey-nob-1802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "180114"
+    ],
+    "geo": {
+      "lat": "10.705124",
+      "lon": "103.8190054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

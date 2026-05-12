@@ -1,0 +1,450 @@
+[
+  {
+    "id": "030801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់រាប",
+      "en": "Kampong Reab",
+      "slug": "kampong-reab-030801"
+    },
+    "code": {
+      "id": "030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "0308",
+      "level": 2,
+      "name": {
+        "local": "កោះសូទិន",
+        "en": "Kaoh Soutin",
+        "slug": "kaoh-soutin-0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0308",
+        "level": 2,
+        "name": {
+          "local": "កោះសូទិន",
+          "en": "Kaoh Soutin",
+          "slug": "kaoh-soutin-0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030701"
+    ],
+    "geo": {
+      "lat": "11.9007485",
+      "lon": "105.3621968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កោះសូទិន",
+      "en": "Kaoh Sotin",
+      "slug": "kaoh-sotin-030802"
+    },
+    "code": {
+      "id": "030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "0308",
+      "level": 2,
+      "name": {
+        "local": "កោះសូទិន",
+        "en": "Kaoh Soutin",
+        "slug": "kaoh-soutin-0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0308",
+        "level": 2,
+        "name": {
+          "local": "កោះសូទិន",
+          "en": "Kaoh Soutin",
+          "slug": "kaoh-soutin-0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30802"
+    ],
+    "geo": {
+      "lat": "11.9187244",
+      "lon": "105.4312978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030803",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ល្វេ",
+      "en": "Lve",
+      "slug": "lve-030803"
+    },
+    "code": {
+      "id": "030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "0308",
+      "level": 2,
+      "name": {
+        "local": "កោះសូទិន",
+        "en": "Kaoh Soutin",
+        "slug": "kaoh-soutin-0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0308",
+        "level": 2,
+        "name": {
+          "local": "កោះសូទិន",
+          "en": "Kaoh Soutin",
+          "slug": "kaoh-soutin-0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030703"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030805",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មហាខ្ញូង",
+      "en": "Moha Khnhoung",
+      "slug": "moha-khnhoung-030805"
+    },
+    "code": {
+      "id": "030805",
+      "iso": null
+    },
+    "parent": {
+      "id": "0308",
+      "level": 2,
+      "name": {
+        "local": "កោះសូទិន",
+        "en": "Kaoh Soutin",
+        "slug": "kaoh-soutin-0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0308",
+        "level": 2,
+        "name": {
+          "local": "កោះសូទិន",
+          "en": "Kaoh Soutin",
+          "slug": "kaoh-soutin-0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030705"
+    ],
+    "geo": {
+      "lat": "11.9258562",
+      "lon": "105.3133259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030804",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មហាលាភ",
+      "en": "Moha Leaph",
+      "slug": "moha-leaph-030804"
+    },
+    "code": {
+      "id": "030804",
+      "iso": null
+    },
+    "parent": {
+      "id": "0308",
+      "level": 2,
+      "name": {
+        "local": "កោះសូទិន",
+        "en": "Kaoh Soutin",
+        "slug": "kaoh-soutin-0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0308",
+        "level": 2,
+        "name": {
+          "local": "កោះសូទិន",
+          "en": "Kaoh Soutin",
+          "slug": "kaoh-soutin-0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030704"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030806",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមប្រធ្នោះ",
+      "en": "Peam Prathnuoh",
+      "slug": "peam-prathnuoh-030806"
+    },
+    "code": {
+      "id": "030806",
+      "iso": null
+    },
+    "parent": {
+      "id": "0308",
+      "level": 2,
+      "name": {
+        "local": "កោះសូទិន",
+        "en": "Kaoh Soutin",
+        "slug": "kaoh-soutin-0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0308",
+        "level": 2,
+        "name": {
+          "local": "កោះសូទិន",
+          "en": "Kaoh Soutin",
+          "slug": "kaoh-soutin-0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030706"
+    ],
+    "geo": {
+      "lat": "11.8932438",
+      "lon": "105.4255716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030807",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពង្រ",
+      "en": "Pongro",
+      "slug": "pongro-030807"
+    },
+    "code": {
+      "id": "030807",
+      "iso": null
+    },
+    "parent": {
+      "id": "0308",
+      "level": 2,
+      "name": {
+        "local": "កោះសូទិន",
+        "en": "Kaoh Soutin",
+        "slug": "kaoh-soutin-0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0308",
+        "level": 2,
+        "name": {
+          "local": "កោះសូទិន",
+          "en": "Kaoh Soutin",
+          "slug": "kaoh-soutin-0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030707"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "030808",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រែកតានង់",
+      "en": "Preaek Ta Nong",
+      "slug": "preaek-ta-nong-030808"
+    },
+    "code": {
+      "id": "030808",
+      "iso": null
+    },
+    "parent": {
+      "id": "0308",
+      "level": 2,
+      "name": {
+        "local": "កោះសូទិន",
+        "en": "Kaoh Soutin",
+        "slug": "kaoh-soutin-0308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "03",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ចាម",
+          "en": "Kampong Cham",
+          "slug": "kampong-cham-03"
+        }
+      },
+      {
+        "id": "0308",
+        "level": 2,
+        "name": {
+          "local": "កោះសូទិន",
+          "en": "Kaoh Soutin",
+          "slug": "kaoh-soutin-0308"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030708"
+    ],
+    "geo": {
+      "lat": "11.9013183",
+      "lon": "105.28461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

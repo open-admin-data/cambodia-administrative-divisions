@@ -1,0 +1,450 @@
+[
+  {
+    "id": "190505",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្លង់ជ្រៃ",
+      "en": "Anlong Chrey",
+      "slug": "anlong-chrey-190505"
+    },
+    "code": {
+      "id": "190505",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "ថាឡាបរិវ៉ាត់",
+        "en": "Thala Barivat",
+        "slug": "thala-barivat-1905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "ថាឡាបរិវ៉ាត់",
+          "en": "Thala Barivat",
+          "slug": "thala-barivat-1905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190405"
+    ],
+    "geo": {
+      "lat": "13.7325489",
+      "lon": "105.6413082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អន្លង់ភេ",
+      "en": "Anlong Phe",
+      "slug": "anlong-phe-190501"
+    },
+    "code": {
+      "id": "190501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "ថាឡាបរិវ៉ាត់",
+        "en": "Thala Barivat",
+        "slug": "thala-barivat-1905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "ថាឡាបរិវ៉ាត់",
+          "en": "Thala Barivat",
+          "slug": "thala-barivat-1905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190401"
+    ],
+    "geo": {
+      "lat": "13.5586097",
+      "lon": "105.6732439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចំការលើ",
+      "en": "Chamkar Leu",
+      "slug": "chamkar-leu-190502"
+    },
+    "code": {
+      "id": "190502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "ថាឡាបរិវ៉ាត់",
+        "en": "Thala Barivat",
+        "slug": "thala-barivat-1905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "ថាឡាបរិវ៉ាត់",
+          "en": "Thala Barivat",
+          "slug": "thala-barivat-1905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190402"
+    ],
+    "geo": {
+      "lat": "13.5131946",
+      "lon": "105.7346964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កាំងចាម",
+      "en": "Kang Cham",
+      "slug": "kang-cham-190503"
+    },
+    "code": {
+      "id": "190503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "ថាឡាបរិវ៉ាត់",
+        "en": "Thala Barivat",
+        "slug": "thala-barivat-1905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "ថាឡាបរិវ៉ាត់",
+          "en": "Thala Barivat",
+          "slug": "thala-barivat-1905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190403"
+    ],
+    "geo": {
+      "lat": "13.4142807",
+      "lon": "105.866271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190506",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "អូររ៉ៃ",
+      "en": "Ou Rai",
+      "slug": "ou-rai-190506"
+    },
+    "code": {
+      "id": "190506",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "ថាឡាបរិវ៉ាត់",
+        "en": "Thala Barivat",
+        "slug": "thala-barivat-1905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "ថាឡាបរិវ៉ាត់",
+          "en": "Thala Barivat",
+          "slug": "thala-barivat-1905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190406"
+    ],
+    "geo": {
+      "lat": "13.487793",
+      "lon": "105.9025012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190509",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំអាង",
+      "en": "Sam Ang",
+      "slug": "sam-ang-190509"
+    },
+    "code": {
+      "id": "190509",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "ថាឡាបរិវ៉ាត់",
+        "en": "Thala Barivat",
+        "slug": "thala-barivat-1905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "ថាឡាបរិវ៉ាត់",
+          "en": "Thala Barivat",
+          "slug": "thala-barivat-1905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190409"
+    ],
+    "geo": {
+      "lat": "13.7253647",
+      "lon": "105.8216756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190510",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រែឫស្សី",
+      "en": "Srae Ruessei",
+      "slug": "srae-ruessei-190510"
+    },
+    "code": {
+      "id": "190510",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "ថាឡាបរិវ៉ាត់",
+        "en": "Thala Barivat",
+        "slug": "thala-barivat-1905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "ថាឡាបរិវ៉ាត់",
+          "en": "Thala Barivat",
+          "slug": "thala-barivat-1905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190410"
+    ],
+    "geo": {
+      "lat": "13.6154477",
+      "lon": "105.8473573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190511",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ថាឡាបរិវ៉ាត់",
+      "en": "Thala Barivat",
+      "slug": "thala-barivat-190511"
+    },
+    "code": {
+      "id": "190511",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "ថាឡាបរិវ៉ាត់",
+        "en": "Thala Barivat",
+        "slug": "thala-barivat-1905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "ស្ទឹងត្រែង",
+          "en": "Stung Treng",
+          "slug": "stung-treng-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "ថាឡាបរិវ៉ាត់",
+          "en": "Thala Barivat",
+          "slug": "thala-barivat-1905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "190511"
+    ],
+    "geo": {
+      "lat": "13.5519982",
+      "lon": "105.9515046"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

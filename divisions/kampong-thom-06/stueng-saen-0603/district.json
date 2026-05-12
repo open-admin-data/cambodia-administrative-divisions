@@ -1,0 +1,47 @@
+{
+  "id": "0603",
+  "level": 2,
+  "level_name": {
+    "local": "ស្រុក",
+    "en": "District"
+  },
+  "name": {
+    "local": "ស្ទឹងសែន",
+    "en": "Stueng Saen",
+    "slug": "stueng-saen-0603"
+  },
+  "code": {
+    "id": "0603",
+    "iso": null
+  },
+  "parent": {
+    "id": "06",
+    "level": 1,
+    "name": {
+      "local": "កំពង់ធំ",
+      "en": "Kampong Thom",
+      "slug": "kampong-thom-06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "06",
+      "level": 1,
+      "name": {
+        "local": "កំពង់ធំ",
+        "en": "Kampong Thom",
+        "slug": "kampong-thom-06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.7126242",
+    "lon": "104.8891082"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "130104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ច្រាច់",
+      "en": "Chrach",
+      "slug": "chrach-130104"
+    },
+    "code": {
+      "id": "130104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "ជ័យសែន",
+        "en": "Chey Saen",
+        "slug": "chey-saen-1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "ជ័យសែន",
+          "en": "Chey Saen",
+          "slug": "chey-saen-1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130104"
+    ],
+    "geo": {
+      "lat": "13.5677621",
+      "lon": "105.3510452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្យង",
+      "en": "Khyang",
+      "slug": "khyang-130103"
+    },
+    "code": {
+      "id": "130103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "ជ័យសែន",
+        "en": "Chey Saen",
+        "slug": "chey-saen-1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "ជ័យសែន",
+          "en": "Chey Saen",
+          "slug": "chey-saen-1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130103"
+    ],
+    "geo": {
+      "lat": "13.6216198",
+      "lon": "105.2968867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពុទ្រា",
+      "en": "Putrea",
+      "slug": "putrea-130106"
+    },
+    "code": {
+      "id": "130106",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "ជ័យសែន",
+        "en": "Chey Saen",
+        "slug": "chey-saen-1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "ជ័យសែន",
+          "en": "Chey Saen",
+          "slug": "chey-saen-1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130106"
+    ],
+    "geo": {
+      "lat": "13.5269508",
+      "lon": "105.2060188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្អាង",
+      "en": "S'ang",
+      "slug": "sang-130101"
+    },
+    "code": {
+      "id": "130101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "ជ័យសែន",
+        "en": "Chey Saen",
+        "slug": "chey-saen-1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "ជ័យសែន",
+          "en": "Chey Saen",
+          "slug": "chey-saen-1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130101"
+    ],
+    "geo": {
+      "lat": "13.658076",
+      "lon": "105.2434965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តស៊ូ",
+      "en": "Tasu",
+      "slug": "tasu-130102"
+    },
+    "code": {
+      "id": "130102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "ជ័យសែន",
+        "en": "Chey Saen",
+        "slug": "chey-saen-1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "ជ័យសែន",
+          "en": "Chey Saen",
+          "slug": "chey-saen-1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130102"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ធ្មា",
+      "en": "Thmea",
+      "slug": "thmea-130105"
+    },
+    "code": {
+      "id": "130105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "ជ័យសែន",
+        "en": "Chey Saen",
+        "slug": "chey-saen-1301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "ជ័យសែន",
+          "en": "Chey Saen",
+          "slug": "chey-saen-1301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130105"
+    ],
+    "geo": {
+      "lat": "13.5499563",
+      "lon": "105.4885163"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "160802",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាវែងក្រោម",
+      "en": "Ta Veaeng Kraom",
+      "slug": "ta-veaeng-kraom-160802"
+    },
+    "code": {
+      "id": "160802",
+      "iso": null
+    },
+    "parent": {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "local": "តាវែង",
+        "en": "Ta Veaeng",
+        "slug": "ta-veaeng-1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1608",
+        "level": 2,
+        "name": {
+          "local": "តាវែង",
+          "en": "Ta Veaeng",
+          "slug": "ta-veaeng-1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160702"
+    ],
+    "geo": {
+      "lat": "14.240459",
+      "lon": "107.0775671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160801",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាវែងលើ",
+      "en": "Ta Veaeng Leu",
+      "slug": "ta-veaeng-leu-160801"
+    },
+    "code": {
+      "id": "160801",
+      "iso": null
+    },
+    "parent": {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "local": "តាវែង",
+        "en": "Ta Veaeng",
+        "slug": "ta-veaeng-1608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1608",
+        "level": 2,
+        "name": {
+          "local": "តាវែង",
+          "en": "Ta Veaeng",
+          "slug": "ta-veaeng-1608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160701"
+    ],
+    "geo": {
+      "lat": "14.3827014",
+      "lon": "107.307452"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

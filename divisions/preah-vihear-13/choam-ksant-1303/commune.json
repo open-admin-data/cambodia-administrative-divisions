@@ -1,0 +1,450 @@
+[
+  {
+    "id": "130301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជាំក្សាន្ដ",
+      "en": "Choam Ksant",
+      "slug": "choam-ksant-130301"
+    },
+    "code": {
+      "id": "130301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "ជាំក្សាន្ដ",
+        "en": "Choam Ksant",
+        "slug": "choam-ksant-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "ជាំក្សាន្ដ",
+          "en": "Choam Ksant",
+          "slug": "choam-ksant-1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130301"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130306",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កន្ទួត",
+      "en": "Kantuot",
+      "slug": "kantuot-130306"
+    },
+    "code": {
+      "id": "130306",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "ជាំក្សាន្ដ",
+        "en": "Choam Ksant",
+        "slug": "choam-ksant-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "ជាំក្សាន្ដ",
+          "en": "Choam Ksant",
+          "slug": "choam-ksant-1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "100504"
+    ],
+    "geo": {
+      "lat": "14.2317726",
+      "lon": "104.6097563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130308",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "មរកត",
+      "en": "Morokot",
+      "slug": "morokot-130308"
+    },
+    "code": {
+      "id": "130308",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "ជាំក្សាន្ដ",
+        "en": "Choam Ksant",
+        "slug": "choam-ksant-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "ជាំក្សាន្ដ",
+          "en": "Choam Ksant",
+          "slug": "choam-ksant-1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130307"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ព្រីងធំ",
+      "en": "Pring Thum",
+      "slug": "pring-thum-130303"
+    },
+    "code": {
+      "id": "130303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "ជាំក្សាន្ដ",
+        "en": "Choam Ksant",
+        "slug": "choam-ksant-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "ជាំក្សាន្ដ",
+          "en": "Choam Ksant",
+          "slug": "choam-ksant-1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130303"
+    ],
+    "geo": {
+      "lat": "13.9724043",
+      "lon": "104.8780655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រំដោះស្រែ",
+      "en": "Rumdaoh Srae",
+      "slug": "rumdaoh-srae-130304"
+    },
+    "code": {
+      "id": "130304",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "ជាំក្សាន្ដ",
+        "en": "Choam Ksant",
+        "slug": "choam-ksant-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "ជាំក្សាន្ដ",
+          "en": "Choam Ksant",
+          "slug": "choam-ksant-1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130304"
+    ],
+    "geo": {
+      "lat": "13.5249095",
+      "lon": "105.0312768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130307",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្រអែម",
+      "en": "Sror Aem",
+      "slug": "sror-aem-130307"
+    },
+    "code": {
+      "id": "130307",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "ជាំក្សាន្ដ",
+        "en": "Choam Ksant",
+        "slug": "choam-ksant-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "ជាំក្សាន្ដ",
+          "en": "Choam Ksant",
+          "slug": "choam-ksant-1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130308"
+    ],
+    "geo": {
+      "lat": "14.2524458",
+      "lon": "104.7236913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទឹកក្រហម",
+      "en": "Tuek Kraham",
+      "slug": "tuek-kraham-130302"
+    },
+    "code": {
+      "id": "130302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "ជាំក្សាន្ដ",
+        "en": "Choam Ksant",
+        "slug": "choam-ksant-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "ជាំក្សាន្ដ",
+          "en": "Choam Ksant",
+          "slug": "choam-ksant-1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130302"
+    ],
+    "geo": {
+      "lat": "14.1637969",
+      "lon": "105.0461177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "130305",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "យាង",
+      "en": "Yeang",
+      "slug": "yeang-130305"
+    },
+    "code": {
+      "id": "130305",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "ជាំក្សាន្ដ",
+        "en": "Choam Ksant",
+        "slug": "choam-ksant-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "ព្រះវិហារ",
+          "en": "Preah Vihear",
+          "slug": "preah-vihear-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "ជាំក្សាន្ដ",
+          "en": "Choam Ksant",
+          "slug": "choam-ksant-1303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "130305"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

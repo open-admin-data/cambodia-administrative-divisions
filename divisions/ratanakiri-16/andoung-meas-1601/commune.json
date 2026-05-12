@@ -1,0 +1,170 @@
+[
+  {
+    "id": "160101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ម៉ាលិក",
+      "en": "Malik",
+      "slug": "malik-160101"
+    },
+    "code": {
+      "id": "160101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "អណ្ដូងមាស",
+        "en": "Andoung Meas",
+        "slug": "andoung-meas-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "អណ្ដូងមាស",
+          "en": "Andoung Meas",
+          "slug": "andoung-meas-1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160101"
+    ],
+    "geo": {
+      "lat": "13.850078",
+      "lon": "107.292666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ញ៉ាង",
+      "en": "Nhang",
+      "slug": "nhang-160103"
+    },
+    "code": {
+      "id": "160103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "អណ្ដូងមាស",
+        "en": "Andoung Meas",
+        "slug": "andoung-meas-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "អណ្ដូងមាស",
+          "en": "Andoung Meas",
+          "slug": "andoung-meas-1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160102"
+    ],
+    "geo": {
+      "lat": "13.9625732",
+      "lon": "107.3599406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "160104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាឡាវ",
+      "en": "Ta Lav",
+      "slug": "ta-lav-160104"
+    },
+    "code": {
+      "id": "160104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "អណ្ដូងមាស",
+        "en": "Andoung Meas",
+        "slug": "andoung-meas-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "រតនគិរី",
+          "en": "Ratanakiri",
+          "slug": "ratanakiri-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "អណ្ដូងមាស",
+          "en": "Andoung Meas",
+          "slug": "andoung-meas-1601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "160103"
+    ],
+    "geo": {
+      "lat": "13.916307",
+      "lon": "107.2193578"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

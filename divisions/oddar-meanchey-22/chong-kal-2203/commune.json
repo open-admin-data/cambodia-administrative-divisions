@@ -1,0 +1,226 @@
+[
+  {
+    "id": "220301",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងទៀន",
+      "en": "Cheung Tien",
+      "slug": "cheung-tien-220301"
+    },
+    "code": {
+      "id": "220301",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ចុងកាល់",
+        "en": "Chong Kal",
+        "slug": "chong-kal-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ចុងកាល់",
+          "en": "Chong Kal",
+          "slug": "chong-kal-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240301"
+    ],
+    "geo": {
+      "lat": "13.9438035",
+      "lon": "103.4725973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220302",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចុងកាល់",
+      "en": "Chong Kal",
+      "slug": "chong-kal-220302"
+    },
+    "code": {
+      "id": "220302",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ចុងកាល់",
+        "en": "Chong Kal",
+        "slug": "chong-kal-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ចុងកាល់",
+          "en": "Chong Kal",
+          "slug": "chong-kal-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "240302"
+    ],
+    "geo": {
+      "lat": "13.9536721",
+      "lon": "103.5739859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220303",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ក្រសាំង",
+      "en": "Krasang",
+      "slug": "krasang-220303"
+    },
+    "code": {
+      "id": "220303",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ចុងកាល់",
+        "en": "Chong Kal",
+        "slug": "chong-kal-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ចុងកាល់",
+          "en": "Chong Kal",
+          "slug": "chong-kal-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "200410"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220304",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពង្រ",
+      "en": "Pongro",
+      "slug": "pongro-220304"
+    },
+    "code": {
+      "id": "220304",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ចុងកាល់",
+        "en": "Chong Kal",
+        "slug": "chong-kal-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "ឧត្តរមានជ័យ",
+          "en": "Oddar Meanchey",
+          "slug": "oddar-meanchey-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ចុងកាល់",
+          "en": "Chong Kal",
+          "slug": "chong-kal-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "030707"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

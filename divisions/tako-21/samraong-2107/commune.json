@@ -1,0 +1,618 @@
+[
+  {
+    "id": "210701",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងត្រាញ់ខាងជើង",
+      "en": "Boeng Tranh Khang Cheung",
+      "slug": "boeng-tranh-khang-cheung-210701"
+    },
+    "code": {
+      "id": "210701",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210301"
+    ],
+    "geo": {
+      "lat": "11.1275263",
+      "lon": "104.7172203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210702",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងត្រាញ់ខាងត្បូង",
+      "en": "Boeng Tranh Khang Tboung",
+      "slug": "boeng-tranh-khang-tboung-210702"
+    },
+    "code": {
+      "id": "210702",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210302"
+    ],
+    "geo": {
+      "lat": "11.0908263",
+      "lon": "104.7113716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210703",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជើងគួន",
+      "en": "Cheung Kuon",
+      "slug": "cheung-kuon-210703"
+    },
+    "code": {
+      "id": "210703",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210303"
+    ],
+    "geo": {
+      "lat": "11.123253",
+      "lon": "104.8279512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210704",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ជំរះពេន",
+      "en": "Chumreah Pen",
+      "slug": "chumreah-pen-210704"
+    },
+    "code": {
+      "id": "210704",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210304"
+    ],
+    "geo": {
+      "lat": "11.147652",
+      "lon": "104.7414078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210705",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្វាវ",
+      "en": "Khvav",
+      "slug": "khvav-210705"
+    },
+    "code": {
+      "id": "210705",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170804"
+    ],
+    "geo": {
+      "lat": "11.1808176",
+      "lon": "104.722856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210706",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "លំចង់",
+      "en": "Lumchang",
+      "slug": "lumchang-210706"
+    },
+    "code": {
+      "id": "210706",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210306"
+    ],
+    "geo": {
+      "lat": "11.0589835",
+      "lon": "104.7640961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210707",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រវៀង",
+      "en": "Rovieng",
+      "slug": "rovieng-210707"
+    },
+    "code": {
+      "id": "210707",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210307"
+    ],
+    "geo": {
+      "lat": "11.1853892",
+      "lon": "104.7984073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210708",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-210708"
+    },
+    "code": {
+      "id": "210708",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": "10.8004948",
+      "lon": "104.8364855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210710",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ស្លា",
+      "en": "Sla",
+      "slug": "sla-210710"
+    },
+    "code": {
+      "id": "210710",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "210310"
+    ],
+    "geo": {
+      "lat": "11.1722471",
+      "lon": "104.8187093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210709",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សឹង្ហ",
+      "en": "Soengh",
+      "slug": "soengh-210709"
+    },
+    "code": {
+      "id": "210709",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010406"
+    ],
+    "geo": {
+      "lat": "11.1138124",
+      "lon": "104.7753673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210711",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទ្រា",
+      "en": "Trea",
+      "slug": "trea-210711"
+    },
+    "code": {
+      "id": "210711",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "សំរោង",
+        "en": "Samraong",
+        "slug": "samraong-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "តាកែវ",
+          "en": "Takéo",
+          "slug": "tako-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "សំរោង",
+          "en": "Samraong",
+          "slug": "samraong-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "060713"
+    ],
+    "geo": {
+      "lat": "11.0895447",
+      "lon": "104.8195345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

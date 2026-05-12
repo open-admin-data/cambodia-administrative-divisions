@@ -1,0 +1,170 @@
+[
+  {
+    "id": "090501",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ប៉ាក់ខ្លង",
+      "en": "Pak Khlang",
+      "slug": "pak-khlang-090501"
+    },
+    "code": {
+      "id": "090501",
+      "iso": null
+    },
+    "parent": {
+      "id": "0905",
+      "level": 2,
+      "name": {
+        "local": "មណ្ឌលសីមា",
+        "en": "Mondol Seima",
+        "slug": "mondol-seima-0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0905",
+        "level": 2,
+        "name": {
+          "local": "មណ្ឌលសីមា",
+          "en": "Mondol Seima",
+          "slug": "mondol-seima-0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090401"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090502",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពាមក្រសោប",
+      "en": "Peam Krasaob",
+      "slug": "peam-krasaob-090502"
+    },
+    "code": {
+      "id": "090502",
+      "iso": null
+    },
+    "parent": {
+      "id": "0905",
+      "level": 2,
+      "name": {
+        "local": "មណ្ឌលសីមា",
+        "en": "Mondol Seima",
+        "slug": "mondol-seima-0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0905",
+        "level": 2,
+        "name": {
+          "local": "មណ្ឌលសីមា",
+          "en": "Mondol Seima",
+          "slug": "mondol-seima-0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090402"
+    ],
+    "geo": {
+      "lat": "11.5261187",
+      "lon": "103.0003609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "090503",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលគគីរ",
+      "en": "Tuol Kokir",
+      "slug": "tuol-kokir-090503"
+    },
+    "code": {
+      "id": "090503",
+      "iso": null
+    },
+    "parent": {
+      "id": "0905",
+      "level": 2,
+      "name": {
+        "local": "មណ្ឌលសីមា",
+        "en": "Mondol Seima",
+        "slug": "mondol-seima-0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "09",
+        "level": 1,
+        "name": {
+          "local": "កោះកុង",
+          "en": "Koh Kong",
+          "slug": "koh-kong-09"
+        }
+      },
+      {
+        "id": "0905",
+        "level": 2,
+        "name": {
+          "local": "មណ្ឌលសីមា",
+          "en": "Mondol Seima",
+          "slug": "mondol-seima-0905"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "090403"
+    ],
+    "geo": {
+      "lat": "11.5279255",
+      "lon": "103.0686912"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

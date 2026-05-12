@@ -1,0 +1,282 @@
+[
+  {
+    "id": "120111",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "បឹងត្របែក",
+      "en": "Boeng Trabaek",
+      "slug": "boeng-trabaek-120111"
+    },
+    "code": {
+      "id": "120111",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "ចំការមន",
+        "en": "Chamkar Mon",
+        "slug": "chamkar-mon-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "ចំការមន",
+          "en": "Chamkar Mon",
+          "slug": "chamkar-mon-1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120111"
+    ],
+    "geo": {
+      "lat": "11.5406943",
+      "lon": "104.922449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120112",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ផ្សារដើមថ្កូវ",
+      "en": "Phsar Daeum Thkov",
+      "slug": "phsar-daeum-thkov-120112"
+    },
+    "code": {
+      "id": "120112",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "ចំការមន",
+        "en": "Chamkar Mon",
+        "slug": "chamkar-mon-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "ចំការមន",
+          "en": "Chamkar Mon",
+          "slug": "chamkar-mon-1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120112"
+    ],
+    "geo": {
+      "lat": "11.5307758",
+      "lon": "104.9192416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទន្លេបាសាក់",
+      "en": "Tonle Basak",
+      "slug": "tonle-basak-120101"
+    },
+    "code": {
+      "id": "120101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "ចំការមន",
+        "en": "Chamkar Mon",
+        "slug": "chamkar-mon-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "ចំការមន",
+          "en": "Chamkar Mon",
+          "slug": "chamkar-mon-1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120101"
+    ],
+    "geo": {
+      "lat": "11.5509405",
+      "lon": "104.9359091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលទំពូងទី ១",
+      "en": "Tuol Tumpung Ti Muoy",
+      "slug": "tuol-tumpung-ti-muoy-120110"
+    },
+    "code": {
+      "id": "120110",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "ចំការមន",
+        "en": "Chamkar Mon",
+        "slug": "chamkar-mon-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "ចំការមន",
+          "en": "Chamkar Mon",
+          "slug": "chamkar-mon-1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120109"
+    ],
+    "geo": {
+      "lat": "11.5402098",
+      "lon": "104.9171345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "120109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ទួលទំពូងទី ២",
+      "en": "Tuol Tumpung Ti Pir",
+      "slug": "tuol-tumpung-ti-pir-120109"
+    },
+    "code": {
+      "id": "120109",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "ចំការមន",
+        "en": "Chamkar Mon",
+        "slug": "chamkar-mon-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "ភ្នំពេញ",
+          "en": "Phnom Penh",
+          "slug": "phnom-penh-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "ចំការមន",
+          "en": "Chamkar Mon",
+          "slug": "chamkar-mon-1201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "120110"
+    ],
+    "geo": {
+      "lat": "11.5390817",
+      "lon": "104.911736"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

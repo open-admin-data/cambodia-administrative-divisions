@@ -1,0 +1,378 @@
+[
+  {
+    "id": "2008",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "បាវិត",
+      "en": "Bavet",
+      "slug": "bavet-2008"
+    },
+    "code": {
+      "id": "2008",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.0691272",
+      "lon": "106.1436226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2001",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ចន្ទ្រា",
+      "en": "Chantrea",
+      "slug": "chantrea-2001"
+    },
+    "code": {
+      "id": "2001",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.9949854",
+      "lon": "106.1174193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2002",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "កំពង់រោទិ៍",
+      "en": "Kampong Rou",
+      "slug": "kampong-rou-2002"
+    },
+    "code": {
+      "id": "2002",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.920359",
+      "lon": "105.9404897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2004",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "រមាសហែក",
+      "en": "Romeas Haek",
+      "slug": "romeas-haek-2004"
+    },
+    "code": {
+      "id": "2004",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41244",
+      "lon": "105.7908573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2003",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "រំដួល",
+      "en": "Rumduol",
+      "slug": "rumduol-2003"
+    },
+    "code": {
+      "id": "2003",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.1593741",
+      "lon": "105.8184506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2005",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្វាយជ្រំ",
+      "en": "Svay Chrum",
+      "slug": "svay-chrum-2005"
+    },
+    "code": {
+      "id": "2005",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.115479",
+      "lon": "105.7152969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2006",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្វាយរៀង",
+      "en": "Svay Rieng",
+      "slug": "svay-rieng-2006"
+    },
+    "code": {
+      "id": "2006",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.080095",
+      "lon": "105.7974874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2007",
+    "level": 2,
+    "level_name": {
+      "local": "ស្រុក",
+      "en": "District"
+    },
+    "name": {
+      "local": "ស្វាយទាប",
+      "en": "Svay Teab",
+      "slug": "svay-teab-2007"
+    },
+    "code": {
+      "id": "2007",
+      "iso": null
+    },
+    "parent": {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ស្វាយរៀង",
+        "en": "Svay Rieng",
+        "slug": "svay-rieng-20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ស្វាយរៀង",
+          "en": "Svay Rieng",
+          "slug": "svay-rieng-20"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.0488171",
+      "lon": "105.8806472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

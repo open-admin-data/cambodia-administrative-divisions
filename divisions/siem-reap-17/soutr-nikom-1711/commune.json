@@ -1,0 +1,562 @@
+[
+  {
+    "id": "171101",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ចាន់ស",
+      "en": "Chan Sa",
+      "slug": "chan-sa-171101"
+    },
+    "code": {
+      "id": "171101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170401"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171102",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដំដែក",
+      "en": "Dam Daek",
+      "slug": "dam-daek-171102"
+    },
+    "code": {
+      "id": "171102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170402"
+    ],
+    "geo": {
+      "lat": "13.2459296",
+      "lon": "104.1219699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171103",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ដានរុន",
+      "en": "Dan Run",
+      "slug": "dan-run-171103"
+    },
+    "code": {
+      "id": "171103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170403"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171104",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កំពង់ឃ្លាំង",
+      "en": "Kampong Khleang",
+      "slug": "kampong-khleang-171104"
+    },
+    "code": {
+      "id": "171104",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170404"
+    ],
+    "geo": {
+      "lat": "13.1063878",
+      "lon": "104.1263131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171106",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្ចាស់",
+      "en": "Khchas",
+      "slug": "khchas-171106"
+    },
+    "code": {
+      "id": "171106",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170406"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171107",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ខ្នារពោធិ៍",
+      "en": "Khnar Pou",
+      "slug": "khnar-pou-171107"
+    },
+    "code": {
+      "id": "171107",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170407"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171105",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "កៀនសង្កែ",
+      "en": "Kien Sangkae",
+      "slug": "kien-sangkae-171105"
+    },
+    "code": {
+      "id": "171105",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170405"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171108",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ពពេល",
+      "en": "Popel",
+      "slug": "popel-171108"
+    },
+    "code": {
+      "id": "171108",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "040409"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171109",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សំរោង",
+      "en": "Samraong",
+      "slug": "samraong-171109"
+    },
+    "code": {
+      "id": "171109",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "010404"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "171110",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាយ៉ែក",
+      "en": "Ta Yaek",
+      "slug": "ta-yaek-171110"
+    },
+    "code": {
+      "id": "171110",
+      "iso": null
+    },
+    "parent": {
+      "id": "1711",
+      "level": 2,
+      "name": {
+        "local": "សូទ្រនិគម",
+        "en": "Soutr Nikom",
+        "slug": "soutr-nikom-1711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "សៀមរាប",
+          "en": "Siem Reap",
+          "slug": "siem-reap-17"
+        }
+      },
+      {
+        "id": "1711",
+        "level": 2,
+        "name": {
+          "local": "សូទ្រនិគម",
+          "en": "Soutr Nikom",
+          "slug": "soutr-nikom-1711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "170410"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

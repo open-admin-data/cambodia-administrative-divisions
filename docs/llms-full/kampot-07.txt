@@ -1,0 +1,426 @@
+# Kampot — Cambodia Administrative Divisions
+
+> 9 districts, 93 communes
+> Code: 07
+> Coordinates: 10.6314754, 104.132637
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Districts
+
+### អង្គរជ័យ (Angkor Chey)
+
+Code: 0701, Coordinates: 10.8393757, 104.6545648
+Communes: 11
+
+#### អង្គភ្នំតូច (Angk Phnum Touch)
+
+Code: 070101, Postal: 070401, Coordinates: 10.8151201, 104.6823746
+
+#### អង្គរជ័យ (Ankor Chey)
+
+Code: 070102, Postal: 070402, Coordinates: 10.8219822, 104.6521087
+
+#### ចំប៉ី (Champei)
+
+Code: 070103, Postal: 210802, Coordinates: 10.8943714, 104.6495944
+
+#### ដើមដូង (Daeum Doung)
+
+Code: 070106, Postal: 070406, Coordinates: 10.7054358, 104.651842
+
+#### ដំបូកខ្ពស់ (Dambouk Khpos)
+
+Code: 070104, Postal: 070404
+
+#### ដានគោម (Dan Koum)
+
+Code: 070105, Postal: 070405, Coordinates: 10.8361062, 104.5812428
+
+#### ម្រោម (Mroum)
+
+Code: 070107, Postal: 070407, Coordinates: 10.7381994, 104.664772
+
+#### ភ្នំកុង (Phnum Kong)
+
+Code: 070108, Postal: 070408, Coordinates: 10.7660369, 104.6335848
+
+#### ប្រភ្នំ (Praphnum)
+
+Code: 070109, Postal: 070409, Coordinates: 10.8442567, 104.6496726
+
+#### សំឡាញ (Samlanh)
+
+Code: 070110, Postal: 070410, Coordinates: 10.8702524, 104.6474939
+
+#### តានី (Tani)
+
+Code: 070111, Postal: 070411, Coordinates: 10.7924475, 104.6602167
+
+### បន្ទាយមាស (Banteay Meas)
+
+Code: 0702, Coordinates: 10.6731987, 104.5571703
+Communes: 15
+
+#### បន្ទាយមាសខាងកើត (Banteay Meas Khang Kaeut)
+
+Code: 070201, Postal: 070301, Coordinates: 10.6489257, 104.6560354
+
+#### បន្ទាយមាសខាងលិច (Banteay Meas Khang lech)
+
+Code: 070202, Postal: 070302, Coordinates: 10.6306337, 104.629536
+
+#### ព្រៃទន្លេ (Prey Tonle)
+
+Code: 070203, Postal: 070303, Coordinates: 10.5468098, 104.628729
+
+#### សំរោងក្រោម (Samraong Kraom)
+
+Code: 070204, Postal: 120901, Coordinates: 10.6928341, 104.5699143
+
+#### សំរោងលើ (Samraong Leu)
+
+Code: 070205, Postal: 070305, Coordinates: 10.7339911, 104.5947822
+
+#### ស្ដេចគង់ខាងជើង (Sdach Kong Khang Cheung)
+
+Code: 070206, Postal: 070306
+
+#### ស្ដេចគង់ខាងលិច (Sdach Kong Khang lech)
+
+Code: 070207, Postal: 070307, Coordinates: 10.6359773, 104.5374459
+
+#### ស្ដេចគង់ខាងត្បូង (Sdach Kong Khang Tboung)
+
+Code: 070208, Postal: 070308, Coordinates: 10.5840083, 104.5592681
+
+#### ត្នោតចុងស្រង់ (Tnoat Chong Srang)
+
+Code: 070209, Postal: 070309, Coordinates: 10.5890204, 104.6902749
+
+#### ត្រពាំងសាលាខាងកើត (Trapeang Sala Khang Kaeut)
+
+Code: 070210, Postal: 070310, Coordinates: 10.7044991, 104.6238894
+
+#### ត្រពាំងសាលាខាងលិច (Trapeang Sala Khang Lech)
+
+Code: 070211, Postal: 070311, Coordinates: 10.7168423, 104.5974927
+
+#### ទូកមាសខាងកើត (Tuk Meas Khang Kaeut)
+
+Code: 070212, Postal: 070312
+
+#### ទូកមាសខាងលិច (Tuk Meas Khang Lech)
+
+Code: 070213, Postal: 070313, Coordinates: 10.6568164, 104.5511617
+
+#### វត្ដអង្គខាងជើង (Voat Angk Khang Cheung)
+
+Code: 070214, Postal: 70214, Coordinates: 10.7531241, 104.5247463
+
+#### វត្ដអង្គខាងត្បូង (Voat Angk Khang Tboung)
+
+Code: 070215, Postal: 70215, Coordinates: 10.7078208, 104.5373652
+
+### បូកគោ (Bokor)
+
+Code: 0709
+Communes: 3
+
+#### បឹងទូក (Boeng Tuk)
+
+Code: 070901, Postal: 070201, Coordinates: 10.5668686, 104.1272214
+
+#### កោះតូច (Kaoh Touch)
+
+Code: 070902, Postal: 070206
+
+#### ព្រែកត្នោត (Preaek Tnoat)
+
+Code: 070903, Postal: 070209
+
+### ឈូក (Chhuk)
+
+Code: 0703, Coordinates: 10.8359739, 104.4548114
+Communes: 15
+
+#### បានៀវ (Baniev)
+
+Code: 070301, Postal: 070101, Coordinates: 10.7860473, 104.4834576
+
+#### បឹងនិមល (Boeng Nimol)
+
+Code: 070303, Postal: 070103, Coordinates: 10.8096022, 104.4158446
+
+#### ឈូក (Chhuk)
+
+Code: 070304, Postal: 250201
+
+#### តេជោអភិវឌ្ឍន៍ (Dechou Akphivoadth)
+
+Code: 070315, Postal: 070115
+
+#### ដូនយ៉យ (Doun Yay)
+
+Code: 070305, Postal: 070105, Coordinates: 10.7861134, 104.4484444
+
+#### ក្រាំងស្បូវ (Krang Sbov)
+
+Code: 070306, Postal: 070106, Coordinates: 10.7984279, 104.5133488
+
+#### ក្រាំងស្នាយ (Krang Snay)
+
+Code: 070307, Postal: 070107, Coordinates: 10.8549452, 104.4896537
+
+#### ល្បើក (Lbaeuk)
+
+Code: 070308, Postal: 070108, Coordinates: 10.803637, 104.3073463
+
+#### មានជ័យ (Mean Chey)
+
+Code: 070310, Postal: 020906
+
+#### នារាយណ៍ (Neareay)
+
+Code: 070311, Postal: 070111, Coordinates: 10.8779793, 104.530545
+
+#### សត្វពង (Satv Pong)
+
+Code: 070312, Postal: 070112, Coordinates: 10.8223695, 104.4548621
+
+#### តាកែន (Takaen)
+
+Code: 070302, Postal: 070102, Coordinates: 10.9312349, 104.3028683
+
+#### ត្រមែង (Tramaeng)
+
+Code: 070314, Postal: 070114, Coordinates: 10.8434556, 104.5087408
+
+#### ត្រពាំងបី (Trapeang Bei)
+
+Code: 070313, Postal: 070113, Coordinates: 10.7903621, 104.3540552
+
+#### ត្រពាំងភ្លាំង (Trapeang Phleang)
+
+Code: 070309, Postal: 070109
+
+### ជុំគិរី (Chum Kiri)
+
+Code: 0704, Coordinates: 10.9239398, 104.4190765
+Communes: 7
+
+#### ច្រេស (Chres)
+
+Code: 070401, Postal: 040203
+
+#### ជំពូវន្ដ (Chumpu Voan)
+
+Code: 070402, Postal: 070702, Coordinates: 10.9003413, 104.4117102
+
+#### ស្នាយអញ្ជិត (Snay Anhchit)
+
+Code: 070403, Postal: 070703, Coordinates: 10.9491419, 104.4321705
+
+#### ស្រែចែង (Srae Chaeng)
+
+Code: 070404, Postal: 070704, Coordinates: 11.023506, 104.4386729
+
+#### ស្រែក្នុង (Srae Knong)
+
+Code: 070405, Postal: 070705, Coordinates: 10.9715713, 104.4724243
+
+#### ស្រែសំរោង (Srae Samraong)
+
+Code: 070406, Postal: 070706, Coordinates: 10.9318503, 104.4650531
+
+#### ត្រពាំងរាំង (Trapeang Reang)
+
+Code: 070407, Postal: 070707, Coordinates: 10.9249624, 104.4010296
+
+### ដងទង់ (Dang Tong)
+
+Code: 0705, Coordinates: 10.7035925, 104.4459825
+Communes: 10
+
+#### អង្គ រមាស (Angk Romeas)
+
+Code: 070509, Postal: 070509, Coordinates: 10.7720028, 104.3933787
+
+#### ដំណាក់សុក្រំ (Damnak Sokram)
+
+Code: 070501, Postal: 070501, Coordinates: 10.7574491, 104.4492317
+
+#### ដងទង់ (Dang Tong)
+
+Code: 070502, Postal: 090702, Coordinates: 10.7048258, 104.4474874
+
+#### ឃ្ជាយខាងជើង (Khcheay Khang Cheung)
+
+Code: 070503, Postal: 070503
+
+#### ខ្ជាយខាងត្បូង (Khcheay Khang Tboung)
+
+Code: 070504, Postal: 070504, Coordinates: 10.6410303, 104.4792653
+
+#### ល្អាង (L&#39;ang)
+
+Code: 070510, Postal: 070510, Coordinates: 10.7228987, 104.3200595
+
+#### មានរិទ្ធិ (Mean Ritth)
+
+Code: 070505, Postal: 070505, Coordinates: 10.6964709, 104.3868601
+
+#### ស្រែជាខាងជើង (Srae Chea Khang Cheung)
+
+Code: 070506, Postal: 070506, Coordinates: 10.6796295, 104.4186874
+
+#### ស្រែជាខាងត្បូង (Srae Chea Khang Tboung)
+
+Code: 070507, Postal: 070507, Coordinates: 10.6592898, 104.3973228
+
+#### ទទុង (Totung)
+
+Code: 070508, Postal: 070508, Coordinates: 10.7243245, 104.4999626
+
+### កំពង់ត្រាច (Kampong Trach)
+
+Code: 0706, Coordinates: 10.5571918, 104.4678996
+Communes: 14
+
+#### អង្គសុរភី (Ang Sophy)
+
+Code: 070609, Postal: 070609, Coordinates: 10.5694871, 104.5032219
+
+#### បឹងសាលាខាងជើង (Boeng Sala Khang Cheung)
+
+Code: 070601, Postal: 070601, Coordinates: 10.5341096, 104.5076282
+
+#### បឹងសាលាខាងត្បូង (Boeng Sala Khang Tboung)
+
+Code: 070602, Postal: 070602, Coordinates: 10.4827786, 104.5097858
+
+#### ដំណាក់កន្ទួតខាងជើង (Damnak Kantuot Khang Cheung)
+
+Code: 070603, Postal: 070603, Coordinates: 10.5950318, 104.485605
+
+#### ដំណាក់កន្ទួតខាងត្បូង (Damnak Kantuot Khang Tboung)
+
+Code: 070604, Postal: 070604, Coordinates: 10.5971259, 104.4559779
+
+#### កំពង់ត្រាចខាងកើត (Kampong Trach Khang Kaeut)
+
+Code: 070605, Postal: 070605
+
+#### កំពង់ត្រាចខាងលិច (Kampong Trach Khang Lech)
+
+Code: 070606, Postal: 070606, Coordinates: 10.5425889, 104.4090512
+
+#### ភ្នំប្រាសាទ (Phnom Prasat)
+
+Code: 070608, Postal: 070608, Coordinates: 10.5486084, 104.5303573
+
+#### ប្រាសាទភ្នំខ្យង (Prasat Phnom Khyang)
+
+Code: 070607, Postal: 070607
+
+#### ព្រែកក្រឹស (Preaek Kroes)
+
+Code: 070612, Postal: 070610, Coordinates: 10.5238606, 104.578359
+
+#### ឫស្សីស្រុកខាងកើត (Ruessei Srok Khang Kaeut)
+
+Code: 070613, Postal: 070611, Coordinates: 10.4687223, 104.4892533
+
+#### ឫស្សីស្រុកខាងលិច (Ruessei Srok Khang Lech)
+
+Code: 070614, Postal: 070612, Coordinates: 10.4460283, 104.4389477
+
+#### ស្វាយទងខាងជើង (Svay Tong Khang Cheung)
+
+Code: 070615, Postal: 070613, Coordinates: 10.5065471, 104.4281801
+
+#### ស្វាយទងខាងត្បូង (Svay Tong Khang Tboung)
+
+Code: 070616, Postal: 070614, Coordinates: 10.4748118, 104.4282334
+
+### កំពត (Kampot)
+
+Code: 0708, Coordinates: 10.6183061, 104.1797339
+Communes: 5
+
+#### អណ្ដូងខ្មែរ (Andoung Khmer)
+
+Code: 070804, Postal: 070804, Coordinates: 10.605796, 104.1714026
+
+#### កំពង់បាយ (Kampong Bay)
+
+Code: 070803, Postal: 070803, Coordinates: 10.6140375, 104.1757898
+
+#### កំពង់កណ្ដាល (Kampong Kandal)
+
+Code: 070801, Postal: 070801, Coordinates: 10.6058628, 104.185856
+
+#### ក្រាំងអំពិល (Krang Ampil)
+
+Code: 070802, Postal: 070802, Coordinates: 10.6136396, 104.1828648
+
+#### ត្រើយកោះ (Traeuy Kaoh)
+
+Code: 070805, Postal: 070805, Coordinates: 10.571232, 104.1872801
+
+### ទឹកឈូ (Tuek Chhou)
+
+Code: 0707, Coordinates: 10.6040823, 104.2496624
+Communes: 13
+
+#### ជុំគ្រៀល (Chum Kriel)
+
+Code: 070702, Postal: 070202, Coordinates: 10.5915861, 104.222154
+
+#### កំពង់ក្រែង (Kampong Kraeng)
+
+Code: 070703, Postal: 070203, Coordinates: 10.6406942, 104.1743516
+
+#### កំពង់សំរោង (Kampong Samraong)
+
+Code: 070704, Postal: 070204, Coordinates: 10.6276602, 104.2134347
+
+#### កណ្ដោល (Kandaol)
+
+Code: 070705, Postal: 090102, Coordinates: 10.6594549, 104.2977433
+
+#### កូនសត្វ (Koun Satv)
+
+Code: 070708, Postal: 070207
+
+#### ម៉ាក់ប្រាង្គ (Makprang)
+
+Code: 070709, Postal: 070208, Coordinates: 10.6738647, 104.1403895
+
+#### ព្រៃឃ្មុំ (Prey Khmum)
+
+Code: 070712, Postal: 070210, Coordinates: 10.6577956, 104.2008382
+
+#### ព្រៃថ្នង (Prey Thnang)
+
+Code: 070713, Postal: 070211, Coordinates: 10.7019777, 104.2688058
+
+#### ស្ទឹងកែវ (Stueng Kaev)
+
+Code: 070715, Postal: 070212
+
+#### ថ្មី (Thmei)
+
+Code: 070716, Postal: 010503
+
+#### ត្រពាំងព្រីង (Trapeang Pring)
+
+Code: 070717, Postal: 250107, Coordinates: 10.6317411, 104.3035595
+
+#### ត្រពាំងសង្កែ (Trapeang Sangkae)
+
+Code: 070718, Postal: 070215, Coordinates: 10.6014943, 104.245408
+
+#### ត្រពាំងធំ (Trapeang Thum)
+
+Code: 070719, Postal: 170508, Coordinates: 10.6164049, 104.1998322
+

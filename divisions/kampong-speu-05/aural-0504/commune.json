@@ -1,0 +1,282 @@
+[
+  {
+    "id": "050401",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ហោងសំណំ",
+      "en": "Haong Samnam",
+      "slug": "haong-samnam-050401"
+    },
+    "code": {
+      "id": "050401",
+      "iso": null
+    },
+    "parent": {
+      "id": "0504",
+      "level": 2,
+      "name": {
+        "local": "ឱរ៉ាល់",
+        "en": "Aural",
+        "slug": "aural-0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0504",
+        "level": 2,
+        "name": {
+          "local": "ឱរ៉ាល់",
+          "en": "Aural",
+          "slug": "aural-0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050701"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050402",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "រស្មីសាមគ្គី",
+      "en": "Reaksmei Sameakki",
+      "slug": "reaksmei-sameakki-050402"
+    },
+    "code": {
+      "id": "050402",
+      "iso": null
+    },
+    "parent": {
+      "id": "0504",
+      "level": 2,
+      "name": {
+        "local": "ឱរ៉ាល់",
+        "en": "Aural",
+        "slug": "aural-0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0504",
+        "level": 2,
+        "name": {
+          "local": "ឱរ៉ាល់",
+          "en": "Aural",
+          "slug": "aural-0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050702"
+    ],
+    "geo": {
+      "lat": "11.5617581",
+      "lon": "104.1233667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050404",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "សង្កែសាទប",
+      "en": "Sangkae Satob",
+      "slug": "sangkae-satob-050404"
+    },
+    "code": {
+      "id": "050404",
+      "iso": null
+    },
+    "parent": {
+      "id": "0504",
+      "level": 2,
+      "name": {
+        "local": "ឱរ៉ាល់",
+        "en": "Aural",
+        "slug": "aural-0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0504",
+        "level": 2,
+        "name": {
+          "local": "ឱរ៉ាល់",
+          "en": "Aural",
+          "slug": "aural-0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050704"
+    ],
+    "geo": {
+      "lat": "11.6880365",
+      "lon": "104.1290285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050405",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "តាសាល",
+      "en": "Ta Sal",
+      "slug": "ta-sal-050405"
+    },
+    "code": {
+      "id": "050405",
+      "iso": null
+    },
+    "parent": {
+      "id": "0504",
+      "level": 2,
+      "name": {
+        "local": "ឱរ៉ាល់",
+        "en": "Aural",
+        "slug": "aural-0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0504",
+        "level": 2,
+        "name": {
+          "local": "ឱរ៉ាល់",
+          "en": "Aural",
+          "slug": "aural-0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050705"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "050403",
+    "level": 3,
+    "level_name": {
+      "local": "ឃុំ",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "ត្រពាំងជោ",
+      "en": "Trapeang Chour",
+      "slug": "trapeang-chour-050403"
+    },
+    "code": {
+      "id": "050403",
+      "iso": null
+    },
+    "parent": {
+      "id": "0504",
+      "level": 2,
+      "name": {
+        "local": "ឱរ៉ាល់",
+        "en": "Aural",
+        "slug": "aural-0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "05",
+        "level": 1,
+        "name": {
+          "local": "កំពង់ស្ពឺ",
+          "en": "Kampong Speu",
+          "slug": "kampong-speu-05"
+        }
+      },
+      {
+        "id": "0504",
+        "level": 2,
+        "name": {
+          "local": "ឱរ៉ាល់",
+          "en": "Aural",
+          "slug": "aural-0504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "050703"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

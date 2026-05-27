@@ -3,7 +3,7 @@
 > 2 districts, 8 communes
 > Code: 24
 > Coordinates: 12.89053285, 102.62946042446026
-> Last updated: 2026-05-12. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

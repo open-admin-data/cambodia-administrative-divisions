@@ -3,7 +3,7 @@
 > 9 districts, 93 communes
 > Code: 07
 > Coordinates: 10.6314754, 104.132637
-> Last updated: 2026-05-12. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Districts
 

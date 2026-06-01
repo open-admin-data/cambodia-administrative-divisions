@@ -3,7 +3,7 @@
 > 8 districts, 80 communes
 > Code: 20
 > Coordinates: 11.1942275, 105.7973275083619
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

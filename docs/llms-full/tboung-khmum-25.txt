@@ -3,7 +3,7 @@
 > 7 districts, 64 communes
 > Code: 25
 > Coordinates: 11.950072599999999, 105.824571891073
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

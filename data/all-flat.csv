@@ -1,236 +1,237 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.commune,zip_codes,geo.lat,geo.lon
-01,1,ខេត្ត,Province,បន្ទាយមានជ័យ,Banteay Meanchey,banteay-meanchey-01,01,,,,,,9,67,,13.7989147,102.8862666
-0102,2,ស្រុក,District,មង្គលបូរី,Mongkol Borey,mongkol-borey-0102,0102,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,13,,13.4940861,102.9791567
-0103,2,ស្រុក,District,ភ្នំស្រុក,Phnum Srok,phnum-srok-0103,0103,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,6,,13.7579963,103.3357732
-0104,2,ស្រុក,District,ព្រះនេត្រព្រះ,Preah Netr Preah,preah-netr-preah-0104,0104,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,9,,13.5746664,103.2766571
-0105,2,ស្រុក,District,អូរជ្រៅ,Ou Chrov,ou-chrov-0105,0105,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,7,,13.6129122,102.7651907
-0106,2,ស្រុក,District,សិរីសោភ័ណ,Serei Saophoan,serei-saophoan-0106,0106,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,7,,13.5884004,102.9700274
-0107,2,ស្រុក,District,ថ្មពួក,Thma Puok,thma-puok-0107,0107,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,6,,13.9494974,103.0544638
-0108,2,ស្រុក,District,ស្វាយចេក,Svay Chek,svay-chek-0108,0108,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,8,,13.7837644,102.961198
-0109,2,ស្រុក,District,ម៉ាឡៃ,Malai,malai-0109,0109,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,6,,13.5609461,102.3709867
-0110,2,ស្រុក,District,ប៉ោយប៉ែត,Poipet,poipet-0110,0110,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,5,,13.6593962,102.5708301
-02,1,ខេត្ត,Province,បាត់ដំបង,Battambang,battambang-02,02,,,,,,14,103,,12.9256791,103.23171364274523
-0201,2,ស្រុក,District,បាណន់,Banan,banan-0201,0201,,02,បាត់ដំបង,Battambang,,,8,,12.95192635,103.07601322092293
-0202,2,ស្រុក,District,ថ្មគោល,Thma Koul,thma-koul-0202,0202,,02,បាត់ដំបង,Battambang,,,10,,13.24944415,103.07118059476997
-0203,2,ស្រុក,District,បាត់ដំបង,Battambang,battambang-0203,0203,,02,បាត់ដំបង,Battambang,,,10,,13.0937231,103.18673434190434
-0204,2,ស្រុក,District,បវេល,Bavel,bavel-0204,0204,,02,បាត់ដំបង,Battambang,,,9,,13.216788000000001,102.82214789233467
-0205,2,ស្រុក,District,ឯកភ្នំ,Aek Phnum,aek-phnum-0205,0205,,02,បាត់ដំបង,Battambang,,,7,,13.1631918,103.2305121
-0206,2,ស្រុក,District,មោងឫស្សី,Moung Ruessei,moung-ruessei-0206,0206,,02,បាត់ដំបង,Battambang,,,9,,12.775758,103.4486415
-0207,2,ស្រុក,District,រតនមណ្ឌល,Rotonak Mondol,rotonak-mondol-0207,0207,,02,បាត់ដំបង,Battambang,,,5,,12.9086418,102.8824003119087
-0208,2,ស្រុក,District,សង្កែ,Sangkae,sangkae-0208,0208,,02,បាត់ដំបង,Battambang,,,10,,13.0744566,103.2438673
-0209,2,ស្រុក,District,សំឡូត,Samlout,samlout-0209,0209,,02,បាត់ដំបង,Battambang,,,7,,12.6226916,102.8523788
-0210,2,ស្រុក,District,សំពៅលូន,Sampov Lun,sampov-lun-0210,0210,,02,បាត់ដំបង,Battambang,,,6,,13.419025099999999,102.5236318714496
-0211,2,ស្រុក,District,ភ្នំព្រឹក,Phnum Proek,phnum-proek-0211,0211,,02,បាត់ដំបង,Battambang,,,5,,13.29109285,102.51932343699104
-0212,2,ស្រុក,District,កំរៀង,Kamrieng,kamrieng-0212,0212,,02,បាត់ដំបង,Battambang,,,6,,13.0899494,102.51831760938151
-0213,2,ស្រុក,District,គាស់ក្រឡ,Koas Krala,koas-krala-0213,0213,,02,បាត់ដំបង,Battambang,,,6,,12.7550281,103.2628529
-0214,2,ស្រុក,District,រុក្ខគិរី,Rukh Kiri,rukh-kiri-0214,0214,,02,បាត់ដំបង,Battambang,,,5,,12.59417915,103.43565034578185
-03,1,ខេត្ត,Province,កំពង់ចាម,Kampong Cham,kampong-cham-03,03,,,,,,10,109,,12.1174857,105.20800220742942
-0301,2,ស្រុក,District,បាធាយ,Batheay,batheay-0301,0301,,03,កំពង់ចាម,Kampong Cham,,,12,,11.9931056,104.9457831
-0302,2,ស្រុក,District,ចំការលើ,Chamkar Leu,chamkar-leu-0302,0302,,03,កំពង់ចាម,Kampong Cham,,,8,,12.3013417,105.2924357
-0303,2,ស្រុក,District,ជើងព្រៃ,Cheung Prey,cheung-prey-0303,0303,,03,កំពង់ចាម,Kampong Cham,,,10,,12.053626,105.0717844
-0305,2,ស្រុក,District,កំពង់ចាម,Kampong Cham,kampong-cham-0305,0305,,03,កំពង់ចាម,Kampong Cham,,,4,,11.9921855,105.4628346
-0306,2,ស្រុក,District,កំពង់សៀម,Kampong Siem,kampong-siem-0306,0306,,03,កំពង់ចាម,Kampong Cham,,,15,,12.0210166,105.4271324
-0307,2,ស្រុក,District,កងមាស,Kang Meas,kang-meas-0307,0307,,03,កំពង់ចាម,Kampong Cham,,,11,,11.9504688,105.2707989
-0308,2,ស្រុក,District,កោះសូទិន,Kaoh Soutin,kaoh-soutin-0308,0308,,03,កំពង់ចាម,Kampong Cham,,,8,,11.8823352,105.4399467
-0313,2,ស្រុក,District,ព្រៃឈរ,Prey Chhor,prey-chhor-0313,0313,,03,កំពង់ចាម,Kampong Cham,,,15,,12.055781,105.2552028
-0314,2,ស្រុក,District,ស្រីសន្ធរ,Srei Santhor,srei-santhor-0314,0314,,03,កំពង់ចាម,Kampong Cham,,,14,,11.8363518,105.0858745
-0315,2,ស្រុក,District,ស្ទឹងត្រង់,Stueng Trang,stueng-trang-0315,0315,,03,កំពង់ចាម,Kampong Cham,,,12,,12.2571813,105.5388356
-04,1,ខេត្ត,Province,កំពង់ឆ្នាំង,Kampong Chhnang,kampong-chhnang-04,04,,,,,,8,71,,12.1382025,104.3354098
-0401,2,ស្រុក,District,បរិបូណ៌,Baribour,baribour-0401,0401,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,11,,12.4389574,104.4623541
-0402,2,ស្រុក,District,ជលគីរី,Chol Kiri,chol-kiri-0402,0402,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,5,,12.1593491,104.8815344
-0403,2,ស្រុក,District,កំពង់ឆ្នាំង,Kampong Chhnang,kampong-chhnang-0403,0403,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,4,,12.2536026,104.6658389
-0404,2,ស្រុក,District,កំពង់លែង,Kampong Leaeng,kampong-leaeng-0404,0404,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,9,,12.2741853,104.7254311
-0405,2,ស្រុក,District,កំពង់ត្រឡាច,Kampong Tralach,kampong-tralach-0405,0405,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,10,,11.9384963,104.7136203
-0406,2,ស្រុក,District,រលាប្អៀរ,Rolea B'ier,rolea-bier-0406,0406,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,14,,12.2059838,104.6613026
-0407,2,ស្រុក,District,សាមគ្គីមានជ័យ,Sameakki Mean Chey,sameakki-mean-chey-0407,0407,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,9,,11.8772162,104.6041473
-0408,2,ស្រុក,District,ទឹកផុស,Tuek Phos,tuek-phos-0408,0408,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,9,,12.052069,104.5259324
-05,1,ខេត្ត,Province,កំពង់ស្ពឺ,Kampong Speu,kampong-speu-05,05,,,,,,9,88,,11.57753675,104.27140233242656
-0501,2,ស្រុក,District,បរសេដ្ឋ,Basedth,basedth-0501,0501,,05,កំពង់ស្ពឺ,Kampong Speu,,,15,,11.200398,104.50433350548424
-0502,2,ស្រុក,District,ច្បារមន,Chbar Mon,chbar-mon-0502,0502,,05,កំពង់ស្ពឺ,Kampong Speu,,,5,,11.4647156,104.5194625
-0503,2,ស្រុក,District,គងពិសី,Kong Pisei,kong-pisei-0503,0503,,05,កំពង់ស្ពឺ,Kampong Speu,,,13,,11.3106024,104.62320857080852
-0504,2,ស្រុក,District,ឱរ៉ាល់,Aural,aural-0504,0504,,05,កំពង់ស្ពឺ,Kampong Speu,,,5,,11.777897450000001,104.01083834230268
-0506,2,ស្រុក,District,ភ្នំស្រួច,Phnum Sruoch,phnum-sruoch-0506,0506,,05,កំពង់ស្ពឺ,Kampong Speu,,,13,,11.310279900000001,104.25317703358202
-0507,2,ស្រុក,District,សំរោងទង,Samraong Tong,samraong-tong-0507,0507,,05,កំពង់ស្ពឺ,Kampong Speu,,,15,,11.45044745,104.60617304001704
-0508,2,ស្រុក,District,ថ្ពង,Thpong,thpong-0508,0508,,05,កំពង់ស្ពឺ,Kampong Speu,,,7,,11.758617300000001,104.34032516738003
-0509,2,ស្រុក,District,ឧដុង្គម៉ែជ័យ,Odongk Maechay,odongk-maechay-0509,0509,,05,កំពង់ស្ពឺ,Kampong Speu,,,5,,,
-0510,2,ស្រុក,District,សាមគ្គីមុនីជ័យ,Samkkei Munichay,samkkei-munichay-0510,0510,,05,កំពង់ស្ពឺ,Kampong Speu,,,10,,,
-06,1,ខេត្ត,Province,កំពង់ធំ,Kampong Thom,kampong-thom-06,06,,,,,,9,81,,12.6687923,104.8879197
-0601,2,ស្រុក,District,បារាយណ៍,Baray,baray-0601,0601,,06,កំពង់ធំ,Kampong Thom,,,10,,12.3892868,105.0789445
-0602,2,ស្រុក,District,កំពង់ស្វាយ,Kampong Svay,kampong-svay-0602,0602,,06,កំពង់ធំ,Kampong Thom,,,11,,12.7915777,104.8249107
-0603,2,ស្រុក,District,ស្ទឹងសែន,Stueng Saen,stueng-saen-0603,0603,,06,កំពង់ធំ,Kampong Thom,,,8,,12.7126242,104.8891082
-0604,2,ស្រុក,District,ប្រាសាទបល្ល័ង្គ,Prasat Ballangk,prasat-ballangk-0604,0604,,06,កំពង់ធំ,Kampong Thom,,,7,,12.9782682,104.941493
-0605,2,ស្រុក,District,ប្រាសាទសំបូរ,Prasat Sambour,prasat-sambour-0605,0605,,06,កំពង់ធំ,Kampong Thom,,,5,,12.8857488,105.0679436
-0606,2,ស្រុក,District,សណ្ដាន់,Sandan,sandan-0606,0606,,06,កំពង់ធំ,Kampong Thom,,,9,,13.1006423,105.245985
-0607,2,ស្រុក,District,សន្ទុក,Santuk,santuk-0607,0607,,06,កំពង់ធំ,Kampong Thom,,,10,,12.5628043,105.049388
-0608,2,ស្រុក,District,ស្ទោង,Stoung,stoung-0608,0608,,06,កំពង់ធំ,Kampong Thom,,,13,,12.9389734,104.5716049
-0609,2,ស្រុក,District,តាំងគោក,Tang Kouk,tang-kouk-0609,0609,,06,កំពង់ធំ,Kampong Thom,,,8,,,
-07,1,ខេត្ត,Province,កំពត,Kampot,kampot-07,07,,,,,,9,93,,10.6314754,104.132637
-0701,2,ស្រុក,District,អង្គរជ័យ,Angkor Chey,angkor-chey-0701,0701,,07,កំពត,Kampot,,,11,,10.8393757,104.6545648
-0702,2,ស្រុក,District,បន្ទាយមាស,Banteay Meas,banteay-meas-0702,0702,,07,កំពត,Kampot,,,15,,10.6731987,104.5571703
-0703,2,ស្រុក,District,ឈូក,Chhuk,chhuk-0703,0703,,07,កំពត,Kampot,,,15,,10.8359739,104.4548114
-0704,2,ស្រុក,District,ជុំគិរី,Chum Kiri,chum-kiri-0704,0704,,07,កំពត,Kampot,,,7,,10.9239398,104.4190765
-0705,2,ស្រុក,District,ដងទង់,Dang Tong,dang-tong-0705,0705,,07,កំពត,Kampot,,,10,,10.7035925,104.4459825
-0706,2,ស្រុក,District,កំពង់ត្រាច,Kampong Trach,kampong-trach-0706,0706,,07,កំពត,Kampot,,,14,,10.5571918,104.4678996
-0707,2,ស្រុក,District,ទឹកឈូ,Tuek Chhou,tuek-chhou-0707,0707,,07,កំពត,Kampot,,,13,,10.6040823,104.2496624
-0708,2,ស្រុក,District,កំពត,Kampot,kampot-0708,0708,,07,កំពត,Kampot,,,5,,10.6183061,104.1797339
-0709,2,ស្រុក,District,បូកគោ,Bokor,bokor-0709,0709,,07,កំពត,Kampot,,,3,,,
-08,1,ខេត្ត,Province,កណ្តាល,Kandal,kandal-08,08,,,,,,13,127,,11.396262499999999,105.02078685074581
-0801,2,ស្រុក,District,កណ្ដាលស្ទឹង,Kandal Stueng,kandal-stueng-0801,0801,,08,កណ្តាល,Kandal,,,18,,11.4110928,104.8330526
-0802,2,ស្រុក,District,កៀនស្វាយ,Kien Svay,kien-svay-0802,0802,,08,កណ្តាល,Kandal,,,8,,11.5099783,105.0499924
-0803,2,ស្រុក,District,ខ្សាច់កណ្ដាល,Khsach Kandal,khsach-kandal-0803,0803,,08,កណ្តាល,Kandal,,,12,,11.7503523,105.0169623
-0804,2,ស្រុក,District,កោះធំ,Kaoh Thum,kaoh-thum-0804,0804,,08,កណ្តាល,Kandal,,,6,,11.1256716,105.0555595
-0805,2,ស្រុក,District,លើកដែក,Leuk Daek,leuk-daek-0805,0805,,08,កណ្តាល,Kandal,,,7,,11.1778929,105.2277136
-0806,2,ស្រុក,District,ល្វាឯម,Lvea Aem,lvea-aem-0806,0806,,08,កណ្តាល,Kandal,,,10,,11.5430427,105.0485316
-0807,2,ស្រុក,District,មុខកំពូល,Mukh Kampul,mukh-kampul-0807,0807,,08,កណ្តាល,Kandal,,,7,,11.72978,104.9664012
-0808,2,ស្រុក,District,អង្គស្នួល,Angk Snuol,angk-snuol-0808,0808,,08,កណ្តាល,Kandal,,,10,,11.5078333,104.7157787
-0809,2,ស្រុក,District,ពញាឮ,Ponhea Lueu,ponhea-lueu-0809,0809,,08,កណ្តាល,Kandal,,,11,,11.8197347,104.7974776
-0810,2,ស្រុក,District,ស្អាង,S'ang,sang-0810,0810,,08,កណ្តាល,Kandal,,,12,,11.3605612,105.0037187
-0811,2,ស្រុក,District,តាខ្មៅ,Ta Khmau,ta-khmau-0811,0811,,08,កណ្តាល,Kandal,,,10,,11.4687395,104.9451162
-0812,2,ស្រុក,District,សំពៅពូន,Sampeou Poun,sampeou-poun-0812,0812,,08,កណ្តាល,Kandal,,,5,,,
-0813,2,ស្រុក,District,អរិយក្សត្រ,Akreiy Ksatr,akreiy-ksatr-0813,0813,,08,កណ្តាល,Kandal,,,11,,,
-09,1,ខេត្ត,Province,កោះកុង,Koh Kong,koh-kong-09,09,,,,,,7,29,,11.6813417,103.0258043
-0901,2,ស្រុក,District,បុទុមសាគរ,Botum Sakor,botum-sakor-0901,0901,,09,កោះកុង,Koh Kong,,,4,,11.1910731,103.4626525
-0902,2,ស្រុក,District,គិរីសាគរ,Kiri Sakor,kiri-sakor-0902,0902,,09,កោះកុង,Koh Kong,,,3,,10.9422524,103.1004568
-0903,2,ស្រុក,District,កោះកុង,Kaoh Kong,kaoh-kong-0903,0903,,09,កោះកុង,Koh Kong,,,4,,11.4560302,103.122046
-0904,2,ស្រុក,District,ខេមរភូមិន្ទ,Khemara Phoumin,khemara-phoumin-0904,0904,,09,កោះកុង,Koh Kong,,,3,,11.6110095,102.9818592
-0905,2,ស្រុក,District,មណ្ឌលសីមា,Mondol Seima,mondol-seima-0905,0905,,09,កោះកុង,Koh Kong,,,3,,11.5698303,102.9539371
-0906,2,ស្រុក,District,ស្រែ អំបិល,Srae Ambel,srae-ambel-0906,0906,,09,កោះកុង,Koh Kong,,,6,,11.4655178,103.8216261
-0907,2,ស្រុក,District,ថ្មបាំង,Thma Bang,thma-bang-0907,0907,,09,កោះកុង,Koh Kong,,,6,,11.6893621,103.438509
-10,1,ខេត្ត,Province,ក្រចេះ,Kratié,krati-10,10,,,,,,7,48,,12.678301699999999,106.05817329824376
-1001,2,ស្រុក,District,ឆ្លូង,Chhloung,chhloung-1001,1001,,10,ក្រចេះ,Kratié,,,8,,12.2570238,105.9606057
-1002,2,ស្រុក,District,ក្រចេះ,Kracheh,kracheh-1002,1002,,10,ក្រចេះ,Kratié,,,5,,12.4889566,106.0200894
-1003,2,ស្រុក,District,ព្រែកប្រសព្វ,Prek Prasab,prek-prasab-1003,1003,,10,ក្រចេះ,Kratié,,,8,,12.3504569,106.0298985
-1004,2,ស្រុក,District,សំបូរ,Sambour,sambour-1004,1004,,10,ក្រចេះ,Kratié,,,6,,12.7751998,105.965196
-1005,2,ស្រុក,District,ស្នួល,Snuol,snuol-1005,1005,,10,ក្រចេះ,Kratié,,,6,,12.0722176,106.4204015
-1006,2,ស្រុក,District,ចិត្របុរី,Chetr Borei,chetr-borei-1006,1006,,10,ក្រចេះ,Kratié,,,10,,12.4680352,106.1742334
-1007,2,ស្រុក,District,អូរគ្រៀងសែនជ័យ,Ou Krieng Saenchey,ou-krieng-saenchey-1007,1007,,10,ក្រចេះ,Kratié,,,5,,,
-11,1,ខេត្ត,Province,មណ្ឌលគិរី,Mondulkiri,mondulkiri-11,11,,,,,,5,21,,12.7396454,107.00882593208544
-1101,2,ស្រុក,District,កែវសីមា,Kaev Seima,kaev-seima-1101,1101,,11,មណ្ឌលគិរី,Mondulkiri,,,5,,,
-1102,2,ស្រុក,District,កោះញែក,Kaoh Nheaek,kaoh-nheaek-1102,1102,,11,មណ្ឌលគិរី,Mondulkiri,,,6,,13.0803581,107.0451837
-1103,2,ស្រុក,District,អូររាំង,Ou Reang,ou-reang-1103,1103,,11,មណ្ឌលគិរី,Mondulkiri,,,2,,12.3320472,107.1645963
-1104,2,ស្រុក,District,ពេជ្រាដា,Pech Chreada,pech-chreada-1104,1104,,11,មណ្ឌលគិរី,Mondulkiri,,,4,,12.5392225,107.427935
-1105,2,ស្រុក,District,សែនមនោរម្យ,Saen Monourom,saen-monourom-1105,1105,,11,មណ្ឌលគិរី,Mondulkiri,,,4,,12.4568561,107.1865184
-12,1,ខេត្ត,Province,ភ្នំពេញ,Phnom Penh,phnom-penh-12,12,,,,,,14,105,,11.5730391,104.857807
-1201,2,ស្រុក,District,ចំការមន,Chamkar Mon,chamkar-mon-1201,1201,,12,ភ្នំពេញ,Phnom Penh,,,5,,11.5373071,104.9208767
-1202,2,ស្រុក,District,ដូនពេញ,Doun Penh,doun-penh-1202,1202,,12,ភ្នំពេញ,Phnom Penh,,,11,,11.5772693,104.9194273
-1203,2,ស្រុក,District,៧មករា,Prampir Meakkakra,prampir-meakkakra-1203,1203,,12,ភ្នំពេញ,Phnom Penh,,,8,,11.5637649,104.9106689
-1204,2,ស្រុក,District,ទួលគោក,Tuol Kouk,tuol-kouk-1204,1204,,12,ភ្នំពេញ,Phnom Penh,,,10,,11.5738692,104.8996872
-1205,2,ស្រុក,District,ដង្កោ,Dangkao,dangkao-1205,1205,,12,ភ្នំពេញ,Phnom Penh,,,12,,11.5057732,104.891422
-1206,2,ស្រុក,District,មានជ័យ,Mean Chey,mean-chey-1206,1206,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.5315089,104.8984702
-1207,2,ស្រុក,District,ឫស្សីកែវ,Russey Keo,russey-keo-1207,1207,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.6287927,104.9037583
-1208,2,ស្រុក,District,សែនសុខ,Sen Sok,sen-sok-1208,1208,,12,ភ្នំពេញ,Phnom Penh,,,6,,11.5785557,104.8692475
-1209,2,ស្រុក,District,ពោធិ៍សែនជ័យ,Pur SenChey,pur-senchey-1209,1209,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.5538562,104.826722
-1210,2,ស្រុក,District,ជ្រោយចង្វារ,Chrouy Changvar,chrouy-changvar-1210,1210,,12,ភ្នំពេញ,Phnom Penh,,,5,,11.6586259,104.9092633
-1211,2,ស្រុក,District,ព្រែកព្នៅ,Praek Pnov,praek-pnov-1211,1211,,12,ភ្នំពេញ,Phnom Penh,,,5,,11.6591915,104.8608617
-1212,2,ស្រុក,District,ច្បារអំពៅ,Chbar Ampov,chbar-ampov-1212,1212,,12,ភ្នំពេញ,Phnom Penh,,,8,,11.5228263,104.9667447
-1213,2,ស្រុក,District,បឹងកេងកង,Boeng Keng Kang,boeng-keng-kang-1213,1213,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.5489263,104.9113011
-1214,2,ស្រុក,District,កំបូល,Kamboul,kamboul-1214,1214,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.5363753,104.770603
-13,1,ខេត្ត,Province,ព្រះវិហារ,Preah Vihear,preah-vihear-13,13,,,,,,8,51,,13.746298150000001,104.97403002709669
-1301,2,ស្រុក,District,ជ័យសែន,Chey Saen,chey-saen-1301,1301,,13,ព្រះវិហារ,Preah Vihear,,,6,,13.6510167,105.2588244
-1302,2,ស្រុក,District,ឆែប,Chhaeb,chhaeb-1302,1302,,13,ព្រះវិហារ,Preah Vihear,,,8,,13.8833353,105.3308329
-1303,2,ស្រុក,District,ជាំក្សាន្ដ,Choam Ksant,choam-ksant-1303,1303,,13,ព្រះវិហារ,Preah Vihear,,,8,,14.2172713,104.9430841
-1304,2,ស្រុក,District,គូលែន,Kuleaen,kuleaen-1304,1304,,13,ព្រះវិហារ,Preah Vihear,,,6,,13.818762,104.6996781
-1305,2,ស្រុក,District,រវៀង,Rovieng,rovieng-1305,1305,,13,ព្រះវិហារ,Preah Vihear,,,12,,13.3488486,105.1084435
-1306,2,ស្រុក,District,សង្គមថ្មី,Sangkum Thmei,sangkum-thmei-1306,1306,,13,ព្រះវិហារ,Preah Vihear,,,5,,13.5817856,104.9046589
-1307,2,ស្រុក,District,ត្បែងមានជ័យ,Tbaeng Mean Chey,tbaeng-mean-chey-1307,1307,,13,ព្រះវិហារ,Preah Vihear,,,4,,13.8569139,105.0217438
-1308,2,ស្រុក,District,ព្រះវិហារ,Preah Vihear,preah-vihear-1308,1308,,13,ព្រះវិហារ,Preah Vihear,,,2,,13.8012643,104.9742871
-14,1,ខេត្ត,Province,ព្រៃវែង,Prey Veng,prey-veng-14,14,,,,,,13,116,,11.365959700000001,105.45572772976189
-1401,2,ស្រុក,District,បាភ្នំ,Ba Phnum,ba-phnum-1401,1401,,14,ព្រៃវែង,Prey Veng,,,9,,11.2580467,105.3989267
-1402,2,ស្រុក,District,កំចាយមារ,Kamchay Mear,kamchay-mear-1402,1402,,14,ព្រៃវែង,Prey Veng,,,8,,11.5744182,105.662875
-1403,2,ស្រុក,District,កំពង់ត្របែក,Kampong Trabaek,kampong-trabaek-1403,1403,,14,ព្រៃវែង,Prey Veng,,,13,,11.1401552,105.4780783
-1404,2,ស្រុក,District,កញ្ជ្រៀច,Kanhchriech,kanhchriech-1404,1404,,14,ព្រៃវែង,Prey Veng,,,8,,11.6889825,105.5581607
-1405,2,ស្រុក,District,មេសាង,Me Sang,me-sang-1405,1405,,14,ព្រៃវែង,Prey Veng,,,8,,11.3247044,105.5766407
-1406,2,ស្រុក,District,ពាមជរ,Peam Chor,peam-chor-1406,1406,,14,ព្រៃវែង,Prey Veng,,,10,,11.1079466,105.2245017
-1407,2,ស្រុក,District,ពាមរក៍,Peam Ro,peam-ro-1407,1407,,14,ព្រៃវែង,Prey Veng,,,8,,11.3186652,105.2809166
-1408,2,ស្រុក,District,ពារាំង,Pea Reang,pea-reang-1408,1408,,14,ព្រៃវែង,Prey Veng,,,9,,11.6633953,105.2289245
-1409,2,ស្រុក,District,ព្រះស្ដេច,Preah Sdach,preah-sdach-1409,1409,,14,ព្រៃវែង,Prey Veng,,,11,,11.1187656,105.3769965
-1410,2,ស្រុក,District,ព្រៃវែង,Prey Veng,prey-veng-1410,1410,,14,ព្រៃវែង,Prey Veng,,,4,,11.4826844,105.3251212
-1411,2,ស្រុក,District,ពោធិ៍រៀង,Pur Rieng,pur-rieng-1411,1411,,14,ព្រៃវែង,Prey Veng,,,6,,11.5213787,105.3571127
-1412,2,ស្រុក,District,ស៊ីធរកណ្ដាល,Sithor Kandal,sithor-kandal-1412,1412,,14,ព្រៃវែង,Prey Veng,,,11,,11.7740666,105.380774
-1413,2,ស្រុក,District,ស្វាយអន្ទរ,Svay Antor,svay-antor-1413,1413,,14,ព្រៃវែង,Prey Veng,,,11,,11.5729124,105.4252384
-15,1,ខេត្ត,Province,ពោធិ៍សាត់,Pursat,pursat-15,15,,,,,,7,49,,12.4662592,103.7426829518918
-1501,2,ស្រុក,District,បាកាន,Bakan,bakan-1501,1501,,15,ពោធិ៍សាត់,Pursat,,,9,,12.6030184,103.7904079
-1502,2,ស្រុក,District,កណ្ដៀង,Kandieng,kandieng-1502,1502,,15,ពោធិ៍សាត់,Pursat,,,9,,12.5898656,103.9571307
-1503,2,ស្រុក,District,ក្រគរ,Krakor,krakor-1503,1503,,15,ពោធិ៍សាត់,Pursat,,,11,,12.5287279,104.2100448
-1504,2,ស្រុក,District,ភ្នំក្រវ៉ាញ,Phnum Kravanh,phnum-kravanh-1504,1504,,15,ពោធិ៍សាត់,Pursat,,,6,,12.3505536,103.7641348
-1505,2,ស្រុក,District,ពោធិ៍សាត់,Pursat,pursat-1505,1505,,15,ពោធិ៍សាត់,Pursat,,,7,,12.5377547,103.9178235
-1506,2,ស្រុក,District,វាលវែង,Veal Veaeng,veal-veaeng-1506,1506,,15,ពោធិ៍សាត់,Pursat,,,5,,12.234079,103.1238576
-1507,2,ស្រុក,District,តាលោសែនជ័យ,Ta Lou Senchey,ta-lou-senchey-1507,1507,,15,ពោធិ៍សាត់,Pursat,,,2,,,
-16,1,ខេត្ត,Province,រតនគិរី,Ratanakiri,ratanakiri-16,16,,,,,,9,50,,13.9311155,107.03914990288844
-1601,2,ស្រុក,District,អណ្ដូងមាស,Andoung Meas,andoung-meas-1601,1601,,16,រតនគិរី,Ratanakiri,,,3,,13.8662759,107.2970158
-1602,2,ស្រុក,District,បានលុង,Ban Lung,ban-lung-1602,1602,,16,រតនគិរី,Ratanakiri,,,4,,13.7414754,106.9873662
-1603,2,ស្រុក,District,បរកែវ,Bar Kaev,bar-kaev-1603,1603,,16,រតនគិរី,Ratanakiri,,,6,,13.6868898,107.2144802
-1604,2,ស្រុក,District,កូនមុំ,Koun Mom,koun-mom-1604,1604,,16,រតនគិរី,Ratanakiri,,,6,,13.580944,106.7722214
-1605,2,ស្រុក,District,លំផាត់,Lumphat,lumphat-1605,1605,,16,រតនគិរី,Ratanakiri,,,6,,13.4998503,106.9736284
-1606,2,ស្រុក,District,អូរជុំ,Ou Chum,ou-chum-1606,1606,,16,រតនគិរី,Ratanakiri,,,7,,13.8018346,106.992574
-1607,2,ស្រុក,District,អូរយ៉ាដាវ,Ou Ya Dav,ou-ya-dav-1607,1607,,16,រតនគិរី,Ratanakiri,,,7,,13.6689224,107.3483187
-1608,2,ស្រុក,District,តាវែង,Ta Veaeng,ta-veaeng-1608,1608,,16,រតនគិរី,Ratanakiri,,,2,,14.0472873,107.1080429
-1609,2,ស្រុក,District,វើនសៃ,Veun Sai,veun-sai-1609,1609,,16,រតនគិរី,Ratanakiri,,,9,,13.9720878,106.8137949
-17,1,ខេត្ត,Province,សៀមរាប,Siem Reap,siem-reap-17,17,,,,,,13,100,,13.314962,103.805433
-1701,2,ស្រុក,District,អង្គរជុំ,Angkor Chum,angkor-chum-1701,1701,,17,សៀមរាប,Siem Reap,,,7,,13.6880963,103.6464558
-1702,2,ស្រុក,District,អង្គរធំ,Angkor Thum,angkor-thum-1702,1702,,17,សៀមរាប,Siem Reap,,,4,,13.5793769,103.85457242215985
-1703,2,ស្រុក,District,បន្ទាយស្រី,Banteay Srei,banteay-srei-1703,1703,,17,សៀមរាប,Siem Reap,,,5,,13.5958699,103.92117104314269
-1704,2,ស្រុក,District,ជីក្រែង,Chi Kraeng,chi-kraeng-1704,1704,,17,សៀមរាប,Siem Reap,,,12,,13.1627418,104.32432059828129
-1706,2,ស្រុក,District,ក្រឡាញ់,Kralanh,kralanh-1706,1706,,17,សៀមរាប,Siem Reap,,,10,,13.5473871,103.47742125362274
-1707,2,ស្រុក,District,ពួក,Puok,puok-1707,1707,,17,សៀមរាប,Siem Reap,,,14,,13.4529277,103.62917029133641
-1709,2,ស្រុក,District,ប្រាសាទបាគង,Prasat Bakong,prasat-bakong-1709,1709,,17,សៀមរាប,Siem Reap,,,8,,13.3421471,103.9978446
-1710,2,ស្រុក,District,សៀមរាប,Siem Reap,siem-reap-1710,1710,,17,សៀមរាប,Siem Reap,,,12,,13.3617562,103.8590321
-1711,2,ស្រុក,District,សូទ្រនិគម,Soutr Nikom,soutr-nikom-1711,1711,,17,សៀមរាប,Siem Reap,,,10,,13.2376056,104.1354139
-1712,2,ស្រុក,District,ស្រីស្នំ,Srei Snam,srei-snam-1712,1712,,17,សៀមរាប,Siem Reap,,,6,,13.8323579,103.53640572541116
-1713,2,ស្រុក,District,ស្វាយលើ,Svay Leu,svay-leu-1713,1713,,17,សៀមរាប,Siem Reap,,,5,,13.68175535,104.26044219887697
-1714,2,ស្រុក,District,វ៉ារិន,Varin,varin-1714,1714,,17,សៀមរាប,Siem Reap,,,5,,13.8239235,103.92390649704802
-1715,2,ស្រុក,District,រុនតាឯកតេជោសែន,Run Ta Aek Techo Sen,run-ta-aek-techo-sen-1715,1715,,17,សៀមរាប,Siem Reap,,,2,,,
-18,1,ខេត្ត,Province,ព្រះសីហនុ,Preah Sihanouk,preah-sihanouk-18,18,,,,,,6,29,,10.50614075,103.26205644863938
-1801,2,ស្រុក,District,ព្រះសីហនុ,Preah Sihanouk,preah-sihanouk-1801,1801,,18,ព្រះសីហនុ,Preah Sihanouk,,,4,,10.6220485,103.5223365
-1802,2,ស្រុក,District,ព្រៃនប់,Prey Nob,prey-nob-1802,1802,,18,ព្រះសីហនុ,Preah Sihanouk,,,10,,10.7198067,103.8161797853434
-1803,2,ស្រុក,District,ស្ទឹងហាវ,Stueng Hav,stueng-hav-1803,1803,,18,ព្រះសីហនុ,Preah Sihanouk,,,4,,10.7432829,103.6200444
-1804,2,ស្រុក,District,កំពង់សីលា,Kampong Seila,kampong-seila-1804,1804,,18,ព្រះសីហនុ,Preah Sihanouk,,,4,,11.16935005,103.96776650807777
-1805,2,ស្រុក,District,កោះរ៉ុង,Kaoh Rung,kaoh-rung-1805,1805,,18,ព្រះសីហនុ,Preah Sihanouk,,,2,,,
-1806,2,ស្រុក,District,កំពង់សោម,Kampong Soam,kampong-soam-1806,1806,,18,ព្រះសីហនុ,Preah Sihanouk,,,5,,,
-19,1,ខេត្ត,Province,ស្ទឹងត្រែង,Stung Treng,stung-treng-19,19,,,,,,6,34,,13.852468,106.0889848986395
-1901,2,ស្រុក,District,សេសាន,Sesan,sesan-1901,1901,,19,ស្ទឹងត្រែង,Stung Treng,,,7,,13.5508885,106.093824
-1902,2,ស្រុក,District,សៀមបូក,Siem Bouk,siem-bouk-1902,1902,,19,ស្ទឹងត្រែង,Stung Treng,,,7,,13.3612164,105.9594206
-1903,2,ស្រុក,District,សៀមប៉ាង,Siem Pang,siem-pang-1903,1903,,19,ស្ទឹងត្រែង,Stung Treng,,,5,,14.1163575,106.3868945
-1904,2,ស្រុក,District,ស្ទឹងត្រែង,Stueng Traeng,stueng-traeng-1904,1904,,19,ស្ទឹងត្រែង,Stung Treng,,,4,,13.5271207,105.9686727
-1905,2,ស្រុក,District,ថាឡាបរិវ៉ាត់,Thala Barivat,thala-barivat-1905,1905,,19,ស្ទឹងត្រែង,Stung Treng,,,8,,13.5717715,105.941917
-1906,2,ស្រុក,District,បុរីអូរស្វាយសែនជ័យ,Borei Ou Svay Senchey,borei-ou-svay-senchey-1906,1906,,19,ស្ទឹងត្រែង,Stung Treng,,,3,,,
-20,1,ខេត្ត,Province,ស្វាយរៀង,Svay Rieng,svay-rieng-20,20,,,,,,8,80,,11.1942275,105.7973275083619
-2001,2,ស្រុក,District,ចន្ទ្រា,Chantrea,chantrea-2001,2001,,20,ស្វាយរៀង,Svay Rieng,,,6,,10.9949854,106.1174193
-2002,2,ស្រុក,District,កំពង់រោទិ៍,Kampong Rou,kampong-rou-2002,2002,,20,ស្វាយរៀង,Svay Rieng,,,11,,10.920359,105.9404897
-2003,2,ស្រុក,District,រំដួល,Rumduol,rumduol-2003,2003,,20,ស្វាយរៀង,Svay Rieng,,,10,,11.1593741,105.8184506
-2004,2,ស្រុក,District,រមាសហែក,Romeas Haek,romeas-haek-2004,2004,,20,ស្វាយរៀង,Svay Rieng,,,16,,11.41244,105.7908573
-2005,2,ស្រុក,District,ស្វាយជ្រំ,Svay Chrum,svay-chrum-2005,2005,,20,ស្វាយរៀង,Svay Rieng,,,16,,11.115479,105.7152969
-2006,2,ស្រុក,District,ស្វាយរៀង,Svay Rieng,svay-rieng-2006,2006,,20,ស្វាយរៀង,Svay Rieng,,,7,,11.080095,105.7974874
-2007,2,ស្រុក,District,ស្វាយទាប,Svay Teab,svay-teab-2007,2007,,20,ស្វាយរៀង,Svay Rieng,,,9,,11.0488171,105.8806472
-2008,2,ស្រុក,District,បាវិត,Bavet,bavet-2008,2008,,20,ស្វាយរៀង,Svay Rieng,,,5,,11.0691272,106.1436226
-21,1,ខេត្ត,Province,តាកែវ,Takéo,tako-21,21,,,,,,10,100,,10.93539205,104.78988300047047
-2101,2,ស្រុក,District,អង្គរបូរី,Angkor Borei,angkor-borei-2101,2101,,21,តាកែវ,Takéo,,,6,,10.9958363,104.9753308
-2102,2,ស្រុក,District,បាទី,Bati,bati-2102,2102,,21,តាកែវ,Takéo,,,15,,11.2407943,104.8119577
-2103,2,ស្រុក,District,បូរីជលសារ,Borei Cholsar,borei-cholsar-2103,2103,,21,តាកែវ,Takéo,,,5,,10.8340452,105.0179878
-2104,2,ស្រុក,District,គីរីវង់,Kiri Vong,kiri-vong-2104,2104,,21,តាកែវ,Takéo,,,12,,10.6400179,104.8767691
-2105,2,ស្រុក,District,កោះអណ្ដែត,Kaoh Andaet,kaoh-andaet-2105,2105,,21,តាកែវ,Takéo,,,6,,10.7965352,104.9482522
-2106,2,ស្រុក,District,ព្រៃកប្បាស,Prey Kabbas,prey-kabbas-2106,2106,,21,តាកែវ,Takéo,,,13,,11.1556469,104.9528949
-2107,2,ស្រុក,District,សំរោង,Samraong,samraong-2107,2107,,21,តាកែវ,Takéo,,,11,,11.1420911,104.8012079
-2108,2,ស្រុក,District,ដូនកែវ,Doun Kaev,doun-kaev-2108,2108,,21,តាកែវ,Takéo,,,3,,10.9875805,104.7830181
-2109,2,ស្រុក,District,ត្រាំកក់,Tram Kak,tram-kak-2109,2109,,21,តាកែវ,Takéo,,,15,,11.0065848,104.6649599
-2110,2,ស្រុក,District,ទ្រាំង,Treang,treang-2110,2110,,21,តាកែវ,Takéo,,,14,,10.9067461,104.7770461
-22,1,ខេត្ត,Province,ឧត្តរមានជ័យ,Oddar Meanchey,oddar-meanchey-22,22,,,,,,5,24,,14.1585631,103.78279595655918
-2201,2,ស្រុក,District,អន្លង់វែង,Anlong Veaeng,anlong-veaeng-2201,2201,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,5,,14.2331742,104.0812013
-2202,2,ស្រុក,District,បន្ទាយអំពិល,Banteay Ampil,banteay-ampil-2202,2202,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,4,,14.2333944,103.1323394
-2203,2,ស្រុក,District,ចុងកាល់,Chong Kal,chong-kal-2203,2203,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,4,,13.9544791,103.5702722
-2204,2,ស្រុក,District,សំរោង,Samraong,samraong-2204,2204,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,5,,14.1758059,103.5092331
-2205,2,ស្រុក,District,ត្រពាំងប្រាសាទ,Trapeang Prasat,trapeang-prasat-2205,2205,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,6,,14.1953083,104.3562242
-23,1,ខេត្ត,Province,កែប,Kep,kep-23,23,,,,,,2,5,,10.402153949999999,104.26506181616313
-2301,2,ស្រុក,District,ដំណាក់ចង្អើរ,Damnak Chang'aeur,damnak-changaeur-2301,2301,,23,កែប,Kep,,,2,,10.526653,104.36731
-2302,2,ស្រុក,District,កែប,Kep,kep-2302,2302,,23,កែប,Kep,,,3,,10.4860396,104.3148207
-24,1,ខេត្ត,Province,ប៉ៃលិន,Pailin,pailin-24,24,,,,,,2,8,,12.89053285,102.62946042446026
-2401,2,ស្រុក,District,ប៉ៃលិន,Pailin,pailin-2401,2401,,24,ប៉ៃលិន,Pailin,,,4,,12.8551384,102.6051776
-2402,2,ស្រុក,District,សាលាក្រៅ,Sala Krau,sala-krau-2402,2402,,24,ប៉ៃលិន,Pailin,,,4,,13.003529050000001,102.66415391806129
-25,1,ខេត្ត,Province,ត្បូងឃ្មុំ,Tboung Khmum,tboung-khmum-25,25,,,,,,7,64,,11.950072599999999,105.824571891073
-2501,2,ស្រុក,District,តំបែរ,Dambae,dambae-2501,2501,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,7,,12.0178626,105.8900919
-2502,2,ស្រុក,District,ក្រូចឆ្មារ,Krouch Chhmar,krouch-chhmar-2502,2502,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,12,,12.2739218,105.6499844
-2503,2,ស្រុក,District,មេមត់,Memot,memot-2503,2503,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,14,,11.822536,106.1767776
-2504,2,ស្រុក,District,អូររាំងឪ,Ou Reang Ov,ou-reang-ov-2504,2504,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,7,,11.7951086,105.5020062
-2505,2,ស្រុក,District,ពញាក្រែក,Ponhea Kraek,ponhea-kraek-2505,2505,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,8,,11.7937455,105.8777537
-2506,2,ស្រុក,District,សួង,Suong,suong-2506,2506,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,2,,11.9114877,105.6532755
-2507,2,ស្រុក,District,ត្បូងឃ្មុំ,Tboung Khmum,tboung-khmum-2507,2507,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,14,,11.8914565,105.7756828
+# Data from Open Admin Data (https://openadmindata.org/kh/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/cambodia-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.district,children_count.commune,zip_codes,geo.lat,geo.lon,source_url
+01,1,ខេត្ត,Province,បន្ទាយមានជ័យ,Banteay Meanchey,banteay-meanchey-01,01,,,,,,9,67,,13.7989147,102.8862666,https://openadmindata.org/kh/provinces/banteay-meanchey-01/
+0102,2,ស្រុក,District,មង្គលបូរី,Mongkol Borey,mongkol-borey-0102,0102,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,13,,13.4940861,102.9791567,
+0103,2,ស្រុក,District,ភ្នំស្រុក,Phnum Srok,phnum-srok-0103,0103,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,6,,13.7579963,103.3357732,
+0104,2,ស្រុក,District,ព្រះនេត្រព្រះ,Preah Netr Preah,preah-netr-preah-0104,0104,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,9,,13.5746664,103.2766571,
+0105,2,ស្រុក,District,អូរជ្រៅ,Ou Chrov,ou-chrov-0105,0105,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,7,,13.6129122,102.7651907,
+0106,2,ស្រុក,District,សិរីសោភ័ណ,Serei Saophoan,serei-saophoan-0106,0106,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,7,,13.5884004,102.9700274,
+0107,2,ស្រុក,District,ថ្មពួក,Thma Puok,thma-puok-0107,0107,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,6,,13.9494974,103.0544638,
+0108,2,ស្រុក,District,ស្វាយចេក,Svay Chek,svay-chek-0108,0108,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,8,,13.7837644,102.961198,
+0109,2,ស្រុក,District,ម៉ាឡៃ,Malai,malai-0109,0109,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,6,,13.5609461,102.3709867,
+0110,2,ស្រុក,District,ប៉ោយប៉ែត,Poipet,poipet-0110,0110,,01,បន្ទាយមានជ័យ,Banteay Meanchey,,,5,,13.6593962,102.5708301,
+02,1,ខេត្ត,Province,បាត់ដំបង,Battambang,battambang-02,02,,,,,,14,103,,12.9256791,103.23171364274523,https://openadmindata.org/kh/provinces/battambang-02/
+0201,2,ស្រុក,District,បាណន់,Banan,banan-0201,0201,,02,បាត់ដំបង,Battambang,,,8,,12.95192635,103.07601322092293,
+0202,2,ស្រុក,District,ថ្មគោល,Thma Koul,thma-koul-0202,0202,,02,បាត់ដំបង,Battambang,,,10,,13.24944415,103.07118059476997,
+0203,2,ស្រុក,District,បាត់ដំបង,Battambang,battambang-0203,0203,,02,បាត់ដំបង,Battambang,,,10,,13.0937231,103.18673434190434,
+0204,2,ស្រុក,District,បវេល,Bavel,bavel-0204,0204,,02,បាត់ដំបង,Battambang,,,9,,13.216788000000001,102.82214789233467,
+0205,2,ស្រុក,District,ឯកភ្នំ,Aek Phnum,aek-phnum-0205,0205,,02,បាត់ដំបង,Battambang,,,7,,13.1631918,103.2305121,
+0206,2,ស្រុក,District,មោងឫស្សី,Moung Ruessei,moung-ruessei-0206,0206,,02,បាត់ដំបង,Battambang,,,9,,12.775758,103.4486415,
+0207,2,ស្រុក,District,រតនមណ្ឌល,Rotonak Mondol,rotonak-mondol-0207,0207,,02,បាត់ដំបង,Battambang,,,5,,12.9086418,102.8824003119087,
+0208,2,ស្រុក,District,សង្កែ,Sangkae,sangkae-0208,0208,,02,បាត់ដំបង,Battambang,,,10,,13.0744566,103.2438673,
+0209,2,ស្រុក,District,សំឡូត,Samlout,samlout-0209,0209,,02,បាត់ដំបង,Battambang,,,7,,12.6226916,102.8523788,
+0210,2,ស្រុក,District,សំពៅលូន,Sampov Lun,sampov-lun-0210,0210,,02,បាត់ដំបង,Battambang,,,6,,13.419025099999999,102.5236318714496,
+0211,2,ស្រុក,District,ភ្នំព្រឹក,Phnum Proek,phnum-proek-0211,0211,,02,បាត់ដំបង,Battambang,,,5,,13.29109285,102.51932343699104,
+0212,2,ស្រុក,District,កំរៀង,Kamrieng,kamrieng-0212,0212,,02,បាត់ដំបង,Battambang,,,6,,13.0899494,102.51831760938151,
+0213,2,ស្រុក,District,គាស់ក្រឡ,Koas Krala,koas-krala-0213,0213,,02,បាត់ដំបង,Battambang,,,6,,12.7550281,103.2628529,
+0214,2,ស្រុក,District,រុក្ខគិរី,Rukh Kiri,rukh-kiri-0214,0214,,02,បាត់ដំបង,Battambang,,,5,,12.59417915,103.43565034578185,
+03,1,ខេត្ត,Province,កំពង់ចាម,Kampong Cham,kampong-cham-03,03,,,,,,10,109,,12.1174857,105.20800220742942,https://openadmindata.org/kh/provinces/kampong-cham-03/
+0301,2,ស្រុក,District,បាធាយ,Batheay,batheay-0301,0301,,03,កំពង់ចាម,Kampong Cham,,,12,,11.9931056,104.9457831,
+0302,2,ស្រុក,District,ចំការលើ,Chamkar Leu,chamkar-leu-0302,0302,,03,កំពង់ចាម,Kampong Cham,,,8,,12.3013417,105.2924357,
+0303,2,ស្រុក,District,ជើងព្រៃ,Cheung Prey,cheung-prey-0303,0303,,03,កំពង់ចាម,Kampong Cham,,,10,,12.053626,105.0717844,
+0305,2,ស្រុក,District,កំពង់ចាម,Kampong Cham,kampong-cham-0305,0305,,03,កំពង់ចាម,Kampong Cham,,,4,,11.9921855,105.4628346,
+0306,2,ស្រុក,District,កំពង់សៀម,Kampong Siem,kampong-siem-0306,0306,,03,កំពង់ចាម,Kampong Cham,,,15,,12.0210166,105.4271324,
+0307,2,ស្រុក,District,កងមាស,Kang Meas,kang-meas-0307,0307,,03,កំពង់ចាម,Kampong Cham,,,11,,11.9504688,105.2707989,
+0308,2,ស្រុក,District,កោះសូទិន,Kaoh Soutin,kaoh-soutin-0308,0308,,03,កំពង់ចាម,Kampong Cham,,,8,,11.8823352,105.4399467,
+0313,2,ស្រុក,District,ព្រៃឈរ,Prey Chhor,prey-chhor-0313,0313,,03,កំពង់ចាម,Kampong Cham,,,15,,12.055781,105.2552028,
+0314,2,ស្រុក,District,ស្រីសន្ធរ,Srei Santhor,srei-santhor-0314,0314,,03,កំពង់ចាម,Kampong Cham,,,14,,11.8363518,105.0858745,
+0315,2,ស្រុក,District,ស្ទឹងត្រង់,Stueng Trang,stueng-trang-0315,0315,,03,កំពង់ចាម,Kampong Cham,,,12,,12.2571813,105.5388356,
+04,1,ខេត្ត,Province,កំពង់ឆ្នាំង,Kampong Chhnang,kampong-chhnang-04,04,,,,,,8,71,,12.1382025,104.3354098,https://openadmindata.org/kh/provinces/kampong-chhnang-04/
+0401,2,ស្រុក,District,បរិបូណ៌,Baribour,baribour-0401,0401,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,11,,12.4389574,104.4623541,
+0402,2,ស្រុក,District,ជលគីរី,Chol Kiri,chol-kiri-0402,0402,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,5,,12.1593491,104.8815344,
+0403,2,ស្រុក,District,កំពង់ឆ្នាំង,Kampong Chhnang,kampong-chhnang-0403,0403,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,4,,12.2536026,104.6658389,
+0404,2,ស្រុក,District,កំពង់លែង,Kampong Leaeng,kampong-leaeng-0404,0404,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,9,,12.2741853,104.7254311,
+0405,2,ស្រុក,District,កំពង់ត្រឡាច,Kampong Tralach,kampong-tralach-0405,0405,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,10,,11.9384963,104.7136203,
+0406,2,ស្រុក,District,រលាប្អៀរ,Rolea B'ier,rolea-bier-0406,0406,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,14,,12.2059838,104.6613026,
+0407,2,ស្រុក,District,សាមគ្គីមានជ័យ,Sameakki Mean Chey,sameakki-mean-chey-0407,0407,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,9,,11.8772162,104.6041473,
+0408,2,ស្រុក,District,ទឹកផុស,Tuek Phos,tuek-phos-0408,0408,,04,កំពង់ឆ្នាំង,Kampong Chhnang,,,9,,12.052069,104.5259324,
+05,1,ខេត្ត,Province,កំពង់ស្ពឺ,Kampong Speu,kampong-speu-05,05,,,,,,9,88,,11.57753675,104.27140233242656,https://openadmindata.org/kh/provinces/kampong-speu-05/
+0501,2,ស្រុក,District,បរសេដ្ឋ,Basedth,basedth-0501,0501,,05,កំពង់ស្ពឺ,Kampong Speu,,,15,,11.200398,104.50433350548424,
+0502,2,ស្រុក,District,ច្បារមន,Chbar Mon,chbar-mon-0502,0502,,05,កំពង់ស្ពឺ,Kampong Speu,,,5,,11.4647156,104.5194625,
+0503,2,ស្រុក,District,គងពិសី,Kong Pisei,kong-pisei-0503,0503,,05,កំពង់ស្ពឺ,Kampong Speu,,,13,,11.3106024,104.62320857080852,
+0504,2,ស្រុក,District,ឱរ៉ាល់,Aural,aural-0504,0504,,05,កំពង់ស្ពឺ,Kampong Speu,,,5,,11.777897450000001,104.01083834230268,
+0506,2,ស្រុក,District,ភ្នំស្រួច,Phnum Sruoch,phnum-sruoch-0506,0506,,05,កំពង់ស្ពឺ,Kampong Speu,,,13,,11.310279900000001,104.25317703358202,
+0507,2,ស្រុក,District,សំរោងទង,Samraong Tong,samraong-tong-0507,0507,,05,កំពង់ស្ពឺ,Kampong Speu,,,15,,11.45044745,104.60617304001704,
+0508,2,ស្រុក,District,ថ្ពង,Thpong,thpong-0508,0508,,05,កំពង់ស្ពឺ,Kampong Speu,,,7,,11.758617300000001,104.34032516738003,
+0509,2,ស្រុក,District,ឧដុង្គម៉ែជ័យ,Odongk Maechay,odongk-maechay-0509,0509,,05,កំពង់ស្ពឺ,Kampong Speu,,,5,,,,
+0510,2,ស្រុក,District,សាមគ្គីមុនីជ័យ,Samkkei Munichay,samkkei-munichay-0510,0510,,05,កំពង់ស្ពឺ,Kampong Speu,,,10,,,,
+06,1,ខេត្ត,Province,កំពង់ធំ,Kampong Thom,kampong-thom-06,06,,,,,,9,81,,12.6687923,104.8879197,https://openadmindata.org/kh/provinces/kampong-thom-06/
+0601,2,ស្រុក,District,បារាយណ៍,Baray,baray-0601,0601,,06,កំពង់ធំ,Kampong Thom,,,10,,12.3892868,105.0789445,
+0602,2,ស្រុក,District,កំពង់ស្វាយ,Kampong Svay,kampong-svay-0602,0602,,06,កំពង់ធំ,Kampong Thom,,,11,,12.7915777,104.8249107,
+0603,2,ស្រុក,District,ស្ទឹងសែន,Stueng Saen,stueng-saen-0603,0603,,06,កំពង់ធំ,Kampong Thom,,,8,,12.7126242,104.8891082,
+0604,2,ស្រុក,District,ប្រាសាទបល្ល័ង្គ,Prasat Ballangk,prasat-ballangk-0604,0604,,06,កំពង់ធំ,Kampong Thom,,,7,,12.9782682,104.941493,
+0605,2,ស្រុក,District,ប្រាសាទសំបូរ,Prasat Sambour,prasat-sambour-0605,0605,,06,កំពង់ធំ,Kampong Thom,,,5,,12.8857488,105.0679436,
+0606,2,ស្រុក,District,សណ្ដាន់,Sandan,sandan-0606,0606,,06,កំពង់ធំ,Kampong Thom,,,9,,13.1006423,105.245985,
+0607,2,ស្រុក,District,សន្ទុក,Santuk,santuk-0607,0607,,06,កំពង់ធំ,Kampong Thom,,,10,,12.5628043,105.049388,
+0608,2,ស្រុក,District,ស្ទោង,Stoung,stoung-0608,0608,,06,កំពង់ធំ,Kampong Thom,,,13,,12.9389734,104.5716049,
+0609,2,ស្រុក,District,តាំងគោក,Tang Kouk,tang-kouk-0609,0609,,06,កំពង់ធំ,Kampong Thom,,,8,,,,
+07,1,ខេត្ត,Province,កំពត,Kampot,kampot-07,07,,,,,,9,93,,10.6314754,104.132637,https://openadmindata.org/kh/provinces/kampot-07/
+0701,2,ស្រុក,District,អង្គរជ័យ,Angkor Chey,angkor-chey-0701,0701,,07,កំពត,Kampot,,,11,,10.8393757,104.6545648,
+0702,2,ស្រុក,District,បន្ទាយមាស,Banteay Meas,banteay-meas-0702,0702,,07,កំពត,Kampot,,,15,,10.6731987,104.5571703,
+0703,2,ស្រុក,District,ឈូក,Chhuk,chhuk-0703,0703,,07,កំពត,Kampot,,,15,,10.8359739,104.4548114,
+0704,2,ស្រុក,District,ជុំគិរី,Chum Kiri,chum-kiri-0704,0704,,07,កំពត,Kampot,,,7,,10.9239398,104.4190765,
+0705,2,ស្រុក,District,ដងទង់,Dang Tong,dang-tong-0705,0705,,07,កំពត,Kampot,,,10,,10.7035925,104.4459825,
+0706,2,ស្រុក,District,កំពង់ត្រាច,Kampong Trach,kampong-trach-0706,0706,,07,កំពត,Kampot,,,14,,10.5571918,104.4678996,
+0707,2,ស្រុក,District,ទឹកឈូ,Tuek Chhou,tuek-chhou-0707,0707,,07,កំពត,Kampot,,,13,,10.6040823,104.2496624,
+0708,2,ស្រុក,District,កំពត,Kampot,kampot-0708,0708,,07,កំពត,Kampot,,,5,,10.6183061,104.1797339,
+0709,2,ស្រុក,District,បូកគោ,Bokor,bokor-0709,0709,,07,កំពត,Kampot,,,3,,,,
+08,1,ខេត្ត,Province,កណ្តាល,Kandal,kandal-08,08,,,,,,13,127,,11.396262499999999,105.02078685074581,https://openadmindata.org/kh/provinces/kandal-08/
+0801,2,ស្រុក,District,កណ្ដាលស្ទឹង,Kandal Stueng,kandal-stueng-0801,0801,,08,កណ្តាល,Kandal,,,18,,11.4110928,104.8330526,
+0802,2,ស្រុក,District,កៀនស្វាយ,Kien Svay,kien-svay-0802,0802,,08,កណ្តាល,Kandal,,,8,,11.5099783,105.0499924,
+0803,2,ស្រុក,District,ខ្សាច់កណ្ដាល,Khsach Kandal,khsach-kandal-0803,0803,,08,កណ្តាល,Kandal,,,12,,11.7503523,105.0169623,
+0804,2,ស្រុក,District,កោះធំ,Kaoh Thum,kaoh-thum-0804,0804,,08,កណ្តាល,Kandal,,,6,,11.1256716,105.0555595,
+0805,2,ស្រុក,District,លើកដែក,Leuk Daek,leuk-daek-0805,0805,,08,កណ្តាល,Kandal,,,7,,11.1778929,105.2277136,
+0806,2,ស្រុក,District,ល្វាឯម,Lvea Aem,lvea-aem-0806,0806,,08,កណ្តាល,Kandal,,,10,,11.5430427,105.0485316,
+0807,2,ស្រុក,District,មុខកំពូល,Mukh Kampul,mukh-kampul-0807,0807,,08,កណ្តាល,Kandal,,,7,,11.72978,104.9664012,
+0808,2,ស្រុក,District,អង្គស្នួល,Angk Snuol,angk-snuol-0808,0808,,08,កណ្តាល,Kandal,,,10,,11.5078333,104.7157787,
+0809,2,ស្រុក,District,ពញាឮ,Ponhea Lueu,ponhea-lueu-0809,0809,,08,កណ្តាល,Kandal,,,11,,11.8197347,104.7974776,
+0810,2,ស្រុក,District,ស្អាង,S'ang,sang-0810,0810,,08,កណ្តាល,Kandal,,,12,,11.3605612,105.0037187,
+0811,2,ស្រុក,District,តាខ្មៅ,Ta Khmau,ta-khmau-0811,0811,,08,កណ្តាល,Kandal,,,10,,11.4687395,104.9451162,
+0812,2,ស្រុក,District,សំពៅពូន,Sampeou Poun,sampeou-poun-0812,0812,,08,កណ្តាល,Kandal,,,5,,,,
+0813,2,ស្រុក,District,អរិយក្សត្រ,Akreiy Ksatr,akreiy-ksatr-0813,0813,,08,កណ្តាល,Kandal,,,11,,,,
+09,1,ខេត្ត,Province,កោះកុង,Koh Kong,koh-kong-09,09,,,,,,7,29,,11.6813417,103.0258043,https://openadmindata.org/kh/provinces/koh-kong-09/
+0901,2,ស្រុក,District,បុទុមសាគរ,Botum Sakor,botum-sakor-0901,0901,,09,កោះកុង,Koh Kong,,,4,,11.1910731,103.4626525,
+0902,2,ស្រុក,District,គិរីសាគរ,Kiri Sakor,kiri-sakor-0902,0902,,09,កោះកុង,Koh Kong,,,3,,10.9422524,103.1004568,
+0903,2,ស្រុក,District,កោះកុង,Kaoh Kong,kaoh-kong-0903,0903,,09,កោះកុង,Koh Kong,,,4,,11.4560302,103.122046,
+0904,2,ស្រុក,District,ខេមរភូមិន្ទ,Khemara Phoumin,khemara-phoumin-0904,0904,,09,កោះកុង,Koh Kong,,,3,,11.6110095,102.9818592,
+0905,2,ស្រុក,District,មណ្ឌលសីមា,Mondol Seima,mondol-seima-0905,0905,,09,កោះកុង,Koh Kong,,,3,,11.5698303,102.9539371,
+0906,2,ស្រុក,District,ស្រែ អំបិល,Srae Ambel,srae-ambel-0906,0906,,09,កោះកុង,Koh Kong,,,6,,11.4655178,103.8216261,
+0907,2,ស្រុក,District,ថ្មបាំង,Thma Bang,thma-bang-0907,0907,,09,កោះកុង,Koh Kong,,,6,,11.6893621,103.438509,
+10,1,ខេត្ត,Province,ក្រចេះ,Kratié,krati-10,10,,,,,,7,48,,12.678301699999999,106.05817329824376,https://openadmindata.org/kh/provinces/krati-10/
+1001,2,ស្រុក,District,ឆ្លូង,Chhloung,chhloung-1001,1001,,10,ក្រចេះ,Kratié,,,8,,12.2570238,105.9606057,
+1002,2,ស្រុក,District,ក្រចេះ,Kracheh,kracheh-1002,1002,,10,ក្រចេះ,Kratié,,,5,,12.4889566,106.0200894,
+1003,2,ស្រុក,District,ព្រែកប្រសព្វ,Prek Prasab,prek-prasab-1003,1003,,10,ក្រចេះ,Kratié,,,8,,12.3504569,106.0298985,
+1004,2,ស្រុក,District,សំបូរ,Sambour,sambour-1004,1004,,10,ក្រចេះ,Kratié,,,6,,12.7751998,105.965196,
+1005,2,ស្រុក,District,ស្នួល,Snuol,snuol-1005,1005,,10,ក្រចេះ,Kratié,,,6,,12.0722176,106.4204015,
+1006,2,ស្រុក,District,ចិត្របុរី,Chetr Borei,chetr-borei-1006,1006,,10,ក្រចេះ,Kratié,,,10,,12.4680352,106.1742334,
+1007,2,ស្រុក,District,អូរគ្រៀងសែនជ័យ,Ou Krieng Saenchey,ou-krieng-saenchey-1007,1007,,10,ក្រចេះ,Kratié,,,5,,,,
+11,1,ខេត្ត,Province,មណ្ឌលគិរី,Mondulkiri,mondulkiri-11,11,,,,,,5,21,,12.7396454,107.00882593208544,https://openadmindata.org/kh/provinces/mondulkiri-11/
+1101,2,ស្រុក,District,កែវសីមា,Kaev Seima,kaev-seima-1101,1101,,11,មណ្ឌលគិរី,Mondulkiri,,,5,,,,
+1102,2,ស្រុក,District,កោះញែក,Kaoh Nheaek,kaoh-nheaek-1102,1102,,11,មណ្ឌលគិរី,Mondulkiri,,,6,,13.0803581,107.0451837,
+1103,2,ស្រុក,District,អូររាំង,Ou Reang,ou-reang-1103,1103,,11,មណ្ឌលគិរី,Mondulkiri,,,2,,12.3320472,107.1645963,
+1104,2,ស្រុក,District,ពេជ្រាដា,Pech Chreada,pech-chreada-1104,1104,,11,មណ្ឌលគិរី,Mondulkiri,,,4,,12.5392225,107.427935,
+1105,2,ស្រុក,District,សែនមនោរម្យ,Saen Monourom,saen-monourom-1105,1105,,11,មណ្ឌលគិរី,Mondulkiri,,,4,,12.4568561,107.1865184,
+12,1,ខេត្ត,Province,ភ្នំពេញ,Phnom Penh,phnom-penh-12,12,,,,,,14,105,,11.5730391,104.857807,https://openadmindata.org/kh/provinces/phnom-penh-12/
+1201,2,ស្រុក,District,ចំការមន,Chamkar Mon,chamkar-mon-1201,1201,,12,ភ្នំពេញ,Phnom Penh,,,5,,11.5373071,104.9208767,
+1202,2,ស្រុក,District,ដូនពេញ,Doun Penh,doun-penh-1202,1202,,12,ភ្នំពេញ,Phnom Penh,,,11,,11.5772693,104.9194273,
+1203,2,ស្រុក,District,៧មករា,Prampir Meakkakra,prampir-meakkakra-1203,1203,,12,ភ្នំពេញ,Phnom Penh,,,8,,11.5637649,104.9106689,
+1204,2,ស្រុក,District,ទួលគោក,Tuol Kouk,tuol-kouk-1204,1204,,12,ភ្នំពេញ,Phnom Penh,,,10,,11.5738692,104.8996872,
+1205,2,ស្រុក,District,ដង្កោ,Dangkao,dangkao-1205,1205,,12,ភ្នំពេញ,Phnom Penh,,,12,,11.5057732,104.891422,
+1206,2,ស្រុក,District,មានជ័យ,Mean Chey,mean-chey-1206,1206,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.5315089,104.8984702,
+1207,2,ស្រុក,District,ឫស្សីកែវ,Russey Keo,russey-keo-1207,1207,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.6287927,104.9037583,
+1208,2,ស្រុក,District,សែនសុខ,Sen Sok,sen-sok-1208,1208,,12,ភ្នំពេញ,Phnom Penh,,,6,,11.5785557,104.8692475,
+1209,2,ស្រុក,District,ពោធិ៍សែនជ័យ,Pur SenChey,pur-senchey-1209,1209,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.5538562,104.826722,
+1210,2,ស្រុក,District,ជ្រោយចង្វារ,Chrouy Changvar,chrouy-changvar-1210,1210,,12,ភ្នំពេញ,Phnom Penh,,,5,,11.6586259,104.9092633,
+1211,2,ស្រុក,District,ព្រែកព្នៅ,Praek Pnov,praek-pnov-1211,1211,,12,ភ្នំពេញ,Phnom Penh,,,5,,11.6591915,104.8608617,
+1212,2,ស្រុក,District,ច្បារអំពៅ,Chbar Ampov,chbar-ampov-1212,1212,,12,ភ្នំពេញ,Phnom Penh,,,8,,11.5228263,104.9667447,
+1213,2,ស្រុក,District,បឹងកេងកង,Boeng Keng Kang,boeng-keng-kang-1213,1213,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.5489263,104.9113011,
+1214,2,ស្រុក,District,កំបូល,Kamboul,kamboul-1214,1214,,12,ភ្នំពេញ,Phnom Penh,,,7,,11.5363753,104.770603,
+13,1,ខេត្ត,Province,ព្រះវិហារ,Preah Vihear,preah-vihear-13,13,,,,,,8,51,,13.746298150000001,104.97403002709669,https://openadmindata.org/kh/provinces/preah-vihear-13/
+1301,2,ស្រុក,District,ជ័យសែន,Chey Saen,chey-saen-1301,1301,,13,ព្រះវិហារ,Preah Vihear,,,6,,13.6510167,105.2588244,
+1302,2,ស្រុក,District,ឆែប,Chhaeb,chhaeb-1302,1302,,13,ព្រះវិហារ,Preah Vihear,,,8,,13.8833353,105.3308329,
+1303,2,ស្រុក,District,ជាំក្សាន្ដ,Choam Ksant,choam-ksant-1303,1303,,13,ព្រះវិហារ,Preah Vihear,,,8,,14.2172713,104.9430841,
+1304,2,ស្រុក,District,គូលែន,Kuleaen,kuleaen-1304,1304,,13,ព្រះវិហារ,Preah Vihear,,,6,,13.818762,104.6996781,
+1305,2,ស្រុក,District,រវៀង,Rovieng,rovieng-1305,1305,,13,ព្រះវិហារ,Preah Vihear,,,12,,13.3488486,105.1084435,
+1306,2,ស្រុក,District,សង្គមថ្មី,Sangkum Thmei,sangkum-thmei-1306,1306,,13,ព្រះវិហារ,Preah Vihear,,,5,,13.5817856,104.9046589,
+1307,2,ស្រុក,District,ត្បែងមានជ័យ,Tbaeng Mean Chey,tbaeng-mean-chey-1307,1307,,13,ព្រះវិហារ,Preah Vihear,,,4,,13.8569139,105.0217438,
+1308,2,ស្រុក,District,ព្រះវិហារ,Preah Vihear,preah-vihear-1308,1308,,13,ព្រះវិហារ,Preah Vihear,,,2,,13.8012643,104.9742871,
+14,1,ខេត្ត,Province,ព្រៃវែង,Prey Veng,prey-veng-14,14,,,,,,13,116,,11.365959700000001,105.45572772976189,https://openadmindata.org/kh/provinces/prey-veng-14/
+1401,2,ស្រុក,District,បាភ្នំ,Ba Phnum,ba-phnum-1401,1401,,14,ព្រៃវែង,Prey Veng,,,9,,11.2580467,105.3989267,
+1402,2,ស្រុក,District,កំចាយមារ,Kamchay Mear,kamchay-mear-1402,1402,,14,ព្រៃវែង,Prey Veng,,,8,,11.5744182,105.662875,
+1403,2,ស្រុក,District,កំពង់ត្របែក,Kampong Trabaek,kampong-trabaek-1403,1403,,14,ព្រៃវែង,Prey Veng,,,13,,11.1401552,105.4780783,
+1404,2,ស្រុក,District,កញ្ជ្រៀច,Kanhchriech,kanhchriech-1404,1404,,14,ព្រៃវែង,Prey Veng,,,8,,11.6889825,105.5581607,
+1405,2,ស្រុក,District,មេសាង,Me Sang,me-sang-1405,1405,,14,ព្រៃវែង,Prey Veng,,,8,,11.3247044,105.5766407,
+1406,2,ស្រុក,District,ពាមជរ,Peam Chor,peam-chor-1406,1406,,14,ព្រៃវែង,Prey Veng,,,10,,11.1079466,105.2245017,
+1407,2,ស្រុក,District,ពាមរក៍,Peam Ro,peam-ro-1407,1407,,14,ព្រៃវែង,Prey Veng,,,8,,11.3186652,105.2809166,
+1408,2,ស្រុក,District,ពារាំង,Pea Reang,pea-reang-1408,1408,,14,ព្រៃវែង,Prey Veng,,,9,,11.6633953,105.2289245,
+1409,2,ស្រុក,District,ព្រះស្ដេច,Preah Sdach,preah-sdach-1409,1409,,14,ព្រៃវែង,Prey Veng,,,11,,11.1187656,105.3769965,
+1410,2,ស្រុក,District,ព្រៃវែង,Prey Veng,prey-veng-1410,1410,,14,ព្រៃវែង,Prey Veng,,,4,,11.4826844,105.3251212,
+1411,2,ស្រុក,District,ពោធិ៍រៀង,Pur Rieng,pur-rieng-1411,1411,,14,ព្រៃវែង,Prey Veng,,,6,,11.5213787,105.3571127,
+1412,2,ស្រុក,District,ស៊ីធរកណ្ដាល,Sithor Kandal,sithor-kandal-1412,1412,,14,ព្រៃវែង,Prey Veng,,,11,,11.7740666,105.380774,
+1413,2,ស្រុក,District,ស្វាយអន្ទរ,Svay Antor,svay-antor-1413,1413,,14,ព្រៃវែង,Prey Veng,,,11,,11.5729124,105.4252384,
+15,1,ខេត្ត,Province,ពោធិ៍សាត់,Pursat,pursat-15,15,,,,,,7,49,,12.4662592,103.7426829518918,https://openadmindata.org/kh/provinces/pursat-15/
+1501,2,ស្រុក,District,បាកាន,Bakan,bakan-1501,1501,,15,ពោធិ៍សាត់,Pursat,,,9,,12.6030184,103.7904079,
+1502,2,ស្រុក,District,កណ្ដៀង,Kandieng,kandieng-1502,1502,,15,ពោធិ៍សាត់,Pursat,,,9,,12.5898656,103.9571307,
+1503,2,ស្រុក,District,ក្រគរ,Krakor,krakor-1503,1503,,15,ពោធិ៍សាត់,Pursat,,,11,,12.5287279,104.2100448,
+1504,2,ស្រុក,District,ភ្នំក្រវ៉ាញ,Phnum Kravanh,phnum-kravanh-1504,1504,,15,ពោធិ៍សាត់,Pursat,,,6,,12.3505536,103.7641348,
+1505,2,ស្រុក,District,ពោធិ៍សាត់,Pursat,pursat-1505,1505,,15,ពោធិ៍សាត់,Pursat,,,7,,12.5377547,103.9178235,
+1506,2,ស្រុក,District,វាលវែង,Veal Veaeng,veal-veaeng-1506,1506,,15,ពោធិ៍សាត់,Pursat,,,5,,12.234079,103.1238576,
+1507,2,ស្រុក,District,តាលោសែនជ័យ,Ta Lou Senchey,ta-lou-senchey-1507,1507,,15,ពោធិ៍សាត់,Pursat,,,2,,,,
+16,1,ខេត្ត,Province,រតនគិរី,Ratanakiri,ratanakiri-16,16,,,,,,9,50,,13.9311155,107.03914990288844,https://openadmindata.org/kh/provinces/ratanakiri-16/
+1601,2,ស្រុក,District,អណ្ដូងមាស,Andoung Meas,andoung-meas-1601,1601,,16,រតនគិរី,Ratanakiri,,,3,,13.8662759,107.2970158,
+1602,2,ស្រុក,District,បានលុង,Ban Lung,ban-lung-1602,1602,,16,រតនគិរី,Ratanakiri,,,4,,13.7414754,106.9873662,
+1603,2,ស្រុក,District,បរកែវ,Bar Kaev,bar-kaev-1603,1603,,16,រតនគិរី,Ratanakiri,,,6,,13.6868898,107.2144802,
+1604,2,ស្រុក,District,កូនមុំ,Koun Mom,koun-mom-1604,1604,,16,រតនគិរី,Ratanakiri,,,6,,13.580944,106.7722214,
+1605,2,ស្រុក,District,លំផាត់,Lumphat,lumphat-1605,1605,,16,រតនគិរី,Ratanakiri,,,6,,13.4998503,106.9736284,
+1606,2,ស្រុក,District,អូរជុំ,Ou Chum,ou-chum-1606,1606,,16,រតនគិរី,Ratanakiri,,,7,,13.8018346,106.992574,
+1607,2,ស្រុក,District,អូរយ៉ាដាវ,Ou Ya Dav,ou-ya-dav-1607,1607,,16,រតនគិរី,Ratanakiri,,,7,,13.6689224,107.3483187,
+1608,2,ស្រុក,District,តាវែង,Ta Veaeng,ta-veaeng-1608,1608,,16,រតនគិរី,Ratanakiri,,,2,,14.0472873,107.1080429,
+1609,2,ស្រុក,District,វើនសៃ,Veun Sai,veun-sai-1609,1609,,16,រតនគិរី,Ratanakiri,,,9,,13.9720878,106.8137949,
+17,1,ខេត្ត,Province,សៀមរាប,Siem Reap,siem-reap-17,17,,,,,,13,100,,13.314962,103.805433,https://openadmindata.org/kh/provinces/siem-reap-17/
+1701,2,ស្រុក,District,អង្គរជុំ,Angkor Chum,angkor-chum-1701,1701,,17,សៀមរាប,Siem Reap,,,7,,13.6880963,103.6464558,
+1702,2,ស្រុក,District,អង្គរធំ,Angkor Thum,angkor-thum-1702,1702,,17,សៀមរាប,Siem Reap,,,4,,13.5793769,103.85457242215985,
+1703,2,ស្រុក,District,បន្ទាយស្រី,Banteay Srei,banteay-srei-1703,1703,,17,សៀមរាប,Siem Reap,,,5,,13.5958699,103.92117104314269,
+1704,2,ស្រុក,District,ជីក្រែង,Chi Kraeng,chi-kraeng-1704,1704,,17,សៀមរាប,Siem Reap,,,12,,13.1627418,104.32432059828129,
+1706,2,ស្រុក,District,ក្រឡាញ់,Kralanh,kralanh-1706,1706,,17,សៀមរាប,Siem Reap,,,10,,13.5473871,103.47742125362274,
+1707,2,ស្រុក,District,ពួក,Puok,puok-1707,1707,,17,សៀមរាប,Siem Reap,,,14,,13.4529277,103.62917029133641,
+1709,2,ស្រុក,District,ប្រាសាទបាគង,Prasat Bakong,prasat-bakong-1709,1709,,17,សៀមរាប,Siem Reap,,,8,,13.3421471,103.9978446,
+1710,2,ស្រុក,District,សៀមរាប,Siem Reap,siem-reap-1710,1710,,17,សៀមរាប,Siem Reap,,,12,,13.3617562,103.8590321,
+1711,2,ស្រុក,District,សូទ្រនិគម,Soutr Nikom,soutr-nikom-1711,1711,,17,សៀមរាប,Siem Reap,,,10,,13.2376056,104.1354139,
+1712,2,ស្រុក,District,ស្រីស្នំ,Srei Snam,srei-snam-1712,1712,,17,សៀមរាប,Siem Reap,,,6,,13.8323579,103.53640572541116,
+1713,2,ស្រុក,District,ស្វាយលើ,Svay Leu,svay-leu-1713,1713,,17,សៀមរាប,Siem Reap,,,5,,13.68175535,104.26044219887697,
+1714,2,ស្រុក,District,វ៉ារិន,Varin,varin-1714,1714,,17,សៀមរាប,Siem Reap,,,5,,13.8239235,103.92390649704802,
+1715,2,ស្រុក,District,រុនតាឯកតេជោសែន,Run Ta Aek Techo Sen,run-ta-aek-techo-sen-1715,1715,,17,សៀមរាប,Siem Reap,,,2,,,,
+18,1,ខេត្ត,Province,ព្រះសីហនុ,Preah Sihanouk,preah-sihanouk-18,18,,,,,,6,29,,10.50614075,103.26205644863938,https://openadmindata.org/kh/provinces/preah-sihanouk-18/
+1801,2,ស្រុក,District,ព្រះសីហនុ,Preah Sihanouk,preah-sihanouk-1801,1801,,18,ព្រះសីហនុ,Preah Sihanouk,,,4,,10.6220485,103.5223365,
+1802,2,ស្រុក,District,ព្រៃនប់,Prey Nob,prey-nob-1802,1802,,18,ព្រះសីហនុ,Preah Sihanouk,,,10,,10.7198067,103.8161797853434,
+1803,2,ស្រុក,District,ស្ទឹងហាវ,Stueng Hav,stueng-hav-1803,1803,,18,ព្រះសីហនុ,Preah Sihanouk,,,4,,10.7432829,103.6200444,
+1804,2,ស្រុក,District,កំពង់សីលា,Kampong Seila,kampong-seila-1804,1804,,18,ព្រះសីហនុ,Preah Sihanouk,,,4,,11.16935005,103.96776650807777,
+1805,2,ស្រុក,District,កោះរ៉ុង,Kaoh Rung,kaoh-rung-1805,1805,,18,ព្រះសីហនុ,Preah Sihanouk,,,2,,,,
+1806,2,ស្រុក,District,កំពង់សោម,Kampong Soam,kampong-soam-1806,1806,,18,ព្រះសីហនុ,Preah Sihanouk,,,5,,,,
+19,1,ខេត្ត,Province,ស្ទឹងត្រែង,Stung Treng,stung-treng-19,19,,,,,,6,34,,13.852468,106.0889848986395,https://openadmindata.org/kh/provinces/stung-treng-19/
+1901,2,ស្រុក,District,សេសាន,Sesan,sesan-1901,1901,,19,ស្ទឹងត្រែង,Stung Treng,,,7,,13.5508885,106.093824,
+1902,2,ស្រុក,District,សៀមបូក,Siem Bouk,siem-bouk-1902,1902,,19,ស្ទឹងត្រែង,Stung Treng,,,7,,13.3612164,105.9594206,
+1903,2,ស្រុក,District,សៀមប៉ាង,Siem Pang,siem-pang-1903,1903,,19,ស្ទឹងត្រែង,Stung Treng,,,5,,14.1163575,106.3868945,
+1904,2,ស្រុក,District,ស្ទឹងត្រែង,Stueng Traeng,stueng-traeng-1904,1904,,19,ស្ទឹងត្រែង,Stung Treng,,,4,,13.5271207,105.9686727,
+1905,2,ស្រុក,District,ថាឡាបរិវ៉ាត់,Thala Barivat,thala-barivat-1905,1905,,19,ស្ទឹងត្រែង,Stung Treng,,,8,,13.5717715,105.941917,
+1906,2,ស្រុក,District,បុរីអូរស្វាយសែនជ័យ,Borei Ou Svay Senchey,borei-ou-svay-senchey-1906,1906,,19,ស្ទឹងត្រែង,Stung Treng,,,3,,,,
+20,1,ខេត្ត,Province,ស្វាយរៀង,Svay Rieng,svay-rieng-20,20,,,,,,8,80,,11.1942275,105.7973275083619,https://openadmindata.org/kh/provinces/svay-rieng-20/
+2001,2,ស្រុក,District,ចន្ទ្រា,Chantrea,chantrea-2001,2001,,20,ស្វាយរៀង,Svay Rieng,,,6,,10.9949854,106.1174193,
+2002,2,ស្រុក,District,កំពង់រោទិ៍,Kampong Rou,kampong-rou-2002,2002,,20,ស្វាយរៀង,Svay Rieng,,,11,,10.920359,105.9404897,
+2003,2,ស្រុក,District,រំដួល,Rumduol,rumduol-2003,2003,,20,ស្វាយរៀង,Svay Rieng,,,10,,11.1593741,105.8184506,
+2004,2,ស្រុក,District,រមាសហែក,Romeas Haek,romeas-haek-2004,2004,,20,ស្វាយរៀង,Svay Rieng,,,16,,11.41244,105.7908573,
+2005,2,ស្រុក,District,ស្វាយជ្រំ,Svay Chrum,svay-chrum-2005,2005,,20,ស្វាយរៀង,Svay Rieng,,,16,,11.115479,105.7152969,
+2006,2,ស្រុក,District,ស្វាយរៀង,Svay Rieng,svay-rieng-2006,2006,,20,ស្វាយរៀង,Svay Rieng,,,7,,11.080095,105.7974874,
+2007,2,ស្រុក,District,ស្វាយទាប,Svay Teab,svay-teab-2007,2007,,20,ស្វាយរៀង,Svay Rieng,,,9,,11.0488171,105.8806472,
+2008,2,ស្រុក,District,បាវិត,Bavet,bavet-2008,2008,,20,ស្វាយរៀង,Svay Rieng,,,5,,11.0691272,106.1436226,
+21,1,ខេត្ត,Province,តាកែវ,Takéo,tako-21,21,,,,,,10,100,,10.93539205,104.78988300047047,https://openadmindata.org/kh/provinces/tako-21/
+2101,2,ស្រុក,District,អង្គរបូរី,Angkor Borei,angkor-borei-2101,2101,,21,តាកែវ,Takéo,,,6,,10.9958363,104.9753308,
+2102,2,ស្រុក,District,បាទី,Bati,bati-2102,2102,,21,តាកែវ,Takéo,,,15,,11.2407943,104.8119577,
+2103,2,ស្រុក,District,បូរីជលសារ,Borei Cholsar,borei-cholsar-2103,2103,,21,តាកែវ,Takéo,,,5,,10.8340452,105.0179878,
+2104,2,ស្រុក,District,គីរីវង់,Kiri Vong,kiri-vong-2104,2104,,21,តាកែវ,Takéo,,,12,,10.6400179,104.8767691,
+2105,2,ស្រុក,District,កោះអណ្ដែត,Kaoh Andaet,kaoh-andaet-2105,2105,,21,តាកែវ,Takéo,,,6,,10.7965352,104.9482522,
+2106,2,ស្រុក,District,ព្រៃកប្បាស,Prey Kabbas,prey-kabbas-2106,2106,,21,តាកែវ,Takéo,,,13,,11.1556469,104.9528949,
+2107,2,ស្រុក,District,សំរោង,Samraong,samraong-2107,2107,,21,តាកែវ,Takéo,,,11,,11.1420911,104.8012079,
+2108,2,ស្រុក,District,ដូនកែវ,Doun Kaev,doun-kaev-2108,2108,,21,តាកែវ,Takéo,,,3,,10.9875805,104.7830181,
+2109,2,ស្រុក,District,ត្រាំកក់,Tram Kak,tram-kak-2109,2109,,21,តាកែវ,Takéo,,,15,,11.0065848,104.6649599,
+2110,2,ស្រុក,District,ទ្រាំង,Treang,treang-2110,2110,,21,តាកែវ,Takéo,,,14,,10.9067461,104.7770461,
+22,1,ខេត្ត,Province,ឧត្តរមានជ័យ,Oddar Meanchey,oddar-meanchey-22,22,,,,,,5,24,,14.1585631,103.78279595655918,https://openadmindata.org/kh/provinces/oddar-meanchey-22/
+2201,2,ស្រុក,District,អន្លង់វែង,Anlong Veaeng,anlong-veaeng-2201,2201,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,5,,14.2331742,104.0812013,
+2202,2,ស្រុក,District,បន្ទាយអំពិល,Banteay Ampil,banteay-ampil-2202,2202,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,4,,14.2333944,103.1323394,
+2203,2,ស្រុក,District,ចុងកាល់,Chong Kal,chong-kal-2203,2203,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,4,,13.9544791,103.5702722,
+2204,2,ស្រុក,District,សំរោង,Samraong,samraong-2204,2204,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,5,,14.1758059,103.5092331,
+2205,2,ស្រុក,District,ត្រពាំងប្រាសាទ,Trapeang Prasat,trapeang-prasat-2205,2205,,22,ឧត្តរមានជ័យ,Oddar Meanchey,,,6,,14.1953083,104.3562242,
+23,1,ខេត្ត,Province,កែប,Kep,kep-23,23,,,,,,2,5,,10.402153949999999,104.26506181616313,https://openadmindata.org/kh/provinces/kep-23/
+2301,2,ស្រុក,District,ដំណាក់ចង្អើរ,Damnak Chang'aeur,damnak-changaeur-2301,2301,,23,កែប,Kep,,,2,,10.526653,104.36731,
+2302,2,ស្រុក,District,កែប,Kep,kep-2302,2302,,23,កែប,Kep,,,3,,10.4860396,104.3148207,
+24,1,ខេត្ត,Province,ប៉ៃលិន,Pailin,pailin-24,24,,,,,,2,8,,12.89053285,102.62946042446026,https://openadmindata.org/kh/provinces/pailin-24/
+2401,2,ស្រុក,District,ប៉ៃលិន,Pailin,pailin-2401,2401,,24,ប៉ៃលិន,Pailin,,,4,,12.8551384,102.6051776,
+2402,2,ស្រុក,District,សាលាក្រៅ,Sala Krau,sala-krau-2402,2402,,24,ប៉ៃលិន,Pailin,,,4,,13.003529050000001,102.66415391806129,
+25,1,ខេត្ត,Province,ត្បូងឃ្មុំ,Tboung Khmum,tboung-khmum-25,25,,,,,,7,64,,11.950072599999999,105.824571891073,https://openadmindata.org/kh/provinces/tboung-khmum-25/
+2501,2,ស្រុក,District,តំបែរ,Dambae,dambae-2501,2501,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,7,,12.0178626,105.8900919,
+2502,2,ស្រុក,District,ក្រូចឆ្មារ,Krouch Chhmar,krouch-chhmar-2502,2502,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,12,,12.2739218,105.6499844,
+2503,2,ស្រុក,District,មេមត់,Memot,memot-2503,2503,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,14,,11.822536,106.1767776,
+2504,2,ស្រុក,District,អូររាំងឪ,Ou Reang Ov,ou-reang-ov-2504,2504,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,7,,11.7951086,105.5020062,
+2505,2,ស្រុក,District,ពញាក្រែក,Ponhea Kraek,ponhea-kraek-2505,2505,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,8,,11.7937455,105.8777537,
+2506,2,ស្រុក,District,សួង,Suong,suong-2506,2506,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,2,,11.9114877,105.6532755,
+2507,2,ស្រុក,District,ត្បូងឃ្មុំ,Tboung Khmum,tboung-khmum-2507,2507,,25,ត្បូងឃ្មុំ,Tboung Khmum,,,14,,11.8914565,105.7756828,

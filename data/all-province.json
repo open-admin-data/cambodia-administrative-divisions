@@ -27,7 +27,11 @@
       "lon": "102.8862666"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/banteay-meanchey-01/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "02",
@@ -57,7 +61,11 @@
       "lon": "103.23171364274523"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/battambang-02/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "03",
@@ -87,7 +95,11 @@
       "lon": "105.20800220742942"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/kampong-cham-03/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "04",
@@ -117,7 +129,11 @@
       "lon": "104.3354098"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/kampong-chhnang-04/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "05",
@@ -147,7 +163,11 @@
       "lon": "104.27140233242656"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/kampong-speu-05/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "06",
@@ -177,7 +197,11 @@
       "lon": "104.8879197"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/kampong-thom-06/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "07",
@@ -207,7 +231,11 @@
       "lon": "104.132637"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/kampot-07/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "08",
@@ -237,7 +265,11 @@
       "lon": "105.02078685074581"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/kandal-08/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "09",
@@ -267,7 +299,11 @@
       "lon": "103.0258043"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/koh-kong-09/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "10",
@@ -297,7 +333,11 @@
       "lon": "106.05817329824376"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/krati-10/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "11",
@@ -327,7 +367,11 @@
       "lon": "107.00882593208544"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/mondulkiri-11/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "12",
@@ -357,7 +401,11 @@
       "lon": "104.857807"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/phnom-penh-12/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "13",
@@ -387,7 +435,11 @@
       "lon": "104.97403002709669"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/preah-vihear-13/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "14",
@@ -417,7 +469,11 @@
       "lon": "105.45572772976189"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/prey-veng-14/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "15",
@@ -447,7 +503,11 @@
       "lon": "103.7426829518918"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/pursat-15/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "16",
@@ -477,7 +537,11 @@
       "lon": "107.03914990288844"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/ratanakiri-16/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "17",
@@ -507,7 +571,11 @@
       "lon": "103.805433"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/siem-reap-17/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "18",
@@ -537,7 +605,11 @@
       "lon": "103.26205644863938"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/preah-sihanouk-18/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "19",
@@ -567,7 +639,11 @@
       "lon": "106.0889848986395"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/stung-treng-19/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "20",
@@ -597,7 +673,11 @@
       "lon": "105.7973275083619"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/svay-rieng-20/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "21",
@@ -627,7 +707,11 @@
       "lon": "104.78988300047047"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/tako-21/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "22",
@@ -657,7 +741,11 @@
       "lon": "103.78279595655918"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/oddar-meanchey-22/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "23",
@@ -687,7 +775,11 @@
       "lon": "104.26506181616313"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/kep-23/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "24",
@@ -717,7 +809,11 @@
       "lon": "102.62946042446026"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/pailin-24/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   },
   {
     "id": "25",
@@ -747,6 +843,10 @@
       "lon": "105.824571891073"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kh/provinces/tboung-khmum-25/",
+      "api": "https://openadmindata.org/api/kh/"
+    }
   }
 ]

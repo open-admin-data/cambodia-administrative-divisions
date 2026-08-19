@@ -3,7 +3,7 @@
 > 13 districts, 116 communes
 > Code: 14
 > Coordinates: 11.365959700000001, 105.45572772976189
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

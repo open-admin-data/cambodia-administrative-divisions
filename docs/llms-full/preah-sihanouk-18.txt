@@ -3,7 +3,7 @@
 > 6 districts, 29 communes
 > Code: 18
 > Coordinates: 10.50614075, 103.26205644863938
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

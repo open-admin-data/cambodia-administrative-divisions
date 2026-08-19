@@ -3,7 +3,7 @@
 > 5 districts, 24 communes
 > Code: 22
 > Coordinates: 14.1585631, 103.78279595655918
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

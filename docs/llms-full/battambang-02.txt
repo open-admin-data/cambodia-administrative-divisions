@@ -3,7 +3,7 @@
 > 14 districts, 103 communes
 > Code: 02
 > Coordinates: 12.9256791, 103.23171364274523
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

@@ -3,7 +3,7 @@
 > 13 districts, 127 communes
 > Code: 08
 > Coordinates: 11.396262499999999, 105.02078685074581
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

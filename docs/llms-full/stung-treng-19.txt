@@ -3,7 +3,7 @@
 > 6 districts, 34 communes
 > Code: 19
 > Coordinates: 13.852468, 106.0889848986395
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

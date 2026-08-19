@@ -3,7 +3,7 @@
 > 8 districts, 71 communes
 > Code: 04
 > Coordinates: 12.1382025, 104.3354098
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

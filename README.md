@@ -15,9 +15,10 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (commune level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/kh](https://openadmindata.org/kh/) |
 | API | [openadmindata.org/api/kh](https://openadmindata.org/api/kh/) |
+| Flag | [PNG](https://onlygames.me/flags-png/kh/) · [SVG](https://onlygames.me/flags-svg/kh/) · [PDF](https://onlygames.me/flags-pdf/kh/) |
 | National Anthem | [🎵 Listen & Download Cambodia National Anthem MP3](https://onlygames.me/national-anthems/kh/) |
 
 ## Browse by Province

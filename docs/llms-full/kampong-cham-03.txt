@@ -3,7 +3,7 @@
 > 10 districts, 109 communes
 > Code: 03
 > Coordinates: 12.1174857, 105.20800220742942
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

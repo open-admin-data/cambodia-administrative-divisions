@@ -3,7 +3,7 @@
 > 9 districts, 88 communes
 > Code: 05
 > Coordinates: 11.57753675, 104.27140233242656
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

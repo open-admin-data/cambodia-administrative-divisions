@@ -3,7 +3,7 @@
 > 9 districts, 81 communes
 > Code: 06
 > Coordinates: 12.6687923, 104.8879197
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

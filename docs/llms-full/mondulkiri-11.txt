@@ -3,7 +3,7 @@
 > 5 districts, 21 communes
 > Code: 11
 > Coordinates: 12.7396454, 107.00882593208544
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 

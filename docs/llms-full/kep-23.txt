@@ -3,7 +3,7 @@
 > 2 districts, 5 communes
 > Code: 23
 > Coordinates: 10.402153949999999, 104.26506181616313
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Districts
 
